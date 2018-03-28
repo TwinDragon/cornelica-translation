@@ -1,0 +1,224 @@
+
+;;■29
+;;■城
+
+;;主人公：目を覚ます
+
+@fade type=out t=1000 wt=1
+
+@change num=1
+
+@bs f=ヴァネッサ@微笑 t=20 wt=1
+@wait t=2000
+
+@fade type=in t=1000 wt=1
+
+[ヴァネッサ]「目覚めたか」
+
+@se f=衣擦れの音1
+@change num=0
+@wait t=200
+
+@move_f f=ヴァネッサ@ out=c t=200
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴァネッサ@普通 x=350 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=ヴァネッサ@普通 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=200
+
+;;主人公：哀しい顔
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「……アル。貴様は妾とのセックスの後、気絶したのじゃよ」
+
+@bs f=アル@困り x=-350 y=50 t=400 wt=1
+
+;;主人公：哀しい顔
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=400
+
+[ヴァネッサ]「故に、勝負はお主の負け……」
+
+;;主人公：哀しい顔
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=600 wt=1
+
+[ヴァネッサ]「――と、いいたいところじゃが、アルよ。貴様の勝ちとする。妾は十分満足することができたからの」
+
+;;主人公：驚き
+@bs f=アル@焦り op=ビックリ x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@普通 x=300 y=50 t=600 wt=1
+
+;;SEドアが開く音
+@se f=Open1
+
+@bs f=アル@驚き op=焦り x=-350 y=50 t=200 wt=1
+
+@huki b=1
+@c_jump wt=0
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@dir dir=down
+;;音に驚き振り返るアル
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=ヴァネッサ@微笑 x=350 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@se f=Move1
+@dot_move x=12 y=12 id=17 dir=up
+@move_speed spd=5 id=17
+@change f=リリィ id=17
+@route route=up:3,left:8,up:2 id=17
+
+@c_jump id=17
+
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@笑顔 op=ビックリ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@笑顔 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@move f=リリィ@笑顔 x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@笑顔 x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「やったねアル！」
+
+;;主人公：喜ぶ
+@bs f=アル@普通 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+
+@c_jump wt=0
+@move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴァネッサ@微笑 in=c t=250 wt=1
+
+@bs f=ヴァネッサ@普通 t=600
+
+[ヴァネッサ]「………………」
+
+@bs f=ヴァネッサ@微笑 t=250
+
+[ヴァネッサ]「アルよ……貴様、この世界に残るつもりはないか？」
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+;;主人公：疑問符
+
+@dir dir=up
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り op=焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴァネッサ@蔑み x=350 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=ヴァネッサ@蔑み x=300 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=600 wt=1
+@bs f=アル@焦り x=-350 y=50 t=400 wt=1
+
+[ヴァネッサ]「……わしは貴様のことが気に入った。じゃから、残ってもらえると嬉しい」
+
+;;主人公：考える
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「答えをすぐに出す必要はない。決めたらまた来るがよい。ただし、一つだけ留意しておけ」
+
+@bs f=アル@困り x=-350 y=50 t=400 wt=1
+@bs f=ヴァネッサ@怒り x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「貴様がどんな決断を下そうと、リリィはここに残す。この世界から出すつもりはないからな」
+
+;;主人公：驚く
+@huki b=1
+@bs f=アル@焦り op=ビックリ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「それだけはしっかり心に刻んでおくのじゃ」
+
+;;主人公：哀しい顔
+@bs f=アル@焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=ヴァネッサ@微笑 x=350 y=50 w=100 h=100 opa=0 t=400 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=ヴァネッサ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+
+@bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600
+@wait t=400
+
+[リリィ]「………………」
+;;暗転
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@fade type=out t=1000 wt=1
+
+

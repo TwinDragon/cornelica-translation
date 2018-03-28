@@ -1,0 +1,291 @@
+
+;;==============================================================================
+
+@dot_move id=11 dir=up
+@dot_move id=12 dir=up
+
+@dir_fix id=12 type=on
+@dir_fix id=11 type=on
+
+@c_jump id=11 y=1 wt=0
+@c_jump id=12 y=1
+
+@dir_fix id=12 type=off
+@dir_fix id=11 type=off
+
+@move_speed spd=3 id=11
+@move_speed spd=3 id=11
+@move_speed spd=3
+
+@fade type=in t=1000 wt=0
+
+@se f=Door1
+@step_anime id=12 type=on
+@change f=リリィ id=12 num=0
+@wait t=500
+
+@route id=12 route=up:3 wt=1
+@dir dir=down id=12
+
+;;拠点に移動
+@se f=Door1
+@change f=主人公 id=11 num=0
+@huki b=8 id=11
+@route route=up id=11 wt=0
+@route route=up:3
+
+@huki b=3 id=12
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=600
+
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「ようこそ♪　ここが今、私が住んでる場所だよ」
+
+@huki b=2 id=12
+@bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=200
+[リリィ]「どう？　なかなか広いでしょ？」
+
+@bs f=アル@普通 op=焦り body=-1 face=0 x=-350 y=50 t=200
+
+;;とっても広いお部屋だね
+;;リリィはここに一人で住んでるの？
+@select s1=とっても広いお部屋だね/*st01a s2=ここに一人で住んでるの？/*st01b
+;;----------------------------------------------
+*st01a
+
+@huki b=8 id=11
+@bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200
+
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「でしょ♪」
+
+@huki b=3 id=12
+@bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=200
+@wait t=800
+
+@jump target=*end01
+;;----------------------------------------------
+*st01b
+
+@huki b=2 id=11
+@bs f=アル@困り op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+@wait t=500
+
+@huki b=8 id=12
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=600
+[リリィ]「んー……まぁ、色々あってね」
+
+;;主人公：疑問符
+@huki b=2 id=11
+@bs f=アル@屈辱 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+@wait t=500
+
+@huki b=8 id=12
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=600
+[リリィ]「…………」
+
+@bs f=アル@困り op=焦り body=-1 face=0 x=-350 y=50 t=200
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=600
+
+[リリィ]「まぁ、私の事はいいとして……」
+
+@jump target=*end01
+;;----------------------------------------------
+*end01
+
+@bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=100 wt=0
+@bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「それじゃあ、部屋の案内をするね♪　とは言っても寝るとこくらいしかないんだけど……」
+
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_speed spd=3 id=11
+@move_speed spd=3 id=12
+@move_speed spd=3
+
+@route route=up:3,right:4 id=12 wt=0
+@route route=up:5,right:2 id=11 wt=0
+@route route=up:3,right:4
+
+;;主人公に異変
+;;主人公赤面＋疑問符
+
+@bgm_save
+@bgm
+@huki b=1 id=11
+@se f=「ドクンッ」という心音
+@flash col=200,70,170,255 
+@qk
+
+@huki b=2 id=11
+@bs f=アル@屈辱_頬 op=ハテナ x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=500
+
+@dir dir=left id=12
+@huki b=2 id=12 wt=1
+
+@bs f=リリィ@焦り op=ハテナ x=400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+[リリィ]「あれ？　アル……？　どうしたの？」
+
+@bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+;;なんだか胸が……
+;;ドキドキするかも？
+@select s1=なんだか胸が……/*st02a s2=ドキドキするかも？/*st02b
+;;----------------------------------------------
+*st02a
+*st02b
+
+@bgm f=s-007 pitch=60
+
+@huki b=8 id=11 wt=0
+@bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200 wt=1
+@wait t=400
+
+@huki b=8 id=12 wt=0
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@焦り_頬 body=-1 face=0 x=-350 y=50 t=100 wt=0
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
+[リリィ]「……ちょっと待ってね」
+
+@move f=アル@焦り_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@route route=left id=12
+
+;;アルをジロジロ見つめて来るリリィ
+@huki b=8 id=12
+@move f=アル@焦り_頬 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=800
+
+;;主人公：疑問符
+@huki b=6 id=11
+@bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@wait t=800
+
+@huki b=7 id=12
+@bs f=リリィ@困惑 op=困惑 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「……やっぱり……さっき抱き付かれたとき……だよね」
+
+@huki id=11 b=2
+@bs f=アル@困り_頬 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+@wait t=600
+
+@bs f=リリィ@焦り body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「えと……私達、サキュバスはみんな、\C[2]『チャーム』っていう魔力\C[0]を常に出してるの」
+
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「これは、サキュバスが雄を捕らえるための能力で……近づいたり、触ったりしただけ雄を魅力していくの」
+
+@bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「私はもとから魔力が少ないし、アルに影響がないくらいに抑えているから大丈夫だけど……」
+
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「普通のサキュバスはわざわざ抑えたりしないから、ああいうことされちゃうと、\C[2]『チャームの魔力』が体の中に溜まっていっちゃうの\C[0]」
+
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「それで……『チャームの魔力』が溜ってくると……」
+
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「身体も心も、あらゆる『サキュバス』種に対して抵抗ができなくなってくるの」
+
+@bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「何をされても、何を言われても抵抗ができないし、しようとも思えなくなる……」
+
+@bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「\C[2]最終的にはサキュバスがいなければ動くこともできない、人形みたいになっちゃうの\C[0]」
+
+;;主人公：驚き
+@bs f=アル@驚き_頬 op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=0
+@huki b=1 id=11 wt=0
+@c_jump id=11 wt=0
+
+@move f=アル@驚き_頬 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=600
+
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「そのまま放っておけば、そうなっちゃうけど……」
+
+;;主人公：疑問符
+@huki b=2 id=11
+@bs f=アル@屈辱_頬 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+@wait t=500
+
+@bgm
+
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「……その魔力を吸い出す魔法もあるよ？」
+
+@bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=100 t=200
+
+[リリィ]「基本的にサキュバスには必要ない魔法だから、この魔法を知ってる人はあまりいないんだけど……」
+
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「私は教えてもらったことがあるの」
+
+@bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=200
+[リリィ]「だから…………してあげよっか？」
+
+;;主人公うなずく
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
+@bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱_頬 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@bs f=アル@困り_頬 body=-1 face=0 x=-350 y=50 t=200
+
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「うん♪」
+
+@bs f=リリィ@淫猥 op=音符 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「それじゃあ……始めるね♪」
+
+@move f=リリィ@淫猥 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+
+@huki b=2 id=11
+@bs f=アル@屈辱_頬 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+@wait t=500
+
+@huki b=1 id=11
+@bs f=アル@驚き_頬 op=ビックリ body=-1 face=0 x=-350 y=50 t=400
+@wait t=600
+
+@fade type=out t=250 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+@c_jump x=-2 y=1
+@ev f=black
+@fade type=in t=20 wt=1
+

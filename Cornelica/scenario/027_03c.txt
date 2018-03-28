@@ -1,0 +1,287 @@
+;;======================================================
+;;道具屋でアルバイト
+
+;;--------------------------------------------------------
+;;合流
+
+@bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200
+@bs f=アルネ@通常 x=350 y=50 t=200 wt=1
+
+[リリィ]「もー……違うって言ってるのに……」
+
+@bs f=アルネ@笑み x=350 y=50 t=200 wt=1
+@bs f=リリィ@困惑_r x=-350 y=50 t=200
+
+[アルネ]「それで、お客さん♪　今日は何をお探しッスか？　『八頭ディルド』ッスか？　それとも『感度3000倍ローション』ッスか？」
+
+@huki b=7 id=AC0
+@bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=400
+@wait t=800
+
+@bs f=リリィ@困惑_r x=-350 y=50 t=200
+
+[リリィ]「はぁ、もういいや……それじゃあ、えっと、これ」
+
+;;お使いの紙を渡す
+@bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
+
+@se f=Book1
+@move f=お使いリスト@01 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=アルネ@通常 x=350 y=50 t=600 wt=1
+@wait t=500
+
+@huki b=2 id=3
+@bs f=アルネ@蔑み x=350 y=50 t=200 wt=1
+@bs f=リリィ@通常_r x=-350 y=50 t=200
+
+[アルネ]「……スライムのコア？　確かにあるにはあるッスけど……売り物じゃないんスよねぇ……アレ無いとローション作れないし」
+
+@se f=Book1
+@move_f f=お使いリスト@ face=0 out=c t=250
+
+@bs f=アルネ@焦り x=350 y=50 t=200 wt=1
+
+[アルネ]「売るとなると……高いッスよ？」
+
+@bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200
+
+@huki b=2 id=AC0
+[リリィ]「いくらくらいに、なるのかな……？」
+
+@bs f=アルネ@通常 x=350 y=50 t=200 wt=1
+
+@huki b=8 id=3
+[アルネ]「ざっとこれくらいッスね」
+
+@huki b=1 id=AC0
+@bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200
+@move f=リリィ@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「えぇ！？　そんなの払えるわけないよ！」
+
+;;主人公の方を見ながら
+@huki b=8 id=3
+@bs f=アルネ@困惑 x=350 y=50 t=200 wt=1
+
+[アルネ]「そうっスよねぇ……」
+
+@move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@wait t=200
+@dir dir=left id=3
+@huki b=8 wt=1 id=3
+
+@bs f=アル@焦り x=-400 y=50 t=20 wt=0
+@bs f=アルネ@通常 x=400 y=50 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=アルネ@通常 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=400
+
+@huki b=2
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=300
+@wait t=600
+
+@huki b=8 id=3
+@bs f=アルネ@微笑 x=350 y=50 t=800
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アルネ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=3
+@wait t=200
+
+@huki b=8 id=3 wt=0
+@bs f=リリィ@困惑_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=アルネ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=アルネ@微笑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@bs f=アルネ@笑み x=350 y=50 t=200 wt=1
+
+[アルネ]「……まぁ、でもどうしてもって言うなら譲ってあげなくもないッスよ」
+
+@bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200
+
+[リリィ]「えっ、ほんと！？」
+
+@bs f=アルネ@微笑 x=350 y=50 t=200 wt=1
+
+[アルネ]「えぇ、ただし条件付きッスけど」
+
+@bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200
+
+[リリィ]「条件？　どんな……？」
+
+@bs f=アルネ@通常 x=350 y=50 t=200 wt=1
+
+[アルネ]「まぁ、それは追々……」
+
+@move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+;;アルネ主人公に近付く
+@route route=left id=3 wt=0
+@route route=left id=4
+@dir dir=down id=3
+
+@huki b=8 id=3 wt=1
+
+@bs f=アル@困り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=アルネ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=アルネ@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=400
+@wait t=600
+
+@huki b=8 id=3
+@bs f=アルネ@淫靡 x=350 y=50 t=800
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=アルネ@通常 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=リリィ@蔑み_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=アルネ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@wait t=200
+@dir dir=right id=3
+@wait t=200
+
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=アルネ@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=2 id=3
+@bs f=アルネ@笑み x=350 y=50 t=200 wt=1
+
+[アルネ]「ふむふむ……時に、お嬢さん。この子『性奴隷』じゃないってことは、つまり『野良』ってことでいいッスよね？」
+
+@bs f=アルネ@通常 x=350 y=50 t=200 wt=1
+@bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
+
+[リリィ]「え！？　……え、えと……そう……いう事？　……に……なる……のかな……？」
+
+@bs f=アルネ@笑み x=350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@wait t=200
+@dir dir=down id=3
+@wait t=200
+
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=アル@屈辱 op=焦り x=-400 y=50 t=20 wt=0
+@bs f=アルネ@笑み x=400 y=50 t=20 wt=0
+
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=アルネ@笑み x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=300
+
+@bs f=アルネ@淫靡 x=350 y=50 t=200 wt=1
+
+[アルネ]「……それは、それは……凄く理想的ッスね。ちょうど、そんな人を探してたんスよ」
+
+;;主人公：疑問符
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=400 wt=1
+@wait t=500
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アルネ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=リリィ@蔑み_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=アルネ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@dir dir=right id=3
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=アルネ@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=2 id=3
+@bs f=アルネ@笑み x=350 y=50 t=200 wt=1
+
+[アルネ]「……さっき言った条件ッスけど、この子に新商品の開発を手伝ってもらいたいッス。　まぁ、一日アルバイトってやつッスね」
+
+@move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=3
+@dir dir=right
+@dir dir=left id=AC0
+@wait t=200
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=100 wt=0
+
+[リリィ]「新商品の開発……？　んー、アル……どうする？」
+
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+@wait t=400
+
+@move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=up id=AC0
+@dir dir=up
+@wait t=200
+
+@move_f f=アルネ@通常 in=c t=200 wt=1
+
+;;--------------------------------------------------------
+
+;;======================================================
+

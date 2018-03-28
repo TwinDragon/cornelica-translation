@@ -1,0 +1,4 @@
+
+@move_speed spd=3
+@route route=left
+

@@ -1,0 +1,6 @@
+
+@route route=up:3 wt=1
+
+@wait t=500
+@fade type=out t=1000 wt=1
+

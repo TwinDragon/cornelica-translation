@@ -1,0 +1,101 @@
+
+;;================================================================
+;;■空き家or牢
+
+@dot_move id=15
+@dot_move id=16
+@c_jump id=16 x=1
+@dir dir=down id=16
+
+@dir dir=up
+
+@change num=0
+@invisible type=on
+@through type=on
+
+@dir_fix type=on
+@walk_anime type=off
+
+@move_speed spd=3
+@move_speed spd=3 id=15
+
+@bgm f=h-003 pitch=90
+@fade type=in t=1000 wt=0
+
+@huki b=8 id=15 wt=0
+@huki b=8 id=16 wt=0
+@se f=Move1
+@change f=メイドゴーレム num=2 id=15 wt=0
+@change f=メイドゴーレム num=2 id=16 wt=0
+
+@route route=down id=16 wt=0
+@route route=down id=15
+
+@huki b=7 wt=0
+@se f=Move1
+@invisible type=off
+@route route=down:3 id=16 wt=0
+@route route=down:3 id=15 wt=0
+@route route=down:3
+
+@dir dir=left id=16
+@se f=貞操帯を付ける pitch=80
+@huki b=8 id=15 wt=1
+
+@dir_fix id=2 type=off
+@se f=Open3
+@dir dir=left id=2
+@wait
+@dir dir=right id=2
+@wait
+@dir dir=up id=2
+@wait t=500
+
+@dir_fix type=off
+@dir dir=up wt=0
+
+@se f=Blow2 pitch=120
+@c_jump y=5 wt=1
+
+@se f=Blow6
+@change num=1
+@qk t=500
+
+@huki b=7
+
+@route route=down:3,left:2,down,right wt=0 id=15
+@route route=left,down:2 id=16
+@dir dir=up id=16
+
+@dir dir=right id=2
+@wait t=3
+@dir dir=left id=2
+@wait t=3
+@dir dir=down id=2
+@se f=Close1
+
+@wait t=500
+
+@se f=貞操帯を付ける pitch=80
+@huki b=8 id=16 wt=1
+
+@route route=down id=16
+
+@huki b=8 id=15
+@huki b=8 id=16
+@wait t=500
+
+@move_f f=メイド@蔑み_赤 in=c t=600 wt=1
+
+[ヴラスタ]「指定の場所に到着。無力化作業、開始」
+
+@move_f f=メイド@ out=c t=300 wt=1
+
+@fade type=out t=250 wt=1
+@bgm
+@ev f=black
+@fade type=in t=20 wt=1
+
+
+;;暗転
+;;================================================================

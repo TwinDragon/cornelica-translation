@@ -1,0 +1,160 @@
+;;■36
+
+@change f=主人公 id=8
+@change f=リリィ id=9
+
+@change f=ヴァネッサ id=17
+@change f=白良 id=18
+@change f=ヴェルナ id=19
+@dir dir=down id=8
+@dir dir=down id=9
+@dir dir=down id=17
+@dir dir=down id=18
+@dir dir=down id=19
+
+@bgm f=s-016 pitch=110
+
+@map_scroll dir=up dis=2 spd=10
+
+@fade type=in t=1000 wt=0
+@map_scroll dir=down dis=2 spd=2
+
+@se f=Flash1 pitch=50
+@flash t=1000
+@switches id=138 val=1
+
+@huki b=8 wt=0 id=8
+@huki b=8 wt=0 id=9
+@wait t=500
+
+@dir dir=up id=8
+@dir dir=up id=9
+
+;;■ヒルベルタの森
+;;魔法陣がある
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=200
+
+@bs f=リリィ@微笑 x=350 y=50 t=400 wt=1
+
+[リリィ]「それじゃあ……行ってくるね」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=ヴェルナ@考える x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@考える x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=白良@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@bs f=白良@微笑 x=350 y=50 t=400 wt=1
+
+[白良]「お気を付けて……」
+
+@bs f=ヴェルナ@微笑 x=-350 y=50 t=250 wt=1
+
+[ヴェルナ]「二人共、戻って来た時は向こうの情報を頼むぞ」
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+@move_f f=ヴァネッサ@微笑 in=c t=250 wt=1
+
+[ヴァネッサ]「リリィ……無事でな。アル……リリィを頼んだぞ」
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+;;主人公うなずく
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=200
+
+@bs f=リリィ@笑顔 x=350 y=50 t=400 wt=1
+@wait t=200
+
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=8
+@dir dir=down id=9
+
+@huki b=8 id=8
+@huki b=8 id=9
+@wait t=500
+
+@se f=Flash1
+@flash t=1000
+
+@bgm
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=3000 wt=1
+@wait t=2000
+
+@fade type=out t=1000 wt=1
+@rps
+
+;;SE魔法発動音
+;;魔法発動エフェクト
+;;ホワイトアウト
+
+@bgm f=s-002 pitch=90
+
+@mes_win back=1 pos=1
+
+\CLこうして、長かったようで、短かった私達の小さな冒険はお終い。
+
+\CLだけど――
+
+\CL本当の冒険は。多分、ここからが始まり。
+
+\CLこの先どうなっていくのか……まだ、私達には、まだ分からないけど。
+
+\CLきっと何とかしていけると思う。
+
+\CLコルネリカでもそうだったみたいに……。
+
+\CLきっと、大変な事、辛い事もいっぱいあると思う。
+
+\CLでも、乗り越えていけるよ――
+
+\CL――二人でならきっと。
+
+@rps
+@wait t=3000
+
+@mes_win back=0 pos=2
+
+@switches id=138 val=0
+;;シーン終了トゥルーエンド
+
+
+;;============================================================
+

@@ -1,0 +1,20 @@
+
+
+@move_speed spd=5
+@move_speed spd=5 id=AC0
+
+@fb dir=back wt=0
+@fb dir=back id=AC0
+
+@se f=壁に「ドンッ」
+@qk
+
+@move_speed spd=4
+@move_speed spd=4 id=AC0
+
+@huki b=7 id=76
+
+[サキュバスＢ]「むっ……だめかぁ」
+
+
+

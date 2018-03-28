@@ -1,0 +1,74 @@
+
+@c_jump id=AC0 y=-1
+@dir dir=down id=AC0
+@invisible type=off
+@invisible type=off id=AC0
+@through type=on
+
+@bgm f=s-003 pitch=90
+@fade type=in t=1000 wt=1
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=8
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=800
+
+@huki b=2 id=AC0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+
+[リリィ]「あっ、アル……目が覚めた？　おはよう♪」
+
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_speed spd=3
+;;主人公：起き上がる
+@se f=衣擦れの音1
+@route route=left,up
+@move_speed spd=4
+
+@dir dir=right wt=0
+@dir dir=left id=AC0
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=500 wt=0
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=500 wt=1
+@wait t=500
+
+@bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
+
+[リリィ]「早速だけど……今から街で情報収集をしようと思うの」
+
+;;主人公、疑問符
+@huki b=2
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=リリィ@通常 x=350 y=50 t=200 wt=1
+
+[リリィ]「『あっちの世界』に渡るには、かなりの量の魔力が必要だから……」
+
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+@bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
+
+[リリィ]「何かいい方法が無いか、色々な人に話を聞いてみないとね」
+
+;;主人公、うなずく
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bgm
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm f=b-005 pitch=110
+

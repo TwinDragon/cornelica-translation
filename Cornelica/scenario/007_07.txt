@@ -1,0 +1,61 @@
+;;=====================================================
+;;■町案内：領主の館前
+
+@invisible type=on id=45
+@move_speed spd=4
+@move_speed spd=4 id=AC0
+
+@dir dir=up id=AC0
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@route route=up
+
+@dir dir=down
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=200
+
+
+@huki b=8 id=AC0
+@bs f=リリィ@蔑み x=350 y=50 t=1000
+
+[リリィ]「………………」
+
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
+@wait t=400
+
+@huki b=2
+@bs f=アル@焦り x=-350 y=50 t=200
+
+;;主人公、疑問符
+;;どうしたの？
+;;なにかあったの？
+
+@select s1=どうしたの？/*st10a s2=なにかあったの？/*st10b
+;;----------------------------------------------------
+*st10a
+*st10b
+
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=600
+@wait t=400
+
+@bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
+
+[リリィ]「ここは……あんまり好きじゃないから……早く行こ」
+
+@bs f=アル@焦り x=-350 y=50 t=400
+@wait t=200
+
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@route route=down id=AC0 wt=0
+@route route=down:2
+@invisible type=off id=45
+
+;;=====================================================

@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+リリィに対面座位でHされる\n　ヒント：リリィと旅立つことを選ぶと……
+@mes_win back=0 pos=2

@@ -1,0 +1,41 @@
+;;==========================================================================
+
+@bgm_save
+@bgm
+@dot_move x=11 y=9 id=47 dir=down
+@dot_move x=19 y=9 id=48 dir=down
+@dot_move x=25 y=13 id=49 dir=down
+
+@se f=Move1
+@change f=メイドゴーレム id=47
+
+@route route=down id=47
+@huki b=1 id=47 wt=0
+@wait t=500
+
+@huki b=1 wt=0
+@huki b=1 id=AC0 wt=0
+@huki b=1 id=AC1 wt=1
+
+@huki b=1 id=47 wt=0
+[ヴラスタ]「侵入者……侵入者」
+
+@map_scroll dir=right dis=11 spd=7
+
+@change f=メイドゴーレム id=49
+@se f=Door1
+@dir dir=left id=26
+@wait t=3
+@dir dir=right id=26
+@wait t=3
+@dir dir=up id=26
+@huki b=1 id=49
+
+@wait t=500
+
+@se f=Move1
+@change f=メイドゴーレム id=48
+@huki b=1 id=48
+@wait t=500
+
+;;==========================================================================

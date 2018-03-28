@@ -1,0 +1,122 @@
+
+;;=====================================================================
+;;■22
+;;■城(リリィの部屋)
+
+@bgm f=h-004
+
+@invisible type=on
+@invisible type=on id=7
+@dot_move id=3
+@dot_move id=4
+@dot_move id=7
+@dot_move id=6
+
+@fade type=in t=1000 wt=1
+
+@se f=Move1
+@change f=ヴァネッサ id=3
+@route route=up:2,left:4,up id=3
+@dir dir=down id=3
+
+@se f=Move1
+@invisible type=off
+@route route=up,left:4,up
+@dir dir=up
+
+@se f=Move1
+@change f=メイドゴーレム num=2 id=4
+@route route=up id=4
+
+@se f=Move1
+@invisible type=off id=7
+@route route=left id=4 wt=0
+@route route=up id=7
+
+@se f=Move1
+@change f=メイドゴーレム num=2 id=6
+@route route=left:4 id=4 wt=0
+@route route=left:4 id=7 wt=0
+@route route=up,left:3 id=6
+
+@dir dir=up id=4
+@dir dir=up id=7
+@dir dir=up id=6
+
+@move_f f=ヴァネッサ@微笑 in=c t=300
+
+[ヴァネッサ]「ここは……そこの馬鹿娘の部屋じゃよ」
+
+@move_f f=ヴァネッサ@ out=c t=300
+
+@dir dir=down
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@蔑み op=困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=200
+
+@move f=リリィ@蔑み x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「むっ……むぐううっ！」
+
+@dir dir=up
+
+;;主人公：疑問符
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴァネッサ@普通 x=350 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=ヴァネッサ@怒り x=300 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=200
+
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「ここに来た理由じゃが……簡単な理由じゃ。見せつけてやるためじゃよ」
+
+;;主人公：疑問符
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「まぁ、すぐに分かる」
+
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「……では、始めるぞ」
+
+@bs f=アル@驚き op=ビックリ x=-350 y=50 t=300 wt=1
+@wait t=200
+
+@bgm
+@fade type=out t=1000 wt=1
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=アル@ out=c t=20 wt=0
+@rps
+
+@ev f=black
+
+@fade type=in t=20 wt=1
+
+;;主人公：驚き
+;;暗転
+
+;;シーン終了
+;;=====================================================================

@@ -1,0 +1,40 @@
+
+@me f=昇格
+
+@bs f=D子@普通 op=ビックリ x=350 y=50 t=200 wt=1
+@bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
+
+@move f=D子@普通 x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=D子@普通 x=350 y=50 w=100 h=100 t=80 wt=1
+
+@move f=D子@普通 x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=D子@普通 x=350 y=50 w=100 h=100 t=80 wt=1
+
+[Ｄ子]「大正解デース！」
+
+@bs f=D子@普通 op=音符 x=350 y=50 t=200 wt=1
+
+[Ｄ子]「それでは、約束通り回想を全開放してあげるデス！」
+
+@se f=Magic1
+@flash t=1000 wt=1
+
+@se f=Flash3 pitch=80
+@flash t=3000 wt=1
+
+@se f=Item3
+@mes_win back=1 pos=1
+\CL回想シーンが全開放された
+@mes_win back=0 pos=2
+
+@bs f=アル@困り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 wt=1
+@wait t=400
+
+@move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=D子@普通 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=D子@ out=c t=20 wt=0
+@bs

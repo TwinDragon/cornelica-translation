@@ -1,0 +1,22 @@
+
+@bgv
+@move_speed spd=5
+
+@dir dir=up
+@fb dir=back
+
+@se f=壁に「ドンッ」
+@qk
+
+@move_speed spd=4
+
+@huki b=7 id=77
+
+[サキュバスＡ]「えっ……これでもだめなんだぁ」
+
+@huki b=7 id=76
+
+[サキュバスＢ]「手強いなぁ…………」
+
+
+

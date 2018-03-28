@@ -1,0 +1,26 @@
+;;■城
+
+@move_f f=ヴァネッサ@微笑 in=c t=150
+
+[ヴァネッサ]「来たか」
+
+;;主人公：真面目な顔
+@bs f=ヴァネッサ@普通 t=150
+
+[ヴァネッサ]「なかなか自信ありげな顔じゃな。じゃが、分かっておるか？　今度は慈悲などかけぬぞ」
+
+@bs f=ヴァネッサ@微笑 t=150
+
+[ヴァネッサ]「ふふ、では、早速始めるとするかのう」
+
+;;シーン終了
+@fade type=out t=1000 wt=1
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@bs
+
+@invisible type=on id=6
+
+@dot_move x=4 y=6 dir=up
+@dot_move x=4 y=5 dir=down id=5
+
+@fade type=in t=1000 wt=1

@@ -1,0 +1,27 @@
+
+@bs f=アル@屈辱_頬 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=D子@普通 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=D子@普通 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=200
+
+@huki b=7
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
+
+@move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
+
+[Ｄ子]「『秘密のパスワード』はHPやtwitterで公開する予定なので出直してくるデース！」
+
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=400 wt=1
+@wait t=200
+
+@move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=D子@普通 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=D子@ out=c t=20 wt=0
+@bs

@@ -1,0 +1,7 @@
+;;■01
+
+@se f=Item1
+@mes_win back=1 pos=1
+\CL近くの川に\C[2]水を汲み\C[0]に行こう。
+@mes_win back=0 pos=2
+

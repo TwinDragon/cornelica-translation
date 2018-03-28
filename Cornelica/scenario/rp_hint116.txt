@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+D子に足コキされる\n　ヒント：D子のパスワードを間違えると……
+@mes_win back=0 pos=2

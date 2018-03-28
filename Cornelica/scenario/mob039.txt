@@ -1,0 +1,6 @@
+;;■01
+
+@mes_win back=1 pos=1
+\CL……すでに、こと切れてしまっている……。
+@mes_win back=0 pos=2
+

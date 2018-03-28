@@ -1,0 +1,41 @@
+;;■01
+
+@bs f=アル@驚き op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=300 wt=1
+
+@huki b=1
+@huki b=1 id=AC0
+
+@c_jump wt=0
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
+@move_speed spd=5
+@move_speed spd=5 id=AC0
+@move_speed spd=5 id=AC1
+
+@route route=left id=AC0 wt=0
+@route route=down id=AC1 wt=0
+@route route=down:2
+
+@move_speed spd=4
+@move_speed spd=4 id=AC0
+@move_speed spd=4 id=AC1
+
+@huki b=8
+@dir dir=up
+@dir dir=right id=AC0
+@dir dir=up id=AC1
+
+@bs f=アル@困り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=400 wt=1
+@wait t=200
+
+@move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@bs
+

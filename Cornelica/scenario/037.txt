@@ -1,0 +1,116 @@
+
+;;================================================================
+;;■16
+;;■城（牢屋）
+
+@wait t=1000
+@change num=1
+
+@dot_move id=15
+@dot_move id=16
+
+@c_jump id=15 y=-2
+@c_jump id=16 y=1
+
+@dir dir=down id=15
+@dir dir=up id=16
+
+@change f=メイドゴーレム id=15 num=2
+@change f=メイドゴーレム id=16 num=2
+@dir dir=down
+
+@fade type=in t=2000 wt=0
+@wait t=500
+
+@huki b=7 wt=1
+@se f=衣擦れの音1
+@change num=0
+
+;;主人公：起きる
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=2
+@bs f=アル@焦り op=ハテナ x=-350 y=50 t=200 wt=1
+
+@huki b=8 id=16
+
+@bs f=メイド@通常_赤 x=400 y=50 opa=0 t=20 wt=1
+@move f=メイド@通常_赤 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=メイド@蔑み_赤 x=350 y=50 t=200 wt=1
+
+[ヴラスタA]「目……覚めた……」
+
+@bgm f=h-003 pitch=90
+
+;;主人公：驚き
+@bs f=アル@驚き op=焦り x=-350 y=50 t=200 wt=1
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@move_speed spd=3
+
+@move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=メイド@通常_赤 x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@fb dir=back
+@se f=壁に「ドンッ」
+@qk
+
+@huki b=1 wt=1
+@huki b=8 wt=0
+@dir dir=up
+@wait t=500
+
+@move_f f=メイド@蔑み_赤 in=c t=250 wt=1
+
+[ヴラスタB]「侵入者……貴方のことを調べさせてもらいます」
+
+@move_f f=メイド@蔑み_赤 out=c t=250 wt=1
+
+@huki b=6
+@dir dir=left
+@fb dir=back
+
+@move_speed spd=5 id=15
+@move_speed spd=5 id=16
+
+@route route=right id=15 wt=0
+@route route=right,up id=16
+@dir dir=down id=15
+
+@bs f=アル@驚き op=ビックリ x=-400 y=50 opa=0 t=20 wt=1
+@bs f=メイド@蔑み_赤 x=400 y=50 opa=0 t=20 wt=1
+
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=メイド@蔑み_赤 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@c_jump wt=0
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+;;主人公：驚く
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
+
+@se f=衣擦れの音1
+@fade type=out t=250 wt=1
+
+@bgm
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=メイド@ out=c t=20 wt=0
+@bs
+@change num=1
+@ev f=black
+@fade type=in t=250 wt=1
+
+;;SE服を脱がせるような音
+;;暗転
+;;================================================================

@@ -1,0 +1,50 @@
+;;■05
+
+;;==============================================================================
+;;■フランカ区
+
+@move_speed spd=2
+@move_speed spd=3 id=AC0
+
+@c_jump id=AC0 y=1 wt=1
+@fade type=in t=2000 wt=0
+
+@anime num=207 id=AC0 wt=0
+@anime num=207 wt=0
+@wait t=800
+
+@invisible type=off
+@invisible type=off id=AC0
+
+@huki b=8 wt=0
+@huki b=8 id=AC0 wt=0
+
+@route route=down wt=0
+@route route=down:2 id=AC0 wt=1
+
+@dir dir=up id=AC0
+
+@huki b=8 wt=0
+@wait t=500
+
+@bs f=アル@屈辱 op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=500
+
+@huki b=8 wt=0
+@dir dir=up wt=0
+
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=600
+
+@fade type=out t=1500 wt=0
+@map_scroll dir=up dis=2 spd=2
+@wait t=1000
+
+@invisible type=on
+@invisible type=on id=AC0
+@through type=on
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@bs
+
+

@@ -1,0 +1,70 @@
+;;=================================================================
+;;■館の一室
+
+@huki b=7
+@through type=on
+@move_speed spd=5
+
+@fade type=out t=2000 wt=1
+@wait t=2000
+@move_f f=ヴェルナ@通常 in=c t=20 wt=1
+
+@bgm f=s-008 pitch=90
+@fade type=in t=3000
+
+@bs f=ヴェルナ@微笑
+[ヴェルナ]「気付いたみたいだね」
+
+@se f=壁に「ドンッ」
+@move_f f=ヴェルナ@ out=c t=20 wt=0
+@qk
+
+@move_speed id=3  spd=4
+@move_speed spd=4
+
+@route route=left wt=0
+@fb dir=back id=3 wt=0
+@qk
+
+;;主人公：驚く
+@bs f=アル@驚き op=ビックリ x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=ヴェルナ@通常  x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=8 id=3
+@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「そんなに怯えないでくれ」
+
+;;主人公：哀しい顔
+@huki b=7
+@bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@困り_頬 x=-350 y=50 t=100 wt=0
+@bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「御礼にしっかり研究してあげよう。キミが元の世界に戻る方法をね」
+
+;;主人公：哀しい顔
+@huki b=8
+@bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「心配するな、任せておけ」
+
+@bgm
+@fade type=out t=2000 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+
+;;暗転
+@through type=off
+@move_speed spd=4
+
+;;=================================================================

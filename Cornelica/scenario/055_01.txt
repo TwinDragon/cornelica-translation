@@ -1,0 +1,78 @@
+;;■34
+;;■城（リリィの部屋）
+
+;;主人公：目を覚ます
+;;主人公：慌てる
+
+@bgm f=h-003 pitc=70
+
+@invisible type=off
+@change num=1
+
+@dir dir=left id=7
+@dir dir=right
+
+@bs f=アル@屈辱 x=-350 y=50 t=20 wt=0
+@bs f=リリィ（堕）@通常 x=350 y=50 t=20 wt=0
+
+@fade type=in t=1000 wt=1
+
+@se f=衣擦れの音1
+@change num=0
+
+@huki b=2 id=7
+@bs f=リリィ（堕）@微笑 x=350 y=50 t=200 wt=1
+@bs f=アル@焦り op=ビックリ x=-350 y=50 t=100 wt=1
+
+[リリィ]「起きた……？　ここはね、私の部屋だよ」
+
+;;主人公：疑問符
+@huki b=2
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=8 id=7
+@bs f=リリィ（堕）@通常 x=350 y=50 t=200 wt=1
+
+[リリィ]「……今からね……アルを私のものにするの。アルを……私だけのものに」
+
+;;主人公：驚く
+@bs f=アル@驚き op=焦り x=-350 y=50 t=600 wt=1
+@move f=アル@驚き x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=50 wt=1
+@wait t=400
+
+@huki b=2 id=7
+@bs f=リリィ（堕）@困惑 x=350 y=50 t=200 wt=1
+
+[リリィ]「ごめんね……？　でも、無理なの……そうしたいって思って止まらないの」
+
+@huki b=3 id=7
+@bs f=リリィ（堕）@淫猥な笑み x=350 y=50 t=200 wt=1
+
+[リリィ]「アルが帰りたいのは知ってる……でも。諦めて♪　……お願ぁい♪」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=8 id=7
+@move_f f=リリィ（堕）@淫猥な笑み in=c t=250
+
+[リリィ]「ずっとずっと……一緒だよ♪　サキュバスの本気の肢体、味あわせてあげる♪」
+
+@bgm
+@fade type=out t=1000 wt=1
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=アル@ out=c t=20 wt=0
+@bs
+@ev f=black
+@fade type=in t=20 wt=1
+
+;;暗転
+

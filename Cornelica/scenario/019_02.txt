@@ -1,0 +1,235 @@
+;;=================================================================
+
+;;--------------------------------------------------
+
+;;■ECG10C
+;;■ヴラスタに捕まった：館
+@bgm f=s-005
+
+
+;;■魔女の館：搾精部屋
+@move_f f=メイド@怒り_赤 in=c t=200 wt=1
+
+[ヴラスタ]「危険除去完了。これでしばらく危険は無いと判断。対象を解放」
+
+@fade type=out t=1000 wt=1
+@bgm
+
+@move_f f=メイド@ out=c t=20 wt=0
+@bs
+
+@dot_move map=14 x=17 y=15 dir=right
+@dot_move id=10 dir=left
+@c_jump x=-6 y=1 id=AC0
+
+@invisible type=off id=AC0
+@dir dir=right id=AC0 wt=0
+
+@dir_fix type=on
+@walk_anime type=off
+@change f=メイドゴーレム num=2 id=10
+
+@dir dir=up id=19
+
+@move_speed spd=20
+@route route=right
+
+
+@change num=0
+@fade type=in t=1000 wt=0
+
+@move_speed spd=3
+@move_speed spd=3 id=10
+@wait t=500
+
+;;--------------------------------------------------
+
+@route route=left:3 id=10 wt=0
+@route route=left:3
+
+
+;;■魔女の館：前
+@huki b=1 id=AC0
+@c_jump id=AC0
+@move_f f=リリィ@焦り op=ビックリ in=c t=250
+
+[リリィ]「あっ……アル……！」
+
+@move_f f=リリィ@ out=c t=250
+
+;;主人公：投げ捨てられる
+@huki b=8 id=10
+@wait t=900
+@huki b=1
+@huki b=1 id=AC0
+@wait t=200
+
+@dir_fix type=off
+@dir dir=up wt=0
+
+@se f=Blow2 pitch=120
+@c_jump x=-4 wt=1
+
+@se f=Blow6
+@change num=1
+@qk t=500
+
+@huki b=7
+
+@walk_anime type=on
+
+@huki b=8 id=10
+@wait t=500
+
+@move_f f=メイド@通常_赤 in=c t=400
+@bs f=メイド@蔑み_赤 t=300
+
+[ヴラスタ]「解放完了。通常任務に戻る」
+
+@move_f f=メイド@ out=c t=200
+
+@through type=on id=10
+@route route=right:5,up:3 id=10 wt=0
+
+@wait t=300
+
+@move_speed spd=5 id=AC0
+@route route=right,up id=AC0
+@dir dir=left id=AC0
+
+@c_jump id=AC0 wt=1
+
+@move_f f=リリィ@焦り op=ビックリ in=c t=250
+
+;;リリィ近づいてくる
+[リリィ]「大丈夫！？」
+
+@move_f f=リリィ@ out=c t=250
+
+;;主人公：起き上がる
+@huki b=7 wt=1
+@se f=衣擦れの音1
+
+@dir dir=right wt=0
+@change num=0
+@wait t=300
+
+;;主人公：赤面（困惑）
+@bs f=リリィ@焦り op=ハテナ x=400 y=50 opa=0 t=20 wt=0
+@bs f=アル@屈辱_頬 op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+
+@huki b=8
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=8 id=AC0
+@bs f=リリィ@哀しみ op=焦り x=350 y=50 t=1400 wt=1
+
+@huki b=1
+@bs f=アル@焦り_頬 op=ビックリ x=-350 y=50 t=200 wt=1
+@move f=アル@焦り_頬 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bs f=アル@屈辱_頬 op=焦り x=-350 y=50 t=1000 wt=1
+@wait t=400
+
+@huki b=8
+@bs f=アル@普通 x=-350 y=50 t=600 wt=1
+@wait t=300
+
+;;主人公：うなずく
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+
+@huki b=2 id=AC0
+@bs f=リリィ@焦り op=ハテナ x=350 y=50 t=400 wt=1
+
+[リリィ]「……ほんと……？」
+
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
+@wait t=600
+
+;;主人公：うなずく
+@bs f=アル@普通 x=-350 y=50 t=400 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@bs f=アル@笑顔 x=-350 y=50 t=400 wt=1
+@wait t=600
+
+@huki b=8 id=AC0
+@bs f=リリィ@哀しみ x=350 y=50 t=600 wt=1
+@wait t=600
+
+@bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
+
+[リリィ]「…………そっか、よかった」
+
+;;主人公：笑み
+@bs f=アル@普通 x=-350 y=50 t=100 wt=0
+@bs f=リリィ@哀しみ x=350 y=50 t=600 wt=1
+@wait t=600
+
+@huki b=2 id=AC0
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=400 wt=1
+
+[リリィ]「……どうする？　もう、やめる……？」
+
+@bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
+@wait t=600
+
+;;主人公：首を振る
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@困り x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@困り x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@困り x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@困り x=-350 y=50 w=100 h=100 t=50 wt=1
+@wait t=200
+
+@huki b=2 id=AC0
+@bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=400 wt=1
+
+[リリィ]「無理しなくてもいいんだよ……？」
+
+;;主人公：首を振る
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
+@bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=300
+
+@bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
+@wait t=500
+
+[リリィ]「ん……分かった」
+
+@bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
+
+[リリィ]「じゃあもう一度忍び込もう。次は捕まらないようにしないとね」
+
+;;主人公：うなずく
+
+@bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_speed spd=4
+;;--------------------------------------------------
+
+;;暗転
+;;=================================================================

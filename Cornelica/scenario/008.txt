@@ -1,0 +1,97 @@
+
+;;==============================================================================
+
+@bgm_save
+@bgm
+
+@move_speed spd=3
+@move_speed spd=3 id=AC0
+@route route=up id=AC0 wt=0
+@route route=up
+@dir dir=up id=AC0 wt=0
+@huki b=8 id=AC0 wt=0
+
+@route route=up
+
+@bs f=サキュバス@01 body=-1 face=0 x=400 y=50 opa=0 t=20 wt=0
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@huki b=1 id=AC0
+@bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「あっ！　アルちょっと待って！」
+
+@huki b=4 id=36
+
+;; 主人公疑問符
+@dir dir=down
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+
+@if eval=v(103)==-2 ok=jump:*branch001a bad=jump:*branch001b
+;;======================================
+;;-----------------------------
+*branch001a
+@route route=right:2 id=36
+
+@jump target=*end001
+;;-----------------------------
+*branch001b
+@if eval=v(103)==-1 ok=jump:*branch002a bad=jump:*end001
+
+;;-----------------------------
+*branch002a
+@route route=right id=36
+
+@jump target=*end001
+;;-----------------------------
+;;======================================
+
+*end001
+@route route=down id=36
+
+@bgm f=s-005 pitch=90
+
+@huki b=6 id=AC0 wt=0
+@huki b=2 id=36 wt=0
+@bs f=リリィ@困惑 op=汗 body=-1 face=0 x=350 y=50 t=100 wt=0
+@bs f=アル@驚き op=ビックリ body=-1 face=0 x=-350 y=50 t=200
+
+[サキュバス]「あら？　貴方……」
+
+;; 主人公振り返る
+@dir dir=up
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
+
+@huki d=4 id=36
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=サキュバス@01 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+[サキュバス]「…………ふふっ♪　人間の雄……♪」
+
+;; 主人公怯える;;一歩引く
+@bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
+@huki b=6
+@fb dir=back wt=1
+
+@move_speed id=36 spd=6
+
+;; サキュバス抱き着く
+@huki b=4 id=36
+@route route=down id=36
+
+@se f=壁に「ドンッ」
+@huki b=1
+@bs f=アル@驚き op=ビックリ body=-1 face=0 x=-350 y=50 t=200
+@qk
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=サキュバス@ face=0 out=c t=20 wt=0 
+@bs t=20 wt=0
+

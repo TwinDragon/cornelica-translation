@@ -1,0 +1,27 @@
+
+@c_jump id=41 y=-1
+@huki b=8 wt=1
+@huki b=2 wt=1
+
+@huki b=1 wt=1
+@dir_fix type=on
+@walk_anime type=off
+
+@dir_fix type=on id=AC0
+@walk_anime type=off id=AC0
+
+@anime num=222 id=40 wt=0
+
+@c_jump id=41 y=1 wt=0
+@c_jump y=1 id=AC0 wt=0
+@c_jump y=1
+@change f=!$ace_d id=41 num=0
+
+
+@huki b=8 id=41 wt=1
+
+@dir_fix type=off
+@walk_anime type=on
+
+@dir_fix type=off id=AC0
+@walk_anime type=on id=AC0

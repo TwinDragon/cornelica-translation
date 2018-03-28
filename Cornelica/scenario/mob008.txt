@@ -1,0 +1,27 @@
+;;■01
+
+@huki b=1
+@bs f=アル@焦り op=ビックリ x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@map_scroll dir=up dis=2 spd=4
+
+@huki b=8 id=46
+[サキュバス]「はぁーさっきの子どこ行っちゃったのかしら……」
+
+@huki id=46
+@dir dir=down id=46
+[サキュバス]「ん……？」
+
+@bs f=アル@驚き_頬 op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=0
+@huki b=1 wt=0
+@c_jump wt=0
+
+@move f=アル@驚き_頬 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@bs
+
+@map_scroll dir=down dis=2 spd=5

@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+リリィに足コキされる\n　ヒント：ヴァネッサと話した後、自宅にて……
+@mes_win back=0 pos=2

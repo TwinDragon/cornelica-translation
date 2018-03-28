@@ -1,0 +1,14 @@
+;;■01
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+
+@dot_move id=47
+@c_jump id=47 y=1
+@dir dir=up id=47
+@change f=モブサキュバス2 num=0 id=47
+
+@dir dir=down
+@bgm f=h-004 pitch=90
+@fade type=in t=1000 wt=1
+
+

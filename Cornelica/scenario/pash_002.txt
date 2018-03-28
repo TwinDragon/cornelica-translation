@@ -1,0 +1,164 @@
+
+@bs f=D子@普通 op=ビックリ x=350 y=50 t=200 wt=1
+@bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
+
+@move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
+
+[Ｄ子]「……！」
+
+@bs f=D子@普通 op=拒否 x=350 y=50 t=200 wt=1
+
+[Ｄ子]「そのパスワードは！！」
+
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 wt=1
+@wait t=200
+
+@bgm
+@se f=Flash1 pitch=120
+@flash t=300 wt=0
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=D子@ out=c t=20 wt=0
+@bs
+
+@dot_move map=120 x=10 y=21 dir=up
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+
+@bgm
+
+@variables id=112 val=1 type=0 calc=0
+@switches id=70 val=1
+
+@huki b=8 wt=1
+
+@dir dir=right
+@wait t=200
+
+@dir dir=left
+@wait t=200
+
+@dir dir=up
+@huki b=2 wt=1
+
+@huki b=1
+
+@mes_win back=1 pos=1
+\CL「へへへ……来たか……」
+@mes_win back=0 pos=2
+
+@bgm f=g-001
+
+@through id=1 type=on
+@dot_move id=1 x=10 y=11 dir=down
+@change f=guest01 id=1 num=0
+@route id=1 route=down:5 wt=1
+
+@huki b=3 id=1
+
+@bs f=アル@困り x=-350 y=50 opa=0 t=20 wt=0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=guest@01 face=0 body=-1 opa=0 x=350 y=50 t=20 wt=0
+@move f=guest@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
+[？？？]「よぉ、俺は汚作ってんだ！　また会ったな！」
+
+@select s1=え、誰！？/*st01a s2=お、オジサンは！/*st01b
+;;============================================================================
+
+;;-------------------------------
+*st01a
+@huki b=2
+@bs f=アル@焦り x=-350 y=50 op=ハテナ t=300 wt=1
+
+[汚作]「へへ、未プレイたぁ、寂しいじゃねぇか……」
+
+@jump target=*end01
+;;-------------------------------
+*st01b
+@huki b=1
+@bs f=アル@驚き x=-350 y=50 op=ビックリ t=300 wt=1
+
+[汚作]「覚えててくれたか……へへ、うれしいじゃねぇか」
+
+@jump target=*end01
+;;-------------------------------
+*end01
+
+@bs f=アル@困り x=-350 y=50 t=300 wt=1
+
+@huki b=8 id=1
+[汚作]「…………」
+
+@huki b=3 id=1
+[汚作]「……いやぁ、それにしてもよぉ」
+
+@huki b=8 id=1
+[汚作]「いくらパスワードが分からねぇからって『或る館にて』のパスワードを打ち込むなんて……その無鉄砲さ、嫌いじゃないぜ」
+
+@bs f=アル@屈辱 x=-350 y=50 t=300 wt=1
+
+@huki b=8 id=1
+[汚作]「…………」
+
+@huki b=4 id=1
+[汚作]「へへへ……だが、悪い子ちゃんには、お仕置きをしなくちゃいけないよなぁ？」
+
+@bs f=アル@驚き x=-350 y=50 t=100 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=guest@01 x=300 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@bgm
+@se f=Run
+@move_speed spd=7 id=1
+@route route=down:4 id=1 wt=1
+
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=guest@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=0
+@flash t=200 wt=1
+
+@huki b=4 id=1
+[汚作]「そらっ！　お尻ペンペンだッ」
+
+@flash col=255,0,0,255 t=300 wt=0
+@fade type=out t=100 wt=1
+@bs t=20 wt=1
+@bg f=black
+
+@bs f=guestL@01 face=0 body=-1 t=20 wt=0
+@move f=guestL@01 x=0 y=0 w=50 h=50 opa=0 t=20 wt=1
+@fade type=in t=20 wt=1
+
+@move f=guestL@01 x=0 y=0 w=300 h=300 opa=255 t=100 wt=1
+@move f=guestL@01 x=0 y=0 w=550 h=550 opa=255 t=100 wt=1
+@move f=guestL@01 x=0 y=0 w=800 h=500 opa=0 t=100 wt=1
+@flash col=255,0,0,255 t=300 wt=1
+
+@se f=排泄1
+@variables id=112 val=2 type=0 calc=0
+@switches id=70 val=1
+@flash col=170,100,0,255 t=300 wt=1
+
+@se f=排泄3
+@variables id=112 val=2 type=0 calc=0
+@switches id=70 val=1
+@flash col=170,100,0,255 t=600 wt=1
+
+@se f=排泄2
+@variables id=112 val=2 type=0 calc=0
+@switches id=70 val=1
+@flash col=170,100,0,255 t=400 wt=1
+
+@se f=排泄7
+@variables id=112 val=2 type=0 calc=0
+@switches id=70 val=1
+@flash col=170,100,0,255 t=1000 wt=1
+@wait t=600
+
+@fin se=射精音 bg=black
+@variables id=112 val=3 type=0 calc=0
+@switches id=70 val=1
+
+@wait t=1000
+
+;;--->BADEND

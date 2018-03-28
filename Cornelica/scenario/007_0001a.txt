@@ -1,0 +1,9 @@
+
+@move_speed spd=2
+@route route=up:5 wt=0
+
+@fade type=in t=1000 wt=1
+@wait t=3000
+@fade type=out t=1000 wt=1
+
+

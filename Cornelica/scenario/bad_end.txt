@@ -1,0 +1,422 @@
+
+;;***********************************************************
+
+@bg f=black
+
+@mes_win back=1 pos=2
+@if eval=v(110)==1 ok=jump:*end001 bad=jump:*next001
+;;========================================
+*end001
+
+@ev f=ev04c
+@fade type=in t=2000 wt=1
+
+BadEnd-01：彼女たちのおもちゃ
+
+@jump target=*selection001
+;;========================================
+
+*next001
+@if eval=v(110)==2 ok=jump:*end002 bad=jump:*next002
+;;========================================
+*end002
+
+@ev f=ev07g
+@fade type=in t=2000 wt=1
+
+BadEnd-02：新しいママ
+
+@jump target=*selection001
+;;========================================
+
+*next002
+@if eval=v(110)==3 ok=jump:*end003 bad=jump:*next003
+;;========================================
+*end003
+
+@ev f=ev10d_1
+@fade type=in t=2000 wt=1
+
+BadEnd-03：燃料精製装置
+
+@jump target=*selection001
+;;========================================
+
+*next003
+@if eval=v(110)==4 ok=jump:*end004 bad=jump:*next004
+;;========================================
+*end004
+
+@ev f=ev11f
+@fade type=in t=2000 wt=1
+
+BadEnd-04：干物
+
+@jump target=*selection001
+;;========================================
+
+*next004
+@if eval=v(110)==5 ok=jump:*end005 bad=jump:*next005
+;;========================================
+*end005
+
+@ev f=ev18g
+@fade type=in t=2000 wt=1
+
+BadEnd-05：新しい人生
+
+@jump target=*selection001
+;;========================================
+
+*next005
+@if eval=v(110)==6 ok=jump:*end006 bad=jump:*next006
+;;========================================
+*end006
+
+@ev f=ev22e
+@fade type=in t=2000 wt=1
+
+BadEnd-06：胎内回帰
+
+@jump target=*selection001
+;;========================================
+
+*next006
+@if eval=v(110)==7 ok=jump:*end007 bad=jump:*next007
+;;========================================
+*end007
+
+@ev f=ev08d
+@fade type=in t=2000 wt=1
+
+BadEnd-07：被服屋のペット
+
+@jump target=*selection001
+;;========================================
+
+*next007
+@if eval=v(110)==8 ok=jump:*end008 bad=jump:*next008
+;;========================================
+*end008
+
+@ev f=ev09e
+@fade type=in t=2000 wt=1
+
+BadEnd-08：おっぱいの虜
+
+@jump target=*selection001
+;;========================================
+
+*next008
+@if eval=v(110)==9 ok=jump:*end009 bad=jump:*next009
+;;========================================
+*end009
+
+@ev f=ev15e
+@fade type=in t=2000 wt=1
+
+BadEnd-09：餌
+
+@jump target=*selection001
+;;========================================
+
+*next009
+@if eval=v(110)==10 ok=jump:*end010 bad=jump:*next010
+;;========================================
+*end010
+
+@ev f=ev20e
+@fade type=in t=2000 wt=1
+
+BadEnd-10：家族
+
+@jump target=*selection001
+;;========================================
+
+*next010
+@if eval=v(110)==11 ok=jump:*end011 bad=jump:*next011
+;;========================================
+*end011
+
+@ev f=ev01f
+@fade type=in t=2000 wt=1
+
+BadEnd-11：ずっと一緒
+
+@jump target=*selection001
+;;========================================
+
+*next011
+@if eval=v(110)==12 ok=jump:*end012 bad=jump:*next012
+;;========================================
+*end012
+
+@ev f=ev21d
+@fade type=in t=2000 wt=1
+
+HaremEnd：一人はみんなモノ
+
+@jump target=*selection001
+;;========================================
+
+*next012
+;;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*next100
+@if eval=v(110)==100 ok=jump:*end100 bad=jump:*next101
+;;========================================
+*end100
+
+@ev f=mob17
+@fade type=in t=2000 wt=1
+
+BadEnd-12：ぼうや
+
+@jump target=*selection001
+;;========================================
+
+*next101
+@if eval=v(110)==101 ok=jump:*end101 bad=jump:*next102
+;;========================================
+*end101
+
+@fade type=in t=2000 wt=1
+
+BadEnd-13：『或る館にて』もよろしくね！
+
+@jump target=*selection001
+;;========================================
+
+*next102
+;;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*next201
+@if eval=v(110)==201 ok=jump:*end201 bad=jump:*next202
+;;========================================
+*end201
+
+@ev f=mob2
+@fade type=in t=2000 wt=1
+
+BadEnd-13：永住１
+
+@jump target=*selection001
+;;========================================
+
+*next202
+@if eval=v(110)==202 ok=jump:*end202 bad=jump:*next203
+;;========================================
+*end202
+
+@ev f=mob3
+@fade type=in t=2000 wt=1
+
+BadEnd-14：永住２
+
+@jump target=*selection001
+;;========================================
+
+*next203
+@if eval=v(110)==203 ok=jump:*end203 bad=jump:*next204
+;;========================================
+*end203
+
+@ev f=mob4
+@fade type=in t=2000 wt=1
+
+BadEnd-15：永住３
+
+@jump target=*selection001
+;;========================================
+
+*next204
+@if eval=v(110)==204 ok=jump:*end204 bad=jump:*next205
+;;========================================
+*end204
+
+@ev f=mob5
+@fade type=in t=2000 wt=1
+
+BadEnd-16：永住４
+
+@jump target=*selection001
+;;========================================
+
+*next205
+@if eval=v(110)==205 ok=jump:*end205 bad=jump:*next206
+;;========================================
+*end205
+
+@ev f=mob1
+@fade type=in t=2000 wt=1
+
+BadEnd-17：永住５
+
+@jump target=*selection001
+;;========================================
+
+*next206
+@if eval=v(110)==206 ok=jump:*end206 bad=jump:*next207
+;;========================================
+*end206
+
+@ev f=mob7
+@fade type=in t=2000 wt=1
+
+BadEnd-18：永住６
+
+@jump target=*selection001
+;;========================================
+
+*next207
+@if eval=v(110)==207 ok=jump:*end207 bad=jump:*next208
+;;========================================
+*end207
+
+@ev f=mob8
+@fade type=in t=2000 wt=1
+
+BadEnd-19：永住７
+
+@jump target=*selection001
+;;========================================
+
+*next208
+@if eval=v(110)==208 ok=jump:*end208 bad=jump:*next209
+;;========================================
+*end208
+
+@ev f=mob9
+@fade type=in t=2000 wt=1
+
+BadEnd-20：永住８
+
+@jump target=*selection001
+;;========================================
+
+*next209
+@if eval=v(110)==209 ok=jump:*end209 bad=jump:*next210
+;;========================================
+*end209
+
+@ev f=mob10
+@fade type=in t=2000 wt=1
+
+BadEnd-21：永住９
+
+@jump target=*selection001
+;;========================================
+
+*next210
+@if eval=v(110)==210 ok=jump:*end210 bad=jump:*next211
+;;========================================
+*end210
+
+@ev f=mob11
+@fade type=in t=2000 wt=1
+
+BadEnd-22：永住１０
+
+@jump target=*selection001
+;;========================================
+
+*next211
+@if eval=v(110)==211 ok=jump:*end211 bad=jump:*next212
+;;========================================
+*end211
+
+@ev f=mob12
+@fade type=in t=2000 wt=1
+
+BadEnd-23：永住１１
+
+@jump target=*selection001
+;;========================================
+
+*next212
+@if eval=v(110)==212 ok=jump:*end212 bad=jump:*next213
+;;========================================
+*end212
+
+@ev f=mob13
+@fade type=in t=2000 wt=1
+
+BadEnd-24：永住１２
+
+@jump target=*selection001
+;;========================================
+
+*next213
+@if eval=v(110)==213 ok=jump:*end213 bad=jump:*next214
+;;========================================
+*end213
+
+@ev f=mob14
+@fade type=in t=2000 wt=1
+
+BadEnd-25：永住１３
+
+@jump target=*selection001
+;;========================================
+
+*next214
+@if eval=v(110)==214 ok=jump:*end214 bad=jump:*next215
+;;========================================
+*end214
+
+@ev f=mob15
+@fade type=in t=2000 wt=1
+
+BadEnd-26：永住１４
+
+@jump target=*selection001
+;;========================================
+
+*next215
+@if eval=v(110)==215 ok=jump:*end215 bad=jump:*next216
+;;========================================
+*end215
+
+@ev f=mob16
+@fade type=in t=2000 wt=1
+
+BadEnd-27：永住１５
+
+@jump target=*selection001
+;;========================================
+
+*next216
+@if eval=v(110)==216 ok=jump:*end216 bad=jump:*next217
+;;========================================
+*end216
+
+@ev f=mob6
+@fade type=in t=2000 wt=1
+
+BadEnd-28：永住１６
+
+@jump target=*selection001
+;;========================================
+
+*next217
+
+;;***********************************************************
+
+*selection001
+@mes_win back=0 pos=2
+@select s1=少し前に戻る/*se2 s2=タイトルに戻る/*se1
+
+;;========================================
+*se1
+
+@variables id=108 val=0 type=0 calc=0
+@jump target=*end01
+;;========================================
+*se2
+
+@variables id=108 val=1 type=0 calc=0
+@jump target=*end01
+;;========================================
+*end01
+
+;;***********************************************************

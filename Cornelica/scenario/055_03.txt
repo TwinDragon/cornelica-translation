@@ -1,0 +1,18 @@
+
+@wait t=2000
+
+@dot_move id=11
+@dot_move id=8
+@invisible type=on id=4
+
+@invisible type=on id=9
+
+@c_jump id=8 y=1
+@dir dir=up id=8
+
+@change f=主人公 id=11
+@dir dir=down id=11
+
+@ev f=black
+@fade type=in t=20 wt=1
+

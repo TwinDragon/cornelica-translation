@@ -1,0 +1,139 @@
+;;=================================================================
+;;■ECG10C
+;;■ヴラスタに捕まった：館
+
+@move f=メイド@蔑み_赤 x=0 y=0 w=100 h=100 opa=0 t=250 wt=0
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=250 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+@bs f=リリィ@焦り op=ビックリ x=350 y=50 t=100
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「あっ……アル！」
+
+;;主人公：驚く
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
+@wait t=300
+
+@move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+
+@move f=メイド@蔑み_赤 x=0 y=0 w=100 h=100 opa=255 t=250 wt=1
+
+[ヴラスタ]「対象。雄。危険除去が必要と判断」
+
+@bs f=メイド@怒り_赤
+
+[ヴラスタ]「連行します」
+
+;;暗転
+@move f=メイド@怒り_赤 x=0 y=0 w=100 h=100 opa=0 t=250 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=250 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+;;ヴラスタに引き摺られるアル
+@bs f=アル@驚き op=ビックリ body=-1 face=0 x=-350 y=50 t=200
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@se f=締め付ける
+@bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
+@wait t=200
+
+@bs f=リリィ@焦り op=焦り x=350 y=50 t=200
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=80 wt=1
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=80 wt=1
+
+
+[リリィ]「ちょっ、ちょっと！　待って……！」
+
+@bgm
+@fade type=out t=1000 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=メイド@ out=c t=20 wt=0
+@bs
+
+@invisible type=on id=AC0
+
+@change f=主人公 num=0
+@change f=リリィ num=0 id=AC0
+
+@dot_move map=20 x=10 y=13 dir=down
+@bgm f=s-005
+
+@dot_move id=3 dir=up
+@dot_move id=4 dir=up
+@c_jump id=4 y=-4 x=1
+@dir dir=down id=4
+@change f=メイドゴーレム num=2 id=4
+
+@invisible type=on
+@dir_fix type=on
+@walk_anime type=off
+
+@fade type=in t=1000 wt=0
+
+@move_speed spd=3
+@move_speed spd=3 id=3
+@wait t=500
+
+@huki b=8 id=3 wt=0
+@se f=Move1
+@change f=メイドゴーレム num=2 id=3
+
+@route route=up id=3
+
+@huki b=7 wt=0
+@se f=Move1
+@invisible type=off
+@route route=up id=3 wt=0
+@route route=up
+
+@huki b=8 id=3
+@wait t=900
+@huki b=1
+@wait t=200
+
+@dir_fix type=off
+@dir dir=up wt=0
+
+@se f=Blow2 pitch=120
+@c_jump y=-3 wt=1
+
+@dir dir=left id=4 wt=0
+@se f=Blow6
+@change num=1
+@qk t=500
+
+@huki b=7
+
+@walk_anime type=on
+
+@route route=up id=3
+@huki b=8 id=3
+@wait t=500
+
+;;■魔女の館：搾精部屋
+@move_f f=メイド@蔑み_赤 in=c t=150 wt=1
+
+[ヴラスタ]「搾精部屋に到着。これより搾精行動を開始します」
+
+@fade type=out t=250 t=1
+
+@move_f f=メイド@ out=c t=20 wt=0
+@bs
+
+@ev f=black
+@fade type=in t=20 t=1
+
+;;暗転
+;;=================================================================

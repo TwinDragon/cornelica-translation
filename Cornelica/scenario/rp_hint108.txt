@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+サキュバスに膝で股間を擦られる\n　ヒント：街道上部の教会付近にて……
+@mes_win back=0 pos=2

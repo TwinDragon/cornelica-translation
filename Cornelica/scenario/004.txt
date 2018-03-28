@@ -1,0 +1,103 @@
+;;■01
+
+@se f=Liquid pitch=75
+
+@wait t=500
+@huki b=8 wt=1
+@wait t=500
+
+@se f=Item1
+
+@mes_win back=1 pos=1
+\CL水瓶に水を汲んだ。
+@mes_win back=0 pos=2
+
+@move_speed spd=3
+@route route=right:3
+
+@se f=Flash1
+@flash t=500
+
+@se f=Flash3
+@flash t=2000 wt=0
+@anime id=15 num=131 wt=0
+@switches id=103 val=1
+
+@dir dir=left
+@huki b=1 wt=1
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=2 wt=0
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=600
+@wait t=400
+
+@move_f f=アル@困り face=0 out=l t=250 wt=1
+
+@through type=on
+@move_speed spd=4
+@route route=left:3 wt1
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@huki b=8 wt=1
+
+@bgm
+@se f=衣擦れの音1
+@switches id=103 val=0
+@bs f=サキュバスキューブ@光 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
+@move f=サキュバスキューブ@光 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=アル@焦り op=焦り x=-350 y=50 t=200
+;;=======================================
+
+@select s1=なんだろう？/*st03a s2=光る石？/*st03b
+
+*st03a
+*st03b
+
+;;=======================================
+
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=200
+@huki b=2 wt=1
+
+@bs f=サキュバスキューブ@ face=0 body=-1 out=r t=20 wt=0
+@anime num=132 wt=1
+
+@bs f=アル@焦り op=ビックリ x=-350 y=50 t=600
+@move_f f=アル@焦り face=0 out=l t=250 wt=1
+
+@se f=Flash1 pitch=50
+@flash t=1000
+@switches id=104 val=1
+
+@huki b=1 wt=1
+@dir dir=left
+@wait t=200
+@dir dir=right
+@wait t=300
+
+@dir dir=left
+@wait t=200
+@dir dir=right
+@wait t=200
+@dir dir=left
+
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@se f=Flash1
+
+@huki b=1 wt=0
+@bs f=アル@驚き op=ビックリ x=-350 y=50 t=20 wt=0
+@flash t=1000
+
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=3000 wt=1
+@wait t=3000
+@fade type=out t=250 wt=1
+
+@rps
+

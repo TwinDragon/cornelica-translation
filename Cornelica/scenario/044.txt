@@ -1,0 +1,77 @@
+;;■ECG07
+;;■教会
+
+@huki b=8
+@bs f=アル@困り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@通常 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@笑み x=350 y=50 t=300 wt=1
+
+[白良]「フフ……それが貴方の選択肢なのですね」
+
+;;主人公：うなずく
+@bs f=アル@屈辱 x=-350 y=50 t=300 wt=1
+@move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bs f=白良@淫靡 x=350 y=50 t=300 wt=1
+
+[白良]「では、今日から貴方は私達のものです……それでは……」
+
+@move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=白良@淫靡 x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+;;SE魔法発動音
+;;魔法発動エフェクト
+@anime id=4 num=203
+
+@bs f=アル@驚き op=ビックリ x=-400 y=50 t=20 opa=0 wt=0
+@move f=白良@淫靡 x=350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=400
+
+;;主人公：驚く
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bs f=白良@笑み x=350 y=50 t=300 wt=1
+
+[白良]「怯えなくても大丈夫ですよ。アルさん……貴方にはこの魔法で変わっていただきます」
+
+;;主人公：疑問符
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@淫靡 x=350 y=50 t=300 wt=1
+
+[白良]「今の貴方も魅力的ではありますが、もっともっと私好みの姿に……」
+
+;;主人公：驚く
+@bs f=アル@驚き op=焦り body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@驚き x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=50 wt=1
+
+@bgm
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=3000 wt=1
+@wait t=3000
+@fade type=out t=250 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=白良@ out=c t=20 wt=0
+@rps
+@dot_move x=16 y=9 
+@dot_move x=16 y=10 id=4
+@dir dir=down
+@dir dir=up id=4
+
+@ev f=black
+@fade type=in t=20 wt=1
+

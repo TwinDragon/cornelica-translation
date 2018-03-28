@@ -1,0 +1,12 @@
+
+@invisible type=off id=AC0
+@invisible type=off id=AC1
+@dir dir=right
+@c_jump id=AC0 x=-1
+@c_jump id=AC1 x=-2
+@dir dir=right id=AC0
+@dir dir=right id=AC1
+
+@fade type=in t=1000
+@huki b=7
+

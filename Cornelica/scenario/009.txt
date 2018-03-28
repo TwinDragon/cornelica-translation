@@ -1,0 +1,129 @@
+
+;;==============================================================================
+
+@bgm f=s-005 pitch=90
+
+@huki b=7
+@huki b=4 id=36 wt=1
+
+@huki b=7 id=AC0
+
+@bs f=アル@屈辱_頬 op=困惑 opa=0 x=-400 y=50 t=20 wt=0
+@bs f=リリィ@蔑み x=400 y=50 opa=0 t=20 wt=0
+
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+[リリィ]「むっ……」
+
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_speed spd=5
+@move_speed spd=5 id=AC0
+
+;;ヒロイン主人公を救出
+@se f=壁に「ドンッ」
+@fb dir=back wt=0
+@fb dir=back id=AC0 wt=1
+@qk
+
+@huki b=3 id=36
+[サキュバス]「やんっ♪」
+
+@dir dir=down
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=リリィ@蔑み op=ビックリ body=-1 face=0 x=350 y=50 t=200
+[リリィ]「アル！　こっち！」
+
+;;主人公：焦り
+@bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@move f=アル@焦り_頬 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@焦り_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@move f=アル@焦り_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm
+@move_speed spd=5 id=AC0
+@move_speed spd=5
+
+@if eval=v(103)==0 ok=jump:*branch001a bad=jump:*branch001b
+;;======================================
+
+;;-----------------------------
+*branch001a
+@route route=left wt=0
+@route route=up id=AC0
+
+@jump target=*end001
+;;-----------------------------
+*branch001b
+@route route=right,up id=AC0
+
+@jump target=*end001
+;;-----------------------------
+
+;;======================================
+*end001
+
+@fade type=out t=500 wt=0
+@route route=up,right:5 wt=0
+@route route=up,right:5 id=AC0
+
+@dot_move x=21 y=13
+@c_jump id=AC0 x=2
+@dir dir=left id=AC0
+
+@invisible type=on id=36
+@bgm f=s-003 pitch=90
+@fade type=in t=1000 wt=1
+
+;;主人公＋ヒロインその場から離れる
+;;ちょっと機嫌悪そうなヒロイン
+
+@bs f=アル@屈辱_頬 op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@蔑み x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+
+@bs f=アル@焦り_頬 x=-350 y=50 t=200
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
+[リリィ]「……アル、大丈夫……？」
+
+;;主人公：赤面
+@huki b=7 wt=0
+@bs f=アル@屈辱_頬 op=困惑 body=-1 face=0 x=-350 y=50 t=200
+@wait t=500
+
+@bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「さっきも言ったけど……警備に見つからない夜の間はああいうことしてくる人もいるから…………」
+
+@bs f=アル@焦り_頬 x=-350 y=50 t=100 wt=0
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
+
+[リリィ]「……だから、歩き回る時は、\C[2]怪しい人には近付かないようにね\C[0]」
+
+@bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
+@move f=アル@屈辱_頬 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@bs f=アル@困り_頬 body=-1 face=0 x=-350 y=50 t=200
+@wait t=200
+
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm_replay
+

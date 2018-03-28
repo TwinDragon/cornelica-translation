@@ -1,0 +1,64 @@
+
+@huki b=8
+@bs f=アル@焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@通常 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@微笑 x=350 y=50 t=300 wt=1
+
+[白良]「わかりました……それでは、領主様の元へ……わたくしが連れて行って差し上げます」
+
+@bs f=アル@困り x=-350 y=50 t=300 wt=1
+@bs f=白良@笑み x=350 y=50 t=300 wt=1
+
+[白良]「……さぁ、手を……」
+
+;;主人公：うなずく
+@huki b=8
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@困り x=-350 y=50 t=300 wt=1
+@move f=アル@困り x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@困り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@驚き x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@anime id=4 num=203
+@huki b=8 id=4 wt=1
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=白良@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@bs f=白良@微笑 x=350 y=50 t=600 wt=1
+@wait t=600
+
+;;白良の手を取るアル
+@bs f=白良@笑み x=350 y=50 t=300 wt=1
+
+[白良]「では……いきます」
+
+@bgm
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=3000 wt=1
+@wait t=3000
+@fade type=out t=250 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=白良@ out=c t=20 wt=0
+@rps
+
+;;SE■魔法発動音
+;;ホワイトアウト
+;;シーン終了
+
+;;2の場合
+;;シーン終了ECG07へ飛ぶ
+

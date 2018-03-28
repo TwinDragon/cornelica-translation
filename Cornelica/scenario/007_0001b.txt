@@ -1,0 +1,5 @@
+
+@move_speed spd=2
+@fade type=in t=1000 wt=0
+@route route=up:2 wt=1
+

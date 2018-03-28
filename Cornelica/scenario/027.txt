@@ -1,0 +1,309 @@
+;;■11
+;;■魔女の館
+;;===============================================================================
+@dir dir=right id=AC0 wt=0
+@dir dir=right
+
+@huki b=8 id=2
+@wait t=200
+
+@bgm f=s-008 pitch=90
+
+@move_f f=ヴェルナ@微笑 in=c t=250 wt=1
+
+[ヴェルナ]「よく来たな」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=リリィ@通常_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=リリィ@通常_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=ヴェルナ@微笑 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=リリィ@微笑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「それで、研究で何か分かったりとかした？」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
+@bs f=リリィ@微笑_r x=-350 y=50 t=200 wt=1
+
+[ヴェルナ]「ああ……そうだな。この世界の魔力を一時的に本人のものとして蓄積することができる薬さえできればアルでも門を通れるだろう」
+
+@huki b=2 id=AC0
+@bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「えっと……つまりアルを帰してあげることができそうってこと？」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「そうなるな」
+
+@move f=リリィ@通常_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=ヴェルナ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@bs
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@dir dir=left id=AC0
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+
+;;主人公：喜ぶ
+@bs f=アル@笑顔 x=-350 y=50 t=300 wt=1
+
+@c_jump wt=0
+@move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@huki b=3 id=AC0
+@bs f=リリィ@笑顔  x=350 y=50 t=200
+
+[リリィ]「やったねアル！」
+
+@dir dir=right id=AC0
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=8 id=2
+@wait t=200
+
+@move_f f=ヴェルナ@通常 in=c t=300 wt=1
+
+[ヴェルナ]「ただ、一概に喜ぶことはできない。本人の容量に依存しない以上、膨大な魔力を使い、無理矢理に安定させなければならない」
+
+@bs f=ヴェルナ@考える
+
+[ヴェルナ]「よって、作成にはそれなりの魔力物質が必要になる」
+
+@move_f f=ヴェルナ@ out=c t=300 wt=1
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=リリィ@哀しみ op=ハテナ  x=350 y=50 t=200
+
+[リリィ]「どういったものが必要なの？」
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@微笑 in=c t=200 wt=1
+
+@huki b=8 id=2
+
+[ヴェルナ]「ふふ……よくぞ聞いてくれた。これだ……」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=リリィ@通常_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@通常 x=400 y=50 opa=0 t=20 wt=0
+@bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
+
+@move f=リリィ@通常_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=ヴェルナ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@se f=Book1
+@move f=お使いリスト@01 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
+
+@wait t=300
+
+@huki b=6 id=AC0
+@bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「え……？　なに、この紙切れ……？」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「薬の作成に必要な素材をリストアップしてある。俗に言うお使いリストという奴だ」
+
+@se f=Book1
+@move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
+
+@huki b=6 id=AC0
+@bs f=リリィ@蔑み_r op=汗 x=-350 y=50 t=200 wt=1
+
+[リリィ]「えと……つまり……？」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「私は研究に専念する。故に君達には必要な素材を集めてきてほしい」
+
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=ヴェルナ@笑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@bs
+
+@bs f=ヴェルナ@通常 opa=0 t=20 wt=0
+@bs f=アル@焦り op=ビックリ x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り op=ビックリ x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=1 id=AC0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=200
+
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「えぇ！？」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
+
+@huki b=8 id=2
+[ヴェルナ]「あぁ、それと入手にかかりそうな費用だが私には一切期待するな。こう見えて私は無一文だ。人間界の通貨なら腐るほどあるがな……」
+
+
+@bs f=アル@焦り op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@蔑み op=汗 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=7
+@huki b=6 id=AC0
+@move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=0 t=300 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=1000
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
+@move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=300 wt=1
+@wait t=200
+
+@huki b=8 id=2
+@bs f=ヴェルナ@微笑 t=300 wt=1
+
+[ヴェルナ]「まぁ、『スライムコア』も『テオナ茸』も珍しい物でもない。手に入りそうな場所も教えてやるから、頑張ってくれ」
+
+@move f=ヴェルナ@微笑 x=0 y=0 w=100 h=100 opa=0 t=200 wt=1
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@dir dir=left id=AC0
+
+@huki b=6 id=AC0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@bs f=リリィ@哀しみ op=困惑  x=350 y=50 t=200 wt=1
+
+[リリィ]「はぁ……大変そうだけど、仕方ない……のかな……？」
+
+@huki b=8
+@bs f=アル@笑顔 op=焦り x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@huki b=8 id=AC0
+@bs f=リリィ@通常 x=350 y=50 t=800 wt=1
+@wait t=400
+
+@huki b=8 id=AC0
+@bs f=リリィ@微笑  x=350 y=50 t=200
+
+[リリィ]「それじゃアル、行こっか」
+
+;;主人公：うなずく
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@bs
+
+@dir dir=down id=2
+
+@move_speed spd=3 id=AC0
+@move_speed spd=3
+
+@bgm
+@fade type=out t=2000 wt=0
+@fb dir=back wt=0
+@route route=left id=AC0
+@route route=down:4 id=AC0 wt=0
+@route route=right,down:3 wt=1
+@map_move map=18 x=11 y=5 dir=down
+@invisible type=on id=AC0
+@invisible type=on
+
+@dot_move map=18 x=11 y=5 dir=down
+@fade type=in t=1000 wt=1
+
+@move_speed spd=4 id=AC0
+@move_speed spd=3
+
+@se f=Open1
+@dir dir=left id=5
+@wait t=3
+@dir dir=right id=5
+@wait t=3
+@dir dir=up id=5
+
+@through type=on
+@through id=AC0 type=on
+
+@wait t=200
+
+@se f=Move1
+@invisible type=off id=AC0
+@route route=down:2 id=AC0
+@dir dir=up id=AC0 wt=0
+
+@se f=Move1
+@invisible type=off
+@route route=down
+
+@dir dir=up
+@wait t=200
+
+@dir dir=right id=5
+@wait t=3
+@dir dir=left id=5
+@wait t=3
+@dir dir=down id=5
+@se f=Close1
+
+@dir dir=down
+
+@move_f f=リリィ@通常 in=c t=150
+
+[リリィ]「えっと……たしか、ヴェルナが言ってたのは『スライムコア』と『テオナ茸』とだね」
+
+@bs f=リリィ@微笑
+
+[リリィ]「『スライムコア』は道具屋さんで、『テオナ茸』はヒルベルタの森で手に入るみたいだよ」
+
+@move_f f=リリィ@ out=c t=150
+
+;;===============================================================================

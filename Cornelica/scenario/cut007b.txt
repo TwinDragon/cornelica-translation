@@ -1,0 +1,19 @@
+
+@huki b=8 id=77
+@route route=left:2 id=77
+
+@dir dir=right
+
+@huki b=4 id=77
+[サキュバスＡ]「おにいさん♪　久しぶりぃ♪」
+
+@huki b=8 id=76
+@route route=right:2 id=76
+
+@dir dir=left
+
+@huki b=4 id=76
+[サキュバスＢ]「元気にしてたぁ？」
+
+
+

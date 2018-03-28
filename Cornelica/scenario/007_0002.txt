@@ -1,0 +1,21 @@
+
+@invisible type=on
+@invisible type=on id=AC0
+@through type=on
+
+@fade type=in t=500 wt=0
+
+@move_speed spd=5
+@route route=up:7,left:11,up:3
+@move_speed spd=4
+
+@bs f=リリィ@微笑 body=-1 face=0 x=400 opa=0 y=50 t=20 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+[リリィ]「この道を真っ直ぐ進んだ先にある、十字路を左に曲がって……そのまま進んだ先の突き当り」
+
+@bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
+[リリィ]「ここから近いし……他に入れそうな建物もないから、迷ったりはしないと思うよ」
+
+@fade type=out t=500 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=500 wt=1
+

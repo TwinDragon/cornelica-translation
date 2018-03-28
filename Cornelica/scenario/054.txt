@@ -1,0 +1,789 @@
+;;■30
+;;■城
+
+@move_f f=ヴァネッサ@普通 in=c t=150
+
+[ヴァネッサ]「……答えは、決まったか？」
+
+;;決まった
+;;もう少し考えたい
+@select s1=決まった/*code01 s2=もう少し考えたい/*code02
+;;==============================================================
+;;決まった
+*code01
+
+@bs f=ヴァネッサ@微笑 t=150
+
+[ヴァネッサ]「うむ。では、聞かせてもらおうか」
+
+@bgm
+@fade type=out t=1000 wt=1
+@move_f f=ヴァネッサ@ out=c t=20 wt=1
+@bs
+
+@dot_move x=10 y=9
+
+@dot_move id=10
+@dot_move id=11
+
+@c_jump x=-1 id=10 wt=0
+@c_jump x=1 id=11
+
+@change f=主人公 id=10
+@change f=リリィ id=11
+
+@dir dir=up id=10
+@dir dir=up id=11
+@dir dir=down id=5
+
+@step_anime id=11 type=on
+
+@invisible type=on
+@invisible type=on id=6
+@fade type=in t=1000 wt=1
+
+@huki b=8 id=5
+@huki b=8 id=10
+@huki b=8 id=11
+@wait t=500
+
+@bs f=ヴァネッサ@普通 t=250
+
+;;元の世界に戻る
+;;この世界に残る
+@select s1=元の世界に戻る/*code03 s2=この世界に残る/*code04
+;;==============================================================
+;;もう少し考えたい
+*code02
+
+@bs f=ヴァネッサ@微笑 t=150
+
+[ヴァネッサ]「そうか、ゆっくり考えるといい」
+
+@move_f f=ヴァネッサ@ out=c t=150
+
+@variables id=108 val=0 type=0 calc=0
+@jump target=*end01
+;;==============================================================
+*code04
+;;この世界に残る
+
+@bs f=ヴァネッサ@微笑 t=150
+
+[ヴァネッサ]「……ふむ」
+
+@move_f f=ヴァネッサ@ out=c t=150
+
+@dir dir=left id=11
+@dir dir=right id=10
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=600
+
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+
+[リリィ]「いいの……？　アル……」
+
+@huki b=8 id=10
+;;主人公：哀しい顔
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+;;主人公：微笑む
+@bs f=アル@普通 x=-350 y=50 t=600 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400
+
+[リリィ]「アル……」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=up id=11
+@dir dir=up id=10
+@bs f=ヴァネッサ@微笑 x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@哀しみ_r x=-400 y=50 t=20 opa=0 wt=0
+
+@move f=ヴァネッサ@微笑 x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「そうか……よく決断した。ならば……わし達はこれからずっと一緒じゃ」
+
+@bgm
+@fade type=out t=1000 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@bs
+
+@dot_move x=4 y=5 dir=down
+@dot_move id=11 dir=down
+@dot_move id=5
+@c_jump id=5 y=1
+@dir dir=up id=5
+
+@change f=void id=10
+@change f=リリィ id=11
+
+@invisible type=off
+
+@ev f=black
+@fade type=in t=20 wt=1
+
+@variables id=108 val=1 type=0 calc=0
+@jump target=*end01
+;;==============================================================
+*code03
+;;元の世界に戻る
+
+@bs f=ヴァネッサ@困惑 t=600 wt=1
+@wait t=400
+
+@move_f f=ヴァネッサ@ out=c t=400
+
+@bs f=ヴァネッサ@困惑 x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@困惑_r x=-400 y=50 t=20 opa=0 wt=0
+
+@huki b=8 id=11
+@huki b=8 id=5
+
+@dir dir=left id=11
+
+@move f=ヴァネッサ@困惑 x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=600 wt=1
+
+[ヴァネッサ]「…………」
+
+@bs f=リリィ@哀しみ_r x=-350 y=50 t=600 wt=1
+
+[リリィ]「………………」
+
+@bs f=リリィ@微笑_r op=焦り_r x=-350 y=50 t=300 wt=1
+
+[リリィ]「まぁ……当然の選択だよね……」
+
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「そうか……それは、残念――」
+
+@move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+;;主人公台詞：だけど
+@select s1=だけど/*se01
+*se01
+
+@bgm
+
+@huki b=8 id=10
+@bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=ヴァネッサ@蔑み x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@哀しみ_r x=-400 y=50 t=20 opa=0 wt=0
+
+@move f=ヴァネッサ@蔑み x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=5
+@bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「何じゃ？」
+
+@bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「……？」
+
+@move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 op=ハテナ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@huki b=8 id=10
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+;;リリィも連れて行く！
+;;二人であっちの世界に行く！
+@select s1=リリィと一緒に行く！/*se03 s2=二人であっちの世界に行く！/*se04
+*se03
+*se04
+
+@huki b=1 id=10
+@bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@huki b=1 id=5
+@huki b=1 id=11
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=ヴァネッサ@蔑み x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@焦り_r x=-400 y=50 t=20 opa=0 wt=0
+
+@move f=ヴァネッサ@蔑み x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@焦り_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「……な、なんじゃと！？」
+
+@bs f=リリィ@哀しみ_r x=-350 y=50 t=600 wt=1
+
+[リリィ]「アル……私は……」
+
+@move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+@dir dir=right id=10
+
+@bs f=アル@屈辱 op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑  x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600 wt=1
+
+[リリィ]「………………」
+
+@huki b=8 id=11
+@bs f=リリィ@通常 op=焦り x=350 y=50 t=600 wt=1
+
+[リリィ]「………………」
+
+@huki b=1 id=11
+@bs f=リリィ@微笑 x=350 y=50 t=300 wt=1
+
+@bgm f=s-015 pitch=70
+
+[リリィ]「行く。行くよ。私もアルと一緒に！」
+
+@huki b=8 id=10
+@huki b=1 id=5
+
+@bs f=アル@焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=up id=10
+@dir dir=up id=11
+
+@move_f f=ヴァネッサ@焦り in=c t=150
+
+[ヴァネッサ]「な……何をいっておる！　そんなこと……わしは許さぬぞ！」
+
+@move_f f=ヴァネッサ@ out=c t=150
+
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=400
+
+@bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=300
+
+[リリィ]「……ママ……」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴァネッサ@怒り in=c t=400
+
+[ヴァネッサ]「可愛い娘を異世界になどやれるものか！　全く……何を言い出すかと思えば……！」
+
+@move_f f=ヴァネッサ@ out=c t=400
+
+;;SE魔法発動音
+;;魔法発動エフェクト
+
+@bgm
+@anime num=225 id=18 wt=1
+
+@huki b=1 id=5
+@huki b=1 id=10
+@huki b=1 id=11
+
+@dir dir=down id=10
+@dir dir=down id=11
+
+@se f=Flash1 pitch=50
+@flash t=1000
+@switches id=138 val=1
+
+@wait t=500
+@move_f f=ヴァネッサ@焦り in=c t=150
+
+[ヴァネッサ]「むっ！？　な、なんじゃいきなり！？」
+
+@move_f f=ヴァネッサ@ out=c t=150
+
+@huki b=8 id=11
+@huki b=8 id=10
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=600
+
+@huki b=2 id=11
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=600
+
+[リリィ]「これ……転移魔法？」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=1 id=5
+@huki b=1 id=10
+@huki b=1 id=11
+
+@se f=Flash1
+@flash t=1000
+
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=1000 wt=1
+@dot_move x=9 y=10 id=13 dir=up
+@dot_move x=10 y=10 id=12 dir=up
+@change f=ヴェルナ num=0 id=13
+@change f=白良 num=0 id=12
+
+@switches id=138 val=0
+@move_f f=white face=0 out=c t=1000 wt=1
+
+;;白良とヴェルナが現れる
+
+@huki b=8 id=12
+@huki b=8 id=13
+@wait t=500
+
+@bs f=ヴェルナ@考える x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@通常 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=白良@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=600
+
+@bgm f=b-014 pitch=120
+
+@bs f=白良@微笑 x=350 y=50 t=400 wt=1
+
+[白良]「……ふう」
+
+@huki b=8 id=13
+@bs f=ヴェルナ@微笑 x=-350 y=50 t=400 wt=1
+
+[ヴェルナ]「……ちょうどいいタイミングだな」
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+@huki b=8 id=11
+@huki b=8 id=10
+
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+;;主人公：驚く
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@bs f=ヴェルナ@考える x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@考える x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=白良@通常 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=600
+
+@huki b=8 id=12
+@bs f=白良@通常 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=白良@笑み x=350 y=50 t=600 wt=1
+
+[白良]「アルさん。お久しぶりです」
+
+@bs f=ヴェルナ@微笑 x=-350 y=50 t=300 wt=1
+
+[ヴェルナ]「いや、なに。君の事だリリィも連れていきたいと言い出すんじゃないかと踏んでな」
+
+@bs f=ヴェルナ@考える x=-350 y=50 t=250 wt=1
+
+[ヴェルナ]「折角だから、そこの頑固者の説得に力を貸してやろうと出向いたまでさ」
+
+@huki b=1 id=5
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+@move_f f=ヴァネッサ@焦り in=c t=250 wt=1
+
+@dir dir=up id=10
+@dir dir=up id=11
+
+[ヴァネッサ]「はぁ！？　説得じゃと！？」
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+@huki b=8 id=13
+@bs f=ヴェルナ@通常 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@通常 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=白良@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@dir dir=down id=10
+@dir dir=down id=11
+
+@bs f=ヴェルナ@考える x=-350 y=50 t=400 wt=1
+
+[ヴェルナ]「はぁ……ヴァネッサ……お前は一度頭を冷やすべきだ」
+
+@huki b=8 id=12
+@bs f=白良@哀しみ x=350 y=50 t=400 wt=1
+
+[白良]「あなたの事情は承知しております。ですがこのままではあまり良いことにはならないでしょう。あなたにとっても……この街にとっても……」
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+;;主人公：疑問符
+
+@bs f=アル@屈辱 op=ハテナ x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=2 id=10
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@huki b=2 id=11
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=400 wt=1
+
+[リリィ]「事情……？」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=up id=10
+@dir dir=up id=11
+
+@huki b=8 id=5
+@move_f f=ヴァネッサ@困惑 in=c t=250 wt=1
+
+[ヴァネッサ]「…………」
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+@bs f=ヴァネッサ@困惑 x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@困惑_r x=-400 y=50 t=20 opa=0 wt=0
+
+@move f=ヴァネッサ@困惑 x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=11
+@bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「ママ……？　何の事なの……？」
+
+@huki b=7 id=5
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
+
+[ヴァネッサ]「全く……白良、本当に余計なことをしてくれたな……」
+
+@huki b=2 id=11
+@bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「ママ……？」
+
+@huki b=7 id=5
+@bs f=ヴァネッサ@焦り x=300 y=50 t=600 wt=1
+@wait t=600
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
+
+[ヴァネッサ]「……そうじゃな……そもそもの原因は、わしの統治不足にあった」
+
+@huki b=8 id=5
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=300 wt=1
+
+[ヴァネッサ]「簡潔に言えばな、わしと夫の関係があまりにもサキュバスと人間らしからぬ、対等な関係であっため、領主にはふさわしくないと考えた者どもによって反乱が起きかけた」
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
+
+[ヴァネッサ]「責任を感じた夫は、勝手に異世界へと行ってしまった。ただ、それだけの話じゃ」
+
+@huki b=1 id=11
+@bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「そんな……そんな話……私……」
+
+@move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+@bs f=ヴェルナ@考える x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@dir dir=down id=10
+@dir dir=down id=11
+
+@huki b=8 id=12
+@move f=ヴェルナ@考える x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=白良@哀しみ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@bs f=白良@焦り x=350 y=50 t=400 wt=1
+
+[白良]「決して貴女の耳に入らぬよう、関係者には厳命しておりましたから」
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+@bs f=ヴァネッサ@蔑み x=350 y=50 t=20 opa=0 wt=0
+@bs f=リリィ@哀しみ_r x=-400 y=50 t=20 opa=0 wt=0
+
+@huki b=8 id=5
+@dir dir=up id=10
+@dir dir=up id=11
+
+@move f=ヴァネッサ@困惑 x=300 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「そもそも。わし達にとって、人の雄と対等にあること自体が異常なのじゃ」
+
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「ほとんどのものは奴隷か食料としてしか見ておらんし、そのような存在に愛を持ってしまったわしの方が異端なのじゃろう」
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「話がそれたな。故に私は、リリィに出て行ってほしくないのじゃ。あやつを連れ帰るなどもってのほかじゃ」
+
+@huki b=2 id=11
+@bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「パパが戻ってきたら……また反乱がおこるから……？」
+
+@huki b=8 id=5
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「…………そうじゃ。……わかってくれるな？　リリィ」
+
+@huki b=8 id=11
+@bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「………………」
+
+@bs f=リリィ@蔑み_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「………………やだ」
+
+@huki b=8 id=5
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「リリィ……」
+
+@bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「やだよ……だって、ママ、寂しそうだもん……」
+
+@bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「……何を言って――」
+
+@huki b=8 id=13
+@move_f f=リリィ@ out=l t=250 wt=1
+@bs f=ヴェルナ@考える x=-400 y=50 t=20 opa=0 wt=1
+@move f=ヴェルナ@考える x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+[ヴェルナ]「強がりはやめておけ。我が子というものは存外、気づいているものだぞ」
+
+@huki b=7 id=5
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
+
+[ヴァネッサ]「…………」
+
+@move_f f=ヴェルナ@ out=l t=300
+@bs f=リリィ@哀しみ_r x=-400 y=50 t=20 opa=0 wt=1
+@move f=リリィ@哀しみ_r x=-350 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+@bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「……はぁ……あぁ、そうじゃとも。本音を言うとな……しかし、仕方がないじゃろう」
+
+@bs f=リリィ@困惑_r x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=8 id=11
+@bs f=リリィ@蔑み_r x=-350 y=50 t=300 wt=1
+
+[リリィ]「…………わかった……でも、パパには会いに行く」
+
+@huki b=1 id=5
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
+
+[ヴァネッサ]「リリィ……！」
+
+@bs f=リリィ@微笑_r x=-350 y=50 t=400 wt=1
+
+[リリィ]「それでね、旅をして、一人前のサキュバスになって、そしたら、この街を変えるの。パパが戻ってきてもいいような、そんな街に」
+
+@huki b=8 id=11
+@bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「絶対……絶対の絶対……変えて見せるから」
+
+@huki b=8 id=5
+@bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
+
+[ヴァネッサ]「……リリィ……」
+
+@move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+;;主人公台詞：僕からもお願いします！
+@huki b=8 id=5
+@move_f f=ヴァネッサ@焦り in=c t=600 wt=1
+
+;;ヴァネッサ、リリィを見つめる
+[ヴァネッサ]「………………」
+
+@move_f f=ヴァネッサ@ out=c t=600 wt=1
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=8 id=10
+@huki b=8 id=11
+
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@bs f=アル@焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+;;シーン終了
+
+@bgm
+
+@variables id=108 val=2 type=0 calc=0
+@jump target=*end01
+;;==============================================================
+*end01
+

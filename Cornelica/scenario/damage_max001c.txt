@@ -1,0 +1,18 @@
+
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+
+@change f=void id=9 wt=0
+@change f=void id=8 wt=0
+@change f=void id=7 wt=0
+@change f=void id=5 wt=0
+
+@c_jump id=AC0 y=1
+@dir dir=up id=AC0
+
+@wait t=2000
+
+@ev f=black
+@fade type=in t=20 wt=1
+

@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+搾精植物に搾り取られる\n　ヒント：夜のヒルベルタの森にて……
+@mes_win back=0 pos=2

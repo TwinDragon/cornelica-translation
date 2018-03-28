@@ -1,0 +1,14 @@
+;;■01
+
+@map_scroll dir=up dis=2 spd=4
+@huki b=7
+@bs f=アル@屈辱_頬 op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=500
+
+@move f=アル@屈辱_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@bs
+
+@map_scroll dir=down dis=2 spd=5
+@route route=down:2

@@ -1,0 +1,277 @@
+;;■03
+;;■ヒルベルタの森
+
+@bs f=st01 face=0 body=-1 opa=0
+@bs f=white face=0 body=-1
+@bs f=eyelid_u face=0 body=-1
+@bs f=eyelid_b face=0 body=-1
+@move f=st01 x=0 y=38 w=110 h=110 opa=255 t=20 wt=1
+
+@dot_move id=8 x=19 y=33 dir=right
+@dot_move id=9 x=21 y=33 dir=left
+
+@change f=主人公 id=8 num=0
+@change f=リリィ id=9 num=0
+@step_anime id=8 type=on
+@step_anime id=9 type=on
+
+@move f=st01 x=0 y=76 w=120 h=120 opa=255 t=20 wt=0
+@move f=white x=0 y=0 w=120 h=120 opa=255 t=20 wt=1
+
+@fade type=in t=300 wt=0
+@move f=eyelid_u x=0 y=-384 h=100 w=100 opa=0 t=1500 wt=0
+@move f=eyelid_b x=0 y=384 h=100 w=100 opa=0 t=1500 wt=0
+@move f=white x=0 y=0 h=100 w=100 opa=0 t=1500 wt=1
+
+;;覗き込んでくるリリィ
+[？？？]「…………」
+
+[？？？]「あ、やっと起きた！」
+
+@se f=「ドクンッ」という心音
+@qk
+@fade type=out t=100 wt=0
+@qk
+
+@bs wt=0
+@bs f=アル@困り x=-350 y=50 t=20 wt=0
+@bs f=リリィ@微笑 x=350 y=50 t=20 wt=1
+
+@se f=衣擦れの音1
+@fade type=in t=50 wt=1
+
+@bgm f=s-002
+
+@huki b=3 id=9
+@bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
+[？？？]「キミ、なかなか寝顔が可愛いね♪」
+
+;;飛び起き、リリィから距離を取るアル
+;;「えっ、誰！？」「ここはどこ！？」
+
+@bs f=リリィ@微笑 x=350 y=50 t=200 wt=0
+@bs f=アル@焦り x=-350 y=50 t=200 wt=0
+
+@huki b=7 id=8
+@dir dir=up id=8
+@wait t=200
+
+@dir dir=down id=8
+@wait t=300
+
+@dir dir=up id=8
+@wait t=200
+
+@dir dir=down id=8
+@wait t=300
+
+@dir dir=right id=8
+
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=250 wt=1
+@select s1=だ、誰！？/*st04a s2=こ、ここはどこ！？/*st04b
+;;===========================================================================
+*st04a 
+
+@huki b=2 id=8
+@bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200 wt=1
+
+@bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=300
+[？？？]「ああ、まずはそこから話さないといけなかったね。ごめんごめん」
+
+@jump target=*end01
+;;===========================================================================
+*st04b
+
+@bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300
+@huki b=7 id=8 wt=1
+
+@bs f=リリィ@焦り body=-1 face=0 x=350 y=50 t=300 wt=0
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
+
+[？？？]「そんなに警戒する必要なんかないよ。大丈夫大丈夫」
+
+@bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=300
+[？？？]「……ここはね、ヒルベルタの森っていうんだよ」
+
+;;主人公疑問符
+@huki b=2 id=8
+@bs f=アル@困り op=ハテナ body=-1 face=0 x=-350 y=50 t=200 wt=0
+@wait t=700
+
+@huki b=2 id=9
+@bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
+
+[？？？]「聞いたことない？」
+
+;;うなずく
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=300 wt=0
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@huki b=2 id=9
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
+@bs f=リリィ@通常 op=ハテナ body=-1 face=0 x=350 y=50 t=300
+
+[？？？]「コルネリカの街は？」
+
+;;首を振る
+@bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300 wt=0
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
+
+@bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=300
+[？？？]「んー……コルネリカも知らないか……」
+
+@huki b=8 id=9
+@bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
+[？？？]「…………」
+
+;;主人公疑問符
+@huki b=2 id=8
+@bs f=アル@焦り op=ハテナ body=-1 face=0 x=-350 y=50 t=200 wt=0
+@wait t=1000
+
+@huki b=9 id=9
+@bs f=リリィ@笑顔 op=電球 body=-1 face=0 x=350 y=50 t=300
+[？？？]「あっ、そうだ！　自己紹介もまだしてなかったよね」
+
+@jump target=*end01
+;;===========================================================================
+*end01
+
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200 wt=0
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=300
+[？？？]「私の名前はリリィ」
+
+@huki b=3 id=9
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「サキュバスの、リリィ。よろしくね♪」
+
+;;主人公感嘆符
+@huki b=1 id=8
+@bs f=アル@焦り op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=1
+
+@huki b=6 id=9
+@bs f=リリィ@焦り op=困惑 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「あ～……だからそんなに警戒しなくてもいいよ……そんなつもりはないから。大丈夫って最初に言ったでしょ？」
+
+;;主人公、不安な表情
+@bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
+@huki b=8 id=8 wt=1
+
+@huki b=8 id=9
+@bs f=リリィ@困惑 op=困惑 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「もぉー大丈夫って言ってるのにー……」
+
+;;リリィ、何かを思いついた表情→
+;;意地の悪い感じの表情
+@huki b=7 id=9
+@bs f=リリィ@蔑み op=困惑 body=-1 face=0 x=350 y=50 t=800
+@wait t=500
+
+@huki b=9 id=9
+@bs f=リリィ@通常 op=電球 body=-1 face=0 x=350 y=50 t=800
+@wait t=500
+
+@huki b=2 id=9
+@bs f=リリィ@困惑 op=ハテナ body=-1 face=0 x=350 y=50 t=600
+
+[リリィ]「……いいの？　１人だけでこんなとこにいたら、他のサキュバス達に襲われちゃうかもしれないよ？」
+
+;;主人公、おびえる
+@step_anime id=8 type=off
+
+@bs f=アル@焦り op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=0
+@huki b=1 id=8 wt=0
+@c_jump id=8 wt=0
+
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=600
+
+@bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
+[リリィ]「……信用する気になった？」
+
+;;主人公、うなずく
+@bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1
+@move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1
+
+@huki b=3 id=9
+@bs f=アル@焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「分かればよろしい♪」
+
+;;主人公普通の表情
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
+@bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
+
+[リリィ]「んー……」
+
+@bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
+[リリィ]「いまの感じだと、サキュバスのことは知ってるの？」
+
+;;主人公うなずく
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
+@move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=600
+@bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
+
+[リリィ]「…………」
+
+@huki b=8 id=9
+[リリィ]（……この子……全然普通だ……強い魔力も感じないし……だったらどうやって……？）
+
+;;主人公疑問符
+@huki b=2 id=8 wt=1
+@bs f=アル@焦り op=ハテナ body=-1 face=0 x=-350 y=50 t=300 wt=1
+@wait t=800
+
+@huki b=1 id=9
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300 wt=0
+@bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=300
+
+[リリィ]「あっ、そういえば！　キミの名前、まだ教えてもらってなかったよね？」
+
+@huki b=2 id=9
+@bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=300
+
+[リリィ]「『キミ』のままじゃ、呼び辛いし……教えてくれると、うれしいな♪」
+
+@bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
+
+;;「僕はアル」
+@select s1=僕はアル/*st05a
+*st05a
+
+@huki b=8 id=8
+@bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=0
+@bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=300 wt=1
+@wait t=1000
+
+@huki b=3 id=9
+@bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「アルか……うん。いい名前だね♪　教えてくれてありがと♪」
+
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300 wt=0
+@bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=300
+[リリィ]「さて、自己紹介も終わったし……場所を移しながら、お話ししようよ♪」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+;;■シーン終了
+
+;;　リリィにゲートの話
+;;　通貨の話
+
+@fade type=out t=500 wt=1
+@rps
+

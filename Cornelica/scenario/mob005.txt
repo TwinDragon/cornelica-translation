@@ -1,0 +1,9 @@
+;;■01
+
+@huki b=1 id=19 wt=0
+@move_f f=客A@01 face=0 in=c t=150 wt=1
+
+[客]「はは！　今日も店の手伝いか！　親孝行な子だねぇ！」
+
+@move_f f=客A@01 face=0 out=c t=150 wt=1
+

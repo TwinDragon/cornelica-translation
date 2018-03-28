@@ -1,0 +1,6 @@
+
+@wait t=2000
+
+@ev f=black
+@fade type=in t=20 wt=1
+

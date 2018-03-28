@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+アルネに搾精される\n　ヒント：アルネのアルバイトを受けると……
+@mes_win back=0 pos=2

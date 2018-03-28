@@ -1,0 +1,15 @@
+
+;;射精
+@bgv
+@bgm
+
+@huki b=7 id=AC0
+@bs f=リリィ@蔑み op=困惑 y=50 x=400 opa=0
+@move f=リリィ@蔑み x=350 y=50 w=100 h=100 t=200 opa=255 wt=1
+@wait t=1000
+
+
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 t=200 opa=0 wt=1
+@move_f f=リリィ@ out=c t=20 wt=0
+@bs
+

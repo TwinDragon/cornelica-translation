@@ -1,0 +1,215 @@
+;;====================================================================
+;;■館前にいるヴラスタメイドに声を掛ける
+
+@dir dir=right wt=0
+@dir dir=right id=AC0 wt=0
+
+@huki b=8 id=AC0
+@wait t=200
+
+@bs f=リリィ@通常_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=メイド@蔑み_赤 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=リリィ@通常_r x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=メイド@蔑み_赤 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@huki b=8 id=3
+@bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=200
+
+[ヴラスタ]「コンニチワ」
+
+@bs f=リリィ@微笑_r op=ハテナ_r body=-1 face=0 x=-350 y=50 t=200
+
+[リリィ]「あのね、お願いしたい事があるの」
+
+@huki b=2 id=3
+@bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
+
+[ヴラスタ]「ナデショウカ？」
+
+@huki b=2 id=AC0
+@bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
+@bs f=リリィ@困惑_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「館の魔女に……会うことってできない？」
+
+@huki b=2 id=3
+@bs f=リリィ@通常_r x=-350 y=50 t=100 wt=0
+@bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
+
+[ヴラスタ]「マスター？　マスターハ今ハ留守デス」
+
+@huki b=6 id=AC0
+@bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
+@bs f=リリィ@困惑_r op=焦り_r body=-1 face=0 x=-350 y=50 t=200 wt=1
+
+[リリィ]「えと……いつ頃、帰ってくるとか……」
+
+@huki b=8 id=3
+@bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
+
+[ヴラスタ]「マスターハ今ハ留守デス」
+
+@huki b=7 id=AC0
+@bs f=リリィ@蔑み_r op=困惑 body=-1 face=0 x=-350 y=50 t=200
+@wait t=800
+
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=メイド@蔑み_赤 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=left id=AC0
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=200 wt=1
+
+[リリィ]「んー……話を聞いてくれないみたいだね……もしかしたら、追い返すように言われてるのかも……」
+
+@bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=8 id=AC0
+@bs f=リリィ@通常 x=350 y=50 t=800 wt=1
+@wait t=600
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=メイド@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=AC0
+@wait t=300
+
+@dir dir=up id=AC0
+@wait t=300
+
+@route route=up,left:3 id=AC0
+@dir dir=up id=AC0
+@dir dir=up
+
+@huki b=8 id=AC0
+@map_scroll dir=left dis=2 spd=2
+@map_scroll dir=up dis=1 spd=2
+
+@huki b=9 id=AC0 wt=1
+
+@dir dir=right id=AC0
+
+@move_speed spd=5 id=AC0
+@route route=down,right id=AC0
+
+@dir dir=left wt=0
+@map_scroll dir=down dis=1 spd=6
+@map_scroll dir=right dis=1 spd=6
+
+@bs f=アル@困り op=ハテナ x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=2
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=600
+
+@bs f=リリィ@笑顔 x=350 y=50 t=100 wt=0
+@move f=リリィ@笑顔 x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=リリィ@笑顔 x=350 y=50 w=100 h=100 t=80 wt=1
+@move f=リリィ@笑顔 x=350 y=0 w=100 h=100 t=100 wt=1
+@move f=リリィ@笑顔 x=350 y=50 w=100 h=100 t=80 wt=1
+
+@bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
+
+[リリィ]「アル、ちょっとこっち」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=メイド@ face=0 out=c t=20 wt=0
+@bs
+
+@move_speed spd=4
+@move_speed spd=4 id=AC0
+
+@fade type=out t=500 wt=0
+
+@route route=left:3 wt=0
+@route route=left:3 id=AC0 wt=1
+
+@dot_move map=37 x=36 y=9
+@c_jump id=AC0 x=-1
+@fade type=in t=250 wt=0
+
+@route route=left:4,down,left:3 wt=0
+@route route=left:3,down,left:4 id=AC0 wt=1
+
+@move_speed spd=5 id=AC0
+
+@route route=down,right:2,up id=AC0
+
+@dir dir=left id=AC0 wt=0
+@dir dir=right
+
+@c_jump id=AC0 wt=1
+
+;;リリィ＋主人公館から少し離れる
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+;;主人公：台詞：どうしたの？
+;;主人公疑問符
+@huki b=2
+@bs f=アル@困り op=ハテナ body=-1 face=0 x=-350 y=50 t=300 wt=1
+@wait t=600
+
+@huki b=8 id=AC0
+@bs f=リリィ@通常 x=350 y=50 t=800 wt=1
+@wait t=400
+
+@bs f=アル@困り body=-1 face=0 x=-350 y=50 t=100 wt=0
+@bs f=リリィ@微笑 x=350 y=50 t=300 wt=1
+
+[リリィ]「……魔女の館に忍び込んでみようよ」
+
+;;主人公驚き
+
+;;主人公哀しい顔
+@bs f=アル@驚き op=ビックリ body=-1 face=0 x=-350 y=50 t=200
+@huki b=1 wt=0
+@c_jump wt=0
+
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@c_jump id=AC0 wt=0
+@bs f=リリィ@笑顔 op=音符 x=350 y=50 t=300 wt=1
+
+@bs f=アル@困り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
+
+[リリィ]「『あっちの世界』に戻るためだよっ！　ほら、行こ！ もしかしたら裏口とかあるかもしれないよ！」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=メイド@ face=0 out=c t=20 wt=0
+@bs
+
+;;====================================================================

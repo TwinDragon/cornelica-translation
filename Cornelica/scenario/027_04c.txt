@@ -1,0 +1,23 @@
+;;======================================================
+;;道具屋でアルバイト
+
+;;---------------------------------------------------------
+@dot_move id=1
+@move_f f=アル@ out=c t=20 wt=1
+
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+
+@c_jump id=1 y=2
+@change f=アルネ id=1
+
+@dir dir=down
+@dir dir=up id=1
+
+@wait t=2000
+
+@ev f=black
+
+@fade type=in t=20 wt=1
+
+;;======================================================

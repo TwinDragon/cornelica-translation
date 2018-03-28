@@ -1,0 +1,52 @@
+;;==========================================================================================
+;;酒場でアルバイト：失敗
+
+@bs
+@huki b=2 id=13
+@wait t=300
+
+@dir_fix type=off id=13
+@dir dir=down id=13
+@wait t=800
+
+@move_f f=ロザリー@焦り in=c t=200
+
+[ロザリー]「アル……倒れちゃった？」
+
+@bs f=ロザリー@考える
+
+[ロザリー]「………じゃあ、こっちで……休もっか……」
+
+@bs f=ロザリー@通常 t=600
+@wait t=600
+
+@bs f=ロザリー@笑み t=200
+
+[ロザリー]「……フフ、お酒も持っていっちゃお」
+
+@fade type=out t=1000 wt=1
+
+@se f=Move1
+@wait t=1000
+
+@move_f f=ロザリー@ out=c t=20 wt=0
+@bs
+@rps
+
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+@dot_move map=47 x=4 y=5
+
+@dot_move id=1
+@c_jump y=1 id=1
+@dir dir=up id=1
+@change f=ロザリー id=1 num=0
+@ev f=black
+
+@wait t=2000 wt=1
+@fade type=in t=20 wt=1
+
+;;ロザリーの部屋移動
+;;時間経過
+
+;;==========================================================================================

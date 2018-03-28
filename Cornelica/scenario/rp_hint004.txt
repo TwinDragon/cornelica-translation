@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+生徒達に足コキされる\n　ヒント：学校裏にいる生徒に話しかけると……
+@mes_win back=0 pos=2

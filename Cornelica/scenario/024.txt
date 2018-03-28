@@ -1,0 +1,159 @@
+;;=================================================================
+;;■魔女の館
+;;リリィの元に戻る二人
+
+@invisible type=off id=AC0
+@invisible type=on id=2
+@invisible type=on
+
+@dot_move id=2
+@c_jump id=AC0 y=-2 wt=0
+@c_jump id=2 x=-1
+
+@dir dir=down id=AC0 wt=0
+@dir dir=up id=2 wt=0
+@dir dir=up
+
+@bgm f=s-003 pitch=80
+@fade type=in t=2000 wt=0
+
+@wait t=1000
+@huki b=8 id=AC0 wt=1
+@bs f=リリィ@哀しみ x=0 y=50 opa=0 wt=0
+@move f=リリィ@哀しみ x=0 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=400
+
+@se f=Door1
+
+@bs f=リリィ@通常 op=ビックリ x=0 y=50 t=400 wt=1
+@move f=リリィ@通常 x=0 y=0 w=100 h=100 t=130 wt=1
+@move f=リリィ@通常 x=0 y=50 w=100 h=100 t=160 wt=1
+
+@wait t=600
+@move_f f=リリィ@ out=c t=200 wt=1
+
+@move_speed spd=3
+@move_speed spd=3 id=2
+
+@se f=Move1
+@invisible type=off id=2
+@route route=up:2,left id=2
+@dir dir=right id=2 wt=0
+
+@dir dir=left id=AC0
+
+@se f=Move1
+@invisible type=off
+@wait t=200
+
+@dir dir=down id=AC0
+@route route=up
+
+@bs f=アル@困り op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@通常 x=0 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=アル@困り x=-350 y=50 t=100 wt=0
+@bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
+
+[リリィ]「あ……戻って来た。どうだった？　帰る方法は分かりそう？」
+
+;;主人公：赤面
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=500 wt=1
+@wait t=400
+
+@move f=アル@屈辱_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@dir dir=left id=AC0 wt=0
+@dir dir=left wt=0
+
+@move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴェルナ@微笑 t=200
+
+[ヴェルナ]「分析には、もう少し時間がかかる。そうだな……また明日にでも来なさい」
+
+@bs f=ヴェルナ@通常
+
+[ヴェルナ]「それと今は夜だ。道すがらに犯されて、もう帰りたくない。なんてことにならないようにな」
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=0 t=200 wt=0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=リリィ@微笑 x=350 y=50 t=200
+
+[リリィ]「そっか……うん、分かった……でも、良かったね、希望が見えそうで」
+
+;;主人公：赤面（うなずく）
+@huki b=7
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
+@move f=アル@困り_頬 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@困り_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@switches id=70 val=1
+@bs f=リリィ@通常 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@dir dir=down id=AC0 wt=0
+@dir dir=up
+
+@huki b=2 id=AC0
+@bs f=リリィ@笑顔 op=ハテナ  x=350 y=50 t=200
+
+[リリィ]「それで、どんな話をしてたの？」
+
+;;主人公：赤面（うなずく）
+@huki b=1
+@bs f=アル@驚き_頬 op=焦り x=-350 y=50 t=300 wt=1
+@move f=アル@驚き_頬 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bs f=アル@屈辱_頬 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+;;主人公：赤面
+
+@huki b=2 id=AC0
+@bs f=リリィ@哀しみ op=ハテナ  x=350 y=50 t=200
+
+[リリィ]「ん？　なんか変な反応……私、変なこと聞いたかな？」
+
+;;主人公：赤面
+@huki b=7
+@bs f=アル@屈辱_頬 op=焦り x=-350 y=50 t=100 wt=600
+@wait t=400
+
+@bgm
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@move_f f=ヴェルナ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm f=b-006
+
+;;暗転
+;;=================================================================
+

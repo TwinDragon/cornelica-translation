@@ -1,0 +1,141 @@
+;;========================================================================================================
+;;■13
+;;■フランカ区（城の前）
+
+
+@c_jump y=1 x=-1
+@c_jump y=1 x=1 id=AC1
+@dot_move id=11 dir=up
+
+@route route=right
+
+@dir dir=up id=AC0
+@dir dir=up id=AC1
+@dir dir=up
+
+@invisible type=on
+@change f=主人公 id=11 num=0
+
+@map_scroll dir=up dis=1 spd=15
+@map_scroll dir=right dis=1 spd=15
+
+@fade type=in t=1000 wt=1
+
+@huki b=8 id=AC0
+@huki b=8 id=AC1
+@huki b=8 id=11 wt=1
+
+@se f=Move1
+@fade type=out t=1000 wt=1
+@wait t=1000
+
+@dot_move map=28 x=0 y=16
+@dir dir=right id=AC0
+@dir dir=right id=AC1
+@dir dir=right
+
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+@invisible type=on
+
+@fade type=in t=1000 wt=0
+
+@se f=Move1
+@invisible type=off id=AC0
+@route route=right:3 id=AC0
+@dir dir=left id=AC0
+
+@se f=Move1
+@invisible type=off id=AC1
+@route route=right:2 id=AC1
+
+@se f=Move1
+@invisible type=off
+@route route=right
+
+@dir dir=right id=AC0
+@huki b=8 id=AC0 wt=1
+
+@dir dir=left id=AC0
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@huki b=8 id=AC0
+@bs f=リリィ@蔑み x=350 y=50 t=200
+
+[リリィ]「よしっ！　上手く入り込めたみたい……！」
+
+@move_f f=リリィ@ out=r t=200 wt=1
+
+@huki b=8 id=AC1
+@bs f=メイ@怒り x=400 y=50 opa=0 t=20 wt=0
+@move f=メイ@怒り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+
+[メイ－α]「……辺りに熱源は無いようです……ですが」
+
+@move_f f=アル@ out=l t=200 wt=1
+
+@bs f=リリィ@通常_r x=-400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@通常_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「どうしたの？　メイ？」
+
+@bs f=メイ@焦り x=350 y=50 t=200 wt=1
+
+[メイ－α]「索敵用のレーダーが妨害されております。見つかった場合は実力行使となるでしょう」
+
+@bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「そんなセキュリティがあったんだ……慎重に進まないとね」
+
+@move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=メイ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=メイ@ out=c t=20 wt=1
+@bs
+
+@move_speed spd=3 id=AC0
+@route route=right id=AC0
+@huki b=8 id=AC0 wt=1
+
+@dir dir=left id=AC0
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=6 id=AC0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@bs f=リリィ@蔑み x=350 y=50 t=200
+
+[リリィ]「アル、こっちだよ」
+
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=600
+
+;;主人公：うなずく
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+@move f=アル@困り x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@困り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+;;========================================================================================================
+;;シーン終了

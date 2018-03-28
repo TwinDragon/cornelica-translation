@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+サキュバスに騎乗位される\n　ヒント：街道中央の左側にて……
+@mes_win back=0 pos=2

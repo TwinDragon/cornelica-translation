@@ -1,0 +1,7 @@
+;;■01
+
+[男]「………ぅ………」
+
+@mes_win back=1 pos=1
+\CL衰弱しきってしまっている。
+@mes_win back=0 pos=2

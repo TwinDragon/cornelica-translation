@@ -1,0 +1,205 @@
+;;■01
+
+;;■酒場（自宅）
+@bs f=旅人A@01 face=0 body=-1 opa=0 x=-400 y=50 t=20 wt=0
+@bs f=旅人B@01 face=0 body=-1 opa=0 x=400 y=50 t=20 wt=0
+@dir_fix type=off id=18 wt=0
+@dir_fix type=off id=21 wt=0
+
+@dir dir=up id=18 wt=0
+@dir dir=up id=21 wt=1
+@move_speed spd=3
+
+@fade type=in t=2000 wt=0
+
+@move f=旅人A@01 x=-300 y=50 w=100 h=100 opa=255 t=1500 wt=0
+@move f=旅人B@01 x=300 y=50 w=100 h=100 opa=255 t=1500 wt=0
+@route route=down:3 wt=1
+
+@huki b=8 id=21 wt=0
+@huki b=3 id=18 wt=0
+
+@se f=drink
+@move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
+@move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
+
+[客１]「ゴクゴクゴクッ、プハァーーッ！　やっぱ一仕事した後のお酒は格別ね！」
+
+@huki b=6 id=21 wt=0
+@move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
+@move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
+
+[客２]「戦ったのは、ほとんど俺だったけどね」
+
+@huki b=3 id=18 wt=0
+@se f=Knock
+
+@move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
+@move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
+
+[客１]「女将っ！　もう一杯！」
+
+@huki b=6 id=21 wt=0
+@move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
+@move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
+
+[客２]「……聞いてないし」
+
+@move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
+@move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+@bs f=旅人A@ face=0 body=-1 t=20 wt=0
+@bs f=旅人B@ face=0 body=-1 t=20 wt=0
+
+@move_speed spd=5
+@route route=left,up
+
+@bs f=母@01 face=0 body=-1 opa=0 x=400 y=50 t=20 wt=0
+@move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@huki b=3 id=9
+[酒場の女将]「はいはい～、すぐ次のをお注ぎいたしますねぇ～」
+
+@move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+
+@move_speed spd=3 id=9
+@move_speed spd=3
+
+@route route=up:2 wt=0
+@route route=up:2 id=9
+
+@wait t=250
+@se f=Knock
+@wait t=250
+
+@se f=Liquid
+@wait t=250
+
+@huki b=8 id=9 wt=1
+
+@huki b=7 id=9
+@move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+[酒場の女将]「あ～、水が切れちゃったか……」
+
+@move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+
+@move_speed spd=2 id=9
+@move_speed spd=2
+
+@route route=left wt=0
+@route route=left id=9
+
+@huki b=8 id=9
+@move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+[酒場の女将]「アルー？　ちょっとお手伝いお願いしていいー？」
+
+@move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+
+@move_speed spd=4
+@route route=left:2,up wt=1
+
+@through type=on id=5
+@dot_move x=10 y=13 id=5
+
+@se f=Open1
+@dir dir=left id=3
+@dir dir=right id=3
+@dir dir=up id=3
+
+@change f=主人公 id=5 num=0
+
+@move_speed spd=3 id=5
+@move_speed spd=3
+
+@route route=down wt=0
+@route route=down id=5
+@dir dir=right id=5
+
+@huki b=8 id=5 wt=1
+
+@move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+@bs f=アル@普通 opa=0 x=-400 y=50 t=20 wt=0
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@huki b=2 id=5 wt=0
+@bs f=アル@笑顔 op=ハテナ x=-350 y=50 t=250 wt=1
+@select s1=なに？/*st01a s2=どうしたの？/*st01b
+
+*st01a
+*st01b
+@bs f=アル@普通 x=-350 y=50 t=250 wt=1
+
+@huki b=8 id=9
+[母親]「お母さん今、手が離せないから……」
+
+@huki b=2 id=9
+[母親]「\C[2]近くの川で水を汲んで\C[0]きてもらっていい？」
+
+;;立ち絵うなずく
+@bs f=アル@笑顔 x=-350 y=50 t=250 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+[母親]「じゃあ、よろしくね」
+
+@se f=Item3
+@mes_win back=1 pos=1
+\CL水瓶を受け取った！
+@mes_win back=0 pos=2
+
+@move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=0
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=1
+@bs f=母@ face=0 body=-1 t=20 wt=0
+@bs f=アル@ face=0 body=-1 t=20 wt=0
+
+@move_speed spd=5 id=5
+@move_speed spd=5
+
+@dir dir=down id=9 wt=0
+@route route=down,left,down:7,right:3,down:3 wt=0
+@route route=down,left,down:7,right:3,down:3 id=5
+
+@se f=Open1
+@wait t=500
+
+@se f=Move
+@invisible type=on id=5
+
+@dir dir=down id=21 wt=0
+@move_speed spd=5
+@route route=up:7,right:3
+
+@huki b=8 id=21 wt=1
+@bs f=旅人A@01 face=0 body=-1 opa=0 x=-400 y=50 t=20 wt=0
+@bs f=旅人B@01 face=0 body=-1 opa=0 x=400 y=50 t=20 wt=0
+
+@move f=旅人A@01 x=-300 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=旅人B@01 x=300 y=50 w=100 h=100 opa=255 t=600 wt=1
+
+@move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
+@move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
+
+[客２]「……あの年で店の手伝いか……どこかのニートとは大違いだな」
+
+@dir dir=right id=18 wt=0
+@dir dir=left id=21
+
+@huki b=2 id=18
+@move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
+@move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
+
+[客１]「……へぇー？　随分と生意気なこと言うじゃない……ふふ、教育的指導が必要みたいね」
+
+@move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
+@move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
+@bs f=旅人A@ face=0 body=-1 t=20 wt=0
+@bs f=旅人B@ face=0 body=-1 t=20 wt=0
+@bs
+
+@huki b=3 id=18 wt=0
+@huki b=6 id=21 wt=0
+@fade type=out t=2000 wt=1
+
+@rps

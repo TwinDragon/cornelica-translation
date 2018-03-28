@@ -1,0 +1,37 @@
+;;==========================================================================
+;;しばらく進んだ後
+
+@dir dir=down
+@dir dir=down id=AC0
+@dir dir=down id=AC1
+
+@bgm_save
+@bgm
+
+@huki b=1
+@huki b=1 id=AC0
+@huki b=1 id=AC1 wt=1
+
+@change f=メイドゴーレム id=19 wt=0
+@change f=メイドゴーレム id=20 wt=0
+@change f=メイドゴーレム id=21 wt=0
+@change f=メイドゴーレム id=22
+
+@c_jump id=20 x=-1 y=1 wt=0
+@c_jump id=21 x=1 y=1 wt=0
+@c_jump id=22 y=2 wt=0
+@c_jump id=23 y=1
+
+@dir dir=up id=19 wt=0
+@dir dir=up id=20 wt=0
+@dir dir=up id=21 wt=0
+@dir dir=up id=22
+
+@map_scroll dir=down dis=11 spd=6
+
+@huki b=8 id=19
+@huki b=8 id=20
+@huki b=8 id=21
+@huki b=8 id=22 wt=1
+
+

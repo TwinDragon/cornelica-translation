@@ -1,0 +1,408 @@
+
+;;===============================================================================
+
+@dir dir=right id=AC0 wt=0
+@dir dir=right
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@huki b=8 id=AC0
+@bs f=リリィ@微笑 x=350 y=50 t=200
+
+[リリィ]「はい。頼まれてた素材。全部集めてきたよ」
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@微笑 in=c t=250 wt=1
+
+[ヴェルナ]「あぁ、ありがとう。助かったよ」
+
+@bs f=ヴェルナ@考える t=200
+
+[ヴェルナ]「こちらも丁度、配合量の目処が付いたところだ。すぐ作業に取り掛かる」
+
+@bgm_save
+@bgm
+
+@fade type=out t=1000 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=0
+
+@c_jump x=-1 y=1 wt=0
+@c_jump x=-1 y=1 id=AC0 wt=0
+@c_jump x=-3 y=4 id=2
+@dir dir=down
+@dir dir=down id=AC0
+@dir dir=up id=2
+@rps
+
+@bgm f=s-008 pitch=90
+@fade type=in t=1000 wt=0
+
+@huki b=8 id=AC0
+@huki b=8
+
+@route route=up:2 id=2
+@huki b=8 id=2 wt=0
+@wait t=500
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=ヴェルナ@通常  x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「さてアル。これを服用してみたまえ」
+
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=ヴェルナ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=ヴェルナ@ face=0 out=c t=20 wt=0
+@bs
+
+;;主人公：薬を飲む
+@huki b=8
+@switches id=70 val=1
+@wait t=1500
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@dir dir=left id=AC0
+@dir dir=right
+
+@huki b=2 id=AC0
+@bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
+
+[リリィ]「どう……？」
+
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=600
+
+@huki b=2
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=300 wt=1
+@wait t=300
+
+@move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=AC0
+@dir dir=down
+
+@move_f f=ヴェルナ@考える in=c t=200 wt=1
+
+[ヴェルナ]「ふむ。魔力が少し回復したみたいだな。失敗か、よし次だ」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り op=ビックリ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=200
+
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「えぇ！？　失敗！？」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@通常 in=c t=200 wt=1
+
+[ヴェルナ]「まぁ、新たな研究だからな失敗もあるだろう」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=アル@屈辱 op=焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り op=焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=200
+
+@bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=200
+
+[リリィ]「それって……！　アルは大丈夫なの……！？」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@通常 in=c t=200 wt=1
+
+[ヴェルナ]「安心しろ、命に別状はない」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@dir dir=right
+@dir dir=left id=AC0
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=200
+
+@bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
+
+[リリィ]「そう……なの……？　アルはそれで大丈夫……？」
+
+;;主人公：うなずく
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=アル@普通 x=-350 y=50 t=600 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=リリィ@通常 x=350 y=50 t=600
+@wait t=400
+
+@bs f=リリィ@哀しみ op=焦り x=350 y=50 t=200
+
+[リリィ]「なら……いいけど……」
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down
+@dir dir=down id=AC0
+@move_f f=ヴェルナ@考える in=c t=200 wt=1
+
+[ヴェルナ]「さて……話が落ち着いたところで、次はこれを頼む」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=リリィ@困惑_r x=-400 y=50 opa=0 t=20 wt=0
+@bs f=ヴェルナ@考える x=400 y=50 opa=0 t=20 wt=0
+@bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
+
+@move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=ヴェルナ@考える x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@se f=Book1
+@move f=お使いリスト@01 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
+@wait t=300
+
+@huki b=6 id=AC0
+@bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「……え？　これって……」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「俗に言うお使いリス……」
+
+@se f=Book1
+@move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
+
+@huki b=6 id=AC0
+@bs f=リリィ@困惑_r op=汗_r x=-350 y=50 t=200 wt=1
+
+[リリィ]「そうじゃなくてっ！　また集めてこないといけないの！？」
+
+@huki b=8 id=2
+@bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
+
+[ヴェルナ]「薬を新しく作り直す必要がある。素材も新たに必要になるのは必定だろう？　手間をかけさせるがよろしく頼む」
+
+@huki b=6 id=AC0
+@bs f=リリィ@蔑み_r op=汗_r x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=リリィ@困惑_r op=困惑_r x=-350 y=50 t=600 wt=1
+
+[リリィ]「あぁ、もう……仕方ない……」
+
+@move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=ヴェルナ@考える x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@bs
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@dir dir=left id=AC0
+@dir dir=right
+
+@huki b=6 id=AC0
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=300
+
+@bs f=リリィ@哀しみ x=350 y=50 t=200
+
+[リリィ]「じゃアル、行こっか」
+
+;;主人公：うなずく
+
+;;主人公：うなずく
+@bs f=アル@笑顔 op=焦り x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@bs f=リリィ@微笑 x=350 y=50 t=400
+@wait t=300
+
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_speed spd=3 id=AC0
+@move_speed spd=3
+
+@route route=right,down:2,right:2 wt=0
+@route route=down:2,right:2,down id=AC0 wt=0
+@route route=up:2,right:3 id=2
+
+@huki b=8
+@dir dir=down id=2
+
+@dir dir=up id=AC0 wt=0
+@dir dir=up wt=0
+
+@move_f f=ヴェルナ@考える in=c t=200 wt=1
+
+[ヴェルナ]「あぁ、そうだ。１つ言い忘れていた」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@huki b=2 id=AC0
+@bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=200
+
+[リリィ]「……？　なに？」
+
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@通常 in=c t=200 wt=1
+
+[ヴェルナ]「今、試作した薬だが、必要な場面もあるかもしれない」
+
+@bs f=ヴェルナ@微笑 t=200
+
+[ヴェルナ]「魔法道具屋のブラスタに、同じものを生成できる機能を付けておいた」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=リリィ@蔑み x=350 y=50 t=200
+
+[リリィ]「い、いつの間に……」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴェルナ@微笑 in=c t=200 wt=1
+
+[ヴェルナ]「さっき、席を外した時ついでにな」
+
+@bs f=ヴェルナ@通常 t=200
+
+[ヴェルナ]「生成の仕方だが、口頭で注文した後、お金を払えば後は自動でやってくれる」
+
+@bs f=ヴェルナ@考える t=200
+
+[ヴェルナ]「まぁ、機会があったら試してみたまえ」
+
+@move_f f=ヴェルナ@ out=c t=200 wt=1
+
+@bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+;;主人公：うなずく
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+
+@bs f=リリィ@微笑 x=350 y=50 t=200
+
+[リリィ]「うん……わかった」
+
+@bgm
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+@bgm_replay
+
+;;===============================================================================

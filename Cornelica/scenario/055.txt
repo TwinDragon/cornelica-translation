@@ -1,0 +1,336 @@
+;;■33
+;;■城
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=8 id=5
+@move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
+
+[ヴァネッサ]「………………いや……駄目。駄目じゃ……」
+
+@huki b=1 id=10
+@huki b=1 id=11
+
+@bgm f=s-012 pitch=40
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+;;主人公：哀しい顔
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=アル@焦り x=-350 y=50 t=200 wt=1
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=300 wt=1
+
+[リリィ]「そんな……！」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=8 id=5
+@move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
+
+[ヴァネッサ]「気持ちは分かる。分かるが……じゃが、やはりダメじゃ」
+
+@bs f=ヴァネッサ@焦り
+
+[ヴァネッサ]「リリィはわしの大切な娘なのじゃ……それを、こんな小競り合いに巻き込みたくはない……」
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+;;主人公：哀しい顔
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@huki b=1 id=10
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=1 id=11
+@bs f=リリィ@哀しみ x=350 y=50 t=600 wt=1
+
+[リリィ]「ママ……」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_f f=ヴァネッサ@焦り in=c t=250 wt=1
+
+[ヴァネッサ]「じゃから……」
+
+@bgm
+
+@anime id=5 num=203 wt=0
+@dot_move id=1 dir=right
+@c_jump id=1 x=1
+@dir dir=right id=1
+@step_anime id=1
+
+@bs f=ヴァネッサ@困惑 t=800
+
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+
+@se f=Magic1
+@flash t=500 wt=0
+@change f=!Door2 num=4 id=1
+
+@huki b=1 id=10
+@huki b=1 id=11
+@huki b=1 id=12
+@huki b=1 id=13
+
+@dir dir=right id=10
+
+@dir dir=right id=11
+@wait t=150
+@dir dir=left id=11
+@wait t=200
+
+@dir dir=right id=11
+@wait t=150
+@dir dir=left id=11
+@wait t=200
+
+;;SE魔力発動音
+;;魔力発動エフェクト
+;;リリィの足元に魔法陣を出す
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@bs f=リリィ@焦り op=ビックリ x=350 y=50 t=300 wt=1
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
+
+@bgm f=s-014
+
+[リリィ]「え？　なに？」
+
+@huki b=1 id=10
+@bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@dir dir=down id=10
+
+@bs f=ヴェルナ@困惑 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@哀しみ x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@ヴェルナ@困惑 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=白良@哀しみ x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=200
+
+@huki b=1 id=12
+@bs f=白良@困惑 x=350 y=50 t=400 wt=1
+
+[白良]「――それは！」
+
+@huki b=1 id=13
+@bs f=ヴェルナ@怒り x=-350 y=50 t=400 wt=1
+
+[ヴェルナ]「娘相手に正気か！？」
+
+@move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=ヴェルナ@ out=c t=20 wt=1
+@move_f f=白良@ out=c t=20 wt=1
+@bs
+
+@dir dir=up id=10
+
+@huki b=8 id=5
+@move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
+
+[ヴァネッサ]「家族の問題じゃ……ぬしらは席を外しておれ」
+
+@anime id=5 num=203 wt=0
+@move_f f=ヴァネッサ@ out=c t=250 wt=1
+@wait t=500
+
+@se f=Flash1 pitch=50
+@flash t=1000
+@switches id=138 val=1
+
+@dir dir=down id=10
+
+@bs f=ヴェルナ@困惑 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=白良@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=ヴェルナ@ヴェルナ@困惑 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
+@move f=白良@困惑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+@wait t=200
+
+@huki b=1 id=12
+
+[白良]「――！！」
+
+@huki b=1 id=13
+
+[ヴェルナ]「……くっ」
+
+@se f=Flash1
+@flash t=1000
+
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=1000 wt=1
+@change f=void num=0 id=13
+@change f=void num=0 id=12
+@move_f f=ヴェルナ@ out=c t=20 wt=0
+@move_f f=白良@ out=c t=20 wt=0
+
+@switches id=138 val=0
+@move_f f=white face=0 out=c t=1000 wt=1
+
+@huki b=1 id=10
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@焦り op=ビックリ x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+;;白良、ヴェルナ別の場所に飛ばされる
+;;主人公；驚く
+@wait t=500
+
+@dir dir=down id=10
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@se f=Flash3 pitch=90
+@move_f f=white face=0 in=c t=1000 wt=1
+
+[リリィ]「え……あっ……あぁああああ……」
+
+@invisible type=on id=1
+
+@dir dir=right id=10
+@move_f f=white face=0 out=c t=1000 wt=1
+
+@bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200 wt=1
+@move f=リリィ@困惑 x=350 y=300 w=100 h=100 opa=0 t=250 wt=1
+@se f=Blow6
+@change num=1 id=11
+@qk
+
+@huki b=1 id=10
+@bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
+
+@c_jump id=10 wt=0
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+
+;;リリィ倒れる
+;;主人公；驚く
+;;主人公近づく
+@moe_speed spd=5 id=10
+@route route=right id=10
+@moe_speed spd=4 id=10
+
+
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=600
+
+@dir dir=up id=10
+
+@huki b=1 id=10
+@bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@蔑み x=350 y=50 opa=0 t=20 wt=1
+@move f=ヴァネッサ@蔑み x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+[ヴァネッサ]「別にわしは特別なことなど何もしておらぬ。ただ、刺激してやったのじゃ」
+
+;;主人公：疑問符
+@huki b=2 id=10
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
+
+[ヴェルナ]「リリィのサキュバスの本能……それを目覚めさせてやったのじゃよ」
+
+@move_f f=ヴァネッサ@ out=r t=250
+
+@se f=衣擦れの音1
+@change id=11 num=0
+
+@huki b=1 id=10
+@dir dir=right id=10
+@bs f=アル@焦り op=焦り x=-350 y=50 t=300 wt=1
+
+@bs f=リリィ@哀しみ x=400 y=50 opa=0 t=200 wt=1
+@move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=250 wt=1
+
+;;主人公：疑問符
+@huki b=2 id=10
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=300 wt=1
+
+@huki b=8 id=11
+@bs f=リリィ@通常 x=350 y=50 t=800 wt=1
+@wait t=400
+
+;;リリィ起き上がる
+@bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
+
+[リリィ]「ねぇ……アル……」
+
+;;主人公：疑問符
+@huki b=2 id=10
+@bs f=アル@困り op=ハテナ x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@bs f=リリィ@淫猥 x=350 y=50 t=200 wt=1
+
+[リリィ]「大好きだよ」
+
+@anime id=11 num=203 wt=0
+
+;;SE魔力発動音
+
+@bgm
+@huki b=1 id=10
+@bs f=アル@驚き op=ビックリ x=-350 y=50 t=300 wt=1
+@wait t=400
+
+;;魔力発動エフェクト
+@se f=Magic2
+@move_f f=white face=0 body=-1 in=c t=50 wt=1
+@wait t=500
+@fade type=out t=2000 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@move_f f=リリィ@ out=c t=20 wt=0
+@move_f f=ヴァネッサ@ out=c t=20 wt=0
+@move_f f=white face=0 body=-1 out=c t=20 wt=0
+@bs
+
+;;主人公：驚く
+
+;;ホワイトアウト
+;;シーン終了

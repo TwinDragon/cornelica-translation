@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+生徒にパイズリされる\n　ヒント：学園の右側の教室にて……
+@mes_win back=0 pos=2

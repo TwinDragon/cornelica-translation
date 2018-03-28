@@ -1,0 +1,12 @@
+
+
+@rps
+@c_jump y=1 id=1
+@c_jump y=1 id=14
+
+@dir dir=left id=1
+@dir dir=right id=14
+
+@ev f=black
+@fade type=in t=20 wt=1
+

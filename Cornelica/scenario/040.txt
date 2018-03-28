@@ -1,0 +1,199 @@
+
+;;================================================================
+
+@dot_move x=14 y=22 dir=left id=47
+@change f=ヴァネッサ id=47 num=0
+@dir dir=right id=9 wt=0
+
+@se f=Move1
+@fade type=in t=1000 wt=0
+@wait t=500
+
+@move_speed spd=4
+@through type=on
+
+@route route=down:2
+
+@huki b=8 wt=1
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=1000 wt=1
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@dir dir=up
+@huki b=8 wt=1
+
+@huki b=8 id=47 
+
+@huki b=1
+@c_jump wt=1
+@bs f=アル@驚き op=ビックリ x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@驚き x=-350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=500
+
+@huki b=8 id=9 wt=1
+@move f=アル@驚き x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
+
+@route route=down
+@dir dir=right
+
+;;主人公：考える
+@huki b=7
+@bs f=アル@焦り op=困惑 x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=1
+
+@huki b=8 id=9
+@wait t=700
+
+@huki b=8 id=47
+@bs f=アル@屈辱 op=困惑 x=-350 y=50 t=700 wt=1
+@wait t=200
+
+@route route=down,left:8,up,left:3,up:3 id=47 wt=0
+@route route=up:7,left:3,up:6 id=9 wt=0
+
+@huki b=1
+@bs f=アル@驚き op=ビックリ x=-350 y=50 t=50 wt=1
+@move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@驚き x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@驚き x=-400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@route route=up
+
+@step_anime type=on
+
+@dir dir=right
+@wait t=500
+
+@dir dir=left
+@wait t=500
+
+@huki b=9 wt=1
+
+@bs f=アル@焦り op=焦り x=-400 y=50 t=20 opa=0 wt=0
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=1
+
+@route route=left
+@se f=Open1
+@route route=left
+@se f=Close1
+
+@wait t=3000
+
+@se f=Move1
+@invisible id=47 type=on
+@dot_move x=10 y=12 id=48
+@dot_move x=20 y=12 id=49
+@change f=メイドゴーレム num=2 id=48
+@change f=メイドゴーレム num=2 id=49
+@step_anime id=48 type=on
+@step_anime id=49 type=on
+
+@route route=down:3,left:4 wt=0 id=49
+@route route=down:3,right:4 wt=0 id=48
+
+@se f=Open1
+@route route=right:2
+
+@dir dir=up
+@huki b=8 wt=1
+
+@move_speed spd=5
+@route route=down,right:5,down,right:7
+
+
+@huki b=8 id=48
+@huki b=8 id=49
+
+@huki b=1
+@dir dir=up
+@c_jump wt=1
+@wait t=500
+
+@dir dir=left
+@wait t=500
+
+@dir dir=right
+@wait t=500
+
+@dir dir=down
+@wait t=500
+
+@route route=down:6
+
+@bgm
+@se f=Move1
+@invisible type=on
+
+@dir dir=down id=47
+@invisible type=off id=47
+@move_speed spd=2
+@route route=left:3 wt=1
+
+@huki b=8 id=47
+@wait t=500
+
+@move_f f=ヴァネッサ@蔑み in=c t=600 wt=1
+@wait t=500
+
+@fade type=out t=1000 wt=0
+@move_f f=ヴァネッサ@ out=c t=600 wt=1
+@dir dir=up id=47
+@se f=Move1
+
+@invisible type=on id=47
+@wait t=2000
+
+@dot_move map=41 x=11 y=7 dir=down
+@fade type=in t=1000 wt=1
+
+@se f=Open1
+@dir dir=left id=1
+@wait t=3
+
+@dir dir=right id=1
+@wait t=3
+
+@dir dir=up id=1
+@wait t=3
+
+@move_speed spd=4
+@invisible type=off
+@route route=down:2
+
+@dir dir=right id=1
+@wait t=3
+@dir dir=left id=1
+@wait t=3
+@dir dir=down id=1
+
+@se f=Close1
+
+@dir dir=up
+@huki b=8 wt=1
+
+@step_anime type=off
+@huki b=1
+@c_jump wt=0
+
+@mes_win back=1 pos=1
+\CL侵入者が脱走……見つけ次第、拘束
+@mes_win back=0 pos=2
+
+@huki b=7
+;;主人公：驚く
+
+;;逃げるアル
+;;シーン終了
+
+;;================================================================

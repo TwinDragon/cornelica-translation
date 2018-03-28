@@ -1,0 +1,139 @@
+;;===========================================================================
+
+;;■館内
+
+@invisible type=on
+@invisible type=on id=AC0
+
+@move_speed spd=3 id=AC0
+@move_speed spd=3
+
+@dir dir=right wt=0
+@dir dir=right id=AC0 wt=0
+
+@fade type=in t=1000 wt=0
+@wait t=500
+
+@se f=Move1
+@invisible type=off id=AC0
+@route route=right id=AC0
+
+@se f=Move1
+@invisible type=off
+@route route=right:2 id=AC0 wt=0
+@route route=right:2
+
+@huki b=1 id=AC0
+@wait t=500
+
+@huki b=2
+@wait t=500
+
+@map_scroll dir=right dis=18 spd=6
+@wait t=1000
+@map_scroll dir=left dis=18 spd=7
+
+@huki b=6 id=AC0
+
+@bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@困惑  x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=リリィ@蔑み op=汗 x=350 y=50 t=200 wt=1
+
+[リリィ]「うわぁ……こんなにヴラスタがいる……」
+
+@dir dir=left id=AC0
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=400 wt=1
+@wait t=400
+
+@bs f=リリィ@通常 x=350 y=50 t=200 wt=1
+
+[リリィ]「えっとね、前にも少しだけ話したけど、あのゴーレムはヴラスタって呼ばれてて、警備とか簡単なお世話とかしてるの」
+
+@bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
+
+[リリィ]「日々新しくなってる最新鋭のゴーレムでね、最近は流暢に喋れるのもいるみたいだよ」
+
+@bs f=リリィ@微笑 x=350 y=50 t=100 wt=0
+@bs f=アル@普通 x=-350 y=50 t=400 wt=1
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@bs f=リリィ@蔑み x=350 y=50 t=200 wt=1
+
+[リリィ]「ここのは、カタコトだから古いブラスタのはずなんだけど……」
+
+@bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200 wt=1
+
+[リリィ]「かなり、いい動きするよね。魔女が手を加えてるのかな？」
+
+@dir dir=right id=AC0 wt=0
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@map_scroll dis=19 dir=right spd=6
+@map_scroll dis=14 dir=up spd=6
+@map_scroll dis=18 dir=left spd=6
+
+
+@bs f=リリィ@蔑み x=400 opa=0 y=50 t=20 wt=0
+@move f=リリィ@蔑み  x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
+
+[リリィ]「………………」
+
+@move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@map_scroll dis=18 dir=right spd=9
+@map_scroll dis=14 dir=down spd=9
+@map_scroll dis=19 dir=left spd=9
+
+@huki b=8 id=AC0
+@wait t=800
+
+@dir dir=left id=AC0 wt=0
+
+@bs f=アル@困り op=ハテナ x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@蔑み x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@困り x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@蔑み  x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=300
+
+@bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
+
+[リリィ]「見つかったら、色々大変そうだし……気づかれないように進もう」
+
+@huki b=8
+@bs f=アル@屈辱 op=焦り x=-350 y=50 t=400 wt=1
+@wait t=800
+
+@bs f=アル@普通 x=-350 y=50 t=400 wt=1
+@wait t=300
+
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+
+;;===========================================================================
+

@@ -1,0 +1,15 @@
+
+@invisible type=on id=AC0
+@invisible type=on id=AC1
+@dot_move id=3
+@change f=ヴェルナ id=3
+
+@c_jump x=-1 id=3
+@dir dir=right id=3
+
+@wait t=2000
+
+@ev f=black
+@fade type=in t=20 wt=1
+
+

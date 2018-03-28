@@ -1,0 +1,78 @@
+;;======================================================
+;;道具屋でアルバイト
+
+;;---------------------------------------------------------
+;;バイト終了
+
+@fade type=out t=1000 wt=1
+@dot_move map=2 x=3 y=6 dir=up
+
+@invisible type=off id=AC0
+@invisible type=off id=AC1
+
+@c_jump id=AC0 x=1
+@c_jump id=AC1 y=1
+@c_jump id=3 x=-1
+@c_jump id=4 x=-1
+
+@dir dir=up id=AC0
+@dir dir=up id=AC1
+@dir dir=down id=3
+
+@bgm f=s-009 pitch=80
+@fade type=in t=1000 wt=1
+
+@bs f=アル@屈辱_頬 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=アルネ@通常 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@屈辱_頬 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=アルネ@通常 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@wait t=400
+
+@huki b=2 id=3
+@bs f=アルネ@笑み x=350 y=50 t=200
+@bs f=アル@困り_頬 x=-350 y=50 t=200
+
+[アルネ]「凄くいいテストだったッス。これもお客様のお陰ッス。だからバイト料も弾ませてもらったッスよ」
+
+@se f=Coin
+@mes_win back=1 pos=1
+\CL1000Gを受け取った！
+@mes_win back=0 pos=2
+
+;;主人公：（赤面）困惑
+@bs f=アル@屈辱_頬 x=-350 y=50 t=600
+@wait t=400
+
+@bs f=アルネ@淫靡 x=350 y=50 t=200
+
+[アルネ]「また手が空いてる時にでもお願いするッス」
+
+@huki b=7
+@bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=600
+@wait t=400
+
+@bs f=アルネ@笑み x=350 y=50 t=200
+
+[アルネ]「どうしたッスか？」
+
+;;主人公：困惑
+@huki b=1
+@bs f=アル@焦り_頬 op=ビックリ x=-350 y=50 t=300 wt=1
+@move f=アル@焦り_頬 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り_頬 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+@huki b=7
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=400
+@wait t=800
+
+@bgm
+@move f=アル@屈辱_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アルネ@淫靡 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=アルネ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm_replay

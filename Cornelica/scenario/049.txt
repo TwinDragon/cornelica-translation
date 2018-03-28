@@ -1,0 +1,87 @@
+
+;;==========================================================================
+@bs
+;;フランカ区（城の外）
+;;ヴラスタに放り投げられるアル
+;;主人公：驚き
+
+@dot_move x=18 y=8 id=58 dir=down
+
+@dir_fix type=off
+@dir dir=up
+@dir_fix type=on
+
+@step_anime type=off
+@walk_anime type=off
+
+@dir_fix type=off id=58
+@step_anime type=off id=58
+@change num=1
+@change f=メイドゴーレム num=2 id=58
+
+@dir dir=down id=58
+
+@invisible type=off
+@invisible type=off id=58
+
+@fade type=in t=1000 wt=0
+
+@move_speed spd=3 id=58
+@move_speed spd=3
+
+@route route=down:4 id=58 wt=0
+@route route=down:4
+
+@walk_anime id=58 type=on
+
+@huki b=8 id=58
+@wait t=400
+
+@dir_fix type=off
+@move_speed spd=4
+@walk_anime type=on
+
+@change num=0
+@c_jump y=5
+
+@change num=1
+@se f=Blow6
+@qk
+
+@move_speed spd=4
+@route route=up:20 wt=0 id=58
+
+@huki b=7 wt=1
+
+@huki b=7 wt=1
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=300 wt=1
+
+@se f=衣擦れの音1
+@change num=0
+@wait t=500
+
+@bs f=アル@焦り x=-350 y=50 t=600
+@wait t=600
+
+@bs f=アル@屈辱 x=-350 y=50 t=600
+@wait t=400
+
+@move_f f=アル@ out=l
+@bs
+
+@invisible type=on id=58
+@walk_anime type=on
+
+
+;;ヴラスタ城に戻る
+;;主人公：困惑
+
+;;主人公：城を一望
+
+;;主人公：真面目な顔
+
+;;==========================================================================
+
+

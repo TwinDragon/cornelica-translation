@@ -1,0 +1,105 @@
+;;■11
+;;■空き屋（朝）
+;;===============================================================================
+
+@through type=on
+@dot_move x=21 y=14 dir=down
+@dot_move id=8 dir=down
+@dot_move id=9 dir=down
+@c_jump y=-1 id=8
+@c_jump y=-2 id=9
+@dir dir=down id=8
+
+@bgm f=s-004 pitch=110
+@fade type=in t=1000 wt=1
+
+@bs f=アル@屈辱 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+
+@huki b=8
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@wait t=800
+
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+
+@wait t=300
+
+@huki b=3 id=8
+@bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
+
+[リリィ]「あっ、起きた？」
+
+@huki b=8
+@bs f=アル@普通 x=-350 y=50 t=300 wt=1
+@wait t=300
+
+@move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_speed spd=3
+;;主人公：起き上がる
+@se f=衣擦れの音1
+@route route=left,up
+@move_speed spd=4
+
+@dir dir=right wt=0
+@dir dir=left id=8
+
+@bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=500 wt=0
+@move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=500 wt=1
+@wait t=500
+
+@huki b=3 id=8
+@bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
+
+[リリィ]「アル♪　おはよう♪」
+
+@move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@bs f=アル@笑顔 x=-350 y=50 t=600 wt=1
+@wait t=400
+
+@bs f=リリィ@微笑 op=音符 x=350 y=50 t=600 wt=1
+@wait t=400
+
+@huki b=2 id=8
+@bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200 wt=1
+@bs f=アル@普通 x=-350 y=50 t=100 wt=1
+
+[リリィ]「これから、ヴェルナのところに行ってみない？」
+
+@bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
+
+[リリィ]「もしかしたら、もう分析も終わってるかもしれないし」
+
+;;主人公、うなずく
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=300
+
+@bs f=アル@普通 x=-350 y=50 t=200 wt=1
+
+@bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
+
+[リリィ]「いい結果が出てるといいね♪」
+
+@bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
+@wait t=300
+
+@bgm
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@wait t=200
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+
+;;========================================================================================================
+;;シーン終了
+

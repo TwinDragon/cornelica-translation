@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+サキュバスにおっぱいを押しつれられる\n　ヒント：街道下部にて……
+@mes_win back=0 pos=2

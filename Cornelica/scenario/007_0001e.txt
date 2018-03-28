@@ -1,0 +1,3 @@
+
+@fade type=out t=1000 wt=1
+

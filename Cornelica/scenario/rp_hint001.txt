@@ -1,0 +1,4 @@
+
+@mes_win back=1 pos=1
+リリィに騎乗位される\n　ヒント：拠点にいるリリィに話しかけると……
+@mes_win back=0 pos=2

@@ -1,0 +1,164 @@
+;;==========================================================================
+;;しばらく進んだ後
+
+
+@move_speed spd=7 id=19
+@move_speed spd=7 id=20
+@move_speed spd=7 id=21
+@move_speed spd=7 id=22
+@move_speed spd=7 id=23
+
+@route id=19 route=up:6 wt=0
+@route id=20 route=up:6 wt=0
+@route id=21 route=up:6 wt=0
+@route id=22 route=up:6 wt=0
+@route id=23 route=up:6 wt=0
+
+@bgm f=s-011 pitch=120
+@map_scroll dir=up dis=6 spd=6
+
+@huki b=1 id=19
+
+[ヴラスタ１]「侵入者」
+
+@huki b=8 id=22
+
+[ヴラスタ２]「排除……排除……」
+
+@huki b=8 id=20
+
+[ヴラスタ３]「捕まえる」
+
+@huki b=6
+@huki b=6 id=AC0 wt=1
+
+;;主人公：うなずく
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+@wait t=300
+
+@bs f=リリィ@焦り op=焦り x=350 y=50 t=200 wt=1
+@move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
+
+[リリィ]「まずい……騒ぎが大きくなってきた……早くしないと……」
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@huki b=8 id=AC1
+@wait t=500
+
+@move_f f=メイ@怒り in=c t=300 wt=1
+
+[メイ－α]「戦闘システム起動……排除……開始」
+
+@move_f f=メイ@ out=c t=300 wt=1
+
+;;メイ－αによる攻撃
+;;ヴラスタ全滅
+
+@anime id=AC1 num=217 wt=0
+@huki b=8 id=AC1 wt=1
+
+@huki b=1 id=19 wt=0
+@huki b=1 id=20 wt=0
+@huki b=1 id=21 wt=0
+@huki b=1 id=22 wt=1
+
+@huki b=1 wt=0
+@huki b=1 id=AC0 wt=0
+
+@bgm
+@anime id=23 num=218 wt=0
+@wait t=200
+
+@invisible type=on id=19
+@invisible type=on id=20
+@invisible type=on id=21
+@invisible type=on id=22
+
+@huki b=8 id=AC1 wt=1
+
+@map_scroll dir=up dis=5 spd=4
+
+@dir dir=up id=AC1
+@move_f f=メイ@怒り in=c t=200 wt=1
+
+[メイ－α]「敵ヴラスタ……沈黙」
+
+@bgm f=s-009 pitch=80
+@move_f f=メイ@ out=c t=200 wt=1
+
+;;主人公：うなずく
+@bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@焦り x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
+@move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
+
+;;「凄い……！」
+;;「カッコいい……」
+@select s1=凄い……！/*st20a s2=カッコいい……/*st20b
+;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*st20a
+*st20b
+
+@bs f=アル@笑顔 x=-350 y=50 t=200
+@move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
+
+@move_f f=リリィ@ out=r t=200 wt=1
+
+@bs f=メイ@怒り x=400 y=50 opa=0 t=20 wt=0
+@move f=メイ@怒り x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@huki b=8 id=AC0
+@dir dir=down id=AC1
+@wait t=300
+
+;;メイ照れる
+@bs f=メイ@困惑_頬 x=350 y=50 t=600 wt=1
+@wait t=300
+
+[メイ－α]「……進みましょう」
+
+;;主人公：疑問符
+@huki b=2
+@bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
+@wait t=400
+
+@dir dir=up id=AC1
+@bs f=メイ@怒り x=350 y=50 t=200 wt=1
+
+[メイ－α]「何か？」
+
+;;主人公：驚き
+@bs f=アル@焦り op=焦り x=-350 y=50 t=200
+@move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
+@move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
+@wait t=200
+
+;;主人公：首振り
+@bs f=アル@笑顔 op=焦り x=-350 y=50 t=600
+@wait t=200
+
+@bgm
+@move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=メイ@怒り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=メイ@ face=0 out=c t=20 wt=0
+@bs
+
+@bgm_replay
+;;シーン終了
+
+;;==========================================================================

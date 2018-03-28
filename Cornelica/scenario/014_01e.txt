@@ -1,0 +1,96 @@
+;;==========================================================================================
+;;■酒場：街の人に話を聞く（汎用）
+
+@bs f=アル@驚き_頬 op=焦り x=-400 y=50 opa=0
+@move_f f=アル@驚き_頬 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
+
+@se f=締め付ける
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-360 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
+@move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
+@wait t=200
+
+@bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=400
+@wait t=200
+
+@move_f f=アル@驚き_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ out=c t=20 wt=0
+@bs
+
+@fb dir=back wt=0
+@se f=壁に「ドンッ」
+@qk
+
+@bs f=アル@焦り_頬 x=-400 y=50 opa=0 t=20 wt=0
+@bs f=リリィ@困惑_頬 x=400 y=50 opa=0 t=20 wt=0
+
+@move f=アル@焦り_頬 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
+@move f=リリィ@困惑_頬 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+@huki b=6
+@bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=300 wt=1
+@wait t=200
+
+@move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=アル@ face=0 out=c t=20 wt=0
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_speed spd=5
+@route route=down,right:2,down:8
+
+@wait t=200
+@se f=Move1
+@invisible type=on
+
+@c_jump y=-9
+
+@dir dir=down id=AC0
+
+@bs f=リリィ@困惑_頬 x=400 y=50 opa=0 t=20 wt=0
+@move f=リリィ@困惑_頬 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+
+[リリィ/rry0012]「あっ……あるぅ……にげないでよぉ……」
+
+@move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
+@move_f f=リリィ@ face=0 out=c t=20 wt=0
+@bs
+
+@move_speed spd=5
+@move_speed spd=5 id=AC0
+@route route=down:9 wt=0 id=AC0
+@route route=down:9
+
+@wait t=200
+@se f=Move1
+@invisible type=on id=AC0
+
+@huki b=8 id=3
+@c_jump y=-9
+
+@move_f f=ロザリー@通常 in=c t=800
+@wiat t=400
+
+;;アル店の外に走って逃げる
+;;リリィ追いかける
+
+@huki b=2 id=3
+@bs f=ロザリー@焦り
+
+@huki b=8 id=2
+
+[ロザリー/lzr0008]「リリィは…………束縛系？」
+
+@fade type=out t=1000 wt=1
+@move_f f=ロザリー@ out=c t=20 wt=0
+@bs
+
+@rps
+
+;;暗転：場所移動無し：チャーム吸い一回分
+
+;;==========================================================================================
+
+
