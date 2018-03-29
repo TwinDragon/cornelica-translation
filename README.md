@@ -24,9 +24,14 @@ No one begun an English patch project for this game, so in our spare time betwee
 * Initial Translations
 * Whatever else...
 
+## Want to Contribute?
+
+If you want to contribute to the project, have a look at the file for [Contributing](https://bitbucket.org/twinshadow_sh/cornelica-trans/src/d3d2e6717b32/CONTRIBUTING.md?at=master&fileviewer=file-view-default) to the repo. It's pretty easy and self-explanatory.
+
 # People
 
 Basically these are the people who you contact for issues.
 
+* Bezerker77
 * Darkhawk02
 * TwinShadow *<shippo[at]starfleetplatoon.com>*
