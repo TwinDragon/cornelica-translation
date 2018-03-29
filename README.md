@@ -1,6 +1,6 @@
 # Cornelica, Town of Succubi - English
 
-Repository for the translation project for the hentai game *Cornelica*. The game can be purchased on [DLSite](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE211399.html).
+Repository for the translation project for the hentai game **Cornelica**. The game can be purchased on [DLSite](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE211399.html).
 
 No one begun an English patch project for this game, so in our spare time between other projects, we'll be working on Cornelica to bring it to the English audience.
 
@@ -29,4 +29,4 @@ No one begun an English patch project for this game, so in our spare time betwee
 Basically these are the people who you contact for issues.
 
 * Darkhawk02
-* TwinShadow
+* TwinShadow *<shippo[at]starfleetplatoon.com>*
