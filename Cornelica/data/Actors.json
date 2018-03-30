@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"主人公","classId":1,"equips":[2],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"アル","nickname":"迷子","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"リリィ","classId":2,"equips":[0],"faceIndex":0,"faceName":"","traits":[{"code":23,"dataId":8,"value":0}],"initialLevel":1,"maxLevel":99,"name":"リリィ","nickname":"サキュバス","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"メイドゴーレム","classId":2,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"メイα","nickname":"ブラスタ","note":"","profile":""}
+]

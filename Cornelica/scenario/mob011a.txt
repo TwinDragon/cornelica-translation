@@ -1,6 +1,0 @@
-;;■01
-
-@move_speed spd=3
-@route route=left
-@move_speed spd=4
-

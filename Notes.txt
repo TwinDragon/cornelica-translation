@@ -1,0 +1,13 @@
+Cornelica Notes:
+
+The files in need of translation contain both text that is displayed in-game, as well as actions for the game to perform(such as character movement). We don't want to translate anything regarding actions because that will break the references.
+
+Here's what I've been able to tell so far from the symbols that begin each line-
+
+@ symbol - any line starting with an @ symbol denotes an action for the game engine to take. We need to leave these alone.
+
+[] symbols - lines starting with characters in brackets are displayed dialogue in game, starting with a character's name in the brackets, then the spoken text after
+
+/CL - unknown, I believe it's for text that does not belong to a character, but for things like choices
+
+;; - also unsure at this time

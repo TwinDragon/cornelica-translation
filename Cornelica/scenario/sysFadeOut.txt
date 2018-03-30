@@ -1,3 +1,0 @@
-
-@fade type=out t=500 wt=0
-

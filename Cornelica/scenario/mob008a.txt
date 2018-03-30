@@ -1,8 +1,0 @@
-
-@move_speed spd=5
-@route route=down:4
-
-@dir dir=left id=46
-
-@move_speed spd=4
-
