@@ -15,4 +15,4 @@ Here's what I've been able to tell so far from the symbols that begin each line-
 
 ---
 
-For item descriptions, it appears that the character limit is 70. Anything beyond that goes off the screen. I haven't found a way to start a new line.
+For item descriptions, it appears that the character limit is 70 per line. New lines can be marked by using "\n" without quotes.
