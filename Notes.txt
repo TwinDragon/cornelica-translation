@@ -11,3 +11,8 @@ Here's what I've been able to tell so far from the symbols that begin each line-
 /CL - unknown, I believe it's for text that does not belong to a character, but for things like choices
 
 ;; - also unsure at this time
+
+
+---
+
+For item descriptions, it appears that the character limit is 70. Anything beyond that goes off the screen. I haven't found a way to start a new line.
