@@ -8,7 +8,7 @@ Here's what I've been able to tell so far from the symbols that begin each line-
 
 [] symbols - lines starting with characters in brackets are displayed dialogue in game, starting with a character's name in the brackets, then the spoken text after
 
-/CL - unknown, I believe it's for text that does not belong to a character, but for things like choices
+/CL - appears to be 'Create Line' for creating a line of text on the screen within a message box. Message boxes are denoted by - '@mes_win'
 
 ;; - also unsure at this time
 
