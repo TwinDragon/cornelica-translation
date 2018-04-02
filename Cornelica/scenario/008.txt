@@ -23,7 +23,7 @@
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「あっ！　アルちょっと待って！」
+[Lily] "Ah! Al! wait a moment!"
 
 @huki b=4 id=36
 
@@ -61,7 +61,7 @@
 @bs f=リリィ@困惑 op=汗 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=アル@驚き op=ビックリ body=-1 face=0 x=-350 y=50 t=200
 
-[サキュバス]「あら？　貴方……」
+[Succubus] "Oh? You ......"
 
 ;; 主人公振り返る
 @dir dir=up
@@ -72,7 +72,7 @@
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=サキュバス@01 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[サキュバス]「…………ふふっ♪　人間の雄……♪」
+[Succubus] "............ Huhu ♪ Huuuuumaaaan ...... ♪"
 
 ;; 主人公怯える;;一歩引く
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
