@@ -4,16 +4,16 @@
 @huki b=2 id=3
 @move_f f=ロザリー@通常 in=c t=150
 
-[ロザリー]「……いらっしゃい。何か、聞きたい事あるの……？」
+[Rosary] "... Welcome back. Would you like to ask something else ...?"
 
 @bs f=ロザリー@考える t=150
 
-[リリィ]「えと……そういう訳じゃないんだけど……」
+[Lily] "Uh ... .... It's not like that ... but ..."
 
 @huki b=8 id=3
 @bs f=ロザリー@通常 t=150
 
-[ロザリー]「そう……ゆっくりしていってね……？」
+[Rosary] "Yeah ... go ahead ... ..."
 
 @move_f f=ロザリー@ out=c t=150
 
