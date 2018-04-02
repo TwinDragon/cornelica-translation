@@ -22,7 +22,7 @@
 
 @bgm f=s-003 pitch=90
 
-[リリィ]「…………」
+[リリィ[Lily] "............"
 
 ;;主人公疑問符
 
@@ -30,14 +30,14 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=100 wt=0
 @bs f=アル@困り x=-350 y=50 t=200
 
-[リリィ]「ねぇ……アルは誰かと一緒に『この世界』に来たの？」
+[Lily] "Hey ... did Al came to" this world "with someone?"
 
 ;;主人公疑問符
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300
 
-;;「この『せかい』？」　「誰かと？」
-@select s1=この『世界』？/*st06a s2=誰かと？/*st06b
+;; "Is this" "world? '" "With someone?"
+@ select s1 = This "world"? / * st06a s2 = With someone? / * st 06 b
 
 *st06a
 *st06b
@@ -48,17 +48,17 @@
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ハテナ x=350 y=50 t=200
-[リリィ]「……え？」
+[Lily] "... ... Eh?"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[リリィ]（……そんな……普通の男の子が何も知らずに一人で迷い込むなんて……ないはず……）
+[Lily] (...... such ... ... ordinary boy never getting lost alone without knowing anything ... ....)
 
 ;;主人公疑問符
 @huki b=8 id=AC0
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「…………」
+[Lily] "............"
 
 ;;主人公哀しい顔
 @huki b=8
@@ -67,35 +67,35 @@
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
 
-[リリィ]「あっ！　ご、ごめんね！　一人で考え込んだりして……！」
+[Lily] "Ah, sorry, I thought alone ... ...!"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
 ;;主人公哀しい顔
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「そうだね……何もわからないって、不安だよね……」
+[Lily] "Yes, I do not know anything, I'm worried ...."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「……それじゃあまずは、少しこの世界について説明してあげるね」
+[Lily] "... Well then, first, I'll explain a bit about this world."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「ここはね、アルが住んでる人間の世界とは違う……淫魔達の住む世界だよ」
+[Lily] "Here, it is different from the human world in which Al lives ... ... It is the world where lords exist."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[リリィ]「淫魔っていうのは、人間の精を食べて生活する魔物ね。あ、でも、怖がる必要はないよ」
+[Lily] "A demon is a demon that lives by eating human precious things." But, there is no need to be afraid."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「この辺りの淫魔は人間の言葉も通じるし、文化的な人も多いから」
+[Lily] "The villain around here can communicate human language and cultural people as well"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「精奴隷でもない男の人は少し目立っちゃうかもしれないけど………」
+[Lily] "A man who is not a precise slave may be a little conspicuous, but ........."
 
 ;;主人公哀しい顔
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200
@@ -106,11 +106,11 @@
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
 
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
-[リリィ]「あっ！？　で、でもねっ！？　気を付けていれば全然大丈夫だからっ！」
+[Lily] "Ah!? But, please do not worry! It's okay if you keep an eye on it!"
 
 @bs f=リリィ@蔑み  x=350 y=50 t=200
 
-[リリィ]「……だから、その……気を付けてね？」
+[Lily] "... ... So, that ... ... be careful?"
 
 ;;主人公哀しい顔
 @huki b=8
@@ -120,15 +120,142 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「……私から教えてあげられるのはこのくらい……次はアルの事情を聞かせてほしいな」
+
+Maximum characters exceeded5000/5000
+;;￭ 04;;￭ Hiruberuta no mori@ bgm@ diru diru = up id = AC 0@ huki b = 8 id = AC 0@ move _ speed spd = 3@ route route = up@ diru diru = down@ bs f = Aru@ komari op = Hatena x = - 400 y = 50 opa = 0 t = 20 wt = 0@ bs f = riryi@ tsūjō x = 400 y = 50 opa = 0 t = 20 wt = 0@ move f = Aru@ komari x = - 350 y = 50 w = 100 h = 100 opa = 255 t = 200 wt = 0@ move f = riryi@ tsūjō x = 350 y = 50 w = 100 h = 100 opa = 255 t = 200 wt = 1@ huki b = 2@ bs f = Aru@ kutsujoku op = Hatena x = - 350 y = 50 t = 300@ ueito t = 500@ bgm f = s - 003 pitch = 90 [riryi]`…………' ; ; shujinkō gimonfu@ huki b = 8 id = AC 0@ bs f = riryi@ bishō op = Hatena x = 350 y = 50 t = 100 wt = 0@ bs f = Aru@ komari x = - 350 y = 50 t = 200 [riryi] `ne~e…… Aru wa dare ka to issho ni “kono sekai” ni kita no?' ; ; Shujinkō gimonfu@ huki b = 2@ bs f = Aru@ kutsujoku op = Hatena x = - 350 y = 50 t = 300;;`kono “se kai”?' `Dare ka to?' @ Select s 1 = kono “sekai”?/* St 06 a s 2 = dare ka to?/* St 06 b* st 06 a* st 06 b@ huki b = 8@ bs f = Aru@ aseri op = Hatena x = - 350 y = 50 t = 200@ ueito t = 500@ huki b = 1 id = AC 0@ bs f = riryi@ aseri op = Hatena x = 350 y = 50 t = 200 [riryi]`…… e?' @ Bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi](…… son'na…… futsū no otokonoko ga nani mo shirazu ni hitori de mayoikomu nante…… nai hazu……); ; shujinkō gimonfu@ huki b = 8 id = AC 0@ bs f = Aru@ komari x = - 350 y = 50 t = 100 wt = 0@ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi]`…………' ; ; shujinkō kanashī kao@ huki b = 8@ bs f = Aru@ kutsujoku op = aseri x = - 350 y = 50 t = 700@ huki b = 1 id = AC 0@ bs f = riryi@ aseri op = bikkuri x = 350 y = 50 t = 200 [riryi] `a~tsu! Go, gomen ne! Hitori de kangaekon dari shite……!' @ Bs f = Aru@ komari x = - 350 y = 50 t = 400 wt = 1; ; shujinkō kanashī kao@ bs f = riryi@ kanashimi x = 350 y = 50 t = 200 [riryi] `sōda ne…… nani mo wakaranai tte, fuanda yo ne……' @ bs f = riryi@ bishō x = 350 y = 50 t = 200 [riryi]`…… sore jā mazuwa, sukoshi kono sekai ni tsuite setsumei shite ageru ne' @ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi] `koko wa ne, Aru ga sun deru ningen no sekai to wa chigau…… inma-tachi no sumu sekaida yo' @ bs f = Aru@ aseri op = aseri x = - 350 y = 50 t = 100 wt = 0@ bs f = riryi@ tsūjō x = 350 y = 50 t = 200 [riryi] `inma tte iu no wa, ningen no sei o tabete seikatsu suru mamono ne. A, demo, kowagaru hitsuyō wa nai yo' @ bs f = riryi@ bishō x = 350 y = 50 t = 200 [riryi] `kono atari no inma wa ningen no kotoba mo tsūjirushi, bunka-tekina hito mo ōikara' @ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi] `sei dorei demonai otoko no hito wa sukoshi medatchau kamo shirenaikedo………' ; ; shujinkō kanashī kao@ bs f = Aru@ odoroki op = bikkuri x = - 350 y = 50 t = 200@ huki b = 1 wt = 0@ c _ jump wt = 0@ move f = Aru@ aseri x = - 350 y = 0 w = 100 h = 100 t = 160 wt = 1@ move f = Aru@ aseri x = - 350 y = 50 w = 100 h = 100 t = 130 wt = 1@ bs f = riryi@ aseri op = bikkuri x = 350 y = 50 t = 200 [riryi] `a~tsu! ? De, demo ne~tsu! ? Ki o tsukete ireba zenzen daijōbudakara ~tsu!' @ Bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi]`……dakara, sono…… ki o tsukete ne?' ; ; Shujinkō kanashī kao@ huki b = 8@ bs f = Aru@ kutsujoku x = - 350 y = 50 t = 200@ ueito t = 1000@ huki b = 8 id = AC 0@ bs f = riryi@ bishō x = 350 y = 50 t = 200 [riryi]`…… watashi kara oshiete age rareru no wa kono kurai……-ji wa Aru no jijō o kika sete hoshī na' @ bs f = Aru@ komari x = - 350 y = 50 t = 100 wt = 0@ bs f = riryi@ tsūjō op = Hatena x = 350 y = 50 t = 200 [riryi] `Aru wa dō yatte kono sekai ni kita no?' @ Bs f = Aru@ kutsujoku op = aseri x = - 350 y = 50 t = 200@ select s 1 = mahō-jin mitainanoni suikoma rete……/* st 07 a s 2 = kawa de hikaru ishi o mitsukete……/* st 07 b; ; = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =========================* st 07 a@ huki b = 8@ bs f = Aru@ komari x = - 350 y = 50 t = 200@ ueito t = 500@ bs f = riryi@ konwaku op = Hatena x = 350 y = 50 t = 200 [riryi] `mahō-jin……? Moshikashite…… sakki mitsuketa pōtaru…… ka na……' @ bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi]`…… demo sorenara, Aru kurai no maryoku ja kidō nante shinai hazuna ndakedo na' @ huki b = 8 id = AC 0@ bs f = riryi@ konwaku op = Hatena x = 350 y = 50 t = 200@ ueito t = 1000@ bs f = riryi@ aseri x = 350 y = 50 t = 200 [riryi]`………… a' @ jump tāgetto =* end 01; ; = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =========================* st 07 b@ huki b = 8@ bs f = Aru@ komari x = - 350 y = 50 t = 200@ ueito t = 500@ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi]`…… hikaru……-seki……? Sore tte…… moshikashite……' @ jump tāgetto =* end 01; ; = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =========================* end 01@ bs f = riryi@ tsūjō x = 350 y = 50 t = 200 [riryi]`…… ne~e Aru. Kore ni mioboe ga attari…… shinai?' ; ; Maseki hyōji@ se f = kinuzure no oto 1@ bs f = sakyubasukyūbu@ futsū x = 50 face = 0 bodī = - 1 y = 0 opa = 0 t = 20 wt = 0@ move f = sakyubasukyūbu@ futsū x = 0 y = 0 w = 100 h = 100 opa = 255 t = 200 wt = 1; ; shujinkō, odoroki@ huki b = 1@ bs f = Aru@ aseri op = bikkuri x = - 350 y = 50 t = 200@ ueito t = 500@ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi] `mioboe…… aru no……?' ; ; Shujinkō unazuku@ bs f = Aru@ kutsujoku op = aseri x = - 350 y = 50 t = 200@ move f = Aru@ kutsujoku x = - 350 y = 100 w = 100 h = 100 t = 100 wt = 1@ move f = Aru@ kutsujoku x = - 350 y = 50 w = 100 h = 100 t = 80 wt = 1@ move f = Aru@ kutsujoku x = - 350 y = 100 w = 100 h = 100 t = 100 wt = 1@ move f = Aru@ kutsujoku x = - 350 y = 50 w = 100 h = 100 t = 80 wt = 1@ bs f = Aru@ aseri x = - 350 y = 50 t = 200 wt = 1@ bs f = riryi@ tsūjō x = 350 y = 50 t = 200 [riryi]`…………' @ bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi]`…… koreha ne, sakyubasukyūbu tte iu, kesshō-ka shita maryoku no katamarina no. Nagaikara SQ-tomo iwa re teru yo' @ bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi] `SQ wa, ichido maryoku o tsukaeba ato wa tada no ishi ni natchaukara, takusan maryoku ga haitteru SQ wa tottemo kichōna no' ; ; shujinkō, gimonfu@ bs f = Aru@ kutsujoku op = Hatena x = - 350 y = 50 t = 600@ ueito t = 500@ bs f = riryi@ aseri x = 350 y = 50 t = 200 [riryi] `etto…… SQ ni wa, Aru noita sekai to wa chigau, kotchi no sekai no maryoku ga tsumatte iru ndakedo……' @ bs f = riryi@ sagesumi x = 350 y = 50 t = 200 [riryi]`…… gomen ne. Watashi ni mo, Aru ga dō yattekita ka wakan'nai' ; ; shujinkō unazuku@ bs f = Aru@ aseri op = aseri x = - 350 y = 50 t = 200@ move f = Aru@ aseri x = - 350 y = 100 w = 100 h = 100 t = 160 wt = 1@ move f = Aru@ aseri x = - 350 y = 50 w = 100 h = 100 t = 130 wt = 1@ move _ f f = sakyubasukyūbu@ futsū face = 0 out = l t = 300 wt = 1@ huki b = 8 id = AC 0@ bs f = riryi@ tsūjō x = 350 y = 50 t = 600@ ueito t = 500@ bs f = riryi@ konwaku x = 350 y = 50 t = 200 [riryi]`………… nē' ; ; shujinkō, gimonfu@ huki b = 2@ bs f = Aru@ komari op = Hatena x = - 350 y = 50 t = 200@ ueito t = 1000; ; shujinkō, odoroki@ bs f = riryi@ tsūjō op = Hatena x = 350 y = 50 t = 200 [riryi]`…… dorekurai hikatteta no? Moshikashite mabushii kurai ni, tottemo hikatteta…………?' ; ; Shujinkō: Komaru@ huki b = 8 wt = 0@ bs f = Aru@ kutsujoku op = aseri x = - 350 y = 50 t = 600@ ueito t = 500; ; shujinkō: Unazuku@ bs f = Aru@ komari x = - 350 y = 50 t = 200@ move f = Aru@ komari x = - 350 y = 100 w = 100 h = 100 t = 160 wt = 1@ move f = Aru@ komari x = - 350 y = 50 w = 100 h = 100 t = 130 wt = 1@ bs f = Aru@ komari x = - 350 y = 50 t = 200@ ueito t = 200; ; shujinkō, odoroki@ huki b = 1 id = AC 0@ bs f = riryi@ aseri op = bikkuri x = 350 y = 50 t = 100 wt = 0@ bs f = Aru@ aseri op = aseri x = - 350 y = 50 t = 200 [riryi] `e ~e!?' @ Bs f = riryi@ konwaku op = konwaku x = 350 y = 50 t = 200 [riryi] `so, son'na…… demo sore kurai janaito tabun kore naishi……' @ huki
+2084 characters over 5000 maximum:
+b=8 id=AC0 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=400 [リリィ]「………」 @bs f=リリィ@困惑 x=350 y=50 t=200 [リリィ]「でも、それは滅多に手に入らないくらい貴重なSQなの……」 ;;主人公、疑問符 @huki b=2 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 @wait t=1000 @huki b=8 id=AC0 @bs f=リリィ@蔑み x=350 y=50 t=200 [リリィ]「…………」 @huki b=2 id=AC0 @bs f=アル@焦り x=-350 y=50 t=100 wt=0 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200 [リリィ]「……アルは、向こうに戻りたい？」 ;;主人公うなずく @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1 @bs f=アル@困り x=-350 y=50 t=200 wt=1 @huki b=2 id=AC0 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200 [リリィ]「……どうしても？」 ;;主人公うなずく @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1 @bs f=アル@困り x=-350 y=50 t=200 wt=1 @huki b=2 id=AC0 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 [リリィ]「……絶対？」 ;;主人公うなずく @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1 @bs f=アル@困り x=-350 y=50 t=200 wt=1 @huki b=2 id=AC0 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200 [リリィ]「………………なにがなんでも？」 ;;主人公うなずく @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=100 wt=1 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=80 wt=1 @bs f=アル@困り x=-350 y=50 t=200 wt=1 @huki b=8 id=AC0 @bs f=リリィ@通常 x=350 y=50 t=200 @wait t=1000 @bs f=リリィ@微笑 x=350 y=50 t=200 [リリィ]「そっか……それじゃあ私が手伝ってあげる。アルが向こうに帰る方法を探してあげるね」 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1 @move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1 @huki b=3 id=AC0 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 @wait t=500 [リリィ]「折角知り合ったんだもん。力になってあげたい。それに……キミ、可愛いもん♪」 @bs f=アル@普通 x=-350 y=50 t=100 wt=0 @bs f=リリィ@微笑 x=350 y=50 t=200 [リリィ]「だから、一緒に行こ、コルネリカ――私達サキュバスの街へ」 ;;主人公うなずく @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1 @move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1 @bgm @fade type=out t=3000 wt=1 @rps ;;シーン終了
+;; 0 4
+;; ■ Forest of Hilberta
+@ bgm
+
+@ dir dir = up id = AC 0
+@ huki b = 8 id = AC 0
+
+@ move_speed spd = 3
+@ route route = up
+
+@ dir dir = down
+
+@ bs f = al @ embarrassment op = bitten x = -400 y = 50 opa = 0 t = 20 wt = 0
+@ bs f = Lily @ normal x = 400 y = 50 opa = 0 t = 20 wt = 0
+
+@ moove f = al @ embarrassment x = -350 y = 50 w = 100 h = 100 opa = 255 t = 200 wt = 0
+@ move f = lily @ normal x = 350 y = 50 w = 100 h = 100 opa = 255 t = 200 wt = 1
+
+@ huki b = 2
+@ bs f = Al @ Humiliation op = Hatena x = -350 y = 50 t = 300
+@ wait t = 500
+
+@ bgm f = s - 003 pitch = 90
+
+[Lily] "............"
+
+;; hero question mark
+
+@ huki b = 8 id = AC 0
+@ bs f = Lily @ Smile op = Hatena x = 350 y = 50 t = 100 wt = 0
+@ bs f = al @ embarrassment x = -350 y = 50 t = 200
+
+[Lily] "Hey ... did Al came to" this world "with someone?"
+
+;; hero question mark
+@ huki b = 2
+@ bs f = Al @ Humiliation op = Hatena x = -350 y = 50 t = 300
+
+;; "Is this" "world? '" "With someone?"
+@ select s1 = This "world"? / * st06a s2 = With someone? / * st 06 b
+
+* st06a
+* st 06 b
+
+@ huki b = 8
+@ bs f = Al @ Impersonation op = Hatena x = -350 y = 50 t = 200
+@ wait t = 500
+
+@ huki b = 1 id = AC 0
+@ bs f = lily @ impatience op = bitatin x = 350 y = 50 t = 200
+[Lily] "... ... Eh?"
+
+@ bs f = lily @ scorn x = 350 y = 50 t = 200
+[Lily] (...... such ... ... ordinary boy never getting lost alone without knowing anything ... ....)
+
+;; hero question mark
+@ huki b = 8 id = AC 0
+@ bs f = al @ embarrassment x = -350 y = 50 t = 100 wt = 0
+@ bs f = Lily @ puzzle x = 350 y = 50 t = 200
+
+[Lily] "............"
+
+;; hero sad face
+@ huki b = 8
+@ bs f = al @ humiliation op = impatience x = -350 y = 50 t = 700
+
+@ huki b = 1 id = AC 0
+@ bs f = lyric @ impatience op = surprised x = 350 y = 50 t = 200
+
+[Lily] "Ah, sorry, I thought alone ... ...!"
+
+@ bs f = al @ embarrassment x = -350 y = 50 t = 400 wt = 1
+
+;; hero sad face
+@ bs f = lie @ sorrow x = 350 y = 50 t = 200
+
+[Lily] "Yes, I do not know anything, I'm worried ...."
+
+@ bs f = Lily @ Smile x = 350 y = 50 t = 200
+
+[Lily] "... Well then, first, I'll explain a bit about this world."
+
+@ bs f = Lily @ puzzle x = 350 y = 50 t = 200
+
+[Lily] "Here, it is different from the human world in which Al lives ... ... It is the world where lords exist."
+
+@ bs f = al @ impression op = impatience x = -350 y = 50 t = 100 wt = 0
+@ bs f = lily @ normal x = 350 y = 50 t = 200
+
+[Lily] "A demon is a demon that lives by eating human precious things." But, there is no need to be afraid. "
+
+@ bs f = Lily @ Smile x = 350 y = 50 t = 200
+
+[Lily] "The villain around here can communicate human language and cultural people as well"
+
+@ bs f = Lily @ puzzle x = 350 y = 50 t = 200
+
+[Lily] "A man who is not a precise slave may be a little conspicuous, but ........."
+
+;; hero sad face
+@ bs f = al @ surprise op = surprised x = -350 y = 50 t = 200
+@ huki b = 1 wt = 0
+@ c_jump wt = 0
+
+@ move f = al @ impersonal x = -350 y = 0 w = 100 h = 100 t = 160 wt = 1
+@ move f = al @ impersonal x = -350 y = 50 w = 100 h = 100 t = 130 wt = 1
+
+@ bs f = lyric @ impatience op = surprised x = 350 y = 50 t = 200
+[Lily] "Ah!? But, please do not worry! It's okay if you keep an eye on it!"
+
+@ bs f = lily @ scorn x = 350 y = 50 t = 200
+
+[Lily] "... ... So, that ... ... be careful?"
+
+;; hero sad face
+@ huki b = 8
+@ bs f = al @ humiliation x = -350 y = 50 t = 200
+@ wait t = 1000
+
+@ huki b = 8 id = AC 0
+@ bs f = Lily @ Smile x = 350 y = 50 t = 200
+
+[Lily] "...... I can tell you from this .... I hope next time let me hear about the circumstances of Al."
 
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「アルはどうやってこの世界に来たの？」
+[Lily] "How did Al came to this world?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
-@select s1=魔法陣みたいなのに吸い込まれて……/*st07a s2=川で光る石を見つけて……/*st07b
+@select s1 = sucked in like a magic team ... / / st07a s2 = Find the stone that shines in the river ... / / st07b
 ;;============================================================================
 *st07a
 
@@ -138,11 +265,11 @@
 
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「魔法陣……？　もしかして……さっき見つけたポータル……かな……」
+[Lily] "Magic team ... ... ... Maybe ... ... the portal we found earlier ... Kana ..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「……でもそれなら、アルくらいの魔力じゃ起動なんてしないはずなんだけどな」
+[Lily] "... but, in that case, you should not start up with Magic about Mr."
 
 @huki b=8 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
@@ -150,7 +277,7 @@
 
 @bs f=リリィ@焦り x=350 y=50 t=200
 
-[リリィ]「…………あ」
+[Lily] "............ "
 
 @jump target=*end01
 ;;============================================================================
@@ -162,7 +289,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「……光る……石……？　それって……もしかして……」
+[Lily] "...... Gleaming ...... Stone ...... That ... ... maybe ... ...."
 
 @jump target=*end01
 ;;============================================================================
@@ -170,7 +297,7 @@
 
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[リリィ]「……ねぇアル。これに見覚えがあったり……しない？」
+[Lily] "..., ... hey, are you familiar with this ... ... you do not?"
 
 ;;魔石表示
 @se f=衣擦れの音1
@@ -183,7 +310,7 @@
 @wait t=500
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
-[リリィ]「見覚え……あるの……？」
+[Lily] "Do you remember ... ....?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
@@ -196,23 +323,23 @@
 
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[リリィ]「…………」
+[Lily] "............"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[リリィ]「……これはね、サキュバスキューブって言う、結晶化した魔力の塊なの。長いからSQともいわれてるよ」
+[Lily] "... This is a succubus cube, it is a mass of crystallized magical power.It is said that it is SQ from a long time"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[リリィ]「SQは、一度魔力を使えばあとはただの石になっちゃうから、たくさん魔力が入ってるSQはとっても貴重なの」
+[Lily] "SQ, once you use magical powers it will be just a stone, so SQ with plenty of magical power is very precious"
 
 ;;主人公、疑問符
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
 @wait t=500
 
 @bs f=リリィ@焦り x=350 y=50 t=200
-[リリィ]「えっと……SQには、アルのいた世界とは違う、こっちの世界の魔力が詰まっているんだけど……」
+[Lily] "Er ... ... SQ has a different magical power of this world, unlike the world in which Al was ... ..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[リリィ]「……ごめんね。私にも、アルがどうやって来たかわかんない」
+[Lily] "... I'm sorry ... I do not even know how Al came up."
 
 ;;主人公うなずく
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
@@ -227,7 +354,7 @@
 
 @bs f=リリィ@困惑  x=350 y=50 t=200
 
-[リリィ]「…………ねぇ」
+[Lily] "............ hey"
 
 ;;主人公、疑問符
 @huki b=2
@@ -236,7 +363,7 @@
 
 ;;主人公、驚き
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200
-[リリィ]「……どれくらい光ってたの？　もしかして眩しいくらいに、とっても光ってた…………？」
+[Lily] "... How long have you been shining? Maybe it was dazzling, it was shining so much ............?"
 
 ;;主人公：困る
 @huki b=8 wt=0
@@ -255,20 +382,20 @@
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=100 wt=0
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 
-[リリィ]「えぇ！？」
+[Lily] "Oh !?"
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
 
-[リリィ]「そ、そんな……でもそれくらいじゃないと多分これないし……」
+[Lily] "That, that kind of ... ... but it probably is not that much ... probably will not ..."
 
 @huki b=8 id=AC0
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=400
 
-[リリィ]「………」
+[Lily] "........."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「でも、それは滅多に手に入らないくらい貴重なSQなの……」
+[Lily] "But, it is rare SQ that I rarely get it ..."
 
 ;;主人公、疑問符
 @huki b=2
@@ -278,13 +405,13 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「…………」
+[Lily] "............"
 
 @huki b=2 id=AC0
 @bs f=アル@焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……アルは、向こうに戻りたい？」
+[Lily]: "... Will Al want to return over there?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -295,7 +422,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……どうしても？」
+[Lily] ".........Really?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -306,7 +433,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……絶対？」
+[Lily] "... ... Absolutely?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -317,7 +444,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「………………なにがなんでも？」
+[Lily] ".................. More than anything else?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -332,7 +459,7 @@
 @wait t=1000
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
-[リリィ]「そっか……それじゃあ私が手伝ってあげる。アルが向こうに帰る方法を探してあげるね」
+[Lily] "Oh ... ok then ... I'll help you, I'll find a way for Al to go over there"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -342,11 +469,11 @@
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200
 @wait t=500
 
-[リリィ]「折角知り合ったんだもん。力になってあげたい。それに……キミ、可愛いもん♪」
+[Lily] "I got to know each other, I want to become a force ... and ... you, cute ♪"
 
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@微笑 x=350 y=50 t=200
-[リリィ]「だから、一緒に行こ、コルネリカ――私達サキュバスの街へ」
+[Lily] "So go together, Cornelica - to the city of Succubus"
 
 ;;主人公うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
