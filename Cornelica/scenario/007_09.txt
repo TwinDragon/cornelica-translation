@@ -7,7 +7,7 @@
 @move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
 @move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ]「こっちの道は学舎」
+[Lily] "This way is towards the school building"
 
 ;;主人公、疑問符
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=600
@@ -15,7 +15,7 @@
 
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「えっと……学校って言ったほうが分かりやすいのかな……？」
+[Lily] "Er ... ... you know what a school does right?"
 
 @bs f=アル@笑顔 x=-350 y=50 t=400
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -25,7 +25,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=400
 
-[リリィ]「正しい食事の仕方とか、人間の生活習慣とか……そういうことを教えてもらうとこ」
+[Lily] "How to eat properly, adapt to human culture, and stuff like that~!"
 
 @move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
