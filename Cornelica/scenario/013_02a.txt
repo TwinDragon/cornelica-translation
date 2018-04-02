@@ -18,13 +18,13 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[アルネ]「いらっしゃい！　ほぉーペット同伴ッスか！　これは期待できそうッス」
+[Arne] "Welcome home! Wow! You've got quite the cute pet accompanying you! You're pretty bold, girl!"
 
 @huki b=1 id=AC0
 @bs f=アルネ@通常 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「ち、違うよ！　この子はそんなんじゃないの！　それに、今日は買い物に来たわけじゃないの」
+[Lily] "You are wrong! I am not like that! Not only did I come shopping today."
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
