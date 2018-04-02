@@ -17,12 +17,12 @@
 
 @bs f=ロザリー@通常 x=350 y=50 t=200
 
-[ロザリー]「……いらっしゃい」
+[Rosary] "... ... Welcome"
 
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔_r x=-350 y=50 t=200
 
-[リリィ]「こんにちは」
+[Lily] "Hello"
 
 @huki b=8 id=3
 @bs f=リリィ@微笑_r x=-350 y=50 t=100 wt=0
@@ -31,30 +31,30 @@
 
 @bs f=ロザリー@考える face=0 x=350 y=50 t=200
 
-[ロザリー]「……リリィも、隅に置けない」
+[Rosary] "...... Lily, you should have told me you got a male"
 
 @huki b=1 id=AC0
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[リリィ]「え、あっ！　違うの！　アルはそういうのじゃなくて……」 
+[Lily] "Eh, that's not it! Al is not like that ..."
 
 @huki b=2 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=100 wt=0
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[ロザリー]「……照れてる？」
+[Rosary] "... Are you embarrassed?"
 
 @huki b=7 id=AC0
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200
 
-[リリィ]「あぁ、もう！　そ、そのことより……！　聞きたいことがあるの！」
+[Lily] "Al, we're here! Ask your questions!"
 
 @huki b=2 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=200 wt=1
 
-[ロザリー]「聞きたいこと……？」
+[Rosary] "What do you want to hear ...?"
 
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @move_f f=リリィ@ out=l t=200 wt=1
@@ -66,9 +66,9 @@
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 
-@select s1=魔力を一杯集める方法を知りたい/*se01
+@select s1=I want to know how to collect magic power/*se01
 ;;----------------------------------------------------------------------
-;;魔力を一杯集める方法を知りたい 
+;;I want to know how to collect magical power 
 *se01
 
 @huki b=2 wt=0
@@ -93,7 +93,7 @@
 @huki b=2 id=3
 @bs f=ロザリー@考える x=350 y=50 t=600 wt=1
 
-[ロザリー]「魔力？　……『[SQ:サキュバスキューブ]』……とか？」
+[Rosary] "Magical power ... ...." [SQ: Succubus Cube] ... or? "
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=400
 @wait t=600
@@ -103,7 +103,7 @@
 @bs f=リリィ@困惑_r op=焦り_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ]「えと……それだと……足りないの……」 
+[Lily] "Well ... that is ... it is not enough ..."
 
 @huki b=8 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=600 wt=1
@@ -112,7 +112,7 @@
 @bs f=リリィ@困惑_r x=-350 y=50 t=100 wt=0
 @bs f=ロザリー@焦り x=350 y=50 t=300 wt=1
 
-[ロザリー]「んー……ごめん……わからない……」
+[Rosary] "Hmm ... I'm sorry .... I do not know ... ...."
 
 @move_f f=リリィ@ out=l t=200 wt=1
 @bs f=ロザリー@通常 x=350 y=50 t=100 wt=0
@@ -130,14 +130,14 @@
 @huki b=2 id=3
 @bs f=ロザリー@蔑み x=350 y=50 t=600 wt=1
 
-[ロザリー]「……ごめんね？」
+[Rosary] ".......... Sorry about that?"
 
 @move_f f=アル@ face=0 out=l t=200 wt=1
 
 @bs f=リリィ@困惑_r op=焦り_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ]「ううん……ありがとう。それじゃあ、他の人にも聞いて回るからまたね」 
+[Lily] " No, it's ok..... Thank you anyway. Now then, let's ask other people, see you later Rosary!"
 
 @bs f=ロザリー@通常 x=350 y=50 t=400 wt=1
 @wait t=200
