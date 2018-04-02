@@ -18,19 +18,19 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[Arne] "Welcome home! Wow! You've got quite the cute pet accompanying you! You're pretty bold, girl!"
+[Arne] "Welcome! Wow! You've got quite the cute pet accompanying you! You're pretty bold, girl!"
 
 @huki b=1 id=AC0
 @bs f=アルネ@通常 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[Lily] "You are wrong! I am not like that! Not only did I come shopping today."
+[Lily] "You are wrong! I am not like that! Besides, I'm not here to shop."
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=アルネ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[アルネ]「は？　買い物じゃない？　まさか冷やかしッスか？」
+[Arne] "You've come to a shop not to shop? Well, what do you need?"
 
 @move_f f=リリィ@ out=l t=200 wt=1
 
@@ -41,9 +41,9 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=魔力を一杯集める方法を知りたい/*se01
+@select s1=I want to know how to collect magical power/*se01
 ;;----------------------------------------------------------------------
-;;魔力を一杯集める方法を知りたい 
+;;I want to know how to collect magical power
 *se01
 
 @huki b=2 wt=0
@@ -68,11 +68,11 @@
 @huki b=2 id=3
 @bs f=アルネ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[アルネ]「魔力……？　有名どころで言えばSQとかッスけど…………」
+[Arne] "Magical ......? SQ or something in famous terms ... ............"
 
 @bs f=アルネ@通常 x=350 y=50 t=100 wt=0
 
-[アルネ]「その様子を見るに、それじゃ足りないみたいっすね」
+[Arne] "To see that, it seems it is not enough"
 
 @bs f=アル@屈辱 x=-350 y=50 t=400
 @wait t=400
@@ -85,11 +85,11 @@
 
 @bs f=アルネ@蔑み x=350 y=50 t=600
 
-[アルネ]「んー、でも、それ以外だと自前の魔力使うのが一番っスかねぇー」
+[Arne] "Oh, but it's the best thing to use your own magical powers if it's nothing else"
 
 @bs f=アルネ@通常 x=350 y=50 t=200
 
-[アルネ]「まぁ、地道にやってくしかないッスよ」
+[Arne] "Well, there's no choice but to come to the steady"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=アルネ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
