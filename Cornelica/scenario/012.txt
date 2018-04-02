@@ -1,4 +1,4 @@
 
-;;[リリィ]「それじゃ、アル。おやすみなさい♪」
+;; [Lily] "Well then, Al. Good night ♪"
 @dot_move x=21 y=14 dir=down
 
