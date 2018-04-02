@@ -12,7 +12,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[リリィ]「この先が『魔女の館』だよ」
+[Lily] "This place is a witch's house, like I said..."
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
