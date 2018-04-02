@@ -10,15 +10,15 @@
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「ここは娼館……」
+[Lily] "This hall, ... ...."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……だった場所……」
+[Lily] "... ... was where ... ...."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「相手をする男の人が、すぐ不能になるから……潰れちゃったんだよね」
+[Lily], "man of the people who the opponent is, it's had collapsed ...... because quickly become impossible."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
