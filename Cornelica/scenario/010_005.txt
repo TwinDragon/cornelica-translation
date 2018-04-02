@@ -3,7 +3,7 @@
 
 ;;コマンド選択時：夜含む
 
-[リリィ]「ふふふ♪　キスじゃなくて、Hがしたいの……？」
+[Lily] "Hehehe! ♪ It is not a kiss, unless you would like to ... ....?"
 
 ;;暗転
 
