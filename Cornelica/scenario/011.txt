@@ -13,7 +13,7 @@
 @bs f=アル@困り_頬 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「どう？　体は……？　楽になったでしょ？」
+[Lily] "How is your body? ... ... Has it become easier to think?"
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
@@ -29,7 +29,7 @@
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「えへへ♪　よかった♪」
+[Lily] "Hehe ♪ I'm glad" ♪
 
 @huki b=7 id=11
 @huki b=8 id=12
@@ -39,27 +39,27 @@
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……実はね、吸い出すだけならキスとかでもいいんだけど」
+[Lily] "...... Actually, if you only want to suck it out, you can do it just like a kiss."
 
 @bs f=アル@困り_頬 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「あんまり効率が良くなくて……チャームの吸出しってアルの魔力も一緒に吸っちゃうから」
+[Lily] "It's not very efficient, since ... if I draw Charm, it'll suck Al's magical power as well"
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「何回もしてるとアルの魔力がすぐに無くなっちゃうの」
+[Lily] "Al 's magical power will soon disappear many times as it is"
 
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「だから次は、\C[2]『キス』で吸い出すか『Ｈ』で吸い出すかアルが決めて\C[0]いいよ♪」
+[Lily] "So next time \C[2]" suck it out with a "kiss" or suck it out with "lewd", you decide \ C [0] ok? ♪
 
 @bs f=アル@屈辱_頬 body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「チャームを『全部取り除きたい』時は、またＨしようね♪」
+[Lily] "When you want to remove the whole Charm, let's be lewd again ♪
 
 @bs f=アル@驚き_頬 op=焦り body=-1 face=0 x=-350 y=50 t=300
 @move f=アル@驚き_頬 x=-350 y=0 w=100 h=100 t=130 wt=1
@@ -76,21 +76,21 @@
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「ただ……この方法だとアルがものすごく疲れちゃうみたいだし……」
+[Lily] "Just ... ... this way it seems Al is getting really tired ..."
 
 @bs f=アル@困り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「この感じだと、『その日、一日は動けない』かも……今日はもう動けそうにないね」
+[Lily] "With this feeling," One day can not move on that day "...... I can not move today anymore."
 
 @bs f=アル@屈辱_頬 body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「それじゃあ、寝るとこ用意しないと……」
+[Lily] "Well then, when I go to bed I have to prepare ... ...."
 
 @bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……あ」
+[Lily] "... ...."
 
 @huki b=2 id=11
 @bs f=アル@困り_頬 op=ハテナ body=-1 face=0 x=-350 y=50 t=400
@@ -106,7 +106,7 @@
 @move f=リリィ@哀しみ x=350 y=50 w=100 h=100 opa=255 t=200 wt=0
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……ベッドが一つしかない……」
+[Lily] "...... There is only one bed ......"
 
 @move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @route route=up:2,left:5 wt=1
@@ -118,12 +118,12 @@
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……一緒に……寝よっか♪」
+[Lily] "...!!.........Together♪"
 
 @bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「大丈夫。何もしないから」
+[Lily] "Oh, don't pout, I won't do anything..."
 
 ;;暗転
 
@@ -136,7 +136,7 @@
 @huki b=3 id=12
 @bs f=リリィ@淫猥 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「今日は……ね♪」
+[Lily] "...Not today at least ... ... ♪"
 
 @fade type=out t=2000 wt=0
 
