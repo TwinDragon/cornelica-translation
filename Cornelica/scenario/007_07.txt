@@ -20,7 +20,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=1000
 
-[リリィ]「………………」
+[Lily] ".................."
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
 @wait t=400
@@ -29,10 +29,10 @@
 @bs f=アル@焦り x=-350 y=50 t=200
 
 ;;主人公、疑問符
-;;どうしたの？
-;;なにかあったの？
+;;What's wrong?
+;; Did something happen?
 
-@select s1=どうしたの？/*st10a s2=なにかあったの？/*st10b
+@ select s1 = What's wrong? / * st10a s2 = Did something happen? / * st 10 b
 ;;----------------------------------------------------
 *st10a
 *st10b
@@ -42,7 +42,7 @@
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
 
-[リリィ]「ここは……あんまり好きじゃないから……早く行こ」
+[Lily] "This place ... I'm not very fond of this place ... so please..."
 
 @bs f=アル@焦り x=-350 y=50 t=400
 @wait t=200
