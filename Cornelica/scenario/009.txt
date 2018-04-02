@@ -13,7 +13,7 @@
 
 @move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ]「むっ……」
+[Lily] "Mu ... ..."
 
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 
@@ -27,7 +27,7 @@
 @qk
 
 @huki b=3 id=36
-[サキュバス]「やんっ♪」
+[Succubus] "Yeet ♪"
 
 @dir dir=down
 @bs f=リリィ@困惑 x=400 y=50 opa=0 t=20 wt=0
@@ -36,7 +36,7 @@
 @move f=リリィ@困惑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
 @bs f=リリィ@蔑み op=ビックリ body=-1 face=0 x=350 y=50 t=200
-[リリィ]「アル！　こっち！」
+[Lily] "Al! Here!"
 
 ;;主人公：焦り
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
@@ -96,7 +96,7 @@
 
 @bs f=アル@焦り_頬 x=-350 y=50 t=200
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
-[リリィ]「……アル、大丈夫……？」
+[Lily] "... Al, are you OK?
 
 ;;主人公：赤面
 @huki b=7 wt=0
@@ -105,12 +105,12 @@
 
 @bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「さっきも言ったけど……警備に見つからない夜の間はああいうことしてくる人もいるから…………」
+[Lily] "I said it a while ago ... because the security is bad at night, the bad ones come out around now..."
 
 @bs f=アル@焦り_頬 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「……だから、歩き回る時は、\C[2]怪しい人には近付かないようにね\C[0]」
+[Lily] "... .... So when walking around, \ C [2] do not get close to suspicious people \ C [0]"
 
 @bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @move f=アル@屈辱_頬 x=-350 y=100 w=100 h=100 t=160 wt=1
