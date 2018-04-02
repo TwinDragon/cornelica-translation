@@ -23,13 +23,13 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[客１]「ゴクゴクゴクッ、プハァーーッ！　やっぱ一仕事した後のお酒は格別ね！」
+[Customer 1] "Gokogokuku Gokutsu, Puh-ha! After all worked a little alcohol is exceptional!"
 
 @huki b=6 id=21 wt=0
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[客２]「戦ったのは、ほとんど俺だったけどね」
+[Customer 2] "It was almost me who fought,"
 
 @huki b=3 id=18 wt=0
 @se f=Knock
@@ -37,13 +37,13 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[客１]「女将っ！　もう一杯！」
+[Customer 1] "Lady Commander! Another more!"
 
 @huki b=6 id=21 wt=0
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[客２]「……聞いてないし」
+[Customer 2] "... I have not heard of it"
 
 @move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
 @move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
@@ -57,7 +57,7 @@
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
 
 @huki b=3 id=9
-[酒場の女将]「はいはい～、すぐ次のをお注ぎいたしますねぇ～」
+[Daughter of the bar] "Yes Yes, ~ I will pay the next one soon ~"
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -79,7 +79,7 @@
 @huki b=7 id=9
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[酒場の女将]「あ～、水が切れちゃったか……」
+[Lady of the bar] "Ah, the water has run out ... ...."
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -92,7 +92,7 @@
 @huki b=8 id=9
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
 
-[酒場の女将]「アルー？　ちょっとお手伝いお願いしていいー？」
+[Lady of the bar] "Aru? Can I help you a little?"
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -132,21 +132,21 @@
 @bs f=アル@普通 x=-350 y=50 t=250 wt=1
 
 @huki b=8 id=9
-[母親]「お母さん今、手が離せないから……」
+[Mother] "Mom now I can not take my hand ... ..."
 
 @huki b=2 id=9
-[母親]「\C[2]近くの川で水を汲んで\C[0]きてもらっていい？」
+[Mother] "Could you ask for \ C [0] to draw water in a river near \ C [2]?"
 
 ;;立ち絵うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=250 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[母親]「じゃあ、よろしくね」
+[Mother] "Well, thank you"
 
 @se f=Item3
 @mes_win back=1 pos=1
-\CL水瓶を受け取った！
+\ CL I received a water bottle!
 @mes_win back=0 pos=2
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=0
@@ -181,7 +181,7 @@
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[客２]「……あの年で店の手伝いか……どこかのニートとは大違いだな」
+[Customer 2] "...... Would that help the store in that year ... it is a big difference from some neat?"
 
 @dir dir=right id=18 wt=0
 @dir dir=left id=21
@@ -190,7 +190,7 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[客１]「……へぇー？　随分と生意気なこと言うじゃない……ふふ、教育的指導が必要みたいね」
+[Customer 1] "...... Huh? I do not say anything cheeky ... ... Huhu, I guess I need educational guidance"
 
 @move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
 @move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
