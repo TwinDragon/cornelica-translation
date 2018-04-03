@@ -19,19 +19,19 @@
 
 @bs f=ロザリー@通常 x=350 y=50 t=200
 
-[ロザリー/lzr0001]「……いらっしゃい」
+[Rosary/lzr0001] "... ... Welcome"
 
 @bs f=ロザリー@考える x=350 y=50 t=600
 @wait t=400
 
 @bs f=ロザリー@通常 x=350 y=50 t=400
 
-[ロザリー/lzr0002]「……そうだ」
+[Rosary/lzr0002] "...uh-huh ... That's nice"
 
 @huki b=2 id=AC0
 @bs f=リリィ@微笑_r op=ハテナ_r x=-350 y=50 t=200
 
-[リリィ/rry0001]「どうしたの？」
+[Lily/rry0001] "What happened?"
 
 @huki b=8 id=3
 @bs f=ロザリー@考える x=350 y=50 t=600
@@ -42,11 +42,11 @@
 
 @bs f=ロザリー@笑み x=350 y=50 t=400
 
-[ロザリー/lzr0003]「……これ、飲んで……」
+[Rosary/lzr0003] "... ... this, drink ... ...."
 
 @bs f=リリィ@哀しみ_r op=焦り_r x=-350 y=50 t=400
 
-[リリィ/rry0002]「えっ、うん……」
+[Lily/rry0002] "Er, yeah ... ...."
 
 @bs f=ロザリー@考える x=350 y=50 t=400
 
@@ -74,7 +74,7 @@
 
 @bs f=リリィ@通常_頬 x=350 y=50 t=800 wt=1
 
-[リリィ/rry0003]「…………」
+[Lily/rry0003] "............"
 
 @dir dir=left id=AC0
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
@@ -84,7 +84,7 @@
 
 @bs f=リリィ@笑顔_頬 x=350 y=50 t=600 wt=1
 
-[リリィ/rry0004]「ん……ふふ……ある～♪」
+[Lily/rry0004] "... ... Huh ... ... this is great ~ ♪"
 
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
@@ -99,7 +99,7 @@
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=ロザリー@微笑 x=350 y=50 t=400
 
-[ロザリー/lzr0004]「……新しいお酒が入ったから……飲ませてみた」
+[Rosary/lzr0004] "... ... new spirits and sake arrived ... that first one was on the house, but the one you just grabbed was mine, it'll cost you."
 
 @huki b=2
 @bs f=アル@焦り op=ハテナ x=-350 y=50 t=300 wt=1
@@ -111,7 +111,7 @@
 @bs f=リリィ@笑顔_頬 x=400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@笑顔_頬 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ/rry0005]「えへへ……ある、ちょっとこっち向いてぇ♪」
+[Lily/rry0005] "Ehehehe ... .... I wanted a little more! ♪ ♪"
 
 @huki b=2
 @dir dir=right
