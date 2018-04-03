@@ -2,15 +2,15 @@
 
 ;;日常会話
 
-[アルネ]「おやお客さん。お久しぶりッス！　いやぁ～今日もお供付きッスか！　見せつけてくれるッスねぇ♪」
+[Arne] "Oya customers, it's been a long time! So, you're walking your pet today as well ♪
 
-[リリィ]「もうっ、違うって言ってるでしょ！　そういうアルネこそ、男の人といるところを見たことないけど？」
+[Lily] "I already said that you're wrong, but what about you? Don't you do the same thing?"
 
-[アルネ]「ま、まぁ……あーしはほら、ケット・シーの血が濃いせいか、サキュバスのチャームが薄いんすよ……」
+[Arne] "Well, about that ... uh... my Mr. Hora, probably because he's a cait sìth, his blood is dark and hard to corrupt, ......  Charm doesn't really do much..."
 
-[アルネ]「男もあんまり捕まらないから……こうやって色々と道具を作ってるわけで……」
+[Arne] "Besides, we've had less men captured lately...so I've just spent most of my time "tinkering" with tools"
 
-[リリィ]「ふ～ん…………行き遅れ？」
+[Lily] "Wow ... ... ... ... so really you're just too lazy?"
 
 [アルネ]「行きっ………サキュバスに『行き遅れ』は酷くないっすか！？　あーしなんか悪いことしたっすか！？」
 
