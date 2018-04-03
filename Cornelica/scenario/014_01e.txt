@@ -52,7 +52,7 @@
 @bs f=リリィ@困惑_頬 x=400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_頬 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
 
-[リリィ/rry0012]「あっ……あるぅ……にげないでよぉ……」
+[Lily/rry 0012] "Ah ... ... there is ... do not go away ... ..."
 
 @move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move_f f=リリィ@ face=0 out=c t=20 wt=0
@@ -81,7 +81,7 @@
 
 @huki b=8 id=2
 
-[ロザリー/lzr0008]「リリィは…………束縛系？」
+[Rosary/lzr0008] "Lily is ... ... ... .... restraint system?"
 
 @fade type=out t=1000 wt=1
 @move_f f=ロザリー@ out=c t=20 wt=0
