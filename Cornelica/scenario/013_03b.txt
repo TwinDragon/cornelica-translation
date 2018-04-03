@@ -4,16 +4,16 @@
 @huki b=2 id=3
 @move_f f=ユスティーナ@笑み in=c t=150 wt=1
 
-[ユスティーナ]「あらリリィちゃん♪　探し物は見つかった？」 
+[Justina] "Oh! Lily!" ♪ Did you found what you were looking for?
 
 @bs f=ユスティーナ@微笑 t=150
 
-[リリィ]「ううん。まだ」 
+[Lily] "No, not yet"
 
 @huki b=8 id=3
 @bs f=ユスティーナ@笑み t=150
 
-[ユスティーナ]「そう……頑張ってね？」 
+[Yusutina] "Yes ...well ... Do your best?"
 
 @move_f f=ユスティーナ@ out=c t=150 wt=1
 
