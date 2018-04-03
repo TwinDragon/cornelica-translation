@@ -1,23 +1,23 @@
 
 @bgv f=fera_rry1
 
-[リリィ/rry0006]「ん……ちゅっ♪」
+[Lily/rry0006] "... .... Chu ♪"
 
-[リリィ/rry0007]「れろ……くちゅっ……ん……じゅる、じゅるる……」
+[Lily/rry0007] "Releasing ... .... Nugget ...... Juur, Yuururu ..."
 
-[ロザリー/lzr0005]「……」
+[Rosary/lzr0005] "... ...."
 
-[リリィ/rry0008]「……れ……ぴちゃ……ぴちゃ……」
+[Lily/rry0008] "... .... ... ... ... Chicha ... .... Picha ..."
 
-[ロザリー/lzr0006]「……」
+[Rosary/lzr0006] "......"
 
-[リリィ/rry0009]「……ん……」
+[Lily/rry0009] "... ...."
 
-[ロザリー/lzr0007]「私も……混ざっていい……？」
+[Rosary/lzr0007] "I can also mix ... ....?"
 
-[リリィ/rry0010]「だめぇ…………あるはぁ……、わたしのなのぉ……ん……ちゅむっ」
+[Lily/rry 0010] "No ............ There is one ......, Mine ... ... ... Chumphu"
 
 @bgv
 
-[リリィ/rry0011]「だれにもぉ……触らせないんだからぁ……」
+[Lily/rry0011] "Nobody will ... let me touch you ... ..."
 
