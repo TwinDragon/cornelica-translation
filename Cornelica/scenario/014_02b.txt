@@ -4,9 +4,9 @@
 @huki b=3 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[アルネ]「いらっしゃいッス！　いやぁ～本当に見せつけてくれるッスよねぇ～」
+[Arne] "Welcome back! Mphm... you really like to show off!"
 
-[リリィ]「もう……からかわないでよっ！」
+[Lily] "Stop making fun of me!"
 
 @move_f f=アルネ@ out=c t=150
 
