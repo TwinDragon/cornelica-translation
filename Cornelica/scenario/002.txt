@@ -23,13 +23,13 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[Customer 1] "Gokogokuku Gokutsu, Puh-ha! After all worked a little alcohol is exceptional!"
+[Customer 1] "Gulp Gulp Gulp. Puh-ha! After all that work, a little alcohol is exceptional!"
 
 @huki b=6 id=21 wt=0
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[Customer 2] "It was almost me who fought,"
+[Customer 2] "It was me who did most of the fighting, though"
 
 @huki b=3 id=18 wt=0
 @se f=Knock
@@ -37,13 +37,13 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[Customer 1] "Lady Commander! Another more!"
+[Customer 1] "Lady bartender! Another one!"
 
 @huki b=6 id=21 wt=0
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[Customer 2] "... I have not heard of it"
+[Customer 2] "... I'm not hearing of this"
 
 @move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
 @move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
@@ -57,7 +57,7 @@
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
 
 @huki b=3 id=9
-[Daughter of the bar] "Yes Yes, ~ I will pay the next one soon ~"
+[Lady Bartender] "Yes yes~, I'll bring the next one soon~"
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -79,7 +79,7 @@
 @huki b=7 id=9
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[Lady of the bar] "Ah, the water has run out ... ...."
+[Lady Bartender] "Oh~, we ran out of water..."
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -92,7 +92,7 @@
 @huki b=8 id=9
 @move f=母@01 x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
 
-[Lady of the bar] "Aru? Can I help you a little?"
+[Lady Bartender] "Aru? Can I help you a little?"
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1
 
@@ -135,7 +135,7 @@
 [Mother] "Mom now I can not take my hand ... ..."
 
 @huki b=2 id=9
-[Mother] "Could you ask for \ C [0] to draw water in a river near \ C [2]?"
+[Mother] "Could you ask for \C[0] to draw water in a river near \C[2]?"
 
 ;;立ち絵うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=250 wt=1
@@ -146,7 +146,7 @@
 
 @se f=Item3
 @mes_win back=1 pos=1
-\ CL I received a water bottle!
+\CL I received a water bottle!
 @mes_win back=0 pos=2
 
 @move f=母@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=0
@@ -181,7 +181,7 @@
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[Customer 2] "...... Would that help the store in that year ... it is a big difference from some neat?"
+[Customer 2] "... Would that help the store in that year... it is a big difference from some neat?"
 
 @dir dir=right id=18 wt=0
 @dir dir=left id=21
@@ -190,7 +190,7 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[Customer 1] "...... Huh? I do not say anything cheeky ... ... Huhu, I guess I need educational guidance"
+[Customer 1] "... Huh? I do not say anything cheeky... Huhu, I guess I need educational guidance"
 
 @move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
 @move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1

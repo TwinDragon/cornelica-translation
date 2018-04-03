@@ -9,7 +9,7 @@
 @se f=Item1
 
 @mes_win back=1 pos=1
-\ CL I got the water in the water bottle.
+\CL I got the water in the water bottle.
 @mes_win back=0 pos=2
 
 @move_speed spd=3

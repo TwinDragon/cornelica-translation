@@ -4,14 +4,6 @@ Repository for the translation project for the hentai game **Cornelica**. The ga
 
 No one begun an English patch project for this game, so in our spare time between other projects, we'll be working on Cornelica to bring it to the English audience.
 
-## Current English Patch Version
-
-0.1-alpha (initial for now until work is done)
-
-## Changelog
-
-* 0.1-alpha (initial upload)
-
 # FAQ
 
 1. What FAQ?
