@@ -18,19 +18,19 @@
 @huki b=2 id=3
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「あら、リリィちゃんじゃない。ふふ、男の子つれちゃって、デート中かしら？」 
+[Justina] "Oh, if it isn't Lily, hehe, you're with a boy, are you on a date? "
 
 @huki b=1 id=AC0
 @bs f=ユスティーナ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「ア、アルはそんなんじゃないよ！」 
+[Lily] "Al isn't like that!"
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「もう、恥ずかしがらなくていいのに♪　リリィもようやく大人の仲間入りね♪」 
+[Justina] "You shouldn't be shy, ♪ Lily is finally acting like an adult" ♪
 
 @huki b=7 id=AC0
 @bs f=リリィ@困惑_r op=困惑_r body=-1 face=0 x=-350 y=50 t=400
@@ -45,9 +45,9 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=魔力を一杯集める方法を知りたい/*se01
+@select s1=I want to know how to collect magical power/*se01
 ;;----------------------------------------------------------------------
-;;魔力を一杯集める方法を知りたい 
+;;I want to know how to collect magical power
 *se01
 
 @huki b=2 wt=0
@@ -58,18 +58,18 @@
 
 @bs f=ユスティーナ@通常 body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「魔力……ねぇ。一杯というと……私みたいにお店を開いてみる？」 
+[Justina] "Magical ... ... hey ... If I say a cup ... why do not you open a shop like me?"
 
 @move_f f=アル@ face=0 out=l t=200 wt=1
 
 @bs f=リリィ@困惑_r op=焦り_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[リリィ]「そ、それはちょっと……時間もかかるし……」 
+[Lily] "Sure, that's a bit ... ... it takes time ..."
 
 @bs f=ユスティーナ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「ふふ……そうよねぇ。それにしても……」
+[Justina] "Hehe ... ... That's right, hey ... Even so ..."
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ユスティーナ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -90,7 +90,7 @@
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200
 
-[ユスティーナ]「アル君だっけ？　私といいことしなぁい？　今なら、色々と【おまけ】もつけちゃうかも……♪」 
+[Justina] "So you're Al, are you shopping too? Now if are, I'll have to add an additional charge of [extra] ... ♪" ♪
 
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @wait t=600
@@ -118,7 +118,7 @@
 @bs f=リリィ@蔑み x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[リリィ]「あ！　ダメだよユスティーナ！　ほら、アルもぼ～っとしてないで次に行くよ！」 
+[Lily] "Oh no! Justina, would you look at the time, we really must be off!"
 
 @move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -151,7 +151,7 @@
 
 @bs f=ユスティーナ@笑み
 
-[ユスティーナ]「あらあら、怒られちゃった♪　ざ～んねん♪」 
+[Justina] "Oh dear, I seem to have awoken her jealous side ♪ Sorry!"
 
 @fade type=out t=1000 wt=1
 @move_f f=ユスティーナ@ out=c t=20 wt=1
