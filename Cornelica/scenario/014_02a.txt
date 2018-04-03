@@ -18,23 +18,23 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[アルネ]「いらっしゃい！　ほぉーペット同伴ッスか！　これは期待できそうッス」
+[Arne] "Welcome! You've got a cute pet accompanying you! Fifth one I've seen today~!"
 
 @huki b=1 id=AC0
 @bs f=アルネ@通常 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「ち、違うよ！　この子はそんなんじゃないの！」
+[Lily] "You are wrong! Al's not like that!"
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=アルネ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[アルネ]「そう、恥ずかしがらなくたっていいじゃないッスか！　それで何をお探しッスか？」
+[Arne] "Oh, no need to be shy! So what are you looking for?"
 
 @bs f=リリィ@困惑_r op=焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「だから！　違うってばー！」
+[Lily] "You're not listening!"
 
 @move f=リリィ@焦り_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=アルネ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
