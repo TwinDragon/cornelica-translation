@@ -16,7 +16,7 @@
 
 @bs f=リリィ@微笑 op=電球 x=350 y=50 t=200
 
-[リリィ]「あっ、そうだ。チャームと魔力について教えておくね」
+[Lily] "Oh, yes, I'll tell you about Charm and magical power."
 
 @bs f=アル@笑顔 x=-350 y=50 t=200
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -26,21 +26,21 @@
 @bs f=アル@普通 x=-350 y=50 t=200
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[リリィ]「『チャーム』って言いうのは、サキュバスが持ってる、雄を誘惑するための魔力のことだよ」
+[Lily] "In simpler terms, " Charm " is the magical power that Succubi use to tempt men"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「サキュバスにHなことされたりすると、増えていくから気を付けてね」
+[Lily] "If you do not make it to Succubus, it will increase, so be careful."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 @bs f=アル@困り op=焦り x=-350 y=50 t=200
 
-[リリィ]「チャームが溜まりきっちゃうと、サキュバスがいなければ動くこともできない、人形みたいになっちゃうの」
+[Lily] "When the Charm clumps up in you, you won't move without the Succubus, really just making you their doll."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=tutorial2 body=-1 face=0 t=200
 
-[リリィ]「画面のこの辺りにあるから、100%になる前に私に言ってね。チャームを吸い取ってあげるよ」
+[Lily] "For some reason, you're able to know how much Charm has accumulated in you, so tell me before you get 100%, I'll suck up the Charm"
 
 @move_f f=tutorial2 face=0 out=c t=200
 
@@ -56,16 +56,16 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=400
 
-[リリィ]「そして、『魔力』っていうのはアルが動くために必要な物なんだ」
+[Lily] "Moving onto " Magical power ", this is what is necessary for Al to move"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「サキュバスにHなことされたり、私がチャームを吸い取るときに、減っちゃうから気を付けてね」
+[Lily] "Get anywhere near a Succubus, you'll suck up the Charm, and your magical power will decrease, so be careful."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=tutorial1 body=-1 face=0 t=200
 
-[リリィ]「画面のこの辺りにあるから、危なくなったらベッドで休むといいよ。一晩も寝れば、全部回復すると思うから」
+[Lily] "You'll be able to feel yourself weakening, so if you get in danger, you should rest in bed, I think that if you sleep for the night you will fully recover."
 
 @move_f f=tutorial1 face=0 out=c t=200
 
@@ -76,28 +76,28 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「魔力が０になっても、動けなくなることは無いんだけど、チャームがすごく溜まりやすくなるから気をつけてね」
+[Lily] "Even if you lose all of your magical power, you'll still be able to move, but be careful as the Charm will accumulate very easily."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「それと、力の強いサキュバスや搾精植物が多い場所は、チャームの魔力が空気中にも漂ってるの」
+[Lily] "And also, in places where there are a lot of strong Succubi and squeezed plants, the Charm's magical power is drifting in the air"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「何もしてなくても、その場所にいるだけでどんどんチャームが溜まっていっちゃうから、気を付けてね」
+[Lily] "Even if you don't do anything, just because you are in such a place, the Charm will accumulate steadily, so be extra careful."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 @bs f=tutorial3 body=-1 face=0 t=200
 
-[リリィ]「Penaltyの数字が大きいほど、チャームが増えていく量も大きくなるから、注意だよ」
+[Lily] "The greater the number of Penalty, the more Charm that'll be added."
 
 @move_f f=tutorial3 face=0 out=c t=200
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=アル@普通 x=-350 y=50 t=200
 
-[リリィ]「わからなくなったら、お家にいる時に、また私に聞いてね」
+[Lily] "If you ever need a refresher, ask again when we're safe at home"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
