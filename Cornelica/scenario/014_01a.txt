@@ -17,12 +17,12 @@
 
 @bs f=ロザリー@通常 x=350 y=50 t=200
 
-[ロザリー]「……いらっしゃい」
+[Rosary] "... ... Welcome"
 
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔_r x=-350 y=50 t=200
 
-[リリィ]「こんにちは」
+[Lily] "Hello"
 
 @huki b=8 id=3
 @bs f=リリィ@微笑_r x=-350 y=50 t=100 wt=0
@@ -31,25 +31,25 @@
 
 @bs f=ロザリー@考える face=0 x=350 y=50 t=200
 
-[ロザリー]「……リリィも、隅に置けない」
+[Rosary] "...... Lily can't be underestimated"
 
 @huki b=1 id=AC0
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[リリィ]「え、あっ！　違うの！　アルはそういうのじゃなくて……」 
+[Lily] "Eh, it is different! Al is not like that ..."
 
 @huki b=2 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=100 wt=0
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[ロザリー]「……照れてる？」
+[Rosary] "... Are you embarrassed?"
 
 @huki b=7 id=AC0
 @bs f=ロザリー@考える x=350 y=50 t=100 wt=0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200
 
-[リリィ]「もぅ……違うって言ってるのに」
+[Lily] "Mou ... ... I told you you were wrong"
 
 @move f=リリィ@微笑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ロザリー@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
