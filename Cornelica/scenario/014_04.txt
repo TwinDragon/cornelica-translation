@@ -8,7 +8,7 @@
 @huki b=8 id=3
 @move_f f=メイド@蔑み_赤 in=c t=150
 
-[ヴラスタ]「マスターは町外れの館にいます」
+[Vlaster] "Master is at town hall"
 
 @move_f f=メイド@ out=c t=150
 
@@ -24,7 +24,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[リリィ]「場所は、フランカ区の東側だよね。……ダメもとだけど、行ってみよう」
+[Lily] "That place is on the east side of the Franca Ward .... It's not a good place for humans to be, but we've got no choice"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
