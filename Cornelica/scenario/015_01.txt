@@ -9,31 +9,31 @@
 @huki b=8 id=3
 @move_f f=メイド@蔑み_赤 in=c t=150
 
-[ヴラスタ]「……いらっしゃい」
+[Vlasta] "... ... Welcome"
 
 @bs f=メイド@通常_赤 t=150
 
-[リリィ]「あのね、聞きたいことがあるの」
+[Lily] "Hey, there is something I want to hear"
 
 @bs f=メイド@蔑み_赤 t=150
 
-[ヴラスタ]「……なんでしょう？」
+[Vluster] "... What is it?"
 
 @bs f=メイド@通常_赤 t=150
 
-[リリィ]「館の魔女に……会うことってできない？」
+[Lily] "To the witch of the house ... Can not you see me?"
 
 @bs f=メイド@蔑み_赤 t=150
 
-[ヴラスタ]「マスター？　マスターは町外れの館にいます」
+[Vlasta] "Master? Master is in town hall"
 
 @bs f=メイド@通常_赤 t=150
 
-[リリィ]「場所とかじゃなくて、本人に……」
+[Lily] "Not to the place, to the principal ... ...."
 
 @bs f=メイド@蔑み_赤 t=150
 
-[ヴラスタ]「マスターは町外れの館にいます」
+[Vlaster] "Master is at town hall"
 
 @move_f f=メイド@ out=c t=150
 @dir dir=right wt=0
@@ -49,7 +49,7 @@
 @huki b=7 id=AC0
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「ここもダメみたいだね……」
+[Lily] "It seems like it will not be here either ..."
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @wait t=300
