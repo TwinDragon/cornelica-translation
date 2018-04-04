@@ -9,7 +9,7 @@
 
 @move_f f=リリィ@微笑 in=c t=150 wt=1
 
-[リリィ]「正面突破はちょっと難しいかも……裏口とか、あるかもしれないから探してみよっか」
+[Lily] "It may be a little difficult to break through the front ...... backdoor, there might be one, so please look for it"
 
 @move_f f=リリィ@ out=c t=150 wt=1
 
