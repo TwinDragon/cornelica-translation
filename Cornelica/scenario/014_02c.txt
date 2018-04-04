@@ -12,15 +12,15 @@
 
 [Lily] "Wow ... ... ... ... so really you're just too lazy?"
 
-[アルネ]「行きっ………サキュバスに『行き遅れ』は酷くないっすか！？　あーしなんか悪いことしたっすか！？」
+[Arne] "L-lazy ... ........ I'd prefer if you just said we're delayed. What's wrong with that?!"
 
-[リリィ]「べつにぃ～……」
+[Lily] "Sticky ~ ... ..."
 
-[アルネ]「あぁ、もう！　謝るっすから！　その辺りは軽くトラウマなんであーしをいじめないでください！」
+[Arne] "Ah, I'm sorry! Because I'm lightly traumatic around here, please do not bully me!"
 
-[リリィ]「んふふ……ごめんね、許してあげる♪」
+[Lily] "Hehe, ... I'm sorry, I will forgive you" ♪
 
-[アルネ]「もうっ……ほんとにお転婆なんスから……」
+[Arne] "Already ... ... really from a trance ... ...."
 
 ;;==========================================================================================
 
