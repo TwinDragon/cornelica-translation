@@ -44,7 +44,7 @@
 
 @bs f=リリィ@蔑み op=汗 x=350 y=50 t=200 wt=1
 
-[リリィ]「うわぁ……こんなにヴラスタがいる……」
+[Lily] "Wow ...... There is such a vlasta ... ...."
 
 @dir dir=left id=AC0
 @huki b=2
@@ -53,11 +53,11 @@
 
 @bs f=リリィ@通常 x=350 y=50 t=200 wt=1
 
-[リリィ]「えっとね、前にも少しだけ話したけど、あのゴーレムはヴラスタって呼ばれてて、警備とか簡単なお世話とかしてるの」
+[Lily] "Well, I talked a little bit ago, but that golem is called Vlasta and are used as guards and housekeepers."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「日々新しくなってる最新鋭のゴーレムでね、最近は流暢に喋れるのもいるみたいだよ」
+[Lily] "It is a state-of-the-art golem that is new every day, and it seems that there are also people who can speak fluently nowadays."
 
 @bs f=リリィ@微笑 x=350 y=50 t=100 wt=0
 @bs f=アル@普通 x=-350 y=50 t=400 wt=1
@@ -67,11 +67,11 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200 wt=1
 
-[リリィ]「ここのは、カタコトだから古いブラスタのはずなんだけど……」
+[Lily] "It's supposed to be an old blaster here because it's catchy, but ..."
 
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「かなり、いい動きするよね。魔女が手を加えてるのかな？」
+[Lily] "That's quite a good move, does the witch have a hand?"
 
 @dir dir=right id=AC0 wt=0
 
@@ -90,7 +90,7 @@
 @bs f=リリィ@蔑み x=400 opa=0 y=50 t=20 wt=0
 @move f=リリィ@蔑み  x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
 
-[リリィ]「………………」
+[Lily] ".................."
 
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move_f f=リリィ@ face=0 out=c t=20 wt=0
@@ -114,7 +114,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「見つかったら、色々大変そうだし……気づかれないように進もう」
+[Lily] "If it finds us, we'll be in a lot of trouble. So~! Let's be sneaky."
 
 @huki b=8
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=400 wt=1
