@@ -18,7 +18,7 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 ## Want to Contribute?
 
-If you want to contribute to the project, have a look at the file for [Contributing](https://bitbucket.org/twinshadow_sh/cornelica-trans/src/d3d2e6717b32/CONTRIBUTING.md?at=master&fileviewer=file-view-default) to the repo. It's pretty easy and self-explanatory.
+If you want to contribute to the project, have a look at the file for [Contributing](https://github.com/TwinDragon/cornelica-translation/blob/master/CONTRIBUTING.md) to the repo. It's pretty easy and self-explanatory.
 
 # People
 
