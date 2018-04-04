@@ -26,4 +26,4 @@ Basically these are the people who you contact for issues.
 
 * Bezerker77
 * Darkhawk02
-* TwinShadow *<shippo[at]starfleetplatoon.com>*
+* TwinDragon *<shippo[at]starfleetplatoon.com>*
