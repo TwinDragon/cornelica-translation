@@ -15,10 +15,10 @@ Symbol | Meaning
 
 The majority of the `@` commands within the game are to be left alone to keep sanity within the game logic of the engine.
 
-**@bs** - Not sure on specific meaning, but an example line: `@bs f=旅人A@01 face=0 body=-1 opa=0 x=-400 y=50 t=20 wt=0` basically states which character sprite art; probably for dialog sequences.
-**@move** - Moves a specific sprite on the map to a specific point. Example: `@move f=旅人A@01 x=-300 y=50 w=100 h=100 opa=255 t=1500 wt=0`
-**@move_speed** - As it suggests, movement speed of the character(s).
-**@select** - This is the *only* command to translate the text for. This is a dialog choice selection.
+* **@bs** - Not sure on specific meaning, but an example line: `@bs f=旅人A@01 face=0 body=-1 opa=0 x=-400 y=50 t=20 wt=0` basically states which character sprite art; probably for dialog sequences.
+* **@move** - Moves a specific sprite on the map to a specific point. Example: `@move f=旅人A@01 x=-300 y=50 w=100 h=100 opa=255 t=1500 wt=0`
+* **@move_speed** - As it suggests, movement speed of the character(s).
+* **@select** - This is the *only* command to translate the text for. This is a dialog choice selection.
 
 ## Item Descriptions
 
