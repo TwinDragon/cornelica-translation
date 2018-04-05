@@ -16,3 +16,5 @@ Here's what I've been able to tell so far from the symbols that begin each line-
 ---
 
 For item descriptions, it appears that the character limit is 70 per line. New lines can be marked by using "\n" without quotes.
+
+For text boxes, the character limit is 40(including quotes) and flows over to a new line after. If we go over 80, it will automatically continue through the dialog until everything is written.
