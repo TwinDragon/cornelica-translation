@@ -11,10 +11,10 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 ## To Do List
 
-* Menu Translation
-* Any possible dialogue in images
-* Initial Translations
-* Whatever else...
+- [ ] Initial Translation
+- [ ] Convert Machine to readable English
+- [ ] Quality Check
+- [ ] ???
 
 ## Want to Contribute?
 

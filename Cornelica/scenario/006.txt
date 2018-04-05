@@ -22,7 +22,7 @@
 
 @bgm f=s-003 pitch=90
 
-[リリィ[Lily] "............"
+[Lily] "............"
 
 ;;主人公疑問符
 
@@ -30,14 +30,14 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=100 wt=0
 @bs f=アル@困り x=-350 y=50 t=200
 
-[Lily] "Hey ... did Al came to" this world "with someone?"
+[Lily] "Hey ... did Al came to "this world" with someone?"
 
 ;;主人公疑問符
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300
 
-;; "Is this" "world? '" "With someone?"
-@ select s1 = This "world"? / * st06a s2 = With someone? / * st 06 b
+;;「この『せかい』？」　「誰かと？」
+@select s1=この『世界』？/*st06a s2=誰かと？/*st06b
 
 *st06a
 *st06b
@@ -67,7 +67,7 @@
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
 
-[Lily] "Ah, sorry, I thought alone ... ...!"
+[Lily] "Ah, sorry, I thought you were alone...!"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
@@ -87,7 +87,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[Lily] "A demon is a demon that lives by eating human precious things." But, there is no need to be afraid."
+[Lily] "A demon is a demon that lives by eating human precious things. But, there is no need to be afraid."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
@@ -125,10 +125,10 @@
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200
 
-[Lily] "How did Al came to this world?"
+[Lily] "How did Al come to this world?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
-@select s1 = sucked in like a magic team ... / / st07a s2 = Find the stone that shines in the river ... / / st07b
+@select s1=魔法陣みたいなのに吸い込まれて……/*st07a s2=川で光る石を見つけて……/*st07b
 ;;============================================================================
 *st07a
 
@@ -199,7 +199,7 @@
 [Lily] "............"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily] "... This is a succubus cube, it is a mass of crystallized magical power.It is said that it is SQ from a long time"
+[Lily] "... This is a succubus cube, it is a mass of crystallized magical power. It is said that it is SQ from a long time"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 [Lily] "SQ, once you use magical powers it will be just a stone, so SQ with plenty of magical power is very precious"
