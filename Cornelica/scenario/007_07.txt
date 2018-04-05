@@ -32,7 +32,7 @@
 ;;どうしたの？
 ;;なにかあったの？
 
-@select s1=どうしたの？/*st10a s2=なにかあったの？/*st10b
+@select s1=What's wrong?/*st10a s2=Did something happen?/*st10b
 ;;----------------------------------------------------
 *st10a
 *st10b

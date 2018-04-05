@@ -37,7 +37,7 @@
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300
 
 ;;「この『せかい』？」　「誰かと？」
-@select s1=この『世界』？/*st06a s2=誰かと？/*st06b
+@select s1=This "world?"/*st06a s2=With someone?/*st06b
 
 *st06a
 *st06b
@@ -128,7 +128,7 @@
 [Lily] "How did Al come to this world?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
-@select s1=魔法陣みたいなのに吸い込まれて……/*st07a s2=川で光る石を見つけて……/*st07b
+@select s1=Being sucked in like magic.../*st07a s2=Find the stone that shines in the river.../*st07b
 ;;============================================================================
 *st07a
 
