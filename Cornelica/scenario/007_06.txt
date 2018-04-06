@@ -18,7 +18,7 @@
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "The male escorts quickly got used up... so it went bankrupt."
+[Lily] "But the male escorts quickly became impotent... so it went bankrupt."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
