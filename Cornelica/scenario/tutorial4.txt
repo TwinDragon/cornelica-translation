@@ -1,18 +1,18 @@
 
 @bs f=リリィ@通常 t=200
 
-[リリィ]「コルネリカは、夜の方がサキュバスの動きが活発だよ」
+[Lily] "In Cornelica, succubi are more active at night."
 
 @bs f=リリィ@哀しみ t=200
 
-[リリィ]「それに薄暗くて、警備ヴラスタ達も夜はスリープモード？　で動いてないから……」
+[Lily] "Moreover it's dark, and even guard vlastas are in sleep mode at night? So they don't move..."
 
 @bs f=リリィ@困惑 t=200
 
-[リリィ]「出歩いてるサキュバスに不用意に近づくといきなり襲われちゃうかもしれないの」
+[Lily] "If you carelessly wander close to a succubus, you may suddenly get attacked."
 
 @bs f=リリィ@哀しみ t=200
 
-[リリィ]「だから、夜に出歩くときは気を付けてね」
+[Lily] "So when you go out at night, be careful."
 
 @move_f f=リリィ@ out=c t=200
