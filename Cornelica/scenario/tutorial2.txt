@@ -1,20 +1,20 @@
 
 @bs f=リリィ@微笑 t=200
 
-[リリィ]「えっとね、『魔力』っていうのはアルが動くために必要な物だよ」
+[Lily] "Umm you see, 'Mana points' are something you need in order to move, Al."
 
 @bs f=リリィ@蔑み t=200
 
-[リリィ]「サキュバスにHなことされたり、私がチャームを吸い取る時に、減っちゃうから気を付けてね」
+[Lily] "Be careful because it will decrease if a succubus does lewd things to you, or when I siphon charm."
 
 @bs f=リリィ@微笑 t=200
 @bs f=tutorial1 body=-1 face=0 t=200
 
-[リリィ]「画面のこの辺りにあるから、危なくなったらベッドで休むといいよ。一晩も寝れば、全部回復すると思うから」
+[Lily] "If the bar in this part of the screen gets low, you should rest in a bed. If you sleep for a night, I think you'll fully recover."
 
 @move_f f=tutorial1 face=0 out=c t=200
 @bs f=リリィ@焦り t=200
 
-[リリィ]「……あっ、忘れてた。魔力が０になっても、動けなくなることは無いんだけど、チャームがすごく溜まりやすくなるから気をつけてね」
+[Lily] "... Ah, I forgot. Even if your MP falls to 0, you'll still be able to move, but charm will start accumulating very easily so be careful, okay."
 
 @move_f f=リリィ@ out=c t=200
