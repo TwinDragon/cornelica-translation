@@ -1,20 +1,20 @@
 
 @bs f=リリィ@微笑 t=200
 
-[リリィ]「えっとね、『チャーム』って言いうのは、サキュバスが持ってる、雄を誘惑するための魔力のことだよ」
+[Lily] "Umm you see, 'Charm' is the magical power succubi use to seduce men."
 
 @bs f=リリィ@蔑み t=200
 
-[リリィ]「サキュバスにHなことされたり、Hな罠にかかっちゃったりすると増えていくから気を付けてね」
+[Lily] "Be careful because it will increase if a succubus does lewd things to you, or you get caught in a lewd trap."
 
 @bs f=リリィ@困惑 t=200
 
-[リリィ]「もしチャームが溜まり切ってしまったら、サキュバスがいなければ動くこともできない、人形みたいになっちゃうの」
+[Lily] "If the reservoir fills up, without a succubus you won't even be able to move, you'll end up like a doll."
 
 @bs f=リリィ@微笑 t=200
 @bs f=tutorial2 body=-1 face=0 t=200
 
-[リリィ]「画面のこの辺りにあるから、100%になる前に私に言ってね。チャームを吸い取ってあげるよ」
+[Lily] "Tell me before the meter in this part of the screen reaches 100%, okay. I'll siphon the charm for you."
 
 @move_f f=tutorial2 face=0 out=c t=200
 @move_f f=リリィ@ out=c t=200
