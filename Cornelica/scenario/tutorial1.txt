@@ -9,7 +9,7 @@
 
 @bs f=リリィ@困惑 t=200
 
-[Lily] "If the reservoir fills up, without a succubus you won't even be able to move, you'll end up like a doll."
+[Lily] "If charm finishes accumulating, without a succubus you won't even be able to move, you'll end up like a doll."
 
 @bs f=リリィ@微笑 t=200
 @bs f=tutorial2 body=-1 face=0 t=200
