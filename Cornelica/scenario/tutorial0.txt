@@ -1,5 +1,5 @@
 
 @bs f=リリィ@微笑 op=ハテナ t=200
 
-[Lily] "Something you want to ask me about?"
+[Lily]"Something you want to ask about?"
 
