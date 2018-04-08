@@ -1,16 +1,16 @@
 
 @bs f=リリィ@困惑 t=200
 
-[Lily] "In places where powerful succubi and semen squeezing plants are, the magical power of charm hangs in the air."
+[Lily]"In places where powerful succubi and semen squeezing plants are, the magical power of charm hangs in the air."
 
 @bs f=リリィ@蔑み t=200
 
-[Lily] "Even if you don't do anything, just by being in those places charm will steadily accumulate, so be careful."
+[Lily]"Even if you don't do anything, just by being in those places charm will steadily accumulate, so be careful."
 
 @bs f=リリィ@困惑 t=200
 @bs f=tutorial3 body=-1 face=0 t=200
 
-[Lily] "The larger the penalty number, the more charm will accumulate, so pay attention to it."
+[Lily]"The larger the penalty number, the more charm will accumulate, so pay attention to it."
 
 @move_f f=tutorial3 face=0 out=c t=200
 @move_f f=リリィ@ out=c t=200
