@@ -1,15 +1,15 @@
 
 @bs f=リリィ@微笑 t=200
 
-[Lily] "Hilberta Forest is a huge forest surrounding Cornelica."
+[Lily]"Hilberta Forest is a huge forest surrounding Cornelica."
 
 @bs f=リリィ@困惑 t=200
 
-[Lily] "During the day there's not much but... when it becomes night, in addition to becoming very dark, semen squeezing monsters and tentacles come out so it's a very dangerous place."
+[Lily]"During the day there's not much but... when it becomes night, in addition to becoming very dark, semen squeezing monsters and tentacles come out so it's a very dangerous place."
 
 @bs f=リリィ@哀しみ t=200
 
-[Lily] "You may not want to go near it, unless you have something to do there."
+[Lily]"You may not want to go near it, unless you have something to do there."
 
 @move_f f=リリィ@ out=c t=200
 
