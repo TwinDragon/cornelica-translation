@@ -1,7 +1,7 @@
 
 @bs f=リリィ@微笑 t=200
 
-[Lily]"Umm you see, 'Magical power' is something you need\nin order to move, Al."
+[Lily]"Umm you see, 'Magical power' is something you need\nin order to act, Al."
 
 @bs f=リリィ@蔑み t=200
 
