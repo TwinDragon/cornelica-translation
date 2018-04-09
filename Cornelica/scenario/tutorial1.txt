@@ -1,20 +1,20 @@
 
 @bs f=リリィ@微笑 t=200
 
-[Lily]"Umm you see, 'Charm' is the magical power succubi use to seduce men."
+[Lily]"Umm you see, 'Charm' is the magical power succubi use\nto seduce men."
 
 @bs f=リリィ@蔑み t=200
 
-[Lily]"Be careful because it will increase if a succubus does lewd things to you, or you get caught in a lewd trap."
+[Lily]"Be careful because it will increase if a succubus does\nlewd things to you, or you get caught in a lewd trap."
 
 @bs f=リリィ@困惑 t=200
 
-[Lily]"If charm finishes accumulating, without a succubus you won't even be able to move, you'll end up like a doll."
+[Lily]"If charm finishes accumulating, without a succubus,\nyou won't even be able to move, you'll end up like a doll."
 
 @bs f=リリィ@微笑 t=200
 @bs f=tutorial2 body=-1 face=0 t=200
 
-[Lily]"Tell me before the meter in this part of the screen reaches 100%, okay. I'll siphon the charm for you."
+[Lily]"Tell me before the meter in this part of the screen\nreaches 100%, okay. I'll siphon the charm for you."
 
 @move_f f=tutorial2 face=0 out=c t=200
 @move_f f=リリィ@ out=c t=200
