@@ -1,23 +1,23 @@
 
 @bs f=リリィ@微笑 t=200
 
-[Lily]"An 'SQ' is a stone storing magical power, it's a specialty of Cornelica. They are often use as a medium to cast magic.
+[Lily]"An 'SQ' is a stone storing magical power, it's a specialty\nof Cornelica. They are often use as a medium to use magic."
 
 @bs f=リリィ@蔑み t=200
 
-[Lily]"But you know, even though they can release magical power, they can't take it in, so SQs with a lot of magical power are very valuable."
+[Lily]"But you know, even though they can release magical power,\nthey can't take it in, so SQs with a lot of magical power\nare very valuable."
 
 @bs f=リリィ@焦り op=ハテナ t=200
 
-[Lily]"... Huh? You're wondering if you can recover magical power with one?"
+[Lily]"... Huh? You're wondering if you can recover magical\npower with one?"
 
 @bs f=リリィ@困惑 t=200
 
-[Lily]"Umm, you see... It seems that since an SQ's magical power is different the magical power you have from living in 'that other world'"
+[Lily]"Umm, you see... It seems that since an SQ's magical power\nis different the magical power you have from living in\n'that other world'"
 
 @bs f=リリィ@哀しみ t=200
 
-[Lily]"Even if you can use the magical power as a medium, you can't take it in."
+[Lily]"Even if you can use the magical power as a medium,\nyou can't take it in."
 
 @bs f=リリィ@困惑 op=ハテナ t=200
 
