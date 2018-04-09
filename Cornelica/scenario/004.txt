@@ -53,7 +53,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 ;;=======================================
 
-@select s1=なんだろう？/*st03a s2=光る石？/*st03b
+@select s1=What_is_it?/*st03a s2=A_shiny_stone?/*st03b
 
 *st03a
 *st03b

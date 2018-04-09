@@ -11,10 +11,12 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 ## To Do List
 
+- [ ] Menu Translation
 - [ ] Initial Translation
 - [ ] Convert Machine to readable English
 - [ ] Quality Check
-- [ ] ???
+- [ ] Pre-release and more checking
+- [ ] Final proofing and release
 
 ## Want to Contribute?
 
