@@ -1,16 +1,16 @@
 
 @bs f=リリィ@困惑 t=200
 
-[リリィ]「力の強いサキュバスや搾精植物が多い場所は、チャームの魔力が空気中にも漂ってるの」
+[Lily]"In places where there are powerful succubi and semen\nsqueezing plants, the magical power of charm\nhangs in the air."
 
 @bs f=リリィ@蔑み t=200
 
-[リリィ]「何もしてなくても、その場所にいるだけでどんどんチャームが溜まっていっちゃうから、気を付けてね」
+[Lily]"Even if you don't do anything, just by being in those\nplaces charm will steadily accumulate, so be careful."
 
 @bs f=リリィ@困惑 t=200
 @bs f=tutorial3 body=-1 face=0 t=200
 
-[リリィ]「Penaltyの数字が大きいほど、チャームが増えていく量も大きくなるから、注意だよ」
+[Lily]"The larger your penalty number, the more charm will\naccumulate, so pay attention to it."
 
 @move_f f=tutorial3 face=0 out=c t=200
 @move_f f=リリィ@ out=c t=200

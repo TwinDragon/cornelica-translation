@@ -1,15 +1,15 @@
 
 @bs f=リリィ@微笑 t=200
 
-[リリィ]「ヒルベルタの森はね、コルネリカを囲んでいるとっても広い森だよ」
+[Lily]"Hilberta Forest is a huge forest surrounding Cornelica."
 
 @bs f=リリィ@困惑 t=200
 
-[リリィ]「昼は何ともないんだけど……夜になったらとても薄暗くなるうえに、精を搾り取るモンスターや触手が動き出すから、とっても危険な場所なんだ」
+[Lily]"In the day there's not much but... when it becomes night,\nbesides becoming very dark, semen squeezing monsters and\ntentacles come out so it's a very dangerous place."
 
 @bs f=リリィ@哀しみ t=200
 
-[リリィ]「用事がないときは、あんまり近づかない方がいいかもしれないね」
+[Lily]"You may not want to go near it, unless you have\nsomething to do there."
 
 @move_f f=リリィ@ out=c t=200
 
