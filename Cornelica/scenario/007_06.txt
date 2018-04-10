@@ -10,16 +10,6 @@
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily]"This is the brothel..."
-
-@bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
-
-[Lily]"... or, where it was..."
-
-@bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
-
-[Lily]"but the male escorts quickly became impotent... \n...so it went bankrupt."
-
 [Lily] "This is the brothel..."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
