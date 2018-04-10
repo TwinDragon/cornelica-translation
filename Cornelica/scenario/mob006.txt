@@ -3,7 +3,7 @@
 @huki b=8 id=17 wt=0
 @move_f f=客B@01 face=0 in=c t=150 wt=1
 
-[客]「あら、アル。こんばんは、今日もお母さんのお手伝いかしら？」
+[Customer]"Oh, Al. Good evening, are you helping your mother today as well?"
 
 @move_f f=客B@01 face=0 out=c t=150 wt=1
 
