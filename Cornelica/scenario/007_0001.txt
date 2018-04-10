@@ -25,13 +25,13 @@
 
 @huki b=2 id=AC0
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Well, welcome to Cornelica ♪ How? It is a bit dark in the evening, is a fine city ♪"
+[Lily]"Well, welcome to Cornelica♪ How is it? \nIt is a bit dark in the evening, but is a fine city♪"
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
 
 @bs f=アル@普通 op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=A big city.../*st09a s2=A wonderful city.../*st09b
+@select s1=A_very_big_city.../*st09a s2=A_wonderful_city.../*st09b
 ;;============================================================================
 *st09a
 *st09b
@@ -43,11 +43,11 @@
 @huki b=2 id=AC0
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "Ehehe ♪"
+[Lily]"Ehehe ♪"
 
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Well then, let's take a tour of the district first"
+[Lily]"Well then, let's take a tour of the district first"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -55,20 +55,20 @@
 
 @bs f=リリィ@通常 body=-1 face=0 x=400 opa=0 y=50 t=20 wt=0
 
-[Lily] "Cornelica is made up of two parts, Franca Ward and the Marjerito Ward that surrounds Franca Ward"
+[Lily]"Cornelica is made up of two parts, Franca Ward \nand the Marjerito Ward that surrounds Franca Ward"
 
 @bs f=地図@02 body=-1 face=0 t=250 wt=1
-[Lily] "We are in Franca Ward, there are plenty of stores and it's for parties who came from outside."
+[Lily]"We are in Franca Ward, there are plenty of stores \nand it's for parties who came from outside."
 
-[Lily] "Only here it is a rule that you should not take insult action outside so that no conflict with other bastards will happen"
+[Lily]"There's only the rule that you shouldn't make stupid \naction so no conflict with other will happen"
 
-[Lily] "Vlasta, the security golem is watching, but ..."
+[Lily]"Vlasta, the security golem is watching, but ..."
 
-[Lily] "I will not move during the night, be careful not to be blamed even if they are attacked if they are taken away in the first place, or even guided by a room"
+[Lily]"It will not move during the night, be careful not to be \nblamed even if they are attacked in the first place!"
 
 @bs f=地図@03 body=-1 face=0 t=250 wt=1
-[Lily] "So, although it is in the Marjerito district, there is nothing to be fixed yet ... so it may be better not to go except when it is necessary ..."
-[Lily] "... ... So, you should not come close enough?"
+[Lily]"So, although it is in the Marjerito district, \nthere is nothing to be rule yet..."
+[Lily]"So it may be better not to go except when it is necessary... \ndon't approach it too much, ok?"
 
 @move_f f=地図@ face=0 out=c t=200 wt=1
 @move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
@@ -81,12 +81,13 @@
 @bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Fuu ... in general it is such feeling ...... Kana, there are many others, but it's already night, so ... for the time being, for now I will be taking a rest at home where I live"
+[Lily]"Fuu... There are lots of other things... \nbut it's already night..."
+[Lily]"For the time being I'll take you at my home \nso we can rest"
 
 @bs f=アル@普通 op=焦り body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "Well, where is the location ..."
+[Lily]"Well, the place is..."
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

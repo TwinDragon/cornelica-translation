@@ -10,12 +10,12 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily] "This is the church ......"
+[Lily]"This is the church ......"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 
-[Lily] "The...ahem..."Sisters" here actively tempt all who draw near, so Al should stay away!"
+[Lily]"The...ahem..."Sisters" here actively tempt all \nwho draw near, so you should stay away!"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1

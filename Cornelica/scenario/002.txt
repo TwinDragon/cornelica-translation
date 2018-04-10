@@ -181,7 +181,7 @@
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
 
-[Customer 2]"...Is helping the shop by that age? It's a big difference compared to some NEETs"
+[Customer 2]"...Is helping the shop by that age? \nIt's a big difference compared to some NEETs"
 
 @dir dir=right id=18 wt=0
 @dir dir=left id=21
@@ -190,7 +190,7 @@
 @move f=旅人A@01 x=-300 y=0 w=100 h=100 t=150 wt=1
 @move f=旅人A@01 x=-300 y=50 w=100 h=100 t=120 wt=1
 
-[Customer 1]"...Huh? That's a bit cheeky... Fufu, I guess I needed educational guidance"
+[Customer 1]"...Huh? That's a bit cheeky... \nFufu, I guess I needed educational guidance"
 
 @move f=旅人A@01 x=-400 y=50 w=100 h=100 opa=0 t=250 wt=0
 @move f=旅人B@01 x=400 y=50 w=100 h=100 opa=0 t=250 wt=1

@@ -20,7 +20,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=1000
 
-[Lily] ".................."
+[Lily]"......"
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
 @wait t=400
@@ -32,7 +32,7 @@
 ;;どうしたの？
 ;;なにかあったの？
 
-@select s1=What's wrong?/*st10a s2=Did something happen?/*st10b
+@select s1=What's_wrong?/*st10a s2=Did_something_happen?/*st10b
 ;;----------------------------------------------------
 *st10a
 *st10b
@@ -42,7 +42,7 @@
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
 
-[Lily] "This place ... I'm not very fond of this place ... so please..."
+[Lily]"This place ...I'm not very fond of this place...\nso please..."
 
 @bs f=アル@焦り x=-350 y=50 t=400
 @wait t=200

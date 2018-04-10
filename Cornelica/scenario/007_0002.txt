@@ -11,11 +11,11 @@
 
 @bs f=リリィ@微笑 body=-1 face=0 x=400 opa=0 y=50 t=20 wt=0
 @move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
-[Lily] "Before going straight ahead, turn to the left at the crossroad ... ... the end where you just proceeded"
+[Lily]"Before going straight ahead, turn to the left at \nthe crossroad... than just proceeded to the end"
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
-[Lily] "It's close from here ... I do not think there will be any confusion as there are not any other buildings that I can put in."
-
+[Lily]"It's close from here... I don't think there will \nbe any confusion as there are not any other buildings"
+;;shorted for avoiding another textbox
 @fade type=out t=500 wt=0
 @move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=500 wt=1
 

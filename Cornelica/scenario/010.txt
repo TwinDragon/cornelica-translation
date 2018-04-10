@@ -43,17 +43,17 @@
 @wait t=600
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Welcome ♪ This is the place I live for now"
+[Lily]"Welcome♪ This is the place where I live♪"
 
 @huki b=2 id=12
 @bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=200
-[Lily] "Isn't it huge?"
+[Lily]"Isn't it huge?"
 
 @bs f=アル@普通 op=焦り body=-1 face=0 x=-350 y=50 t=200
 
 ;; It is a very large room
 ;; Does Lily live here alone?
-@select s1=It's huge/*st01a s2=Do you live here alone?/*st01b
+@select s1=It's_huge/*st01a s2=Do_you_live_here_alone?/*st01b
 ;;----------------------------------------------
 *st01a
 
@@ -64,7 +64,7 @@
 @bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Oh you ♪"
+[Lily]"Oh you♪"
 
 @huki b=3 id=12
 @bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=200
@@ -80,7 +80,7 @@
 
 @huki b=8 id=12
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=600
-[Lily] "Well ... umm, there are various reasons"
+[Lily]"Well ... umm, there are various reasons"
 
 ;;主人公：疑問符
 @huki b=2 id=11
@@ -89,12 +89,12 @@
 
 @huki b=8 id=12
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=600
-[Lily] "............"
+[Lily]"......."
 
 @bs f=アル@困り op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=600
 
-[Lily] "Well, I like nice things ... ...."
+[Lily]"Well, I like nice things..."
 
 @jump target=*end01
 ;;----------------------------------------------
@@ -103,7 +103,7 @@
 @bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "It will guide me in the room ♪ I say only about sleeping ...."
+[Lily]"It will guide me in the room ♪ I say only about sleeping..."
 
 @move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
@@ -140,12 +140,12 @@
 
 @bs f=リリィ@焦り op=ハテナ x=400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
-[Lily] "Huh? ... Al ... ... why did you?"
+[Lily]"Huh?... Al...What's the matter?"
 
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 ;;Chest somehow ......
 ;;Do you feel excited?
-@select s1=Somehow my chest……/*st02a s2=I'm thrilled./*st02b
+@select s1=Somehow_my_chest.../*st02a s2=I'm...excited?/*st02b
 ;;----------------------------------------------
 *st02a
 *st02b
@@ -162,7 +162,7 @@
 
 @bs f=アル@焦り_頬 body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
-[Lily] "... wait a moment"
+[Lily]"... wait a moment"
 
 @move f=アル@焦り_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -182,7 +182,7 @@
 
 @huki b=7 id=12
 @bs f=リリィ@困惑 op=困惑 body=-1 face=0 x=350 y=50 t=200
-[Lily] "... After all ... ... when I was hugged a little while ago ...."
+[Lily]"...After all...when you were hugged a little while ago...."
 
 @huki id=11 b=2
 @bs f=アル@困り_頬 op=ハテナ body=-1 face=0 x=-350 y=50 t=200
@@ -190,37 +190,37 @@
 
 @bs f=リリィ@焦り body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "Uh ... ... us, Succubi are always exuding pheromones \ C [0] that is \ C [2]" charm ""
+[Lily]"Uh... us, Succubi have magical power called \C[2]charm\C[0]"
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "This is an ability Succubi possess to catch males ... ... whether approached or touched, it will ensnare any man."
+[Lily]"This is an ability Succubi possess to catch males. \nWhether approached or touched, it will ensnare any man."
 
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "I have nearly no magical power on my own, so it's okay to keep it down to no effect on Al, but ..."
+[Lily]"I have nearly no magical power on my own, so it's \nokay to keep it down to no effect on you, but..."
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "Because I do not purposely suppress my power, \ C [2]" Charm 's magical power "will accumulate in my body \ C [0]"
+[Lily]"Because other succubus don't purposely suppress their \npower, \C[2]charm will accumulate into your body \C[0]"
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "So ... ..." The Charm's magical power "gathers ... ...."
+[Lily]"So...charm's magical power gathers..."
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "And the end result is that the man's Body and Mind can not resist against any succubus "species"
+[Lily]"And the end result is that the man's Body and Mind \ncan not resist against any succubus species"
 
 @bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "No matter what you do, no matter what you say, you cannot resist and you cannot think ..."
+[Lily]"No matter what you do, no matter what you say, \nyou cannot resist and you cannot think ..."
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "\ C [2] Ultimately you won't be able to move without "your" Succubus, you'll look like and act like a doll \ C [0]"
+[Lily]"\C[2]Ultimately you won't be able to move without "your" \nSuccubus, you'll look like and act like a doll\C[0]"
 
 ;;主人公：驚き
 @bs f=アル@驚き_頬 op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=0
@@ -232,7 +232,7 @@
 @wait t=600
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
-[Lily] "If I leave you as it is, that will be the case ..."
+[Lily]"If I leave you as it is, that will be the case..."
 
 ;;主人公：疑問符
 @huki b=2 id=11
@@ -242,19 +242,19 @@
 @bgm
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
-[Lily] "... ... There is also magic that draws that magical power"
+[Lily]"... There is also magic that draws that magical power"
 
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=100 t=200
 
-[Lily] "Basically, it's magic that you do not need as a Succubus, so there are not many people who know it ...."
+[Lily]"Basically, it's magic that you do not need as a Succubus, \nso there are not many people who know it ...."
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[Lily] "I have taught you it"
+[Lily]"But they taught it to me"
 
 @bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=200
-[Lily] "So ... ... ... you should give it up?"
+[Lily]"So ... shall we do it?"
 
 ;;主人公うなずく
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
@@ -264,10 +264,10 @@
 @bs f=アル@困り_頬 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Yeah ♪"
+[Lily]"Yeah ♪"
 
 @bs f=リリィ@淫猥 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily] "Well then ... I will begin ♪"
+[Lily]"Well then ... I will begin♪"
 
 @move f=リリィ@淫猥 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 
