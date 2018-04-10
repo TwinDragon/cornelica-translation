@@ -190,7 +190,7 @@
 
 @bs f=リリィ@焦り body=-1 face=0 x=350 y=50 t=200
 
-[Lily]"Uh... us, Succubi have magical power called \C[2]charm\C[2]"
+[Lily]"Uh... us, Succubi have magical power called \C[2]charm\C[0]"
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
@@ -203,7 +203,7 @@
 
 @bs f=リリィ@蔑み body=-1 face=0 x=350 y=50 t=200
 
-[Lily]"Because other succubus don't purposely suppress thier \npower, \C[2]charm will accumulate into your body \C[0]"
+[Lily]"Because other succubus don't purposely suppress their \npower, \C[2]charm will accumulate into your body \C[0]"
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=200
 
