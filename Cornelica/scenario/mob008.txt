@@ -7,11 +7,11 @@
 @map_scroll dir=up dis=2 spd=4
 
 @huki b=8 id=46
-[サキュバス]「はぁーさっきの子どこ行っちゃったのかしら……」
+[Succubus]*Sigh* "I wonder where that boy from earlier went..."
 
 @huki id=46
 @dir dir=down id=46
-[サキュバス]「ん……？」
+[Succubus]"Hm...?"
 
 @bs f=アル@驚き_頬 op=ビックリ body=-1 face=0 x=-350 y=50 t=300 wt=0
 @huki b=1 wt=0
