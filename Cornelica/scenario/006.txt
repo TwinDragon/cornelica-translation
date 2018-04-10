@@ -199,12 +199,10 @@
 [Lily]"............"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"This is a succubus cube,\n it's a mass of crystallized magical power."
-[Lily]"It's said that SQ is from a long time ago"
+[Lily]"This is a succubus cube,\n it's a mass of crystallized magical power. \nIt's said that SQ is from a long time ago"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"Once you use magical powers within,\n it will turn into a normal stone.
-[Lily]SQ with plenty of magical power are very precious"
+[Lily]"Once you use magical powers within,\n it will turn into a normal stone. \nSQ with plenty of magical power are very precious"
 
 ;;主人公、疑問符
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
