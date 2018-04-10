@@ -64,7 +64,7 @@
 
 [Lily]"Vlasta, the security golem is watching, but ..."
 
-[Lily]"I will not move during the night, be careful not to be \nblamed even if they are attacked in the first place!"
+[Lily]"It will not move during the night, be careful not to be \nblamed even if they are attacked in the first place!"
 
 @bs f=地図@03 body=-1 face=0 t=250 wt=1
 [Lily]"So, although it is in the Marjerito district, \nthere is nothing to be rule yet..."
