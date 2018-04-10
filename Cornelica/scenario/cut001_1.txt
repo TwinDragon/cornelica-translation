@@ -8,11 +8,11 @@
 
 @mes_win back=2 pos=2
 
-[アル]「……むっ！……ん゛っ……っ……！」
+[Al]"...ungh! ... nng... nnn...!"
 
-[サキュバス]「あら、可愛らしい反応ね」
+[Succubus]"Oh my, such a cute reaction."
 
-[サキュバス]「フフ……あんな色々と小さい子よりも、私の大きなおっぱいで遊んでみない？」
+[Succubus]FUFU... Why don't you try playing with my big boobs\ninstead of that small, little girl?"
 
 @se f=締め付ける pitch=150
 @se f=パイズリ・手コキ１ pitch=60
@@ -20,11 +20,11 @@
 @flash t=500 wt=0
 @qk t=500
 
-[サキュバス]「ほ～ら、こうやっておっぱいでお顔をむぎゅむぎゅしてあげたり……」
+[Succubus]"Look~, when I squish my boobs into your face..."
 
 @se f=愛液1 pitch=75
 
-[サキュバス]「膝でおちんちんを擦られると……気持ちいいでしょう？」
+"And rub your penis with my knee...\nIt feels good doesn't it?"
 
 @bgv
 
