@@ -8,11 +8,11 @@
 
 @mes_win back=2 pos=2
 
-[Al]"...ungh! ... nng... nnn...!"
+[Al]"... Mwuh! ... nng... nnn...!"
 
 [Succubus]"Oh my, such a cute reaction."
 
-[Succubus]FUFU... Why don't you try playing with my big boobs\ninstead of that small, little girl?"
+[Succubus]"FUFU... Why don't you try playing with my big boobs\ninstead of that small, little girl?"
 
 @se f=締め付ける pitch=150
 @se f=パイズリ・手コキ１ pitch=60
@@ -24,7 +24,7 @@
 
 @se f=愛液1 pitch=75
 
-"And rub your penis with my knee...\nIt feels good doesn't it?"
+[Succubus]"And rub your penis with my knee...\nIt feels good doesn't it?"
 
 @bgv
 
