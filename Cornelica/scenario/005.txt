@@ -230,7 +230,7 @@
 [Lily]"..."
 
 @huki b=8 id=9
-[Lily](...this child... it's totally normal\n. I don't feel strong magical power...how is it?)
+[Lily](...this child... it's totally normal. \nI don't feel strong magical power...how is it?)
 
 ;;主人公疑問符
 @huki b=2 id=8 wt=1
