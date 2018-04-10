@@ -159,8 +159,7 @@
 
 @huki b=6 id=9
 @bs f=リリィ@焦り op=困惑 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Ah...you do not have to watch out for such...\nI don't mean to do that."
-[Lily]"I told you you are safe, aren't you?"
+[Lily]"Ah...you do not have to watch out for such...\nI don't mean to do that. \nI told you you are safe, aren't you?"
 
 ;;主人公、不安な表情
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -247,8 +246,7 @@
 @huki b=2 id=9
 @bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"If you leave it as it is,\nit's difficult for me to call you."
-[Lily]"I will be happy if you tell me♪"
+[Lily]"If you leave it as it is,\nit's difficult for me to call you. \nI will be happy if you tell me♪"
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 
