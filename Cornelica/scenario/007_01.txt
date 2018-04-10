@@ -11,7 +11,7 @@
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily]"This is the tavern. I have been here several times, but I have never drunk"
+[Lily]"This is the tavern. I have been here several times, \nbut I have never drunk"
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=200
 
