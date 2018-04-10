@@ -2,6 +2,6 @@
 
 @se f=Item1
 @mes_win back=1 pos=1
-\CL近くの川に\C[2]水を汲み\C[0]に行こう。
+\CLI should go \C[2]collect water\C[0] from the nearby river.
 @mes_win back=0 pos=2
 
