@@ -7,7 +7,7 @@
 @se f=締め付ける
 @qk t=500
 
-[客１]"Fufuっ♪　Since I'll teach you directly... Show me gratitude\nto your heart's content!"
+[Customer 1]"Fufuっ♪　Since I'll teach you directly... Show me gratitude\nto your heart's content!"
 
 @move_f f=旅人A@ face=0 out=c t=150
 
