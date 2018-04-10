@@ -7,7 +7,7 @@
 
 @se f=締め付ける
 @qk t=500
-;; This character is inaccessible? Probably meant as an easter egg
+;; This character is probably meant as an easter egg, see mob001a
 [Customer 2]"St- Stop! Just doing this in front of everyone\nwatching is...! Uwoooaaaaaaah!"
 
 @move_f f=旅人B@ face=0 out=c t=150
