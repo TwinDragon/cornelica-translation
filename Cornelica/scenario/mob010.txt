@@ -1,4 +1,4 @@
 ;;■01
-
-[ヴラスタ]「マスターハ今ハ留守デス」
+;; Some of these things talk like robots, using katakana where hiragana would normally be, I've seen things like this translated as all caps before, so I'll go with that I guess.
+[Vlasta]"THE MASTER IS CURRENTLY OUT."
 
