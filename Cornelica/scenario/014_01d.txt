@@ -1,23 +1,23 @@
 
 @bgv f=fera_rry1
 
-[Lily/rry0006] "... .... Chu ♪"
+[Lily/rry0006]"...Chu ♪"
 
-[Lily/rry0007] "Releasing ... .... Nugget ...... Juur, Yuururu ..."
+[Lily/rry0007]"Releasing...Nugget...Juur, Yuururu..."
 
-[Rosary/lzr0005] "... ...."
+[Rosary/lzr0005]"...."
 
-[Lily/rry0008] "... .... ... ... ... Chicha ... .... Picha ..."
+[Lily/rry0008]"... ... Chicha.... Picha..."
 
-[Rosary/lzr0006] "......"
+[Rosary/lzr0006]"......"
 
-[Lily/rry0009] "... ...."
+[Lily/rry0009]"...."
 
-[Rosary/lzr0007] "I can also mix ... ....?"
+[Rosary/lzr0007]"I can also mix...?"
 
-[Lily/rry 0010] "No ............ There is one ......, Mine ... ... ... Chumphu"
+[Lily/rry 0010] "No......There is one...., \nMine ... ... Chumphu"
 
 @bgv
 
-[Lily/rry0011] "Nobody will ... let me touch you ... ..."
+[Lily/rry0011]"Nobody will... let me touch you..."
 
