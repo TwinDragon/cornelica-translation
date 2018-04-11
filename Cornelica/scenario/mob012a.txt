@@ -2,4 +2,4 @@
 
 @move_f f=メイド@蔑み_赤 in=c t=150
 
-[ヴラスタ]「いらっしゃいませ。お探し物は何ですか？」
+[Vlasta]"Welcome. What is it that you're looking for?"
