@@ -4,16 +4,16 @@
 @huki b=2 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[Arne] "Hey, have you found a way to collect a lot of magical power?"
+[Arne]"Hey, have you found a way to collect \na lot of magical power?"
 
 @bs f=アルネ@通常 t=150
 
-[Lily] "No, not yet"
+[Lily]"No, not yet"
 
 @huki b=8 id=3
 @bs f=アルネ@笑み t=150
 
-[Arne] "Is that so? Well, if you find it, please let me know!"
+[Arne]"Is that so? Well, if you find it, \nplease let me know!"
 
 @move_f f=アルネ@ out=c t=150
 

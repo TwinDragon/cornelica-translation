@@ -3,16 +3,16 @@
 
 ;;自由会話 
 
-[ユスティーナ]「……それにしても、アル君ってうちの服が似合いそうねぇ」 
+[Justina]"...Even so, it seems my clothes suits you Al"
 
-[リリィ]「アル、可愛いもんね」 
+[Lily]"Al, It's cute♪♪" 
 
 ;;アル一歩引く 
 
-[ユスティーナ]「あらあら、味方がいなくなっちゃった？　……それじゃあ、どんな服を着せちゃおうかしら♪」 
+[Justina]"Oh dear, have your friend disappeared? \nThen, what kind of clothes will you put on?"
 
 ;;アル更に一歩引く 
 
-[ユスティーナ]「ふふ、冗談♪　……でも、欲しいときはいつでも言ってね♪　サービスしてあげる♪」 
+[Justina]"Fufu, I'm joking♪ \nBut, whenever you want, please say♪ \nI will serve you♪"
 
 ;;==========================================================================================
