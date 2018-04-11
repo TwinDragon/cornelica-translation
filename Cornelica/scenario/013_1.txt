@@ -1,4 +1,4 @@
-
+﻿
 @move_speed spd=3
 @route route=down
 
@@ -16,7 +16,7 @@
 
 @bs f=リリィ@微笑 op=電球 x=350 y=50 t=200
 
-[Lily] "Oh, yes, I'll tell you about Charm and magical power."
+[Lily]"Oh, yes, I'll tell you about Charm and magical power"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -26,21 +26,21 @@
 @bs f=アル@普通 x=-350 y=50 t=200
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[Lily] "In simpler terms, " Charm " is the magical power that Succubi use to tempt men"
+[Lily]"In simpler terms, \C[2]Charm\C[0] is the magical power \nthat \C[2]Succubi\C[0] use to tempt men"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily] "If you do not make it to Succubus, it will increase, so be careful."
+[Lily]"If you don't make 'it' with a Succubus, \nit will increase, so be careful"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 @bs f=アル@困り op=焦り x=-350 y=50 t=200
 
-[Lily] "When the Charm clumps up in you, you won't move without the Succubus, really just making you their doll."
+[Lily]"When the Charm clumps up in you, \nyou won't move without the Succubus, \nreally just making you their doll."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=tutorial2 body=-1 face=0 t=200
 
-[Lily] "For some reason, you're able to know how much Charm has accumulated in you, so tell me before you get 100%, I'll suck up the Charm"
+[Lily]"For some reason, you're able to know how much Charm \nhas accumulated in you, so tell me before you get 100%,\nI'll suck up the Charm"
 
 @move_f f=tutorial2 face=0 out=c t=200
 
@@ -56,16 +56,16 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=400
 
-[Lily] "Moving onto " Magical power ", this is what is necessary for Al to move"
+[Lily]"Moving onto \C[2]Magical power\C[0], \nthis is what is necessary for you to move"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[Lily] "Get anywhere near a Succubus, you'll suck up the Charm, and your magical power will decrease, so be careful."
+[Lily]"Get anywhere near a Succubus, you'll suck up the \C[2]Charm\C[0], \nand your \C[2]Magical power\C[0] will decrease, so be careful."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=tutorial1 body=-1 face=0 t=200
 
-[Lily] "You'll be able to feel yourself weakening, so if you get in danger, you should rest in bed, I think that if you sleep for the night you will fully recover."
+[Lily]"You'll be able to feel yourself weakening, so if you get \nin danger, you should rest in bed, I think that if \nyou sleep for the night you will fully recover."
 
 @move_f f=tutorial1 face=0 out=c t=200
 
@@ -76,28 +76,28 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily] "Even if you lose all of your magical power, you'll still be able to move, but be careful as the Charm will accumulate very easily."
+[Lily]"Even if you lose all of your \C[2]Magical power\C[0], \nyou'll still be able to move, but be careful \nas the \C[2]Charm\C[0] will accumulate very easily."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[Lily] "And also, in places where there are a lot of strong Succubi and squeezed plants, the Charm's magical power is drifting in the air"
+[Lily]"And also, in places where there are a lot of strong \nSuccubi and squeezed plants, the Charm's magical power \ncan be drifting in the air"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily] "Even if you don't do anything, just because you are in such a place, the Charm will accumulate steadily, so be extra careful."
+[Lily]"Even if you don't do anything, just because you are \nin such a place, the Charm will accumulate steadily, \nso be extra careful."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 @bs f=tutorial3 body=-1 face=0 t=200
 
-[Lily] "The greater the number of Penalty, the more Charm that'll be added."
+[Lily]"The greater the number of Penalty, \nthe more Charm that'll be added."
 
 @move_f f=tutorial3 face=0 out=c t=200
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 @bs f=アル@普通 x=-350 y=50 t=200
 
-[Lily] "If you ever need a refresher, ask again when we're safe at home"
+[Lily]"If you ever need a refresher, \nask again when we're safe at home"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1

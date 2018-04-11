@@ -18,19 +18,19 @@
 @huki b=2 id=3
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[Justina] "Oh, if it isn't Lily, hehe, you're with a boy, are you on a date? "
+[Justina]"Oh, if it isn't Lily, hehe, you're with a boy, \nare you on a date?"
 
 @huki b=1 id=AC0
 @bs f=ユスティーナ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[Lily] "Al isn't like that!"
+[Lily]"Al isn't like that!"
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[Justina] "You shouldn't be shy, ♪ Lily is finally acting like an adult" ♪
+[Justina]"♪You shouldn't be shy, ♪ \n♪Lily is finally acting like an adult♪"
 
 @huki b=7 id=AC0
 @bs f=リリィ@困惑_r op=困惑_r body=-1 face=0 x=-350 y=50 t=400
@@ -45,7 +45,7 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=I want to know how to collect magical power/*se01
+@select s1=I_want_to_know_how_to_collect_magical_power/*se01
 ;;----------------------------------------------------------------------
 ;;I want to know how to collect magical power
 *se01
@@ -58,18 +58,18 @@
 
 @bs f=ユスティーナ@通常 body=-1 face=0 x=350 y=50 t=200
 
-[Justina] "Magical ... ... hey ... If I say a cup ... why do not you open a shop like me?"
+[Justina]"Magical power... if I say one cup... \nwhy do not you open a shop like me?"
 
 @move_f f=アル@ face=0 out=l t=200 wt=1
 
 @bs f=リリィ@困惑_r op=焦り_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[Lily] "Sure, that's a bit ... ... it takes time ..."
+[Lily]"Sure, that's a bit...it takes time ..."
 
 @bs f=ユスティーナ@微笑 body=-1 face=0 x=350 y=50 t=200
 
-[Justina] "Hehe ... ... That's right, hey ... Even so ..."
+[Justina]"Hehe... That's right, hey...even so..."
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ユスティーナ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -90,7 +90,7 @@
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200
 
-[Justina] "So you're Al, are you shopping too? Now if are, I'll have to add an additional charge of [extra] ... ♪" ♪
+[Justina]"So you're Al, are you shopping too? \nNow if you are, I'll have to add \nan additional charge of extra♪"
 
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=200
 @wait t=600
@@ -118,7 +118,7 @@
 @bs f=リリィ@蔑み x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[Lily] "Oh no! Justina, would you look at the time, we really must be off!"
+[Lily]"Oh no! Justina, would you look at the time, \nwe really must be off!"
 
 @move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -151,7 +151,7 @@
 
 @bs f=ユスティーナ@笑み
 
-[Justina] "Oh dear, I seem to have awoken her jealous side ♪ Sorry!"
+[Justina]"Oh dear, I seem to have awoken her jealous side♪\nSorry!♪"
 
 @fade type=out t=1000 wt=1
 @move_f f=ユスティーナ@ out=c t=20 wt=1
