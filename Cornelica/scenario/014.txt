@@ -18,12 +18,12 @@
 @huki b=8 id=3
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "... ... Welcome"
+[Vlasta]"... Welcome"
 
 @huki b=2 id=AC0
 @bs f=リリィ@困惑_r op=ハテナ_r body=-1 face=0 x=-350 y=50 t=200
 
-[Lily] "Well, we're not shopping here today, there is something we want to ask"
+[Lily]"Well, we're not shopping here today, \nthere is something we want to ask"
 
 @huki b=2 id=3
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
@@ -39,7 +39,7 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=I want to know how to collect magical power/*se01
+@select s1=I_want_to_know_how_to_collect_magical_power/*se01
 ;;----------------------------------------------------------------------
 ;;I want to know how to collect magical power
 *se01
@@ -53,7 +53,7 @@
 @huki b=2 id=3
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "Magical ......?" Then, I think Master might be able to assist. "
+[Vlasta]"Magical Power?" Then, I think Master \nmight be able to assist."
 
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
 @move_f f=アル@ face=0 out=l t=200 wt=1
@@ -61,25 +61,25 @@
 @bs f=リリィ@困惑_r op=ハテナ_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[Lily] "Master? Is your Master here?"
+[Lily]"Master? Is your Master here?"
 
 @huki b=2 id=3
 @bs f=リリィ@通常_r x=-350 y=50 t=100 wt=0
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "Master? Master is in the town hall"
+[Vlasta]"Master? Master is in the town hall"
 
 @huki b=2 id=AC0
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@蔑み_r op=ハテナ body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[Lily] "The town hall, the witch's house ... ....?" Then Master is the witch who lives in town hall? "
+[Lily]"The town hall, the Witch's house? \nThen Master is the witch who lives in town hall?"
 
 @huki b=8 id=3
 @bs f=リリィ@通常_r x=-350 y=50 t=100 wt=0
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlaster] "Master is master"
+[Vlaster]"Master is master"
 
 @move f=リリィ@通常_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=メイド@蔑み_赤 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -102,12 +102,12 @@
 @bs f=リリィ@通常 x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[Lily] "Let me explain, ok? There's a witch called Cornelius"
+[Lily]"Let me explain, ok? \nThere's a witch called Cornelius"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=100 wt=0
 @bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[Lily] "She's a famous rumor, who seemed to have showed up out of nowhere from a long time ago. She may know more about magic than anyone else here... but what ..."
+[Lily]"She's a famous rumor, who seemed to have showed up \nout of nowhere from a long time ago. She may know \nmore about magic than anyone else here... but what ..."
 
 @bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -117,13 +117,13 @@
 ;; "Let's go to town hall"
 ;; "Let's consult the witch"
 
-@select s1=Let's go to town hall/*st11a s2=Let's consult the witch/*st11b
+@select s1=Let's_go_to_town_hall/*st11a s2=Let's_consult_the_witch/*st11b
 ;;-------------------------------------------------------------
 *st11a
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=300 wt=1
 
-[Lily] "However, even if we go to the mansion, we'll be driven back by the golem ... ..."
+[Lily]"However, even if we go to the mansion, \nwe'll be driven back by the golem..."
 
 @jump target=*end01
 ;;++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -131,7 +131,7 @@
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=300 wt=1
 
-[Lily] "Even then...... She seems to only come to the city occasionally ......"
+[Lily]"Even then... She seems to only come to \nthe city occasionally..."
 
 @jump target=*end01
 ;;-------------------------------------------------------------
@@ -151,7 +151,7 @@
 @bs f=リリィ@微笑 x=350 y=50 t=100 wt=0
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[Lily] "... That's right, there's no point in worrying. Let's go for the time being."
+[Lily]"... That's right, there's no point in worrying. \nLet's go for the time being."
 
 ;;主人公：喜ぶ
 
