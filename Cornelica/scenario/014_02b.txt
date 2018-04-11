@@ -4,7 +4,7 @@
 @huki b=3 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[Arne]"Welcome back! Mphm... you really like to show off!"
+[Arne]"Welcome back! Mmph... you really like to show off!"
 
 [Lily]"Stop making fun of me!"
 
