@@ -6,11 +6,11 @@
 @se f=締め付ける
 @qk
 
-[客２]「き、きみぃ……！　良く話しかけてくれるねっ……！　この続きが見たかったら――」
+[Customer 2]"Y- You...!　You've done well to speak to me...!\nIf you want to see this continued――"
 
 @huki b=1 id=21
-
-[客２]「『転生したら逆レイプされまくりだった件』をよろしくねっ！！」
+;; Reference to a different game by the same Dev
+[Customer 2]"Check out "Reverse R*pe Reincarnation", please!"
 
 @move_f f=旅人A@ face=0 out=c t=150
 

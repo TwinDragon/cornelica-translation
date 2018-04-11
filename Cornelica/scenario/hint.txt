@@ -1,6 +1,6 @@
-;;リリィとの会話
+;;Talking to Lily, s2 is full heal, s3 is a percentage I think.
 
-@select s1=次の目標について/*se1 s2=チャームを吸ってほしい/*se2 s3=チャームを擦って欲しい/*se3
+@select s1=About_the_next_goal/*se1 s2=Siphon_my_charm/*se2 s3=Reduce_my_charm/*se3
 ;;=====================================================================
 ;;-----------------------------------------------
 *se2

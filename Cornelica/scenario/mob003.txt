@@ -3,7 +3,7 @@
 @huki b=8 id=9
 @move_f f=母@01 face=0 in=c t=150
 
-[母親]「水を入れたら結構重くなるから……持ってくる時は注意してね？」
+[Mother]"After you put water in it, it'll get pretty heavy...\nSo take care bringiging it back, okay?"
 
 @move_f f=母@01 face=0 out=c t=150
 
