@@ -18,24 +18,26 @@
 @huki b=2 id=3
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「あら、リリィちゃんじゃない。ふふ、男の子つれちゃって、デート中かしら？」 
+[Justina]"Oh, if it isn't Lily, hehe, you're with a boy, \nare you on a date?"
 
 @huki b=1 id=AC0
 @bs f=ユスティーナ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@焦り_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「ア、アルはそんなんじゃないよ！」 
+;; Original line - ア、アルはそんなんじゃないよ！
+;; Not sure what could sound good.
+[Lily]"Al isn't like that!"
 
 @huki b=3 id=3
 @bs f=リリィ@蔑み_r body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=ユスティーナ@笑み body=-1 face=0 x=350 y=50 t=200
 
-[ユスティーナ]「もう、恥ずかしがらなくていいのに♪　リリィもようやく大人の仲間入りね♪」 
+[Justina]"♪You shouldn't be shy, ♪ \n♪Lily is finally acting like an adult♪"
 
 @huki b=7 id=AC0
 @bs f=リリィ@困惑_r op=困惑_r body=-1 face=0 x=-350 y=50 t=200
 
-[リリィ]「もう！　からかわないでよっ」 
+[Lily]"Already! Do not make fun of me!"
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ユスティーナ@笑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

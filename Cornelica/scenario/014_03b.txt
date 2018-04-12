@@ -4,20 +4,20 @@
 @huki b=2 id=3
 @move_f f=ユスティーナ@笑み in=c t=150 wt=1
 
-[ユスティーナ]「あら、リリィちゃん。いらっしゃい♪」
+[Justina]"Ah! Lily-chan... welcome♪♪"
 
 @huki b=4 id=3
 @bs f=ユスティーナ@淫靡 t=150
 
-[ユスティーナ]「それと、アル君も♪」
+[Justina]"Also you, Al♪♪"
 
 @bs f=ユスティーナ@微笑 t=150
 
-[ユスティーナ]「あ！　ダメだよユスティーナ！」
+[Justina]"Ah! No good Justina!"
 
 @bs f=ユスティーナ@笑み t=150
 
-[リリィ]「あらあら♪　残念♪」
+[Lily]"Oh dear♪　Sorry♪"
 
 @move_f f=ユスティーナ@ out=c t=150 wt=1
 

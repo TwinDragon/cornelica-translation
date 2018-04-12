@@ -3,7 +3,7 @@
 
 ;;コマンド選択時：夜含む
 
-[Lily] "Hehehe! ♪ It is not a kiss, unless you would like to ... ....?"
+[Lily]"Fufufu ♪ It is not a kiss, \nyou wanna do something more...?♪"
 
 ;;暗転
 

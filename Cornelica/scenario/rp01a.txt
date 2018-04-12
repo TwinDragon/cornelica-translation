@@ -1,4 +1,4 @@
-;;初回
+;;First time
 
 @bgm f=h-004 pitch=140
 @se f=衣擦れの音1
@@ -7,58 +7,58 @@
 ;;■CG01
 @bgf bg=ev01 t=1000
 
-　リリィがサキュバスらしい、淫靡な表情を浮かべたかと思うと、次の瞬間には押し倒されていた。
+　As I wondered if Lily's obscene expression looked\nsuccubus-like, in the next instant, she had pushed\nme down.
 
-[リリィ/rry0013]「んふふ♪」
+[Lily/rry0013]"Mfufu♪"
 
-　微笑むリリィの表情には淫靡な色が混ざっていた。
+　The smiling Lily's face was tinted with an indecent color.
 
-[リリィ/rry0014]「どうしてこんなことをするのかって……？　こうやってHをして、魔力と一緒にチャームを吸い出すんだよ」
+[Lily/rry0014]"Wondering why I'm doing this...?　By having sex like this,\nI can siphon the charm with magical power."
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=110
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0015]「おちんちん……凄く硬くなってるね。んふふ……ほら、どう？　こんな風にされるのは？　こうやって……おまんこで擦られるの……どう？」
+[Lily/rry0015]"Your penis... It's getting really hard, right. Mfufu...\n Hey, how is it?　Doing it this way?　How does it feel...\nbeing rubbed by my pussy... like this?"
 
-[リリィ/rry0016]「ちょっと触れただけなのに凄く敏感な反応。全身が震えてる。おちんちんもビクビクッて飛び跳ねてるみたい」
+[Lily/rry0016]"You're reacting so much, even though I just touched it.\n Your whole body is trembling. Your penis is\ntwitching, too."
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0017]「ふふ♪　目がトロンとしてる。気持ちよくて身体中から力が抜けちゃった？　頭が溶けちゃいそうなくらい感じちゃってるの？」
+[Lily/rry0017]"Fufu♪　Your eyes look dazed. Does it feel so good that\nyou've lost your strength?　Do you feel like your brain\nis going to melt?"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-[リリィ/rry0018]「でもね。もっとだよ。本番はここからなんだから……。ほら、んっ……んっ……んっ……どうかな？　こうやっておまんこのお肉でシコシコされるのは……」
+[Lily/rry0018]"But you know. There's more. Because the real thing\nstarts now... Here, nh...nh... How is it? Being\npleasured by the flesh of my pussy like this..."
 
 @se f=愛液1 pitch=50
 
-　シコシコとペニスが擦り上げられる。
+　With that she rubbed my penis faster.
 
-[リリィ/rry0019]「どう？　感じるでしょ。こうやっておちんちん扱かれると……はぁ……はぁ……腰が抜けちゃいそうなくらい気持ちいいでしょ？」
+[Lily/rry0019]"How is it? You feel it right. When your penis is stroked\nlike this... hah...unha... it feels so good\nthat it seems you'll lose yourself, right?"
 
 ;;SE■ヌルヌル音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50 wt=0
 
-[リリィ/rry0020]「ほら、ちょっと擦っただけでおちんちんの先からヌルヌルした汁が出てきたね。絡みついてくる。ほら、聞こえる？」
+[Lily/rry0020]"Look, just from a bit of rubbing some slimy juice came out\nfrom the tip of your penis. It's dribbling down.\nListen, can you hear it?"
 
-[リリィ/rry0021]「私がちょっと手を動かすだけで、グチュッグチュってエッチな音が響くよ。凄くいやらしい音。」
+[Lily/rry0021]"Just by moving my hand a bit, it makes a sloppy wet\nlewd sound. Such an indecent sound."
 
 @se f=愛液1
 
-[リリィ/rry0022]「見て…………アルの汁でグチョグチョ……。すっごくエッチな感じ。こんなの見たら……私……我慢できなくなっちゃいそう。」
+[Lily/rry0022]"Look...... It's covered in your juices... It feels\nso lewd. Looking at this... I... I won't be able\nto hold off any longer."
 
-[リリィ/rry0023]「んふふ♪　あ、これ……おちんちん……さっきよりも膨らんでるね。亀頭がパンパンになってる。もしかして出ちゃいそう？」
+[Lily/rry0023]"Mfufu♪　Ah, it's... your penis... it's swelling even more\nthan before. The glans is starting to bulge. Perhaps, you\n feel like you're going to cum?"
 
-[リリィ/rry0024]「それじゃあ出していいよ……っていいたいところだけど、まだだよ」
+[Lily/rry0024]"Then go ahead and cum... I'd like to say at this point but,\nnot yet."
 
-[リリィ/rry0025]「ただ射精するだけじゃチャームを抜くことはできないの。チャームはサキュバスの中に吸い出されないことには排出できないから……」
+[Lily/rry0025]"You can't get rid of charm just by ejaculating.\nBecause charm can't be discharged if it's not siphoned\nby a succubus..."
 
-[リリィ/rry0026]「だからね。射精する時は私の……おまんこの膣中にお願いね」
+[Lily/rry0026]"So you know. When you're going to ejaculate,\n please do it... inside my pussy, okay."
 
-[リリィ/rry0027]「……だから。いただきます♪」
+[Lily/rry0027]"... And so. Thanks for the food.♪"
 
 @se f=愛液1
 
@@ -68,31 +68,31 @@
 @se f=挿入音
 @bgf bg=ev01a
 
-[リリィ/rry0028]「んあっ！　あっあっ……んはぁあああ……あっふ……んふううっ」
+[Lily/rry0028]"Naah!　AahAah... nhaaaaaa... Ahhhu... nnnguhu"
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0029]「ほら、挿入ってる！　これ……私の膣中にアルのおちんちん……挿入っちゃってるよ」
+[Lily/rry0029]"Look, it's going in!　It's... inside me, your penis...\nwent in."
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0030]「んふうう……これ……おちんちん……大きい。あっあっ……私の膣中……広げられてくのが分かる。んくっ……はふんんっ」
+[Lily/rry0030]"Nnnguh... It's... your penis... is big. Aahaah...\nI feel it... spreading my insides. nng... haamn"
 
-[リリィ/rry0031]「届いてる。アルのおちんちんが奥まで……。子宮に当たってるのが分かる。あはぁあ……凄く熱い……。おまんこの膣中……火傷しちゃいそうなくらい」
+[Lily/rry0031]"It's reaching it. Your penis is all the way in... I can\nfeel it hitting my womb. Aah ha... It's so hot... enough\nthat it feels like my pussy will burn."
 
-[リリィ/rry0032]「はぁっはぁっはぁっ……どう？　気持ちいい？　私のおまんこ……感じる？」
+[Lily/rry0032]"Hnghaahah... How is it? Does it feel good?\nDo you feel... my pussy?"
 
-[アル]「ぅあっ！　……ぁ……あああ！」
+[Al]"Uwah!　... ah... Aaah!"
 
-[リリィ/rry0033]「返事をする余裕もないか。んふふ、おちんちんが溶けちゃいそうなくらい感じてるって感じだね。あふぅう……」
+[Lily/rry0033]"Enough that you can't reply, huh. mfufu, It feels like\nyour penis is goinfg to melt, right. Ahuuuh..."
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0034]「本当に気持ち良さそう。膣中でおちんちんが震えてるのが分かる。ビクビクが伝わって来てるよ。あっは……んはぁあああ……」
+[Lily/rry0034]"Seems like it really feels great. I can feel your penis\ntrembling inside. The twitches are pulsing into me.\n Aaha... nghaaa..."
 
-[リリィ/rry0035]「これ……おちんちんを感じてるだけで私も……んふう……はぁっはぁっ……いい……すごく感じちゃう」
+[Lily/rry0035]"This... just feeling your penis, I feel... nnfu...\nhaahaa... really... good, too."
 
-[リリィ/rry0036]「でも、まだ我慢。アルもまだ我慢だよ。もっと……もっともっと……気持ち良くなるためにね」
+[Lily/rry0036]"But, I can still endure. You endure, too, Al. So that\nwe can... feel even better, okay... better and better."
 
 @se f=愛液1 pitch=50
 
@@ -100,17 +100,17 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75 wt=0
 
-[リリィ/rry0037]「んっは！　あふあっ！　あっあっあっあっあっ！　あんんんっ！」
+[Lily/rry0037]"Naha!　Ahaa! Ahahahahah! Ahnnn!"
 
 @se f=愛液1
 
-　ピストンが始まる。肉壺でペニス全体が、ぐっじゅぐっじゅと擦り上げられる。
+　She starts pistoning. The rubbing sensation on my whole\npenis in her fleshy hole increases.
 
-[リリィ/rry0038]「どう？　ヒダヒダで締められるのは……。先っぽを……んんんっ……子宮で吸われるの……すっごくいいでしょ？」
+[Lily/rry0038]"How is it?　Being squeezed in my folds... The tip...\nnmmm... being sucked on by my uterus... is incredible,\nisn't it?"
 
-[リリィ/rry0039]「射精してっておまんこにおねだりされてる気分になっちゃうでしょ？」
+[Lily/rry0039]"You're starting to feel my pussy begging you\nto ejaculate, aren't you?"
 
-[リリィ/rry0040]「……でもまだまだだよ。ほら、こうやって……パンパンッて腰を打ち付けたりもしてあげる、んあんっ！　あっふあ……くふんんっ！」
+[Lily/rry0040]"... But don't do it yet. Here, I'll even... smack into\nyour waist like this, haan!　Ahuun... kufuun!"
 
 @se f=愛液1 pitch=50
 @se f=締め付ける pitch=50
@@ -118,23 +118,23 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=90
 
-[リリィ/rry0041]「ギュッギュッておまんこでおちんちん締められるの……感じる？」
+[Lily/rry0041]"Do you feel your penis being squeezed... by my pussy?"
 
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=50
 @qk
 
-[リリィ/rry0042]「本当に気持ち良さそう。私が……ああっ！　腰を振るたび……おちんちんが大きくなって来てるのが分かる。子宮をズンって圧迫してきてる」
+[Lily/rry0042]"Looks like it really feels good. I'm... Aaah! Every time\n I move my hips, I feel your penis getting bigger.\nIt's thumping against my womb."
 
-[リリィ/rry0043]「私の膣中がアルのおちんちんの形に変えられていくみたい。ああ……おまんこがドロドロに溶けちゃいそうなくらい……気持ちいい」
+[Lily/rry0043]"It's like my insides are changing to the shape\nof your penis. Aah... My pussy seems like it'll melt\ninto mush... it feels that good."
 
 @se f=愛液1
 
-[リリィ/rry0044]「こんなの……あっふあ……んふううっ！　私……あっ……んっ……私も……んんん……イッちゃいそう……我慢なんかできそうにないよ」
+[Lily/rry0044]"Like this...Aafuh... nnfua! I... Ah... nn... I'll...\nnmmn... cum, too... There's no way I can hold on."
 
-[リリィ/rry0045]「んっ……あっ……くふんっ……アルも、限界みたいだね……」
+[Lily/rry0045]"nnh... Ah... kfun... Looks like you're at your\nlimit too, right Al..."
 
-[リリィ/rry0046]「出して。射精して。アルの精液……ザーメンを、私のおまんこにビュルビュルって流し込んで。受精しちゃいそうなくらい特濃なのを沢山……お願い」
+[Lily/rry0046]"Cum. Ejaculate. Spurt your life fluid... your semen,\n into my pussy. So concentrated that it's like\nI'll get impregnated... Please."
 
 ;;SE■激しくなるピストン音
 @flash t=500 wt=0
@@ -144,9 +144,9 @@
 @bgv f=パイズリ・手コキ２ pitch=120
 @qk
 
-[リリィ/rry0047]「ああっ！　それ……スゴイ！　腰……私に合わせてアル……突き上げてきてる！　あっふあ！　んふうう！　深くまで……凄く奥までおちんちん来る！」
+[Lily/rry0047]"Aah! That's... incredible! Your hips... match them to mine,\n Al... they're thrusting up! Ahfuah! nfah! So deep...\nyour penis is reaching the very deepest spot!"
 
-[リリィ/rry0048]「子宮が潰れちゃいそうなくらい。ああっ！　こんなの……私も滅茶苦茶に感じちゃう！　だから……んんん！　だからアル！　来て！　流し込んで！」
+[Lily/rry0048]"It feels like it will crush my womb. Aaah! This much...\n it's driving me crazy! So... nnh! So Al! Cum!\nPour it in me!"
 
 ;;SE■ズンッという突き込み音
 @se f=愛液1
@@ -154,50 +154,50 @@
 @se f=パイズリ・手コキ２ pitch=150
 @qk t=500
 
-[リリィ/rry0049]「ああ……来たぁああ……深い！」
+[Lily/rry0049]"Aah... It caaaaame... so deep!"
 
 ;;SE■射精音
 ;;射精エフェクト
 @bgv
 @fin se=射精音 bg=ev01b
 
-[リリィ/rry0050]「あっは……んはっ……はふぁあああっ！　あっあっあっあっ……んふうううっ♪」
+[Lily/rry0050]"Aaah... nnha... Afuaaaah! A-a-a-ah... nnfuuuh♪"
 
 @se f=愛液1
 
-　ドビュドビュと白濁液を流し込む。
+　Hazy white cum globbed into her. 
 
-[リリィ/rry0051]「出てる。流れてくる。ビュルビュルって熱い汁が沢山……私の膣中に……あったかい。これ……気持ちいい♪」
+[Lily/rry0051]"It's cumming. It's flowing in. Lots of hot juice...\n spurting into my insides... so warm. This... feels good.♪"
 
 @se f=愛液1
 
-[リリィ/rry0052]「染みる。熱い汁が……これ……私も……んんっ！　私もイクっ！　ああ……イクのっ！　イクイク――射精されて……びゅりびゅるされて……」
+[Lily/rry0052]"It's permeating my insides. Your hot juice is... it's...\n Me, too... nnh! Aah... gonna cum! I'll cum,\n cum――being ejaculated inside... it spurting into me..."
 
 ;;絶頂エフェクト
 @se f=潮吹き
 @flash t=1000 wt=1
 
-[リリィ/rry0053]「あっあっ……んはぁああああ」
+[Lily/rry0053]"Aahaah... nnhaaaaaa"
 
-　達しつつ、更に肉槍を締めつけて来る。
+　While peaking, I squeeze my flesh shaft further in.
 
 ;;SE■射精音
 ;;射精エフェクト
 @fin se=射精音 bg=ev01b
 
-[リリィ/rry0054]「んくうう！　まだ……出る！　まだ出てる！　子宮……いっぱいになる……あっあっあっ……いいっ！　いいいっ！」
+[Lily/rry0054]"nkuu! It's still... cumming!　It's still coming out!\n My womb... is filling up... Ahahaha... it's good!\n So goood!"
 
 @se f=愛液1
 
-[リリィ/rry0055]「あっふあ……はふぅうう……」
+[Lily/rry0055]"Aahfuah...Aahguh"
 
-[アル]「はぁ……はぁ……はぁ……」
+[Al]"Hah... hah... hah..."
 
-[リリィ/rry0056]「んふうう……アル……凄く……よかったよ」
+[Lily/rry0056]"nfffh... Al... it was... so great."
 
 @se f=愛液1
 
-　心地良い虚脱感に全身が包み込まれる……。
+　My whole body is wrapped in a comfortable lethargy...
 
 @fade type=out t=1000 wt=1
 
@@ -206,5 +206,5 @@
 @fade type=in t=1000 wt=1
 
 ;;===============================================================================
-
-
+ 
+ 

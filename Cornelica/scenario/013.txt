@@ -19,7 +19,7 @@
 @move f=リリィ@微笑 x=350 y=50 w=100 h=100 opa=255 t=200 wt=0
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[Lily] "Ah, Al ...... Were you awake? Good morning ♪"
+[Lily]"Ah, Al... Were you awake? Good morning ♪"
 
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -40,7 +40,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[Lily] "It's a bit early, but ... I think I'll try and collect information out in town."
+[Lily]"It's a bit early, but... I think \nI'll try and collect information out in town."
 
 ;;主人公、疑問符
 @huki b=2
@@ -49,12 +49,12 @@
 
 @bs f=リリィ@通常 x=350 y=50 t=200 wt=1
 
-[Lily] "It takes a considerable amount of magical power to cross and enter the "world of mischief..."."
+[Lily]"It takes a considerable amount of magical power \nto cross and enter the 'world of mischief...'"
 
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[Lily] "I do not have any good idea of where to start, so I have to ask the various people I know about it"
+[Lily]"I don't have any good idea of where to start, \nso I have to ask the various people I know about it"
 
 ;;主人公、うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
