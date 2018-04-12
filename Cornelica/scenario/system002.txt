@@ -1,5 +1,5 @@
 
-\CL今日はもう休もう
+\CLLet's have a day off today.
 
 @fb dir=back
 
