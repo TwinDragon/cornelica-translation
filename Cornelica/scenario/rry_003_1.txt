@@ -78,11 +78,11 @@
 
 @bs f=リリィ@笑顔
 
-[Lily]"Let's ask around how to collect Magical Power!"
+[Lily]"Let's ask around how to collect Magical Power♪"
 
 @bs f=リリィ@微笑 op=音符
 
-[Lily]"I'll also guide you around the city♪」
+[Lily]"I'll also guide you around the city♪"
 
 @jump target=*end01
 ;;====================================================================
