@@ -1,5 +1,5 @@
 ;;■01
 
-[ヴラスタ]「またのご利用を。お待ちしております」
+[Vlasta]"Come visit us again. We look forward serving you."
 
 @move_f f=メイド@ out=c t=150

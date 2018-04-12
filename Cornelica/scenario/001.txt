@@ -6,16 +6,17 @@
 @bgm f=s-001
 
 @mes_win back=1 pos=1
-\CL\{淫魔\}-サキュバス-とは、
+\CL\A \{Sex demon\}, the -Succubus- is,
 
-\CL\人の\{精\}を\{啜り\}生きる、\{異形\}の存在である
+\CL\a \{fantastical\} being that lives by \{sucking\} human \{semen\}.
 
-\CL\この\{世界\}の\{どこか\}には、\{淫魔達\}の\{住む世界\}があるという……
+\CL\It is said that \{somewhere\} in this \{world\}, is a \{world\} where \{Sex demons\} live...
 
 @mes_win back=0 pos=2
 
 @fade type=out t=20 wt=1
 @rps
+
 
 
 

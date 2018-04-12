@@ -1,9 +1,9 @@
 ;;■01
 
-[フェアリー]「あら、妖精が珍しいですか？」
+[Fairy]"Oh my, are fairies rare?"
 
-[フェアリー]「淫魔とは、サキュバスだけを指すものではなく、人の精を糧とする種族全般の呼称なのです」
+[Fairy]"'Sex demon' does not refer only to succubi, it is\na general term for races that sustain themselves\non human semen."
 
-[フェアリー]「夢を経由して人を襲う、サキュバスだけは夢魔と呼ばれていたこともありますが……」
+[Fairy]"Attacking people through dreams, only succubi had been\ncalled dream demons, but..."
 
-[フェアリー]「最近では、サキュバスも直接襲うことが多いそうで、淫魔と呼ばれていますね」
+[Fairy]"Recently, it seems that since many succubi\nattack directly, they can are called sex demons."
