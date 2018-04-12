@@ -1,4 +1,4 @@
 ;;■01
 
-[警備ヴラスタ]「夜の間は、スリープモードとなります。外出にはお気を付けください」
+[Guard Vlasta]"During the night, we go into sleep mode.\nPlease be careful, when going outside."
 
