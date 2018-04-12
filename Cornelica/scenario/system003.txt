@@ -1,6 +1,6 @@
 
 @mes_win back=1 pos=1
-\CLカギがかかっている
+\CLIt's locked
 @mes_win back=0 pos=2
 
 
