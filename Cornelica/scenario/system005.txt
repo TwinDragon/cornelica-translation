@@ -1,6 +1,6 @@
 
 @mes_win back=1 pos=1
-\CLお酒が無くなったので今日は閉店。
+\CLClosed for the day. \nSake is out of stock.
 @mes_win back=0 pos=2
 
 @fb dir=back
