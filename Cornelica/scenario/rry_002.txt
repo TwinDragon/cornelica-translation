@@ -67,7 +67,7 @@
 
 [Lily]"The house where I currently live is really Rosary's house"
 
-[Lily]"Umm, Rosary is always staying in the room behind the bar... it seems like she dind't go home for a while because it was a pain"
+[Lily]"Umm, Rosary is always staying in the room \nbehind the bar... it seems like she dind't go home \nfor a while because it was a pain"
 
 [Lily]"So, when I first saw it, it looked like a ruin. \nBut if I clean it by chance, she said that I may live here. \nI am very grateful to Rosary"
 ;;Close enoght for me XD
@@ -135,7 +135,7 @@
 
 [Lily]"Hey, Al. If... what if you couldn't return to your world?"
 
-[Lily]"It's hard to live alone? You guess you might so sweet to end up dried immediately by succubus like dried fish?"
+[Lily]"It's hard to live alone? You guess you might so sweet \nto end up dried immediately by succubus like dried fish?"
 
 [Lily]"...well...If you are... we can live together?"
 
