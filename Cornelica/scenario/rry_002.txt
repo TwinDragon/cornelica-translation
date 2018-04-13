@@ -3,156 +3,159 @@
 ;;好感度普通
 ;;===========================================================
 
-[リリィ]「その……アルって、Hは初めてだった？」
+[Lily]"Al... that was your first time?
 
-[リリィ]「わたしが初めてでよかった……？　魔力を吸われて、きつかったりしない？」
+[Lily]"I was good for the first time...? \nSiphon Charm, was hard?"
 
 ;;アルうなずく
 
-[リリィ]「そっか！　よかったぁ…………」
+[Lily]"Really! It was good..."
 
-[リリィ]「…………シたくなったら、いつでも言ってね？」
-
-;;===========================================================
-
-[リリィ]「サキュバスってね、体のどこからでも、精液の『味』を感じることができるんだよ」
-
-[リリィ]「人間が飲んでも苦いだけらしいんだけど……サキュバスは相手によって違う味を感じるんだ」
-
-[リリィ]「すっぱかったり、苦かったりするんだけど……アルのは、甘くておいしいよ♪」
+[Lily]"When you want to do it, always say it ok?"
 
 ;;===========================================================
 
-[リリィ]「サキュバスの羽や尻尾って、みんな少しづつ違うでしょ？　これって、それぞれの魔力の強さで変わったりするんだ」
+[Lily]"Succubus can feel the semen's taste \nfrom anywhere in their body"
 
-[リリィ]「魔力が多いと、形を変えて吸精腔にしたり、手足みたいに動かしたりできるらしいの。私はまだそこまでは無理だけど……」
+[Lily]"Even if for a human it seems bitter, \nSuccubus feels a different taste depending on the partner"
 
-[リリィ]「……でも、ちょっと動かすことくらいはできるんだよ♪」
+[Lily]"Can be sour or bitter...\nbut yours is sweet and delicious♪♪"
+
+;;===========================================================
+;;See rry_n003.txt!!!!!
+[Lily]"Why succubus's wings and tails \nare different from each other? \nThey change according to the strength of their magic"
+
+[Lily]"With lot of Magic Power, the shape change for make it a sucking cavity, and you can move those like hands. I can't do that yet..."
+
+[Lily]"...But I can use them to move♪"
 
 ;;===========================================================
 
-[リリィ]「サキュバスって羽がちっちゃくても飛んでたりする人がいるでしょ？　実はね、羽では飛んでないの」
+[Lily]"Even if a succubus has small wings, \nshe can actually fly? Actually, \nit's not flying using the wings"
 
-[リリィ]「空を飛ぶための魔法があってね、人間でも同じように飛ぶ人もいるみたいだよ」
+[Lily]"There are human like you who can actually fly, \nthere is a magic spell to do it"
 
-[リリィ]「アルも、帰れるくらいに魔力が溜まったら、飛べるようになるかもね。その時は一緒にお空で散歩しよっか」
-
-;;===========================================================
-
-[リリィ]「夜に出歩いてるサキュバスはね、ものすごくHが上手な人たちが多いんだ」
-
-[リリィ]「だから、ヴラスタ達に見つかる前に相手から吸精しちゃうの。それに、夜のコルネリカは薄暗いから、ちょっと建物の陰に寄ると見つからないことも多いんだって」
-
-[リリィ]「だから、夜出歩く時は気を付けてね？」
+[Lily]"If you gather enough magical power to return home, \nyou may able to fly too. When that time come, \nwe should fly together♪♪"
 
 ;;===========================================================
 
-[リリィ]「ヴラスタも一応、サキュバスの括りなんだって。だから、チャームの魔力も持ってるし、燃料は男の精なんだよ」
+[Lily]"Succubus who walk out at night are very good at sex"
 
-[リリィ]「だから、あんまり燃料が少ないヴラスタに近づかないようにね」
+[Lily]"So, they will fuck in front other until they are found \nby Vlasta. Besides, Cornelius in the night is dim, \nso if you go in the shadow of a building you will \nnot be found for a while"
 
-[リリィ]「問答無用で男から搾り取ろうとするらしくて、いくら改良してもそこだけはなおらないんだって…………なんでだろね？」
-
-;;===========================================================
-
-[リリィ]「アルネのとこで売ってるの道具ってね、実はあれ全部アルネが作ってるんだって」
-
-[リリィ]「サキュバスの中には『道具になんて頼らない！』って人もいるけど、意外と日常でも使える道具もあるんだよ」
-
-[リリィ]「調味料にも使えるローションとか……目覚まし機能付きの触手とか……」
-
-[リリィ]「アル？　どうしたの？　具合悪いの？」
+[Lily]"So be careful when you go out at night, ok?"
 
 ;;===========================================================
 
-[リリィ]「……今私が住んでるあの家はね、ほんとはロザリーの家なの」
+[Lily]"It's not all about succubus, there are Vlasta too. \nVlasta also use the charm's magical power, and fuel is man's energy"
 
-[リリィ]「その……ロザリーってね、いつも酒場の裏にある部屋で寝泊まりしてるんだけど……めんどくさいからってずっと家に帰ってなかったみたいなの」
+[Lily]"So, be careful not to approach Vlasta with too little magic"
 
-[リリィ]「それで、最初見たときはまるで廃墟みたいになってたんだけど、偶に掃除してくれるなら、住んでてもいーよって言ってくれてね。ロザリーにはとっても感謝してるんだ」
-
-;;===========================================================
-
-[リリィ]「ロザリーの酒場ってね、裏側は宿屋になってるんだ」
-
-[リリィ]「酒で無防備になった男を連れ込むサキュバスも多いらしくて、結構繁盛してるみたいだよ」
-
-[リリィ]「アルも気を付けてね。ヴラスタも建物の中までは監視してないから」
+[Lily]"They seems to squeeze it out from a man without question \nand even if we improve it, they won't stop...why?
 
 ;;===========================================================
 
-[リリィ]「ユスティーナの服屋さんってね、サキュバス用と人間用の服を売ってるんだけど、多分、アルからしたらちょっと変わってる形をしてるでしょ？」
+[Lily]"Arne's tools are sold all around, but actually is Arne who is making them all"
 
-[リリィ]「あれってね、Hの時に脱ぎやすいようにとか、服を着たままでもHできるようにとか、羽や尻尾の邪魔にならないようにできてるんだって」
+[Lily]"The succubus are all 'I do not rely on tools!', \nbut actually there are tools that can be used on daily basis"
 
-[リリィ]「胸元の隙間は『パイズリ穴』なんて呼ばれたりするけど……わたしじゃまだ無理かな……」
+[Lily]"Lotion can be also used as seasoning... \nalarm clock with tentacles function..."
 
-[リリィ]「…………はぁ」
+[Lily]"Al? What's wrong? Are you sick?"
+
+;;===========================================================
+
+[Lily]"The house where I currently live is really Rosary's house"
+
+[Lily]"Umm, Rosary is always staying in the room \nbehind the bar... it seems like she dind't go home \nfor a while because it was a pain"
+
+[Lily]"So, when I first saw it, it looked like a ruin. \nBut if I clean it by chance, she said that I may live here. \nI am very grateful to Rosary"
+;;Close enoght for me XD
+
+;;===========================================================
+
+[Lily]"Rosary's tavern is on other side of the inn"
+
+[Lily]"There are many succubi that bring the defenseless men \nwho got drunk with sake there"
+
+[Lily]"Be careful Al. Even Vlasta don't monitor that building"
+
+;;===========================================================
+
+[Lily]"Justina's clothing store sells clothes for succubus \nand for human. Perhaps, Al do you have \na slightly different shape?
+
+[Lily]"Oh that, it's to make it easy to take off your clothes \nfor sex. Even if you keep your clothes on it's made \nto not obstruct the wing and the tail so it easy to have sex"
+
+[Lily]"Although the gap on the chest is called "Fucking hole"...\n ...it's still impossible for me..."
+
+[Lily]"...Huh"
 
 ;;===========================================================
 ;;好感度高
 
-[リリィ]「ねぇ、アル……」
+[Lily]"Hey, Al..."
 
-[リリィ]「アルは将来どんな人と結婚したい？」
+[Lily]"What kind of person would you \nlike to marry in the future?"
 
-[リリィ]「私はサキュバスをおすすめするな～……」
+[Lily]"I do not recommend a Succubus..."
 
-[リリィ]「……だって、ず～っと大事にしてあげるよ？　Hだって上手だだし」
+[Lily]"...but, I'll take care of you forever. \nSex is good as well..."
 
-;;===========================================================
-
-[リリィ]「サキュバスとHしちゃった人は、気持ちよすぎてもう人間じゃイけないなんて言われてるんだって」
-
-[リリィ]「……アルはどう？　まだ人間を相手にしても満足できる？」
-
-[リリィ]「それとも…………もうサキュバス相手じゃないと射精できない？」
+[Lily]"Do not you feel like cheating? \nI will be watching you until I die"
 
 ;;===========================================================
 
-[リリィ]「チャームの魔力でお人形みたいになった人でも、支配するサキュバスによっては理性をそのまま残して奴隷にする人もいるんだって」
+[Lily]"People say that after had sex with a succubus, they \ndon't feel comfortable do it with other people anymore"
 
-[リリィ]「ねぇ……………………アルは今、人間？　……それとも、奴隷？」
+[Lily]"How about you? Can you still \nfeel satisfy with other people?"
 
-;;===========================================================
-
-[リリィ]「サキュバスにもチャームの強さがあってね、より強いチャームを持つサキュバスに奴隷を取られちゃう人もいるんだって」
-
-[リリィ]「……だから、アルもあんまり危なそうな人には近づかないようにね」
+[Lily]"Or... you can't cum unless you are with a succubus?"
 
 ;;===========================================================
 
-[リリィ]「私もね、Hのお勉強をするときに奴隷さんを相手にしたこともあるけど、お人形さんみたいな人を相手にするのは、あんまり好きじゃなかったな………」
+[Lily]"Some dominant succubus leaves the reason at those who \nbecame dolls with charm magical power, making them slaves"
 
-[リリィ]「私が奴隷さんを持つときはそんなことしないよ？　じっくりと『お話し』して、そしていっぱい好きになってもらうの」
-
-[リリィ]「これからも、いっぱい『お話し』シようね？　アル」
+[Lily]"Hey... Al, now are you human? \nOr are you a slave?
 
 ;;===========================================================
 
-[リリィ]「ねぇ、アル。もし……もしもだよ？　元の世界に帰れなかったらどうする？」
+[Lily]"Succubus also has can feel the strength of charm, \nthere was succubi made slave by stronger one"
 
-[リリィ]「一人で生きていくのは難しいよ？　アルなんて、すぐに他のサキュバスに干物みたいにされちゃうかもしれないよ？」
+[Lily]"So Al, do not approach dangerous people"
+;;close enought
+;;===========================================================
 
-[リリィ]「………わ、私なら………いっしょに暮らしてあげてもいいよ？」
+[Lily]"Although I sometimes study sex with some slave, \nI don't like the idea of a doll"
+
+[Lily]"You will never do such a thing if you become a slave? \nThey do it deliberately, and they fully come to like it."
+
+[Lily]"Al, From now on, why don't we try it?"
+;;I think is like that... it was a lot of work
+;;===========================================================
+
+[Lily]"Hey, Al. If... what if you couldn't return to your world?"
+
+[Lily]"It's hard to live alone? You guess you might so sweet \nto end up dried immediately by succubus like dried fish?"
+
+[Lily]"...well...If you are... we can live together?"
 
 ;;===========================================================
 
-[リリィ]「昔のサキュバスは、男の人の夢の中に入り込んで吸精をしてたらしいの」
+[Lily]"I wish old succubus can get into the dream \nof a man and inhale it"
 
-[リリィ]「でもそのやりかただと、力が弱くて一晩で吸いきれないサキュバスは、朝に一旦離れないといけないし、その間に他のサキュバスに取られちゃうこともあるから、だんだん廃れていったんだって」
+[Lily]"In that way, succubus whose power is weak and cannot fuck \nall night through morning, aren't left become obsolete \nbecause other succubus take over"
 
-[リリィ]「ねぇ、アルにとってここは夢？　それとも現実？　………夢から、覚めてしまいたい？」
+[Lily]"Al, is this a dream? Or is reality? \nIf it is a dream... do you want to wake up?"
 
 ;;===========================================================
 
-[リリィ]「今のサキュバスは、大体みんな家に奴隷を飼ってるよ」
+[Lily]"Today every succubus have a slave at home"
 
-[リリィ]「外に連れ出さないのは、他のサキュバスに取られちゃうかもしれないからだって」
+[Lily]"They are not taken outside because they can be taken \naway by another succubus"
 
-[リリィ]「だから、みんなアルを取ってしまおうと近づいてくるの」
+[Lily]"So, if anyone come close to you they can takes you away"
 
-[リリィ]「…………アル、取られたくないよね？　他のサキュバスは怖いよね？　ずっと私の家にいたら、ずっと幸せだよ」
+[Lily]"...Al, do you not want to be taken? \nAre you afraid of other succubi? \nIf you stay in my house forever... \nyou will be happy forever"
 
 ;;===========================================================
 
