@@ -19,7 +19,7 @@
 
 [Lily]"Even if for a human it seems bitter, \nSuccubus feels a different taste depending on the partner"
 
-[Lily]"Can be sour or bitter...\nbut your is sweet and delicious♪♪"
+[Lily]"Can be sour or bitter...\nbut yours is sweet and delicious♪♪"
 
 ;;===========================================================
 ;;See rry_n003.txt!!!!!
@@ -119,7 +119,7 @@
 
 ;;===========================================================
 
-[Lily]"Succubus also has can feel the strength of charm, \nthere was succubuses made slave by stronger one"
+[Lily]"Succubus also has can feel the strength of charm, \nthere was succubi made slave by stronger one"
 
 [Lily]"So Al, do not approach dangerous people"
 ;;close enought
@@ -143,7 +143,7 @@
 
 [Lily]"I wish old succubus can get into the dream \nof a man and inhale it"
 
-[Lily]"In that way, succubus whose power is weak and cannot fuck \nall night trought morning, aren't left become obsolete \nbecause other succubus take over"
+[Lily]"In that way, succubus whose power is weak and cannot fuck \nall night through morning, aren't left become obsolete \nbecause other succubus take over"
 
 [Lily]"Al, is this a dream? Or is reality? \nIf it is a dream... do you want to wake up?"
 
@@ -155,7 +155,7 @@
 
 [Lily]"So, if anyone come close to you they can takes you away"
 
-[Lily]"...Al, do you not want to be taken? \nAre you afraid of other succubeses? \nIf you stay in my house forever... \nyou will be happy forever"
+[Lily]"...Al, do you not want to be taken? \nAre you afraid of other succubi? \nIf you stay in my house forever... \nyou will be happy forever"
 
 ;;===========================================================
 
