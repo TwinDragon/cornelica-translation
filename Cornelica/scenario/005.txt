@@ -1,5 +1,5 @@
 ;;■03
-;;■Forest of Hilberta
+;;■Hilberta Forest
 
 @bs f=st01 face=0 body=-1 opa=0
 @bs f=white face=0 body=-1
@@ -24,9 +24,9 @@
 @move f=white x=0 y=0 h=100 w=100 opa=0 t=1500 wt=1
 
 ;;Looking into Lily
-[？？？]「…………」
+[???]"........."
 
-[？？？]"Oh, you finally got up!"
+[???]"Ah, you finally woke up!"
 
 @se f=「ドクンッ」という心音
 @qk
@@ -44,10 +44,10 @@
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
-[？？？]"You are pretty cute sleepy face♪"
+[???]"You, your sleeping face is pretty cute. ♪"
 
 ;; jumped up, take a distance from Lily
-;; "Wh, Who!" "Where is this !?"
+;; "Huh, Who!?" "Where am I!?"
 
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=0
 @bs f=アル@焦り x=-350 y=50 t=200 wt=0
@@ -68,9 +68,7 @@
 @dir dir=right id=8
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=250 wt=1
-
 @select s1=Wh-_Who!?/*st04a s2=Wh-_Where_am_I!?/*st04b
-
 ;;===========================================================================
 *st04a 
 
@@ -78,8 +76,8 @@
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200 wt=1
 
 @bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=300
-[？？？]"Oh, we had to speak from there first, sorry sorry"
-;;can't find a sense...
+[???]"Aah, that should have come first. Sorry, sorry."
+
 @jump target=*end01
 ;;===========================================================================
 *st04b
@@ -90,10 +88,10 @@
 @bs f=リリィ@焦り body=-1 face=0 x=350 y=50 t=300 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
 
-[？？？]"You don't need to be alarmed so much.\nIt's okay it's okay."
+[???]"No need to be so alarmed. It's okay, it's okay."
 
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=300
-[？？？]"... we are in the forest of Hilberta"
+[???]"... This is, the Hilberta Forest."
 
 ;;主人公疑問符
 @huki b=2 id=8
@@ -103,7 +101,7 @@
 @huki b=2 id=9
 @bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
 
-[？？？]"Never heard of it?"
+[???]"Never heard of it?"
 
 ;;うなずく
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=300 wt=0
@@ -115,7 +113,7 @@
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
 @bs f=リリィ@通常 op=ハテナ body=-1 face=0 x=350 y=50 t=300
 
-[？？？]"The city of Cornelica?"
+[???]"How about Cornelica City?"
 
 ;;首を振る
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300 wt=0
@@ -126,11 +124,11 @@
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
 
 @bs f=リリィ@困惑 body=-1 face=0 x=350 y=50 t=300
-[？？？]"Hmm ...You don't even know Cornelica..."
+[???]"Hmm ... Not even Cornelica, huh..."
 
 @huki b=8 id=9
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
-[？？？]"...."
+[???]"........."
 
 ;;主人公疑問符
 @huki b=2 id=8
@@ -139,7 +137,7 @@
 
 @huki b=9 id=9
 @bs f=リリィ@笑顔 op=電球 body=-1 face=0 x=350 y=50 t=300
-[？？？]"Ah, that's right!\nI didn't introduce myself yet, right?"
+[???]"Ah, that's right! I haven't introduced myself yet, huh."
 
 @jump target=*end01
 ;;===========================================================================
@@ -147,11 +145,11 @@
 
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200 wt=0
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=300
-[？？？]"My name is Lily"
+[???]"My name is Lily."
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Succubus Lily. Nice to meet you ♪"
+[Lily]"Lily the Succubus. Nice to meet you. ♪"
 
 ;;主人公感嘆符
 @huki b=1 id=8
@@ -159,7 +157,7 @@
 
 @huki b=6 id=9
 @bs f=リリィ@焦り op=困惑 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Ah...you do not have to watch out for such...\nI don't mean to do that. \nI told you you are safe, aren't you?"
+[Lily]"Ah~... Like I said, don't worry... I won't do that kind\n of thing. I told you it's okay, didn't I?"
 
 ;;主人公、不安な表情
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -167,7 +165,7 @@
 
 @huki b=8 id=9
 @bs f=リリィ@困惑 op=困惑 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Even though I am saying that it's okay..."
+[Lily]"Jeez, even though I'm telling you it's okay..."
 
 ;;リリィ、何かを思いついた表情→
 ;;意地の悪い感じの表情
@@ -182,7 +180,7 @@
 @huki b=2 id=9
 @bs f=リリィ@困惑 op=ハテナ body=-1 face=0 x=350 y=50 t=600
 
-[Lily]"...if you are here alone,\nyou may be attacked by other succubus"
+[Lily]"... You okay with that? If you're in a place like this\nby yourself, you could get attacked by other succubi?"
 
 ;;主人公、おびえる
 @step_anime id=8 type=off
@@ -196,7 +194,7 @@
 @wait t=600
 
 @bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
-[Lily]"Did you feel like trusting me?"
+[Lily]"... Feel like trusting me now?"
 
 ;;主人公、うなずく
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -208,16 +206,16 @@
 @huki b=3 id=9
 @bs f=アル@焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"I knew you would understand♪"
+[Lily]"Glad you understand. ♪"
 
 ;;主人公普通の表情
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"Oh..."
+[Lily]"Hmm..."
 
 @bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=300
-[Lily]"If you feel like this, do you know about Succubus?"
+[Lily]"From your reaction just now, I suppose you know\nabout Succubi?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
@@ -227,10 +225,10 @@
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=600
 @bs f=リリィ@通常 body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"..."
+[Lily]"........."
 
 @huki b=8 id=9
-[Lily](...this child... it's totally normal. \nI don't feel strong magical power...how is it?)
+[Lily](... This boy... He's totally normal... and I don't feel\nany strong magical power... Then how...?)
 
 ;;主人公疑問符
 @huki b=2 id=8 wt=1
@@ -241,17 +239,17 @@
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300 wt=0
 @bs f=リリィ@焦り op=ビックリ body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"Ah, by the way! Your name, haven't you taught me yet?"
+[Lily]"Ah, that's right! You still haven't told me\nyour name, huh?"
 
 @huki b=2 id=9
 @bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"If you leave it as it is,\nit's difficult for me to call you. \nI will be happy if you tell me♪"
+[Lily]"It's awkward to keep calling you, 'you',\nI'd appreciate if you'd tell me. ♪"
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 
 ;;「僕はアル」
-@select s1=I_am_Al/*st05a
+@select s1=I'm_Al./*st05a
 *st05a
 
 @huki b=8 id=8
@@ -261,10 +259,10 @@
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Al?... Yeah...It's a nice name♪\nThank you for telling me ♪"
+[Lily]"Al, huh... Okay. That's a nice name. ♪\nThank you for telling me. ♪"
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300 wt=0
 @bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Well, introduction is over...\nLet's talk about while moving to my place♪"
+[Lily]"Now that we're done introducing ourselves...\nLet's talk while we change location. ♪"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -275,4 +273,3 @@
 
 @fade type=out t=500 wt=1
 @rps
-

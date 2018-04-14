@@ -27,7 +27,7 @@
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
 ;;■宿屋
-[Lily] "Good morning ♪ I feel like a million bucks!"
+[Lily]"Good morning. ♪\nLooks like you're feeling well."
 
 @huki b=8
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
@@ -53,7 +53,7 @@
 @huki b=3 id=8
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
-[Lily] "Well then, let's do our best today♪"
+[Lily]"Well then, let's do our best again today, shall we. ♪"
 
 @move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
