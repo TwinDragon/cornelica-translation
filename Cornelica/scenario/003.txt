@@ -18,21 +18,21 @@
 @move f=門兵@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
 
 @huki b=2 id=8 wt=0
-[Gate Soldier]"Oh, are you going out? Do not go too far"
+[Gate Soldier]"Ah, Al? Are you going out? Don't stray too far."
 
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 wt=0
 
 @huki b=8 id=8 wt=0
-[Gate Soldier]"Recently, it seems that monsters have appeared \nin the vicinity of the village..."
+[Gate Soldier]"It seems that monsters have been seen around\nthe village recently..."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=0
 
 @huki b=7 id=8 wt=0
-[Gate Soldier]"There are also stories that some people are missing..."
+[Gate Soldier]"I've heard that some people are missing, too..."
 
 @huki b=8 id=8 wt=0
-[Gate Soldier]"This is not limited to the night,\nbut do not get close to suspicious things"
+[Gate Soldier]"Don't approach anything suspicious,\neven during the day."
 
 ;;立ち絵うなずく
 @bs f=アル@普通 x=-350 y=50 t=250 wt=1
