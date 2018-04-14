@@ -1,7 +1,7 @@
 ;;■01
 
-[警備ヴラスタ]「フランカ区にて搾精行為が行われていないか、警備をしております」
+[Guard Vlasta]"We are doing security to keep semen extraction from being\nconducted in the Franca District."
+;; Pretty strict...
+[Guard Vlasta]"If a violation is discovered, semen extraction is\nconducted on the male until he is fully a slave."
 
-[警備ヴラスタ]「違反行為が発見された場合、男は完全に奴隷となるまで搾精を行い」
-
-[警備ヴラスタ]「サキュバスには一定期間、魔力及びチャーム抑制の魔道具を装備して頂きます」
+[Guard Vlasta]"The succubus is afixed with a magic tool that suppresses\ntheir magical power and charm for a certain\nperiod of time."

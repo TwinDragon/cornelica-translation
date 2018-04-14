@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-\CL本日の営業は終了したッス。
+\CLToday's work is over.
 @mes_win back=0 pos=2

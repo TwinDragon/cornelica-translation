@@ -1,5 +1,5 @@
 
-\CL領主のもとに向かおう
+\CLLet's head to the master
 
 @fb dir=back
 
