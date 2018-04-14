@@ -11,7 +11,7 @@
 @ev f=ev04c
 @fade type=in t=2000 wt=1
 
-BadEnd-01：彼女たちのおもちゃ
+BadEnd-01：Their Toy
 
 @jump target=*selection001
 ;;========================================
@@ -24,7 +24,7 @@ BadEnd-01：彼女たちのおもちゃ
 @ev f=ev07g
 @fade type=in t=2000 wt=1
 
-BadEnd-02：新しいママ
+BadEnd-02：New Mama
 
 @jump target=*selection001
 ;;========================================
@@ -37,7 +37,7 @@ BadEnd-02：新しいママ
 @ev f=ev10d_1
 @fade type=in t=2000 wt=1
 
-BadEnd-03：燃料精製装置
+BadEnd-03：Semen Fuel Production Equipment
 
 @jump target=*selection001
 ;;========================================
@@ -50,7 +50,7 @@ BadEnd-03：燃料精製装置
 @ev f=ev11f
 @fade type=in t=2000 wt=1
 
-BadEnd-04：干物
+BadEnd-04：Dried Food
 
 @jump target=*selection001
 ;;========================================
@@ -63,7 +63,7 @@ BadEnd-04：干物
 @ev f=ev18g
 @fade type=in t=2000 wt=1
 
-BadEnd-05：新しい人生
+BadEnd-05：New Life
 
 @jump target=*selection001
 ;;========================================
@@ -76,7 +76,7 @@ BadEnd-05：新しい人生
 @ev f=ev22e
 @fade type=in t=2000 wt=1
 
-BadEnd-06：胎内回帰
+BadEnd-06：Embryo Regression
 
 @jump target=*selection001
 ;;========================================
@@ -89,7 +89,7 @@ BadEnd-06：胎内回帰
 @ev f=ev08d
 @fade type=in t=2000 wt=1
 
-BadEnd-07：被服屋のペット
+BadEnd-07：Clothing Store's Pet
 
 @jump target=*selection001
 ;;========================================
@@ -102,7 +102,7 @@ BadEnd-07：被服屋のペット
 @ev f=ev09e
 @fade type=in t=2000 wt=1
 
-BadEnd-08：おっぱいの虜
+BadEnd-08：Slave to Boobs
 
 @jump target=*selection001
 ;;========================================
@@ -115,7 +115,7 @@ BadEnd-08：おっぱいの虜
 @ev f=ev15e
 @fade type=in t=2000 wt=1
 
-BadEnd-09：餌
+BadEnd-09：Feed
 
 @jump target=*selection001
 ;;========================================
@@ -128,7 +128,7 @@ BadEnd-09：餌
 @ev f=ev20e
 @fade type=in t=2000 wt=1
 
-BadEnd-10：家族
+BadEnd-10：Family
 
 @jump target=*selection001
 ;;========================================
@@ -141,7 +141,7 @@ BadEnd-10：家族
 @ev f=ev01f
 @fade type=in t=2000 wt=1
 
-BadEnd-11：ずっと一緒
+BadEnd-11：Together Forever
 
 @jump target=*selection001
 ;;========================================
@@ -170,7 +170,7 @@ HaremEnd：一人はみんなモノ
 @ev f=mob17
 @fade type=in t=2000 wt=1
 
-BadEnd-12：ぼうや
+BadEnd-12：Son
 
 @jump target=*selection001
 ;;========================================
@@ -198,7 +198,7 @@ BadEnd-13：『或る館にて』もよろしくね！
 @ev f=mob2
 @fade type=in t=2000 wt=1
 
-BadEnd-13：永住１
+BadEnd-13：Permanent Resident 1
 
 @jump target=*selection001
 ;;========================================
@@ -211,7 +211,7 @@ BadEnd-13：永住１
 @ev f=mob3
 @fade type=in t=2000 wt=1
 
-BadEnd-14：永住２
+BadEnd-14：Permanent Resident 2
 
 @jump target=*selection001
 ;;========================================
@@ -224,7 +224,7 @@ BadEnd-14：永住２
 @ev f=mob4
 @fade type=in t=2000 wt=1
 
-BadEnd-15：永住３
+BadEnd-15：Permanent Resident 3
 
 @jump target=*selection001
 ;;========================================
@@ -237,7 +237,7 @@ BadEnd-15：永住３
 @ev f=mob5
 @fade type=in t=2000 wt=1
 
-BadEnd-16：永住４
+BadEnd-16：Permanent Resident 4
 
 @jump target=*selection001
 ;;========================================
@@ -250,7 +250,7 @@ BadEnd-16：永住４
 @ev f=mob1
 @fade type=in t=2000 wt=1
 
-BadEnd-17：永住５
+BadEnd-17：Permanent Resident 5
 
 @jump target=*selection001
 ;;========================================
@@ -263,7 +263,7 @@ BadEnd-17：永住５
 @ev f=mob7
 @fade type=in t=2000 wt=1
 
-BadEnd-18：永住６
+BadEnd-18：Permanent Resident 6
 
 @jump target=*selection001
 ;;========================================
@@ -276,7 +276,7 @@ BadEnd-18：永住６
 @ev f=mob8
 @fade type=in t=2000 wt=1
 
-BadEnd-19：永住７
+BadEnd-19：Permanent Resident 7
 
 @jump target=*selection001
 ;;========================================
@@ -289,7 +289,7 @@ BadEnd-19：永住７
 @ev f=mob9
 @fade type=in t=2000 wt=1
 
-BadEnd-20：永住８
+BadEnd-20：Permanent Resident 8
 
 @jump target=*selection001
 ;;========================================
@@ -302,7 +302,7 @@ BadEnd-20：永住８
 @ev f=mob10
 @fade type=in t=2000 wt=1
 
-BadEnd-21：永住９
+BadEnd-21：Permanent Resident 9
 
 @jump target=*selection001
 ;;========================================
@@ -315,7 +315,7 @@ BadEnd-21：永住９
 @ev f=mob11
 @fade type=in t=2000 wt=1
 
-BadEnd-22：永住１０
+BadEnd-22：Permanent Resident 10
 
 @jump target=*selection001
 ;;========================================
@@ -328,7 +328,7 @@ BadEnd-22：永住１０
 @ev f=mob12
 @fade type=in t=2000 wt=1
 
-BadEnd-23：永住１１
+BadEnd-23：Permanent Resident 11
 
 @jump target=*selection001
 ;;========================================
@@ -341,7 +341,7 @@ BadEnd-23：永住１１
 @ev f=mob13
 @fade type=in t=2000 wt=1
 
-BadEnd-24：永住１２
+BadEnd-24：Permanent Resident 12
 
 @jump target=*selection001
 ;;========================================
@@ -354,7 +354,7 @@ BadEnd-24：永住１２
 @ev f=mob14
 @fade type=in t=2000 wt=1
 
-BadEnd-25：永住１３
+BadEnd-25：Permanent Resident 13
 
 @jump target=*selection001
 ;;========================================
@@ -367,7 +367,7 @@ BadEnd-25：永住１３
 @ev f=mob15
 @fade type=in t=2000 wt=1
 
-BadEnd-26：永住１４
+BadEnd-26：Permanent Resident 14
 
 @jump target=*selection001
 ;;========================================
@@ -380,7 +380,7 @@ BadEnd-26：永住１４
 @ev f=mob16
 @fade type=in t=2000 wt=1
 
-BadEnd-27：永住１５
+BadEnd-27：Permanent Resident 15
 
 @jump target=*selection001
 ;;========================================
@@ -393,7 +393,7 @@ BadEnd-27：永住１５
 @ev f=mob6
 @fade type=in t=2000 wt=1
 
-BadEnd-28：永住１６
+BadEnd-28：Permanent Resident 16
 
 @jump target=*selection001
 ;;========================================
@@ -404,7 +404,7 @@ BadEnd-28：永住１６
 
 *selection001
 @mes_win back=0 pos=2
-@select s1=少し前に戻る/*se2 s2=タイトルに戻る/*se1
+@select s1=Go back to a little earlier/*se2 s2=Return to Title/*se1
 
 ;;========================================
 *se1
