@@ -1,5 +1,5 @@
 ;;■04
-;;■ヒルベルタの森
+;;■Hilberta Forest
 @bgm
 
 @dir dir=up id=AC0
@@ -30,14 +30,14 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=100 wt=0
 @bs f=アル@困り x=-350 y=50 t=200
 
-[Lily]"Hey... did you came to \C[4]this world\C[0] with someone?"
+[Lily]"Hey... did you come to 'this world' with someone, Al?"
 
 ;;主人公疑問符
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300
 
 ;;「この『せかい』？」　「誰かと？」
-@select s1=This_"world?"/*st06a s2=With_someone?/*st06b
+@select s1=This_'world'?/*st06a s2=With_someone?/*st06b
 
 *st06a
 *st06b
@@ -48,10 +48,10 @@
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ハテナ x=350 y=50 t=200
-[Lily]"...Eh?"
+[Lily]"... Huh?"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily](...such...ordinary boy shouldn't get lost \nalone without knowing anything...)
+[Lily](... No way... an ordinary boy getting lost alone without\nknowing anything... This shouldn't happen...)
 
 ;;主人公疑問符
 @huki b=8 id=AC0
@@ -67,35 +67,35 @@
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
 
-[Lily]"Ah, sorry. I was lost in my thought!"
+[Lily]"Ah! S- sorry! I got lost in thought...!"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
 ;;主人公哀しい顔
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[Lily]"Yes, I do not know anything, I'm worried ...."
-;;wat?
+[Lily]"Right... You said you don't know anything,\nyou're worried, right..."
+
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
 [Lily]"... Well then, first, I'll explain a bit about this world."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily]"Here, it is different from the human world in which\n you lives... It is the world where demons exist."
+[Lily]"This is, a different world than the human world where\n you live. It's a world where sex demons live."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[Lily]"A succubus is a demon that lives by eating human energy. \nBut, there is no need to be afraid."
+[Lily]"Sex demons are demons that lives by eating\nhumans' semen. Ah, but, no need to be afraid."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[Lily]"The villain around here know human language\n and their culture as well"
+[Lily]"Because the succubi around here also communicate in\nhuman language, and there are many civilized people, too."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily]"A man who is not slave may\n be a little conspicuous, but..."
+[Lily]"A man who isn't a semen slave may be a little conspicuous,\nthough......"
 
 ;;主人公哀しい顔
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200
@@ -106,11 +106,11 @@
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
 
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
-[Lily]"Ah!? But don't worry! It's okay if you keep an eye on it!"
+[Lily]"Ah!? B- but you know!? If you're careful,\nyou'll be totally fine!"
 
 @bs f=リリィ@蔑み  x=350 y=50 t=200
 
-[Lily]"...Therefore... be careful, ok?"
+[Lily]"... So, umm... be careful, ok?"
 
 ;;主人公哀しい顔
 @huki b=8
@@ -120,15 +120,15 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[Lily]"...This is what I can tell you...\nnow I was hoping to know about your situation."
+[Lily]"... That's about all I can tell you...\nI'd like to hear about your situation next."
 
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200
 
-[Lily]"How did you come to this world?"
+[Lily]"How did you come to this world, Al?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
-@select s1=Sucked_by_a_magic_circle/*st07a s2=I_find_a_shiny_stone_in_the_river/*st07b
+@select s1=I_was_sucking_in_by_something_like_a_magic_circle.../*st07a s2=I_found_a_glowing_stone_in_the_river.../*st07b
 ;;============================================================================
 *st07a
 
@@ -138,11 +138,11 @@
 
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[Lily]"Magic circle... maybe...the portal we found earlier..."
+[Lily]"Magic circle...? I wonder... if it was...\nthe portal I found earlier..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[Lily]"... but, in that case, you should \nnot start up with Magic about Mr."
+[Lily]"... But if so, with your amount of magical power,\n you shouldn't have been able to activate it, though."
 
 @huki b=8 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
@@ -150,7 +150,7 @@
 
 @bs f=リリィ@焦り x=350 y=50 t=200
 
-[Lily]"............"
+[Lily]"............ Ah."
 
 @jump target=*end01
 ;;============================================================================
@@ -162,7 +162,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily]"...Shiny stone..That maybe..."
+[Lily]"... Glowing... stone...? That... might have been..."
 
 @jump target=*end01
 ;;============================================================================
@@ -170,7 +170,7 @@
 
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[Lily]"Hey, are you familiar with this... do you not?"
+[Lily]"... Hey, Aru. You don't recognize this... do you?"
 
 ;;魔石表示
 @se f=衣擦れの音1
@@ -183,7 +183,7 @@
 @wait t=500
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
-[Lily]"Do you remember...?"
+[Lily]"You do... recognize it...?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
@@ -199,20 +199,20 @@
 [Lily]"............"
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"This is a succubus cube,\n it's a mass of crystallized magical power. \nIt's said that SQ is from a long time ago"
+[Lily]"... This is well, it's called a 'succubus cube', it's\na chunk of crystallized magical power. Since that's long,\nthey're also called 'SQ's for short."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"Once you use magical powers within,\n it will turn into a normal stone. \nSQ with plenty of magical power are very precious"
+[Lily]"Once you use the magical powers of an SQ it will just be\na stone, so an SQ with plenty of magical power is\nvery precious."
 
 ;;主人公、疑問符
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600
 @wait t=500
 
 @bs f=リリィ@焦り x=350 y=50 t=200
-[Lily]"Er...SQ has a different magical power from this world,\n unlike the world in which you was..."
+[Lily]"Er... SQs have a different magical power than the world\n you were in, Al, they're packed with this world's\nmagical power, though..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"...I'm sorry...I don't even know how you came up."
+[Lily]"... I'm sorry. I don't know you got here either, Al."
 
 ;;主人公うなずく
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
@@ -227,7 +227,7 @@
 
 @bs f=リリィ@困惑  x=350 y=50 t=200
 
-[Lily]"...hey"
+[Lily]"............ Hey."
 
 ;;主人公、疑問符
 @huki b=2
@@ -236,7 +236,7 @@
 
 ;;主人公、驚き
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200
-[Lily]"...How long have SQ been shining?\nMaybe it was so bright, it was really shining...?"
+[Lily]"... How much was it glowing? Perhaps was it so bright that\nit was blinding......?"
 
 ;;主人公：困る
 @huki b=8 wt=0
@@ -255,20 +255,20 @@
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=100 wt=0
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 
-[Lily]"Oh !?"
+[Lily]"Yes!?"
 
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
 
-[Lily]"That, that kind of... but it probably \nis not that much... probably will not ..."
+[Lily]"N- no way... But if it wasn't that bright you probably\ncouldn't have gotten here..."
 
 @huki b=8 id=AC0
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=400
 
-[Lily]"........."
+[Lily]"..."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[Lily]"But, it is rare SQ that I rarely get it..."
+[Lily]"But, that was a rare and unobtainably valuable SQ..."
 
 ;;主人公、疑問符
 @huki b=2
@@ -278,13 +278,13 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[Lily]"............"
+[Lily]"......"
 
 @huki b=2 id=AC0
 @bs f=アル@焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[Lily]"Al, do you want to return over there?"
+[Lily]: "... Do you want to return to the other side?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -295,7 +295,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200
 
-[Lily]"...by all means?"
+[Lily]"... No matter what?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -306,7 +306,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[Lily]"...absolutely?"
+[Lily]"... Absolutely?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -317,7 +317,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[Lily]"...More than anything else?"
+[Lily]"....... More than anything?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -332,7 +332,7 @@
 @wait t=1000
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
-[Lily]"I see... ok then I'll help you, \nI'll find a way for you to go back"
+[Lily]"I see... Then I'll help you. I'll search for a way\nthat you can return there."
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -342,11 +342,11 @@
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200
 @wait t=500
 
-[Lily]"We got to know each other so I want to become helpful...\nalso... because you are cute♪"
+[Lily]"Since we got to know each other. I want to help you.\nBesides... you're cute. ♪"
 
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@微笑 x=350 y=50 t=200
-[Lily]"So let's go together, to Cornelica\n The city of Succubus"
+[Lily]"So let's go together, to Cornelica - the city of\nwe, the Succubi."
 
 ;;主人公うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
