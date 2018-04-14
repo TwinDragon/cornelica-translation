@@ -10,7 +10,7 @@
 @bs f=リリィ@微笑 t=200
 @bs f=tutorial1 body=-1 face=0 t=200
 
-[Lily]"If the bar in this part of the screen gets low,\nyou should rest in a bed. If you sleep for a night,\nI think you'll fully recover."
+[Lily]"If the bar in this part of the screen gets low, you should\nrest in a bed. Because if you sleep for a night,\nyou'll feel it fully recover."
 
 @move_f f=tutorial1 face=0 out=c t=200
 @bs f=リリィ@焦り t=200

@@ -60,7 +60,7 @@
 
 @bs f=リリィ@微笑
 
-[リリィ]「ここは少し深いところだから、少し場所を移動しようよ」
+[Lily]"It's a bit deep here, \nso let's move a little bit"
 
 @jump target=*end01
 ;;====================================================================
@@ -69,7 +69,7 @@
 
 @bs f=リリィ@微笑 op=音符
 
-[リリィ]「とりあえず、私が今住んでるとこにいこっか。フランカ区の下部にあるよ」
+[Lily]"For the time being, where do I live now? \nI'm living in the bottom part of the Franca Ward"
 
 @jump target=*end01
 ;;====================================================================
@@ -78,11 +78,11 @@
 
 @bs f=リリィ@笑顔
 
-[リリィ]「魔力を集める方法を街の人たちに聞いてみようよ♪」
+[Lily]"Let's ask around how to collect Magical Power♪"
 
 @bs f=リリィ@微笑 op=音符
 
-[リリィ]「ついでに街の案内もしてあげるね♪」
+[Lily]"I'll also guide you around the city♪"
 
 @jump target=*end01
 ;;====================================================================
@@ -91,11 +91,11 @@
 
 @bs f=リリィ@哀しみ op=ハテナ
 
-[リリィ]「魔女……見たことないけど、どんな人なんだろう……？」
+[Lily]"Witch... I have never seen her, \nbut what kind of person is it...?"
 
 @bs f=リリィ@微笑
 
-[リリィ]「フランカ区中央から右に進むと館があるみたいだよ」
+[Lily]"When going to the right from the center of Franca Ward, \nyou can see her pavilion"
 
 @jump target=*end01
 ;;====================================================================
@@ -104,7 +104,7 @@
 
 @bs f=リリィ@笑顔 op=音符
 
-[リリィ]「勝手に裏口から忍び込むなんて、ドキドキしちゃうね♪」
+[Lily]"Sneak into the backdoor without permission... \nI am excited♪♪♪"
 
 @jump target=*end01
 ;;====================================================================
@@ -113,11 +113,11 @@
 
 @bs f=リリィ@困惑
 
-[リリィ]「ヴラスタ達がいっぱいだね……」
+[Lily]"There are a lot of Vlasta..."
 
 @bs f=リリィ@蔑み
 
-[リリィ]「私も見つからないようにしなくちゃ」
+[Lily]"We have to try not to be caught"
 
 @jump target=*end01
 ;;====================================================================
@@ -126,7 +126,7 @@
 
 @bs f=リリィ@笑顔
 
-[リリィ]「ヴェルナはまた明日って言ってたし……今日はもう家で休もっか」
+[Lily]"Verna was said tomorrow too... \nfor now let's go home and rest"
 
 @jump target=*end01
 ;;====================================================================
@@ -135,11 +135,11 @@
 
 @bs f=リリィ@哀しみ op=ハテナ
 
-[リリィ]「分析もう終わってるかな……？　とりあえずヴェルナの家に行こっか」
+[Lily]Analysis is over already...? \nLet's go to Verna's house for the time being"
 
 @bs f=リリィ@微笑
 
-[リリィ]「アル、帰れたらいいね」
+[Lily]"Al, I wish you could return home"
 
 @jump target=*end01
 ;;====================================================================
@@ -148,11 +148,11 @@
 
 @bs f=リリィ@通常
 
-[リリィ]「えっと……たしか、ヴェルナが言ってたのは『スライムコア』と『テオナ茸』とだね」
+[Lily]"Ehm...sure. Verna said \C[2]Slime core\C[0] and \C[2]Teona Mushroom\C[0]"
 
 @bs f=リリィ@微笑
 
-[リリィ]「『スライムコア』は道具屋さんで、『テオナ茸』はヒルベルタの森で手に入るみたいだよ」
+[Lily]"\C[2]Slime core\C[0] can be bought at the Tool Store.\nThe \C[2]Teona Mushroom\C[0] can be found in the Hilberta Forest"
 
 @jump target=*end01
 ;;====================================================================
@@ -161,11 +161,11 @@
 
 @bs f=リリィ@哀しみ
 
-[リリィ]「むぅ……たしか、ヴェルナが言ってたのは『マンドラゴラの紫根』と『ミアスマ石』だね」
+[Lily]"Ehm...sure. Verna said \C[2]Mandragora's purple root\C[0] \nand \C[2]Miasma stone\C[0]"
 
 @bs f=リリィ@微笑
 
-[リリィ]「『マンドラゴラの紫根』は酒場で、『ミアスマ石』はヒルベルタの森の深いところで手に入るみたいだよ」
+[Lily]"\C[2]Mandragora's purple root\C[0] can be bought at the bar. \n\C[2]Miasma stone\C[0] can be found in the \nDeepset Part of Hilberta Forest"
 
 @jump target=*end01
 ;;====================================================================
@@ -174,16 +174,16 @@
 
 @bs f=リリィ@困惑 op=困惑
 
-[リリィ]「はぁ……たしか、ヴェルナが言ってたのは『バロメッツの金毛』と『ミフクラギの花』だね……」
+[Lily]"Ehm...sure. Verna said \C[2]Baromets' brass hair\C[0] \nand \C[2]Mifukuragi flower\C[0]"
 
 @bs f=リリィ@通常
 
-[リリィ]「……『バロメッツの金毛』は服屋さんで、『ミフクラギの花』はヒルベルタの森で見つかるみたいだよ……」
+[Lily]"\C[2]Baromets' brass hair\C[0] can be bought at the Cloth Store.\nThe \C[2]Mifukuragi flower\C[0] can be found in the Hilberta Forest"
 
 @bs f=リリィ@哀しみ
 
-[リリィ]「…………後なんかいくらい続くのかな……」
-
+[Lily]"...I wonder if it will last a long time..."
+;;I don't know if is talking about the flower or about the quest given no-stop... missing the context
 @jump target=*end01
 ;;====================================================================
 ;;城盗み準備前
@@ -191,12 +191,12 @@
 
 @bs f=リリィ@蔑み
 
-[リリィ]「……『賢者の石』を盗み出す……もしばれたら……」
+[Lily]"Stealing the \C[2]Philosopher's stone\C[0]...if it's possible..."
 
 @bs f=リリィ@困惑
 
-[リリィ]「……いや、ばれても持って帰ることさえできたら…………その時は……」
-
+[Lily]"...no. If I could even bring it home, \nI could even bring you home... at that time..."
+;;not sure
 @jump target=*end01
 ;;====================================================================
 *end01

@@ -1,4 +1,5 @@
 ;;■01
 
-[ヴラスタ]「申シ訳ゴザイマセンガ、許可ノナイ人ヲオ通シスルコトハデキマセン」
+[Vlasta]"I'M VERY SORRY BUT, I CAN'T LET YOU PASS\nWITHOUT PERMISSION."
+
 
