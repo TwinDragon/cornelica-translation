@@ -1,5 +1,5 @@
 ;;■01
 
-[サキュバス]「ロザリーのとこの料理はおいしいわね」
+[Succubus]"The food at Rosalie's place is delicious."
 
-[サキュバス]「精液だけ飲んで生きてた時とは充実感が違うわ!」
+[Succubus]"It gives a different sense of fulfillment than\nwhen I lived by only drinking semen!"
