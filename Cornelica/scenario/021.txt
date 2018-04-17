@@ -65,11 +65,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-<<<<<<< HEAD
-[Lily]"Eh, wrong! This boy is Al"
-=======
 [Lily]"Eh, wrong! This boy is Al."
->>>>>>> upstream/master
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 
@@ -100,11 +96,7 @@
 
 @bs f=ヴェルナ@通常 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"I am Verna. Witch Verna. Please to me you"
-=======
 [Verna]"I am Verna. Witch Verna. Please to me you."
->>>>>>> upstream/master
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 @move_f f=リリィ@ out=c t=20 wt=0
@@ -127,11 +119,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@微笑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Lily]"By the way, I wanted to ask it before going ahead: \nsince when did you live here?
-=======
 [Lily]"By the way, I wanted to ask it before going ahead: \nSince when did you live here?
->>>>>>> upstream/master
 
 @huki b=6 id=2
 @bs f=ヴェルナ@困惑 x=350 y=50 t=200 wt=1
@@ -140,11 +128,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=100 wt=1
 
-<<<<<<< HEAD
-[Verna]"Oh dear, maybe because I'm mostly 'shut-in' \nthere are few people who know me"
-=======
 [Verna]"Oh dear, maybe because I'm mostly a 'shut-in' \nthere are few people who know me."
->>>>>>> upstream/master
 
 @huki b=6 id=AC0
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
@@ -183,11 +167,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-<<<<<<< HEAD
-[Verna]"I see, he's a lost child. \nAlright, good. Let me help you"
-=======
 [Verna]"I see, he's a lost child. \nAlright, good. Let me help you."
->>>>>>> upstream/master
 
 @huki b=1
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=300 wt=1
@@ -211,11 +191,7 @@
 @wait t=500
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
-<<<<<<< HEAD
-[Verna]"Okay .... but I'd like you to come to my room right away"
-=======
 [Verna]"Okay... but I'd like you to come to my room right away."
->>>>>>> upstream/master
 
 @bs f=アル@焦り x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
@@ -231,22 +207,14 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-<<<<<<< HEAD
-[Lily]"All right"
-=======
 [Lily]"Alright"
->>>>>>> upstream/master
 
 @bs f=ヴェルナ@通常 opa=0 t=20 wt=0
 @move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Lily please wait here. I'd like to talk with Al alone"
-=======
 [Verna]"Lily please wait here. I'd like to talk with Al alone."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@通常 x=400 y=50 opa=0 t=20 wt=0
@@ -268,11 +236,7 @@
 @move f=リリィ@困惑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"I cannot concentrate if I'm not alone with him"
-=======
 [Verna]"I cannot concentrate if I'm not alone with him."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
 
@@ -292,11 +256,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200
 
-<<<<<<< HEAD
-[Verna]"Well then, come over here"
-=======
 [Verna]"Well then, come over here."
->>>>>>> upstream/master
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=300
@@ -325,11 +285,7 @@
 
 ;;ヴェルナ部屋へと移動
 
-<<<<<<< HEAD
-[Lily]"Well then Al... I'll be waiting here"
-=======
 [Lily]"Well then Al... I'll be waiting here."
->>>>>>> upstream/master
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1

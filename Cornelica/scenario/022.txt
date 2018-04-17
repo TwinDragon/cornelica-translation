@@ -48,11 +48,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Hmm...It is difficult"
-=======
 [Verna]"Hmm... It is difficult."
->>>>>>> upstream/master
 
 ;;主人公：驚き
 @huki b=1
@@ -64,50 +60,30 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"A portal to another world is not easy to make. \nTo create it requires a lot of magical power"
-=======
 [Verna]"A portal to another world is not easy to make. \nTo create it requires a lot of magical power."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"But... you actually came to this world so you should have few magical powers"
-=======
 [Verna]"But... you actually came to this world so you should have few magical powers."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Perhaps, the portal was already been made, and you \nstarted it by mistake... I wonder if that's the case"
-=======
 [Verna]"Perhaps, the portal has already been made, and you \nstarted it by mistake... I wonder if that's the case."
->>>>>>> upstream/master
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"...but, even though activating that portal itself, \na considerable amount of magical power is needed"
-=======
 [Verna]"...but, even though activating that portal itself, \na considerable amount of magical power is needed."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @huki b=2 id=3
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?
-=======
 [Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?"
->>>>>>> upstream/master
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -126,17 +102,6 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Is that so...?  However, It's not easy to return \nwhen becoming so. I can do something about creating \na portal and starting it"
-
-@bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
-
-[Verna]"However, when passing through the portal, \nit's impossible for me to compensate for \nthe magical powers needed to cross it"
-
-@bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
-
-[Verna]"The magical power consumed when passing through \ncan only be paid by yourself. As now, you are going to \nbe frozen before you get to the other side"
-=======
 [Verna]"Is that so...?  However, It's not easy to return \nwhen becoming so. I can do something about creating \na portal and starting it."
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
@@ -146,27 +111,18 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
 [Verna]"The magical power consumed when passing through \ncan only be paid by yourself. As of now, you are going to \nbe frozen before you get to the other side."
->>>>>>> upstream/master
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"That is impossible unless you have a strong catalyst"
-=======
 [Verna]"That is impossible unless you have a strong catalyst."
->>>>>>> upstream/master
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Especially in your case, because you are originally \nfrom the other side so this Magical Power is not familiar"
-=======
 [Verna]"Especially in your case, because you are originally \nfrom the other side so this Magical Power is not familiar."
->>>>>>> upstream/master
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -174,34 +130,15 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"Probably it may be that some sort of devil set it \naside for a trap"
-
-@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
-
-[Verna]"It was fortunate that Lily quickly picked you up"
-=======
 [Verna]"Probably it may be that some sort of devil set it \naside for a trap."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
 [Verna]"It was fortunate that Lily quickly picked you up."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"So, now I do know why you came and how you can go home"
-
-@bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
-
-[Verna]"The magic to your world isn't so difficult either. \nIt's certainly a field that has not been deepened so far"
-
-@bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
-
-[Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose.
-=======
 [Verna]"So, now I do know why you came and how you can go home."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
@@ -211,17 +148,12 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
 [Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose."
->>>>>>> upstream/master
 
 [Verna]"We might not understand anything until we advance into the research."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"If we proceed with the research, you can go home... maybe. \nSo, I want you to cooperate with me"
-=======
 [Verna]"If we proceed with the research, you can go home... maybe. \nSo, I want you to cooperate with me."
->>>>>>> upstream/master
 
 @bs f=アル@笑顔 x=-350 y=50 t=300 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -241,11 +173,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-<<<<<<< HEAD
-[Verna]"It is a good reply. Well, let's start immediatly"
-=======
 [Verna]"It is a good reply. Well, let's start immediately."
->>>>>>> upstream/master
 
 ;;主人公：うなずき
 @bs f=アル@笑顔 x=-350 y=50 t=400 wt=1
@@ -258,11 +186,7 @@
 @bs f=ヴェルナ@微笑 x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-<<<<<<< HEAD
-[Verna]"Good. Then, I want you to offer your sperm. Plenty... a lot"
-=======
 [Verna]"Good. Then, I want you to offer your sperm. Plenty... a lot."
->>>>>>> upstream/master
 
 ;;主人公：疑問符
 @huki b=2
@@ -272,11 +196,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 
-<<<<<<< HEAD
-[Verna]"Oh dear, eh. It is a simple story. \nYou only have to count the stain on the ceiling"
-=======
 [Verna]"Oh dear, eh. It is a simple story. \nYou only have to count the stain on the ceiling."
->>>>>>> upstream/master
 
 ;;ヴェルナ:怪しい表情
 @bs f=ヴェルナ@蔑み x=350 y=50 t=600 wt=1
@@ -301,11 +221,7 @@
 @route route=down id=3
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Verna]"What happened? Suddenly frightened face... \nMaybe because I'm succubus... are you suspicious?"
-=======
 [Verna]"What happened? Suddenly frightened face... \nMaybe because I'm a succubus... are you suspicious?"
->>>>>>> upstream/master
 
 ;;主人公：怯え
 @fb dir=back wt=0
@@ -351,11 +267,7 @@
 @huki b=8 id=3 wt=1
 
 @move_f f=ヴェルナ@微笑 in=c t=400
-<<<<<<< HEAD
-[Verna]"Fufu... do not escape"
-=======
 [Verna]"Fufu... do not escape."
->>>>>>> upstream/master
 
 @fade type=out t=1000 wt=1
 

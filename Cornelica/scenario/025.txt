@@ -18,11 +18,7 @@
 @huki b=6 id=5
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Lily]".... Today, I got tired from various things"
-=======
 [Lily]".... Today, I got tired from various things."
->>>>>>> upstream/master
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
@@ -39,11 +35,7 @@
 @huki b=8 id=5
 @bs f=リリィ@通常 x=350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Lily]"I thought what kind of person is Verna at the beginning, \nbut she's a pretty lady. We entered the mansion without \npermission, but she didn't say anything in particular... "
-=======
 [Lily]"I thought what kind of person is Verna at the beginning, \nbut she's a pretty lady. We entered the mansion without \npermission, but she didn't say anything in particular..."
->>>>>>> upstream/master
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=1
@@ -59,11 +51,7 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=200 wt=1
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-<<<<<<< HEAD
-[Lily]"We was told form Verna to come again tomorrow, \nso let's rest for the day"
-=======
 [Lily]"We was told from Verna to come again tomorrow, \nso let's rest for the day."
->>>>>>> upstream/master
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1

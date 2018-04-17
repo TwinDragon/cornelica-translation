@@ -38,19 +38,11 @@
 
 [？？？＠ヴェルナ]"It's quite polite. \nWell then, I will also introduce myself..."
 
-<<<<<<< HEAD
-[Verna]"I am Verna. Witch Verna. Please to me you"
-
-[Lily]"My best regards, Verna♪♪"
-
-[Lily]"By the way, I wanted to ask it before going ahead: \nsince when did you live here?
-=======
 [Verna]"I am Verna. Witch Verna. Pleased to me you."
 
 [Lily]"My best regards, Verna♪♪"
 
 [Lily]"By the way, I wanted to ask it before going ahead: \nSince when did you live here?
->>>>>>> upstream/master
 
 [Verna]"It's suddenly impertinent give me the 'you'. \nOh well, good. It was before Franca Ward was formed."
 
@@ -67,23 +59,6 @@
 *st14a
 *st14b
 
-<<<<<<< HEAD
-[Verna]"I see, he's a lost child. \nAlright, good. Let me help you"
-
-[Verna]"Okay .... but I'd like you to come to my room right away"
-
-[Lily]"All right"
-
-[Verna]"Lily please wait here. I'd like to talk with Al alone"
-
-[Lily]"It looks like something is wrong..."
-
-[Verna]"I cannot concentrate if I'm not alone with him"
-
-[Lily]"Oh dear. In case of this..."
-
-[Verna]"Well then, come over here"
-=======
 [Verna]"I see, he's a lost child. \nAlright, good. Let me help you."
 
 [Verna]"Okay .... but I'd like you to come to my room right away."
@@ -99,7 +74,6 @@
 [Lily]"Oh dear. In case of this..."
 
 [Verna]"Well then, come over here."
->>>>>>> upstream/master
 
 ;;ヴェルナ部屋へと移動
 
