@@ -10,7 +10,7 @@
 ;;■魔女の館：搾精部屋
 @move_f f=メイド@怒り_赤 in=c t=200 wt=1
 
-[Vlasta]"Danger removal completed. It's judged that he's no longer a threat. Release target."
+[Vlasta]"Danger removal completed. It's judged that \nhe's no longer a threat. Release target."
 
 @fade type=out t=1000 wt=1
 @bgm
