@@ -1,7 +1,8 @@
 ;;■01
 
-[サキュバス]「あら、服を着てないのが珍しい？」
+[Succubus]"Oh my, is not wearing clothes unusual?"
 
-[サキュバス]「別に、着る必要もないじゃない？　人と違ってこのくらいじゃ寒くもないし、Hしやすいし」
+[Succubus]"Not really, you don't need to wear them, do you?\nUnlike humans wearing this much, we don't get cold,\nand it's easier to have sex."
 
-[サキュバス]「……あなたも脱ぐ？」
+[Succubus]"... Will you strip, too?"
+
