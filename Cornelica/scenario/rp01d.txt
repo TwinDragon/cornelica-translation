@@ -81,11 +81,11 @@
 
 @se f=パイズリ・手コキ１ pitch=50
 
-[Lily/rry0079]"Nnh... nn-... ah... ha... Your penis... just twitched.♪"
+[Lily/rry0079]"Nnh... nn-... ah... ha...\nYour penis... just twitched.♪"
 
 @se f=愛液1
 
-[Lily/rry0080]"... Let it out.♪　Even more semen than before... let it out.♪"
+[Lily/rry0080]"... Let it out.♪\nEven more semen than before... let it out.♪"
 
 ;;SE■射精音
 ;;射精エフェクト
