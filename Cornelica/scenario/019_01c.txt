@@ -72,7 +72,7 @@
 
 @move_f f=メイド@怒り_赤 in=c t=300
 
-[Vlasta]"Danger removal completed. \nIt's judged that he's no danger for a while. \nRelease target"
+[Vlasta]"Danger removal completed. It's judged that he's no longer a threat. Release target."
 
 @move_f f=メイド@ out=c t=300
 
