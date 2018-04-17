@@ -10,7 +10,7 @@
 ;;■魔女の館：搾精部屋
 @move_f f=メイド@怒り_赤 in=c t=200 wt=1
 
-[Vlasta]"Danger removal completed. \nIt's judged that it's no danger for a while. \nRelease target"
+[Vlasta]"Danger removal completed. It's judged that he's no longer a threat. Release target."
 
 @fade type=out t=1000 wt=1
 @bgm
@@ -102,7 +102,7 @@
 @move_f f=リリィ@焦り op=ビックリ in=c t=250
 
 ;;リリィ近づいてくる
-[Lily]"All right?!"
+[Lily]"Are you alright?!"
 
 @move_f f=リリィ@ out=c t=250
 
@@ -148,7 +148,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@焦り op=ハテナ x=350 y=50 t=400 wt=1
 
-[Lily]"...really?..."
+[Lily]"...really...?"
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
@@ -169,7 +169,7 @@
 
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
 
-[Lily]"...really, good"
+[Lily]"...really, good.."
 
 ;;主人公：笑み
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
@@ -195,7 +195,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=400 wt=1
 
-[Lily]"You do not have to push yourself"
+[Lily]"You do not have to push yourself."
 
 ;;主人公：首を振る
 @bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
@@ -208,11 +208,11 @@
 @bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
 @wait t=500
 
-[Lily]"Oh...I understood"
+[Lily]"Oh...I understand."
 
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
 
-[Lily]"Well then let's sneak in again. \nWe have to make sure not to be caught again"
+[Lily]"Well then let's sneak in again. \nWe have to make sure not to be caught again."
 
 ;;主人公：うなずく
 
