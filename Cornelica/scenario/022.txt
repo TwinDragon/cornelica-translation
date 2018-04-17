@@ -48,7 +48,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Hmm...It is difficult"
+[Verna]"Hmm... It is difficult."
 
 ;;主人公：驚き
 @huki b=1
@@ -60,30 +60,30 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"A portal to another world is not easy to make. \nTo create it requires a lot of magical power"
+[Verna]"A portal to another world is not easy to make. \nTo create it requires a lot of magical power."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"But... you actually came to this world so you should have few magical powers"
+[Verna]"But... you actually came to this world so you should have few magical powers."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Perhaps, the portal was already been made, and you \nstarted it by mistake... I wonder if that's the case"
+[Verna]"Perhaps, the portal has already been made, and you \nstarted it by mistake... I wonder if that's the case."
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"...but, even though activating that portal itself, \na considerable amount of magical power is needed"
+[Verna]"...but, even though activating that portal itself, \na considerable amount of magical power is needed."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @huki b=2 id=3
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?
+[Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -102,27 +102,27 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Is that so...?  However, It's not easy to return \nwhen becoming so. I can do something about creating \na portal and starting it"
+[Verna]"Is that so...?  However, It's not easy to return \nwhen becoming so. I can do something about creating \na portal and starting it."
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"However, when passing through the portal, \nit's impossible for me to compensate for \nthe magical powers needed to cross it"
+[Verna]"However, when passing through the portal, \nit's impossible for me to compensate for \nthe magical powers needed to cross it."
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"The magical power consumed when passing through \ncan only be paid by yourself. As now, you are going to \nbe frozen before you get to the other side"
+[Verna]"The magical power consumed when passing through \ncan only be paid by yourself. As of now, you are going to \nbe frozen before you get to the other side."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"That is impossible unless you have a strong catalyst"
+[Verna]"That is impossible unless you have a strong catalyst."
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Especially in your case, because you are originally \nfrom the other side so this Magical Power is not familiar"
+[Verna]"Especially in your case, because you are originally \nfrom the other side so this Magical Power is not familiar."
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -130,30 +130,30 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Probably it may be that some sort of devil set it \naside for a trap"
+[Verna]"Probably it may be that some sort of devil set it \naside for a trap."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"It was fortunate that Lily quickly picked you up"
+[Verna]"It was fortunate that Lily quickly picked you up."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"So, now I do know why you came and how you can go home"
+[Verna]"So, now I do know why you came and how you can go home."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"The magic to your world isn't so difficult either. \nIt's certainly a field that has not been deepened so far"
+[Verna]"The magic to your world isn't so difficult either. \nIt's certainly a field that has not been deepened so far."
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose.
+[Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose."
 
 [Verna]"We might not understand anything until we advance into the research."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"If we proceed with the research, you can go home... maybe. \nSo, I want you to cooperate with me"
+[Verna]"If we proceed with the research, you can go home... maybe. \nSo, I want you to cooperate with me."
 
 @bs f=アル@笑顔 x=-350 y=50 t=300 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -173,7 +173,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-[Verna]"It is a good reply. Well, let's start immediatly"
+[Verna]"It is a good reply. Well, let's start immediately."
 
 ;;主人公：うなずき
 @bs f=アル@笑顔 x=-350 y=50 t=400 wt=1
@@ -186,7 +186,7 @@
 @bs f=ヴェルナ@微笑 x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-[Verna]"Good. Then, I want you to offer your sperm. Plenty... a lot"
+[Verna]"Good. Then, I want you to offer your sperm. Plenty... a lot."
 
 ;;主人公：疑問符
 @huki b=2
@@ -196,7 +196,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 
-[Verna]"Oh dear, eh. It is a simple story. \nYou only have to count the stain on the ceiling"
+[Verna]"Oh dear, eh. It is a simple story. \nYou only have to count the stain on the ceiling."
 
 ;;ヴェルナ:怪しい表情
 @bs f=ヴェルナ@蔑み x=350 y=50 t=600 wt=1
@@ -221,7 +221,7 @@
 @route route=down id=3
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=200 wt=1
 
-[Verna]"What happened? Suddenly frightened face... \nMaybe because I'm succubus... are you suspicious?"
+[Verna]"What happened? Suddenly frightened face... \nMaybe because I'm a succubus... are you suspicious?"
 
 ;;主人公：怯え
 @fb dir=back wt=0
@@ -267,7 +267,7 @@
 @huki b=8 id=3 wt=1
 
 @move_f f=ヴェルナ@微笑 in=c t=400
-[Verna]"Fufu... do not escape"
+[Verna]"Fufu... do not escape."
 
 @fade type=out t=1000 wt=1
 
