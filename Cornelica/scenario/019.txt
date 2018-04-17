@@ -5,79 +5,79 @@
 ;;-----------------------------------------------------
 ;;魔女の館（廊下）
 
-[リリィ]「ここが魔女の部屋かな……？」
+[Lily]"Is this the witch's room...?"
 
 ;;主人公：疑問符
 
-[リリィ]「とりあえず、入ってみよっか」
+[Lily]"For the time being, let's enter"
 
 ;;リリィ扉を開ける
 
-[リリィ]「ごめんくださ～い！」
+[Lily]"Excuse me!"
 
 ;;主人公：驚く
 
 ;;-----------------------------------------------------
 ;;魔女の部屋
 
-[？？？＠ヴェルナ]「五月蠅いな……誰だ？」
+[？？？＠ヴェルナ]"Noisy ... Who are you?"
 
 ;;姿を表すヴェルナ
-[？？？＠ヴェルナ]「……はぁ……全くどこから入って来たんだ……まぁ、いい」
+[？？？＠ヴェルナ]"Oh dear, good. Where did you come from?"
 
-[？？？＠ヴェルナ]「……それで？　小娘がなんの用だ？　……そっちの子は誰？　人間の様だけど……貴女の奴隷？」
+[？？？＠ヴェルナ]"...and then? What is it with that boy? \n...who's that one? \nIt's like a human being...is your slave?"
 
-[リリィ]「ち、違うよ！　この子はアル」
+[Lily]"Eh, wrong! This boy is Al"
 
-;;「アルです」
-;;「よろしくお願いします」
-@select s1=アルです/*st13a s2=よろしくお願いします/*st13b
+;;I'm_Al
+;;Nice_to_meet_you
+@select s1=I'm_Al/*st13a s2=Nice_to_meet_you/*st13b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st13a
 *st13b
 
-[？？？＠ヴェルナ]「なかなか礼儀正しいな。それじゃあ私も名乗らねば……」
+[？？？＠ヴェルナ]"It's quite polite. \nWell then, I will also introduce myself..."
 
-[ヴェルナ]「私はヴェルナ。魔女のヴェルナだ。よろしく頼む」
+[Verna]"I am Verna. Witch Verna. Please to me you"
 
-[リリィ]「よろしくね、ヴェルナ♪」
+[Lily]"My best regards, Verna♪♪"
 
-[リリィ]「ところで、前から聞きたかったことがあるんだけど、ヴェルナっていつからここに住んでるの？」
+[Lily]"By the way, I wanted to ask it before going ahead: \nsince when did you live here?
 
-[ヴェルナ]「いきなり呼び捨てとは小生意気だな。まぁ、いい……ずっと前からだ。フランカ区ができる前からだな」
+[Verna]"It's suddenly impertinent give me the 'you'. \nOh well, good. It was before Franca Ward was formed."
 
-[リリィ]「お……思ってたよりずっと長いんだね……」
+[Lily]"...It's much longer than I thought..."
 
-[ヴェルナ]「そんなことより、一体何の用だ？　私が推測するに、その子のことで何か用事があるんじゃないのか？」
+[Verna]"From such a thing, what on earth is it for? \nAs I guess, is there something wrong with that child?"
 
-[リリィ]「へっ！？　あ、うんっ、そう……！　えっと説明は……」
+[Lily]"Eh!? Oh, yeah, I see! Well, let me explain..."
 
-;;「元の世界に帰りたい」
-;;「家に帰してほしい」
-@select s1=元の世界に帰りたい/*st14a s2=家に帰してほしい/*st14b
+;;I_want_to_return_to_my_world
+;;I_want_to_return_home
+@select s1=I_want_to_return_to_my_world/*st14a s2=I_want_to_return_home/*st14b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st14a
 *st14b
 
-[ヴェルナ]「なるほど……迷子か。よし、いいぞ。力を貸してやろう」
+[Verna]"I see, he's a lost child. \nAlright, good. Let me help you"
 
-[ヴェルナ]「では……早速だが私の部屋に来てもらおうか」
+[Verna]"Okay .... but I'd like you to come to my room right away"
 
-[リリィ]「わかった」
+[Lily]"All right"
 
-[ヴェルナ]「あ、リリィはここで待っていてくれ。アルくんと二人で話をしたいからな」
+[Verna]"Lily please wait here. I'd like to talk with Al alone"
 
-[リリィ]「なんか仲間はずれみたいだね……」
+[Lily]"It looks like something is wrong..."
 
-[ヴェルナ]「当人と二人きりでないと集中できなかったりするんだよ」
+[Verna]"I cannot concentrate if I'm not alone with him"
 
-[リリィ]「まぁ、そういうなら……」
+[Lily]"Oh dear. In case of this..."
 
-[ヴェルナ]「それじゃあ、こっちに来なさい」
+[Verna]"Well then, come over here"
 
 ;;ヴェルナ部屋へと移動
 
-[リリィ]「うん」
+[Lily]"Yup"
 
 ;;アル移動
 ;;=================================================================
