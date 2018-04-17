@@ -14,13 +14,13 @@
 
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「こっちは、正面玄関……かな？」
+[Lily]"Look, is that the main entrance?"
 
 @bs f=アル@困り op=焦り x=-350 y=50 t=200 wt=1
 
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「他と比べて警備が厳重だね……」
+[Lily]"Security is more stricter than other..."
 
 @move f=アル@困り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -40,11 +40,11 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200 wt=1
 
-[リリィ]「んー、ここを通るのは大変そうだし……」
+[Lily]"...it seems tough to go through here..."
 
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「１階の探索は、先に２階を調べてからにしない……？」
+[Lily]"They are guarding the first floor, \ncan we start searching for the second floor...?"
 
 @bs f=アル@普通 x=-350 y=50 t=400 wt=1
 @wait t=300

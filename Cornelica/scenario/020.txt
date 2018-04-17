@@ -24,7 +24,7 @@
 
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「ここが魔女の部屋かな……？」
+[Lily]"Is this the witch's room...?"
 
 ;;主人公：疑問符
 @huki b=8
@@ -41,7 +41,7 @@
 @bs f=リリィ@微笑 x=350 y=50 t=100 wt=0
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
-[リリィ]「とりあえず、入ってみよっか」
+[Lily]"For the time being, let's enter"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -74,7 +74,7 @@
 @huki b=1 id=AC0
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
 
-[リリィ]「ごめんくださ～い！」
+[Lily]"Excuse me!"
 
 @bgm
 @se f=Move1

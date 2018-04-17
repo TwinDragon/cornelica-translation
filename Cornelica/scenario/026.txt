@@ -28,7 +28,7 @@
 @huki b=3 id=8
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
-[リリィ]「あっ、起きた？」
+[Lily]"Hey, did you woke up?"
 
 @huki b=8
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
@@ -54,7 +54,7 @@
 @huki b=3 id=8
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
-[リリィ]「アル♪　おはよう♪」
+[Lily]"Al♪　Good morning♪"
 
 @move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
@@ -69,11 +69,11 @@
 @bs f=リリィ@通常 op=ハテナ x=350 y=50 t=200 wt=1
 @bs f=アル@普通 x=-350 y=50 t=100 wt=1
 
-[リリィ]「これから、ヴェルナのところに行ってみない？」
+[Lily]"From now, why don't you go to Verna?"
 
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[リリィ]「もしかしたら、もう分析も終わってるかもしれないし」
+[Lily]"Perhaps... the analysis may be over already"
 
 ;;主人公、うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
@@ -85,7 +85,7 @@
 
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
-[リリィ]「いい結果が出てるといいね♪」
+[Lily]"I hope you have good results♪"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @wait t=300

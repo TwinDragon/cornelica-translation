@@ -61,7 +61,7 @@
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
 
-[リリィ]「あ……戻って来た。どうだった？　帰る方法は分かりそう？」
+[Lily]"Oh, you came back. How was it? \nDo you know how to go home?"
 
 ;;主人公：赤面
 @bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
@@ -81,11 +81,11 @@
 
 @bs f=ヴェルナ@微笑 t=200
 
-[ヴェルナ]「分析には、もう少し時間がかかる。そうだな……また明日にでも来なさい」
+[Verna]"Analysis takes a little more time. \nThat's right... Please come back tomorrow."
 
 @bs f=ヴェルナ@通常
 
-[ヴェルナ]「それと今は夜だ。道すがらに犯されて、もう帰りたくない。なんてことにならないようにな」
+[Verna]"And now it's night. I don't want you to go home \nand be violated on the way. \nTake care on the way home!"
 
 @bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
@@ -97,7 +97,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「そっか……うん、分かった……でも、良かったね、希望が見えそうで」
+[Lily]"I see... yeah... I understood... but it was good... \nhope seems to be visible"
 
 ;;主人公：赤面（うなずく）
 @huki b=7
@@ -119,7 +119,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@笑顔 op=ハテナ  x=350 y=50 t=200
 
-[リリィ]「それで、どんな話をしてたの？」
+[Lily]"So, what story did she tell?"
 
 ;;主人公：赤面（うなずく）
 @huki b=1
@@ -136,7 +136,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ  x=350 y=50 t=200
 
-[リリィ]「ん？　なんか変な反応……私、変なこと聞いたかな？」
+[Lily]"What? Strange reaction... Did I hear strange things?"
 
 ;;主人公：赤面
 @huki b=7

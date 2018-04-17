@@ -10,7 +10,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「あっ……アル！」
+[Lily]"Ah...Al!"
 
 ;;主人公：驚く
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
@@ -21,11 +21,11 @@
 
 @move f=メイド@蔑み_赤 x=0 y=0 w=100 h=100 opa=255 t=250 wt=1
 
-[ヴラスタ]「対象。雄。危険除去が必要と判断」
+[Vlasta]"Object. Male. Danger removal is judged necessary"
 
 @bs f=メイド@怒り_赤
 
-[ヴラスタ]「連行します」
+[Vlasta]"I will bring it with you"
 
 ;;暗転
 @move f=メイド@怒り_赤 x=0 y=0 w=100 h=100 opa=0 t=250 wt=1
@@ -53,7 +53,7 @@
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=80 wt=1
 
 
-[リリィ]「ちょっ、ちょっと！　待って……！」
+[Lily]"Hey, wait a minute! Wait!"
 
 @bgm
 @fade type=out t=1000 wt=1
@@ -125,8 +125,8 @@
 ;;■魔女の館：搾精部屋
 @move_f f=メイド@蔑み_赤 in=c t=150 wt=1
 
-[ヴラスタ]「搾精部屋に到着。これより搾精行動を開始します」
-
+[Vlasta]"Arrived in the expressing room. From this we will begin to act on espouse"
+;;what?
 @fade type=out t=250 t=1
 
 @move_f f=メイド@ out=c t=20 wt=0

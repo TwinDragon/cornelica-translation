@@ -10,7 +10,7 @@
 ;;■魔女の館：搾精部屋
 @move_f f=メイド@怒り_赤 in=c t=200 wt=1
 
-[ヴラスタ]「危険除去完了。これでしばらく危険は無いと判断。対象を解放」
+[Vlasta]"Danger removal completed. \nIt's judged that it's no danger for a while. \nRelease target"
 
 @fade type=out t=1000 wt=1
 @bgm
@@ -53,7 +53,7 @@
 @c_jump id=AC0
 @move_f f=リリィ@焦り op=ビックリ in=c t=250
 
-[リリィ]「あっ……アル……！」
+[Lily]"Ah...Al!"
 
 @move_f f=リリィ@ out=c t=250
 
@@ -84,7 +84,7 @@
 @move_f f=メイド@通常_赤 in=c t=400
 @bs f=メイド@蔑み_赤 t=300
 
-[ヴラスタ]「解放完了。通常任務に戻る」
+[Vlasta]"Release completed. Return to duty"
 
 @move_f f=メイド@ out=c t=200
 
@@ -102,7 +102,7 @@
 @move_f f=リリィ@焦り op=ビックリ in=c t=250
 
 ;;リリィ近づいてくる
-[リリィ]「大丈夫！？」
+[Lily]"All right?!"
 
 @move_f f=リリィ@ out=c t=250
 
@@ -148,7 +148,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@焦り op=ハテナ x=350 y=50 t=400 wt=1
 
-[リリィ]「……ほんと……？」
+[Lily]"...really?..."
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
@@ -169,7 +169,7 @@
 
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
 
-[リリィ]「…………そっか、よかった」
+[Lily]"...really, good"
 
 ;;主人公：笑み
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
@@ -179,7 +179,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=400 wt=1
 
-[リリィ]「……どうする？　もう、やめる……？」
+[Lily]"... What shall we do? Wanna stop already?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
 @wait t=600
@@ -195,7 +195,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=400 wt=1
 
-[リリィ]「無理しなくてもいいんだよ……？」
+[Lily]"You do not have to push yourself"
 
 ;;主人公：首を振る
 @bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=300
@@ -208,11 +208,11 @@
 @bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
 @wait t=500
 
-[リリィ]「ん……分かった」
+[Lily]"Oh...I understood"
 
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
 
-[リリィ]「じゃあもう一度忍び込もう。次は捕まらないようにしないとね」
+[Lily]"Well then let's sneak in again. \nWe have to make sure not to be caught again"
 
 ;;主人公：うなずく
 

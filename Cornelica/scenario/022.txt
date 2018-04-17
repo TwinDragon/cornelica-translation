@@ -22,9 +22,9 @@
 @huki b=8 id=3 wt=0
 @map_scroll dir=down dis=1 spd=1
 
-;;「それで、あの……」
-;;「どうすれば元の世界に戻れるの？」
-;;@select s1=それで、あの……/*st15a s2=どうすれば元の世界に戻れるの？/*st15b
+;;So...Uhm...
+;;How_can_I_get_back_to_my_world?
+;;@select s1=So...Uhm.../*st15a s2=How_can_I_get_back_to_my_world?/*st15b
 ;;;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ;;*st15a
 ;;*st15b
@@ -48,7 +48,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「ふむ……難しいな」
+[Verna]"Hmm...It is difficult"
 
 ;;主人公：驚き
 @huki b=1
@@ -60,30 +60,30 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「異世界へのポータルはな、簡単に作れるものではないんだ。作成には本人の多大な魔力を必要とする」
+[Verna]"A portal to another world is not easy to make. \nTo create it requires a lot of magical power"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「だが……現に、魔力の少ないはずの君がこちら側に来てしまっている」
+[Verna]"But... you actually came to this world so you should have few magical powers"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「恐らくだが、既に作成されたポータルを、誤って起動させた……そんなところだろうな」
+[Verna]"Perhaps, the portal was already been made, and you \nstarted it by mistake... I wonder if that's the case"
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「……とは言っても、そのポータルを起動させる事自体にも、かなりの魔力が必要になるがな」
+[Verna]"...but, even though activating that portal itself, \na considerable amount of magical power is needed"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
 @huki b=2 id=3
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「おおよそ運良く……いや悪く、超強力な触媒でも持っていたんじゃないか？」
+[Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -102,65 +102,67 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「そうか……だが、そうとなると帰すのは容易じゃない。ポータルを作り、起動させること自体はこちらで何とかしよう」
+[Verna]"Is that so...?  However, It's not easy to return \nwhen becoming so. I can do something about creating \na portal and starting it"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「だが、ポータルを通過する際に、持っていかれる魔力まで補ってやることはできない」
+[Verna]"However, when passing through the portal, \nit's impossible for me to compensate for \nthe magical powers needed to cross it"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「通過の際に消費してしまう魔力は本人が支払うしかないからな。君だと、向こう側につく前に干物になるだろう」
+[Verna]"The magical power consumed when passing through \ncan only be paid by yourself. As now, you are going to \nbe frozen before you get to the other side"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「それこそ強力な触媒でも持っていない限り無理だ」
+[Verna]"That is impossible unless you have a strong catalyst"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「特に君の場合、もともとあちら側の生物だからな、こちらの魔力が馴染まない」
+[Verna]"Especially in your case, because you are originally \nfrom the other side so this Magical Power is not familiar"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「そもそもなぜそこまで強力な触媒がポータルのそばにあったのか……」
+[Verna]"To begin with, why was the powerful catalyst there, \nnear portal?"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「大方、どこぞの淫魔が罠のつもりでおいていったのかもしれないが」
+[Verna]"Probably it may be that some sort of devil set it \naside for a trap"
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「いち早くリリィに拾われたのは、幸運だったな」
+[Verna]"It was fortunate that Lily quickly picked you up"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「まぁ、今はなぜ来たかではなくどうやって帰るか、だな」
+[Verna]"So, now I do know why you came and how you can go home"
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「異界へ渡る魔法はそう難しい物でもない。が、確かに今まで特に深めていなかった分野だ」
+[Verna]"The magic to your world isn't so difficult either. \nIt's certainly a field that has not been deepened so far"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「魔力の乏しい人間を異界へ送るなどというものは、よほどの目的がない限り研究しがいの無い物だからな。研究を進めるうちに何かわかるかもしれんな」
+[Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose.
+
+[Verna]"We might not understand anything until we advance into the research."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「研究を進めれば、キミは帰れる……かもしれない。だから、私に協力して欲しい」
+[Verna]"If we proceed with the research, you can go home... maybe. \nSo, I want you to cooperate with me"
 
 @bs f=アル@笑顔 x=-350 y=50 t=300 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
 @wait t=200
 
-;;「はい！」
-;;「頑張ります！」
-@select s1=はい！/*st16a s2=頑張ります！/*st16b
+;;Yes!
+;;I_will_do_my_best!
+@select s1=Yes!/*st16a s2=I_will_do_my_best!/*st16b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st16a
 *st16b
@@ -171,7 +173,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-[ヴェルナ]「いい返事だ。では、早速協力してもらおうか」
+[Verna]"It is a good reply. Well, let's start immediatly"
 
 ;;主人公：うなずき
 @bs f=アル@笑顔 x=-350 y=50 t=400 wt=1
@@ -184,7 +186,7 @@
 @bs f=ヴェルナ@微笑 x=350 y=50 t=400 wt=1
 @bs f=アル@普通 x=-350 y=50 t=300 wt=1
 
-[ヴェルナ]「よろしい。では、キミの精を提供して欲しい。たっぷり……沢山ね」
+[Verna]"Good. Then, I want you to offer your sperm. Plenty... a lot"
 
 ;;主人公：疑問符
 @huki b=2
@@ -194,7 +196,7 @@
 @bs f=ヴェルナ@笑み x=350 y=50 t=400 wt=1
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 
-[ヴェルナ]「まぁ、ナニ。簡単な話さ、君は天井のシミを数えていればいい」
+[Verna]"Oh dear, eh. It is a simple story. \nYou only have to count the stain on the ceiling"
 
 ;;ヴェルナ:怪しい表情
 @bs f=ヴェルナ@蔑み x=350 y=50 t=600 wt=1
@@ -219,7 +221,7 @@
 @route route=down id=3
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「どうした？　急に怯えた様な顔をして……もしかして、私がサキュバスだから……怪しんでいるのか？」
+[Verna]"What happened? Suddenly frightened face... \nMaybe because I'm succubus... are you suspicious?"
 
 ;;主人公：怯え
 @fb dir=back wt=0
@@ -265,7 +267,7 @@
 @huki b=8 id=3 wt=1
 
 @move_f f=ヴェルナ@微笑 in=c t=400
-[ヴェルナ]「ふふ……逃がさないぞ」
+[Verna]"Fufu... do not escape"
 
 @fade type=out t=1000 wt=1
 
