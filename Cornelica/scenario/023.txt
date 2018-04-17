@@ -13,7 +13,11 @@
 @fade type=in t=3000
 
 @bs f=ヴェルナ@微笑
+<<<<<<< HEAD
 [Verna]"I'm aware of it"
+=======
+[Verna]"I'm aware of it."
+>>>>>>> upstream/master
 
 @se f=壁に「ドンッ」
 @move_f f=ヴェルナ@ out=c t=20 wt=0
@@ -37,7 +41,11 @@
 @huki b=8 id=3
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
+<<<<<<< HEAD
 [Verna]"Please do not be so frightened"
+=======
+[Verna]"Please do not be so frightened."
+>>>>>>> upstream/master
 
 ;;主人公：哀しい顔
 @huki b=7
@@ -47,7 +55,11 @@
 @bs f=アル@困り_頬 x=-350 y=50 t=100 wt=0
 @bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
 
+<<<<<<< HEAD
 [Verna]"Let's keep firmly the goal. \nA way for you to return to your world"
+=======
+[Verna]"Let's keep firmly the goal. \nA way for you to return to your world."
+>>>>>>> upstream/master
 
 ;;主人公：哀しい顔
 @huki b=8
@@ -56,7 +68,11 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
+<<<<<<< HEAD
 [Verna]"Dont' worry. Leave it to me"
+=======
+[Verna]"Dont' worry. Leave it to me."
+>>>>>>> upstream/master
 
 @bgm
 @fade type=out t=2000 wt=1
