@@ -30,7 +30,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=400 wt=1
 
-[Verna]"I'm glad"
+[Verna]"I'm glad."
 
 ;;主人公：うなずく
 @bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
@@ -64,7 +64,7 @@
 
 @bs f=ヴェルナ@笑み x=350 y=50 t=300 wt=1
 
-[Verna]"Fufu...It's a cute reaction"
+[Verna]"Fufu...It's a cute reaction."
 
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=200 wt=1
 
