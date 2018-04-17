@@ -1,5 +1,5 @@
 
 @mes_win back=1 pos=1
-\CLミフクラギの花を手に入れた！
+\CLMikhlagi Flower obtained!
 @mes_win back=0 pos=2
 
