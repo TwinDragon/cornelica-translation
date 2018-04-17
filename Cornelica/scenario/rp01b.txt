@@ -7,23 +7,23 @@
 @se f=衣擦れの音1
 @bgf bg=ev01 t=1000
 
-[アル]「……ぅ……？」
+[Al]"... ugh...?"
 
-[リリィ/rry0057]「あ……目を覚ました」
+[Lily/rry0057]"Ah... you're awake."
 
-[リリィ/rry0058]「……アル……チャームの魔力が溜まりすぎてたんだと思う。それで限界が来ちゃってって感じかな」
+[Lily/rry0058]"... Al... I think you accumulated too much Charm power.\nSo I guess, this is what it's like when you've hit your limit."
 
-[リリィ/rry0059]「それじゃあ、早速、アルの身体からチャームを抜かないと」
+[Lily/rry0059]"Well then, we need to get the charm out of your body,\nright away."
 
-[リリィ/rry0060]「チャームの量が少なめだったらキスだけでもなんとかなったんだろうけど、流石に量が多すぎるからね。Hで出してもらうことにしたの」
+[Lily/rry0060]"If the amount of charm was less even just a kiss could do\nsomething but, as you'd think there's too much.\nI'll get it out with sex."
 
-[リリィ/rry0061]「んふふ♪」
+[Lily/rry0061]"Mfufu ♪"
 
-　微笑むリリィの表情には淫靡な色が混ざっていた。
+　The smiling Lily's face was tinted with an indecent color.
 
 @se f=愛液1
 
-[リリィ/rry0062]「じゃあ……早速。いただきます♪」
+[Lily/rry0062]"Then... without delay. I'll have this.♪"
 
 ;;■CG01a
 ;;SE■挿入音
@@ -31,34 +31,34 @@
 @se f=挿入音
 @bgf bg=ev01a t=1000
 
-[リリィ/rry0066]「んあっ！　あっあっ……んはぁあああ……あっふ……んふううっ」
+[Lily/rry0066]"Nnh!　Aa-ah... nnhaaa... ahu... nnhuh"
 
 @se f=愛液1
 
-[リリィ/rry0067]「はぁんっ……やっぱりアルのおちんちん気持ちいい♪」
+[Lily/rry0067]"Haan... As I thought, your penis feels so good.♪"
 
 @se f=パイズリ・手コキ２ pitch=60
 
-[リリィ/rry0068]「んふうう…………あっあっ……んくっ……はふんんっ」
+[Lily/rry0068]"mmhuh...... aa-aah... mmku... haauun"
 
-[リリィ/rry0069]「それじゃあ、溜まりに溜まったチャームが全部抜けるように……い～っぱいおまんこしてあげる♪」
+[Lily/rry0069]"Well, to rid of all the charm that's accumulated in you...\nI'll do you a bunch with my pussy.♪"
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50 wt=0
 
-[リリィ/rry0070]「はぁっはぁっはぁっ……どう？　気持ちいい？　私の膣内……感じる？」
+[Lily/rry0070]"Haa hauh haa... How is it? Does if feel good?\nDo you feel... my insides?"
 
 @se f=パイズリ・手コキ１ pitch=150
 
-[アル]「んぅっ！　……ぁあああ！」
+[Al]"Nnh!　Aahhhh!"
 
-[リリィ/rry0071]「返事をする余裕もないか。んふふ、おちんちんが溶けちゃいそうなくらい感じてるって感じだね。あふぅう……」
+[Lily/rry0071]"So good you can't reply, huh.\nEhehe, you'd say it feels like your penis is\nabout to melt, right. Ahua.."
 
 @se f=愛液1
 
-[リリィ/rry0072]「本当に気持ち良さそう。膣中でおちんちんが震えてるのが分かる。ビクビクが伝わって来てるよ。んっ……んはぁあああ……」
+[Lily/rry0072]"Looks like it really feels great. I can feel your penis\ntwitching inside. The spasme are transferring to me.\n Aaha... nghaaa..."
 
-[リリィ/rry0073]「……それじゃあ、まず一回♪」
+[Lily/rry0073]"... Now then, first, once.♪"
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -67,37 +67,37 @@
 @bgv wt=0
 @fin se=射精音 bg=ev01b
 
-[リリィ/rry0074]「んっは！　あふあっ！　あっあっあっあっあっ！」
+[Lily/rry0074]"nnAah! Afua! Ah-ah-ah-ah-aah!"
 
 @se f=パイズリ・手コキ１ pitch=50
 
-[リリィ/rry0075]「いっぱい出たね♪　……でも、まだまだチャームは溜まってるから……今日は、寝かせてあげない♪」
+[Lily/rry0075]"A lot came out, right.♪　...\nBut, since there's still some charm accumulated...\nToday, I won't let you sleep.♪"
 
 ;;SE■ピストン音
 @bgv f=パイズリ・手コキ２ pitch=80 wt=0
 @bgf bg=ev01b_1 t=1000
 
-[リリィ/rry0076]「んっは！　あふあっ！　あっあっあっあっあっ！　あんんんっ！」
+[Lily/rry0076]"nnha! Ahha! Ah-ah-ah-uh-ah! Ahnnn!"
 
 @se f=愛液1
 
-　精液濡れの肉壺でペニス全体が、ぐっじゅぐっじゅと擦り上げられている。
+　With my whole penis in her fleshy hole dripping with semen,\nsquelching sounds resounded as she increased the rubbing.
 
 @se f=パイズリ・手コキ１ pitch=150
 
-[リリィ/rry0077]「どう？　サキュバスの……やわらかぁい子宮で吸われるの……すっごくきもちいいでしょ？」
+[Lily/rry0077]"How is it? Being sucked on by a succubus's soft uterus...\nfeels incredibly good, right?"
 
 @se f=愛液1
 
-[リリィ/rry0078]「んふうう……くふんっ……あはぁ……わたしも、きもちぃぃ……」
+[Lily/rry0078]"Nnnhh... kuhn... aaaha... I feel good, too..."
 
 @se f=パイズリ・手コキ１ pitch=50
 
-[リリィ/rry0079]「んっ……んっ……あっ……はっ……おちんちんが……びくびくってしてきたぁ♪」
+[Lily/rry0079]"Nnh... nn-... ah... ha... Your penis... just twitched.♪"
 
 @se f=愛液1
 
-[リリィ/rry0080]「……だして♪　さっきよりもいっぱいの精液を……だして♪」
+[Lily/rry0080]"... Let it out.♪　Even more semen than before... let it out.♪"
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -106,21 +106,21 @@
 @bgv wt=0
 @fin se=射精音 bg=ev01g
 
-[リリィ/rry0081]「あっは……んはっ……はふぁあああっ！　あっあっあっあっ……んふうううっ♪」
+[Lily/rry0081]"Ahha... nnha... Aaaaah! Ah-ah-ah-ahh... nnnfuuh ♪"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-　ドビュドビュと白濁液を流し込む。
+　The hazy white liquid spurts in.
 
-[リリィ/rry0082]「あんっ……ふふ……全部、飲み込んであげる。私の膣中に……あったかい。これ……気持ちいい♪」
+[Lily/rry0082]"Aahn... Fufu...  I'll swallow, all of it.\nMy insides... so warm. This... feels great.♪"
 
 @se f=愛液1
 
-[リリィ/rry0083]「あぁぁ……熱い汁が……これ……私も……んんっ！　ああ……イクのっ！　イクイク――射精されて……びゅるびゅるされて……」
+[Lily/rry0083]"Aaah... Hot juice is-... This-... Me too... nnh!\n Aah... cumming! I'll cum, cum――being ejaculated inside...\nit spurting into me..."
 
 @fin se=射精音 bg=black
 
-　心地良い虚脱感に全身が包み込まれ、次第に瞼が落ちていく……。
+　My whole body is wrapped in a comfortable lethargy,\nand my eyelids fall as a result...
 
 ;;暗転
 
@@ -129,5 +129,4 @@
 @fade type=in t=1000 wt=1
 
 ;;===============================================================================
-
 
