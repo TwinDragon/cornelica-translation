@@ -1,6 +1,6 @@
 
 @mes_win back=1 pos=1
-\CLClosed for the day. \nSake is out of stock.
+\CLClosed today due to running out of alcohol.
 @mes_win back=0 pos=2
 
 @fb dir=back
