@@ -9,7 +9,7 @@
 @se f=Item1
 
 @mes_win back=1 pos=1
-\CL I got the water in the water bottle.
+\CL Filled the jug with water.
 @mes_win back=0 pos=2
 
 @move_speed spd=3
@@ -53,7 +53,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 ;;=======================================
 
-@select s1=What_is_it?/*st03a s2=A_shiny_stone?/*st03b
+@select s1=What's_that?/*st03a s2=A_glowing_stone?/*st03b
 
 *st03a
 *st03b
@@ -100,4 +100,3 @@
 @fade type=out t=250 wt=1
 
 @rps
-

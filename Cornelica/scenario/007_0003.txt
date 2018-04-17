@@ -19,7 +19,7 @@
 @bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@笑顔 op=音符  body=-1 face=0 x=350 y=50 t=200
-[Lily]"If you don't understand, I will tell you again, \nso please ask anytime ♪"
+[Lily]"If you don't remember, I'll tell you again, so please\ntalk to me at that time. ♪"
 
 @bgm
 
@@ -37,4 +37,3 @@
 @bs
 
 @bgm f=b-008
-

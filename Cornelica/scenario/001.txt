@@ -1,4 +1,4 @@
-;;■01
+﻿;;■01
 
 @bg f=black
 @fade type=in t=20 wt=1
@@ -6,6 +6,7 @@
 @bgm f=s-001
 
 @mes_win back=1 pos=1
+
 \CL\A \{Sex demon\}, the -Succubus- is,
 
 \CL\a \{fantastical\} being that lives by \{sucking\} human \{semen\}.
