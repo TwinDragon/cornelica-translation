@@ -118,7 +118,7 @@ ADV_System.prototype.initialize = function() {
 	
 	//改行文字数
 	//this.VIEW_TEXT_NUM = 27;
-	this.VIEW_TEXT_NUM = 31;
+	this.VIEW_TEXT_NUM = 120;
 	// ウィンドウサイズ分ずらす
 	//this.SPACE_AJASUTO = "　　　　";
 	this.SPACE_AJASUTO = "　　　";
