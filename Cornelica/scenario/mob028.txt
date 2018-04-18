@@ -2,6 +2,6 @@
 
 [Sister Succubus]"There are humans in this world too, ya know."
 
-[Sister Succubus]"It seems there's a village of guys that escaped after being kidnapped by Succubi..."
+[Sister Succubus]"It seems there's a village of guys that escaped after\nbeing kidnapped by Succubi..."
 
 [Sister Succubus]"I wonder where they're living, exactly?"
