@@ -9,17 +9,17 @@
 
 @huki b=3 id=62
 
-[教師]「ふふ♪　今日はありがとう。助かったわ」
+[Teacher]"Fufu♪ Thank you for today. I was saved."
 
 @huki b=3 id=62
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教師]「はい。これお礼」
+[Teacher]"Here, thank you"
 
 @se f=Coin
 @mes_win back=1 pos=1
-\CL2000Gを受け取った！
+\CLI received the 2000G!
 @mes_win back=0 pos=2
 
 @move_f f=サキュバス先生@ face=0 out=c t=150 wt=1

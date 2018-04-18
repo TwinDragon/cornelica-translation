@@ -7,7 +7,7 @@
 @huki b=2 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[アルネ]「こんにちわッス！　今日はバイトしていくッスか？」
+[Arne]"Hello! Are you going to do some part-time work today?"
 
 ;;---------------------------------------------------------
 

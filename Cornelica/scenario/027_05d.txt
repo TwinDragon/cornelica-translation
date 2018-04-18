@@ -11,13 +11,13 @@
 @move f=サキュバス先生@01 x=0 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「ふふ……また来たの？」
+[Teacher]"Fufu... did you come again?"
 
 @huki b=2 id=62
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「ねぇ、良かったらまたバイトをしない？」
+[Teacher]"Hey, would you do some part-time work again, \nif you do not mind?"
 
 ;;---------------------------------------------------------
 

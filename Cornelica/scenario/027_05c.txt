@@ -4,16 +4,16 @@
 ;;---------------------------------------------------------
 ;;学校：受ける受けない
 
-@select s1=受ける/*code01 s2=やめておく/*code02
+@select s1=Accept/*code01 s2=Refuse/*code02
 ;;++++++++++++++++++++++++++++++++++
-;;受ける
+;;受ける Accept
 *code01
 
 @huki b=3 id=62
 @move f=サキュバス先生@01 x=0 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「よし、決まりね！　それじゃあ私と一緒に教室に行きましょうか」
+[Teacher]"Alright, is decided! \nWell then shall follow me to the classroom"
 
 @bgm
 @se f=Move1
@@ -24,14 +24,14 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end01
 ;;++++++++++++++++++++++++++++++++++
-;;受けない
+;;受けない Refuse
 *code02
 
 @huki b=8 id=62
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「そう。それなら仕方ないわね。まぁでも、気が向いたらよろしくね」
+[Teacher]"So. Then it can not be helped. \nWell however, if you feel like it, thank you"
 
 @move_f f=サキュバス先生@ face=0 out=c t=150 wt=1
 @bs

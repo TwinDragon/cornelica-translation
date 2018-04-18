@@ -11,18 +11,18 @@
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
 
-[教員]「あらアル君。今日はもう帰る？」
+[Teacher]"Mr. Al. Are you going home today?"
 
-@select s1=帰る/*code01 s2=帰らない/*code02
+@select s1=Going_Home/*code01 s2=Remain/*code02
 ;;++++++++++++++++++++++++++++++++++
-;;帰る
+;;帰る Going_Home
 *code01
 
 @huki b=8 id=1
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「そう……もう少しいて欲しいけど、無理強いはできないものね」
+[Teacher]"So... I want you to remain a bit more, \nbut it can be force it"
 
 @move_f f=サキュバス先生@ face=0 out=c t=150 wt=1
 @bs
@@ -30,20 +30,20 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end01
 ;;++++++++++++++++++++++++++++++++++
-;;帰らない
+;;帰らない Remain
 *code02
 
 @huki b=3 id=1
 @move f=サキュバス先生@01 x=0 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「ふふ、私もそうしてもらえると嬉しいわ。皆、アル君のこと気に入ってるみたいだし♪」
+[Teacher]"Fufu, I will be happy if you do so. so, It seems you like it♪"
 
 @huki b=3 id=1
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「別に、ずっとここにいてくれてもいいのよ？　みんな大事にしてくれると思うわ♪」
+[Teacher]"Although, you can stay here forever? I think that everyone wants it♪♪"
 
 @move_f f=サキュバス先生@ face=0 out=c t=150 wt=1
 @bs

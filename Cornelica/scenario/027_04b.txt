@@ -1,14 +1,14 @@
 ;;======================================================
 ;;道具屋でアルバイト
 
-@select s1=受ける/*code01 s2=やめておく/*code02
+@select s1=Accept/*code01 s2=Refuse/*code02
 ;;---------------------------------------------------------
-;;受ける
+;;受ける Accept
 *code01
 
 @bs f=アルネ@淫靡
 
-[アルネ]「ふふ、それじゃあ早速ッスけど、こっちの部屋に来てほしいッス」
+[Arne]"Fufu, well let's start then, \nbut I want you to come in this room"
 
 @se f=Move1
 @fade type=out t=500
@@ -23,12 +23,12 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=end01
 ;;---------------------------------------------------------
-;;受けない
+;;受けない Refuse
 *code02
 
 @bs f=アルネ@困惑
 
-[アルネ]「んー！　それは残念ッスねぇ……まぁ、いつでも募集してるんで気が変わったら言って欲しいッス」
+[Arne]"Hmm! That's disappointing... oh dear, \nI'm always looking for people, \nso please if you change your mind"
 
 @move_f f=アルネ@ out=c t=200 wt=1
 @bs

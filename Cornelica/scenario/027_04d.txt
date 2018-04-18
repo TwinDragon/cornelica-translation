@@ -33,11 +33,11 @@
 @bs f=アルネ@笑み x=350 y=50 t=200
 @bs f=アル@困り_頬 x=-350 y=50 t=200
 
-[アルネ]「凄くいいテストだったッス。これもお客様のお陰ッス。だからバイト料も弾ませてもらったッスよ」
+[Arne]"It was a great test. This is also thanks to your help. \nThat's why your part-time is encourage"
 
 @se f=Coin
 @mes_win back=1 pos=1
-\CL1000Gを受け取った！
+\CLI received 1000 G!
 @mes_win back=0 pos=2
 
 ;;主人公：（赤面）困惑
@@ -46,7 +46,7 @@
 
 @bs f=アルネ@淫靡 x=350 y=50 t=200
 
-[アルネ]「また手が空いてる時にでもお願いするッス」
+[Arne]"Ask me again when you are empty handed"
 
 @huki b=7
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=600
@@ -54,7 +54,7 @@
 
 @bs f=アルネ@笑み x=350 y=50 t=200
 
-[アルネ]「どうしたッスか？」
+[Arne]"What is the matter?"
 
 ;;主人公：困惑
 @huki b=1

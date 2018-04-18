@@ -10,27 +10,27 @@
 @move f=サキュバス先生@01 x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「あら？　リリィちゃんじゃない♪　久しぶりね」
+[Teacher]"Ah?　It is not Lily-chan♪　Long time no see, eh"
 
 @bs f=リリィ@笑顔 x=350 y=50 t=200
 
-[リリィ]「こんにちは♪」
+[Lily]"Hello♪"
 
 @huki b=3 id=62
 @move f=サキュバス先生@01 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「ふふふ♪　少し見ないうちにリリィちゃんもワンステップ大人の階段を上っていたのね」
+[Teacher]"Fufu♪ Lily is becoming and adult step by step I see"
 
 @bs f=リリィ@焦り op=焦り x=350 y=50 t=200
 
-[リリィ]「えっ、あっ！　違うの！　アルはそうじゃなくて……！」
+[Lily]"Eh, ah! It's wrong! Al is not like that"
 
 @huki b=3 id=62
 @move f=サキュバス先生@01 x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[教員]「あらあら♪　別に恥ずかしがることじゃないのに」
+[Teacher]"Oh dear♪　It's nothing to be shy about"
 
 @huki b=7 id=AC0
 @bs f=リリィ@焦り op=焦り x=350 y=50 t=400
