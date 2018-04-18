@@ -8,7 +8,7 @@
 @move_f f=ヴェルナ@微笑 in=c t=150 wt=1
 
 ;;-->同じ
-[ヴェルナ]「分析には、もう少し時間がかかる。そうだな……また明日にでも来なさい」
+[Verna]"Analysis takes a little more time. \nThat's right... Please come back tomorrow."
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 

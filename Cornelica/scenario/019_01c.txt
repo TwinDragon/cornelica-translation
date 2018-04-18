@@ -10,7 +10,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「あっ……アル！」
+[Lily]"Ah...Al!"
 
 ;;ヴラスタに引き摺られるアル
 @bs f=アル@焦り op=ビックリ body=-1 face=0 x=-350 y=50 t=200
@@ -72,7 +72,7 @@
 
 @move_f f=メイド@怒り_赤 in=c t=300
 
-[ヴラスタ]「危険除去完了。これでしばらく危険は無いと判断。対象を解放」
+[Vlasta]"Danger removal completed. It's judged that \nhe's no longer a threat. Release target."
 
 @move_f f=メイド@ out=c t=300
 

@@ -1,6 +1,6 @@
 
 @mes_win back=1 pos=1
-\CL※ここは回想部屋です。そてぞれのクリスタルを調べるとヒントが表示されます。ネタバレ注意!!
+\CL※This is a Reminiscent room. \nHints are displayed when examining each crystal. \nSpoiler Alert!!
 @mes_win back=0 pos=2
 
 

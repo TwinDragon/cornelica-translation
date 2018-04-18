@@ -11,7 +11,7 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 ## To Do List
 
-- [ ] Menu Translation
+- [x] Menu Translation
 - [ ] Initial Translation
 - [ ] Convert Machine to readable English
 - [ ] Quality Check
@@ -20,7 +20,7 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 ## Want to Contribute?
 
-If you want to contribute to the project, have a look at the file for [Contributing](https://github.com/TwinDragon/cornelica-translation/blob/master/CONTRIBUTING.md) to the repo. It's pretty easy and self-explanatory.
+If you want to contribute to the project, have a look at reading on how to [Contribute](https://github.com/TwinDragon/cornelica-translation/blob/master/CONTRIBUTING.md) to the repo. It's pretty easy and self-explanatory.
 
 # People
 

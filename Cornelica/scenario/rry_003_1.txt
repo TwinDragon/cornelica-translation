@@ -60,7 +60,7 @@
 
 @bs f=リリィ@微笑
 
-[Lily]"It's a bit deep here, \nso let's move a little bit"
+[Lily]"It's a bit deep here, \nso let's move a little bit."
 
 @jump target=*end01
 ;;====================================================================
@@ -69,7 +69,7 @@
 
 @bs f=リリィ@微笑 op=音符
 
-[Lily]"For the time being, where do I live now? \nI'm living in the bottom part of the Franca Ward"
+[Lily]"For the time being, where do I live now? \nI'm living in the bottom part of the Franca Ward."
 
 @jump target=*end01
 ;;====================================================================
@@ -95,7 +95,7 @@
 
 @bs f=リリィ@微笑
 
-[Lily]"When going to the right from the center of Franca Ward, \nyou can see her pavilion"
+[Lily]"When going to the right from the center of Franca Ward, \nyou can see her pavilion."
 
 @jump target=*end01
 ;;====================================================================
@@ -104,7 +104,7 @@
 
 @bs f=リリィ@笑顔 op=音符
 
-[Lily]"Sneak into the backdoor without permission... \nI am excited♪♪♪"
+[Lily]"Sneak into the back door without permission... \nI am excited♪♪♪"
 
 @jump target=*end01
 ;;====================================================================
@@ -117,7 +117,7 @@
 
 @bs f=リリィ@蔑み
 
-[Lily]"We have to try not to be caught"
+[Lily]"We have to try not to be caught."
 
 @jump target=*end01
 ;;====================================================================
@@ -126,7 +126,7 @@
 
 @bs f=リリィ@笑顔
 
-[Lily]"Verna was said tomorrow too... \nfor now let's go home and rest"
+[Lily]"Verna was said tomorrow too... \nfor now let's go home and rest."
 
 @jump target=*end01
 ;;====================================================================
@@ -135,11 +135,11 @@
 
 @bs f=リリィ@哀しみ op=ハテナ
 
-[Lily]Analysis is over already...? \nLet's go to Verna's house for the time being"
+[Lily]Analysis is over already...? \nLet's go to Verna's house for the time being."
 
 @bs f=リリィ@微笑
 
-[Lily]"Al, I wish you could return home"
+[Lily]"Al, I wish you could return home."
 
 @jump target=*end01
 ;;====================================================================
@@ -148,11 +148,11 @@
 
 @bs f=リリィ@通常
 
-[Lily]"Ehm...sure. Verna said \C[2]Slime core\C[0] and \C[2]Teona Mushroom\C[0]"
+[Lily]"Ehm...sure. Verna said \C[2]Slime core\C[0] and \C[2]Teona Mushroom\C[0]."
 
 @bs f=リリィ@微笑
 
-[Lily]"\C[2]Slime core\C[0] can be bought at the Tool Store.\nThe \C[2]Teona Mushroom\C[0] can be found in the Hilberta Forest"
+[Lily]"\C[2]Slime core\C[0] can be bought at the Tool Store.\nThe \C[2]Teona Mushroom\C[0] can be found in the Hilberta Forest."
 
 @jump target=*end01
 ;;====================================================================
@@ -161,11 +161,11 @@
 
 @bs f=リリィ@哀しみ
 
-[Lily]"Ehm...sure. Verna said \C[2]Mandragora's purple root\C[0] \nand \C[2]Miasma stone\C[0]"
+[Lily]"Ehm...sure. Verna said \C[2]Mandragora's purple root\C[0] \nand \C[2]Miasma stone\C[0]."
 
 @bs f=リリィ@微笑
 
-[Lily]"\C[2]Mandragora's purple root\C[0] can be bought at the bar. \n\C[2]Miasma stone\C[0] can be found in the \nDeepset Part of Hilberta Forest"
+[Lily]"\C[2]Mandragora's purple root\C[0] can be bought at the bar. \n\C[2]Miasma stone\C[0] can be found in the \nDeepset Part of Hilberta Forest."
 
 @jump target=*end01
 ;;====================================================================
@@ -174,11 +174,11 @@
 
 @bs f=リリィ@困惑 op=困惑
 
-[Lily]"Ehm...sure. Verna said \C[2]Baromets' brass hair\C[0] \nand \C[2]Mifukuragi flower\C[0]"
+[Lily]"Ehm...sure. Verna said \C[2]Baromets' brass hair\C[0] \nand \C[2]Mifukuragi flower\C[0]."
 
 @bs f=リリィ@通常
 
-[Lily]"\C[2]Baromets' brass hair\C[0] can be bought at the Cloth Store.\nThe \C[2]Mifukuragi flower\C[0] can be found in the Hilberta Forest"
+[Lily]"\C[2]Baromets' brass hair\C[0] can be bought at the Cloth Store.\nThe \C[2]Mifukuragi flower\C[0] can be found in the Hilberta Forest."
 
 @bs f=リリィ@哀しみ
 

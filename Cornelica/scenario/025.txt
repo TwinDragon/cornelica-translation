@@ -18,7 +18,7 @@
 @huki b=6 id=5
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「……はぁ。今日は、色々あって疲れちゃったね」 
+[Lily]".... Today, I got tired from various things."
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
@@ -35,12 +35,12 @@
 @huki b=8 id=5
 @bs f=リリィ@通常 x=350 y=50 t=200 wt=1
 
-[リリィ]「ヴェルナって、最初はどんな人かと思ったけど、結構優しい人なのかな。勝手に屋敷に入っちゃったけど、特に何も言われなかったし……」 
+[Lily]"I thought what kind of person is Verna at the beginning, \nbut she's a pretty lady. We entered the mansion without \npermission, but she didn't say anything in particular..."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「それに、アルのこと手伝ってくれるっていうし、もしかしたらすごい魔女なのかも。なんだか憧れちゃうなぁ………」 
+[Lily]"Besides that she will help me with Al and she is \na wonderful witch. She will adore you somehow..."
 
 @bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -51,7 +51,7 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=200 wt=1
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[リリィ]「ヴェルナは明日また来てって言ってたし、今日はもう休んじゃおうか」 
+[Lily]"We was told from Verna to come again tomorrow, \nso let's rest for the day."
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -82,7 +82,7 @@
 
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
 
-[リリィ]「それじゃ、アル♪　いっしょに寝よっ♪」
+[Lily]"Well then, Al♪　Sleeping together♪"
  
 @bs f=アル@屈辱_頬 op=焦り x=-350 y=50 t=400 wt=1
 @wait t=300

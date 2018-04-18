@@ -37,7 +37,7 @@ BadEnd-02：New Mama
 @ev f=ev10d_1
 @fade type=in t=2000 wt=1
 
-BadEnd-03：燃料精製装置
+BadEnd-03：Semen Fuel Production Equipment
 
 @jump target=*selection001
 ;;========================================

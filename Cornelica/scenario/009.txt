@@ -13,7 +13,7 @@
 
 @move f=リリィ@蔑み x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[Lily]"Grrr..."
+[Lily]"grr..."
 
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 

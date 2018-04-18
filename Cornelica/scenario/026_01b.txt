@@ -4,7 +4,7 @@
 
 @fade type=out t=1000 wt=1
 
-[ヴェルナ]（さて……そろそろ解除するか……）
+[Verna]（Well...it's about time to cancel...）
 @anime num=224 wt=1
 
 @rps
@@ -30,7 +30,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=400 wt=1
 
-[ヴェルナ]「よかったな」
+[Verna]"I'm glad."
 
 ;;主人公：うなずく
 @bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600 wt=1
@@ -46,7 +46,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「だが……実は少し女の身体にも未練があるんじゃないか？」
+[Verna]"But... actually, is there something wrong \nwith the body of the woman?"
 
 ;;主人公：驚く
 @bs f=アル@驚き_頬 op=ビックリ x=-350 y=50 t=200 wt=1
@@ -64,11 +64,11 @@
 
 @bs f=ヴェルナ@笑み x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「ふふ、可愛い反応だな……」
+[Verna]"Fufu...It's a cute reaction."
 
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=200 wt=1
 
-[ヴェルナ]「女の身体でヤリたくなったらいつでもここに来ればいい。ふふ、楽しみにしているぞ？」
+[Verna]"You can come here whenever you want to worry about the \nbody of a woman. Fufu, you are looking forward to it?"
 
 ;;主人公：困惑
 @huki b=7
@@ -136,12 +136,12 @@
 
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=200 wt=1
 
-[リリィ]「あっ、戻ってきた！」
+[Lily]"Oh, you came back!"
 
 @bs f=アル@困り_頬 x=-350 y=50 t=300 wt=1
 @bs f=リリィ@哀しみ x=350 y=50 t=300 wt=1
 
-[リリィ]「アル……！　もー！　心配したよ？」
+[Lily]"Al! Muu! I was worried!"
 
 ;;主人公：哀しい顔
 @bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1
@@ -150,7 +150,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ  x=350 y=50 t=200
 
-[リリィ]「体……大丈夫……？」
+[Lily]"Are...you ok?"
 
 ;;主人公：赤面：慌てる
 @huki b=1
@@ -171,7 +171,7 @@
 
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「そ、そう……？　大丈夫ならいいけど……」
+[Lily]"So...? It's okay if it's okay..."
 
 @se f=Move1
 @bgm

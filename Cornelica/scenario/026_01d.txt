@@ -24,7 +24,7 @@
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
 ;;■魔女の館
-[ヴェルナ]「実に良かった。またしたくなったらいつでも来るがいい」
+[Verna]"It was really good. \nIf you want to come again, you can come any time"
 
 ;;主人公：焦る（赤面）
 @bs f=アル@屈辱_頬 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -98,14 +98,14 @@
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=200 wt=1
 
 ;;リリィいる場合
-[リリィ]「あっ、戻ってきた！」
+[Lily]"Oh, you came back!"
 
 @bs f=アル@困り_頬 x=-350 y=50 t=300 wt=1
 
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ x=350 y=50 t=300 wt=1
 
-[リリィ]「もぅ、アルったら……！　これに懲りたら変なものに触っちゃダメだよ？」
+[Lily]"Already, I was saying Al! Are you discouraged by this to don't touch strange things?"
 
 ;;主人公：哀しい顔
 @bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1

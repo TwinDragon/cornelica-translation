@@ -3,7 +3,7 @@
 
 ;;コマンド選択時：夜含む
 
-[Lily]"Fufufu ♪ Not a kiss, you want to have sex...?"
+[Lily]"Fufufu ♪\nNot a kiss, you want to have sex...?"
 
 ;;暗転
 
