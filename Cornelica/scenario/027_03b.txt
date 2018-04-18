@@ -7,7 +7,7 @@
 @huki b=2 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[アルネ]「おやお客さん。お久しぶりッス！　いやぁ～今日もお供付きッスか！　見せつけてくれるッスねぇ♪」
+[Arne]"Oh my gosh. Long time no see! \nWow ~ You're accompanied by him today too? \nWay to show off ♪♪"
 
 @move_f f=アルネ@ out=c t=150
 
