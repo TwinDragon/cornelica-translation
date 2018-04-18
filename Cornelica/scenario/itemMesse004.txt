@@ -1,5 +1,5 @@
 
 @mes_win back=1 pos=1
-\CLツキウツシの花を手に入れた！
+\CLMoon's Reflection Flower obtained!
 @mes_win back=0 pos=2
 

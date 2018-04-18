@@ -1,5 +1,5 @@
 ;;■01
 
-[ヴラスタ]「警備中デス」
+[Vlasta]"I AM PROVIDING SECURITY."
 
-[ヴラスタ]「マスターハ、二階ニオリマス」
+[Vlasta]"THE MASTER IS, ON THE SECOND FLOOR."

@@ -1,6 +1,6 @@
 ;;■01
 
-[シスターサキュバス]「あら、入信希望者ですか？　ここはどのような方でも受け入れますよ」
+[Sister Succubus]"Oh my, are you hoping to join the faith?\nWe accept any kind of person here."
 
 
 

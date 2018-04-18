@@ -1,6 +1,6 @@
 
 @se f=パイズリ・手コキ３ pitch=80
 
-[サキュバス]「おいおい注文と違うぞ？　あたしの気を引きたいなら直接言いな♪」
+[Succubus]"Hey, hey, that wasn't the order, you know?\nIf you want my attention, tell me directly.♪"
 
 @se
