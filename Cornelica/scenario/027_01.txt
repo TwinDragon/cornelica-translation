@@ -1,12 +1,12 @@
 ;;===============================================================================
 ;;　魔女の館：ヴェルナと話す
-;; Witch's House: Talk with Verna
+
 ;;---------------------------------------------------------------------
 
 @huki b=2 id=2
 @move_f f=ヴェルナ@微笑 in=c t=150 wt=1
 
-[Verna]"What? What happened?"
+[ヴェルナ]「ん？　どうした？」
 
 @variables id=108 val=0 type=0 calc=0
 ;;---------------------------------------------------------------------
@@ -23,7 +23,7 @@
 ;;===============================================================================
 *mission001
 
-@select s1=Where_we_can_find_'Slime_Core'?/*code001 s2=Where_we_can_find_'Teona_Mushroom'?/*code002 s3=Small_talk/*eventCode
+@select s1=『スライムコア』が入手できる場所を教えて/*code001 s2=『テオナ茸』が入手できる場所を教えて/*code002 s3=世間話をする/*eventCode
 ;;---------------------------------------------------------------------
 ;; スライムコア
 *code001
@@ -31,16 +31,16 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み
 
-[Verna]"Where it's likely to find a 'Slime Core'..."
+[ヴェルナ]「スライムコアがありそうな場所か……」
 
 @bs f=ヴェルナ@通常
 
-[Verna]"Traditionally it's processing the slime alive, but..."
+[ヴェルナ]「従来はスライムを生け捕りにして加工するものだが……」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑
 
-[Verna]"Because it is raw material for lotion, \na tool store should have it"
+[ヴェルナ]「ローションの原料だからな。道具屋辺りが持っているはずだ」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -51,17 +51,17 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"'Teona mushroom'..."
+[ヴェルナ]「テオナ茸……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"This should be found in the Forest of Hilveda"
+[ヴェルナ]「これは、ヒルベダの森で採れるはずだ」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"But be careful when collecting it, ok? \nIt spurs spurious spores."
-;;What? It's a tongue twister?
+[ヴェルナ]「だが、採取するときは気を気を付けろ？　痺れ作用のある胞子を噴出するからな」
+
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
 ;;---------------------------------------------------------------------
@@ -72,7 +72,7 @@
 ;;===============================================================================
 *mission002
 
-@select s1=Where_we_can_find_'Mandragora's_purple_root'?/*code003 s2=Where_we_can_find_'Miasma_stone'?/*code004 s3=Small_talk/*eventCode
+@select s1=『マンドラゴラの紫根』が入手できる場所を教えて/*code003 s2=『ミアスマ石』が入手できる場所を教えて/*code004 s3=世間話をする/*eventCode
 ;;---------------------------------------------------------------------
 ;;マンドラゴラの紫根
 *code003
@@ -80,16 +80,16 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Where is Mandragora's purple root? ..."
+[ヴェルナ]「マンドラゴラの紫根がある場所か……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"Because it's a special material, \nobtaining natural products is difficult"
+[ヴェルナ]「特殊な素材だからな、天然物の入手は難しいだろう」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み
 
-[Verna]"Oh dear, because this one is used to cook, \nI think that you can find it at the bar"
+[ヴェルナ]「まぁ、料理にも使われるものだからな。酒場になら置いてあると思うぞ」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -100,20 +100,20 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Miasma stone?..."
+[ヴェルナ]「ミアスマ石か……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"This can be obtained in the Hilveda Forest"
+[ヴェルナ]「これはヒルベダの森で入手できる」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"However, It will be a bit out of place. \nWhen going to take it make sure to be in perfect condition"
+[ヴェルナ]「ただ、少し奥地になるが……。取りに行くときは万全な状態で臨むことだ」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"The deepest parts of that forest are poisonous"
+[ヴェルナ]「あの森の奥地は瘴気が湧いているからな」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -124,7 +124,7 @@
 ;;===============================================================================
 *mission003
 
-@select s1=Where_we_can_find_'Barometsu's Golden Hair'?/*code005 s2=Where_we_can_find_'Mifukuragi flower'?/*code006 s3=Small_talk/*eventCode
+@select s1=『バロメッツの金毛』が入手できる場所を教えて/*code005 s2=『ミフクラギの花』の花が入手できる場所を教えて/*code006 s3=世間話をする/*eventCode
 ;;---------------------------------------------------------------------
 ;;バロメッツ金毛
 *code005
@@ -132,16 +132,16 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Barometsu's golden hair..."
+[ヴェルナ]「バロメッツの金毛……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"It's often used mainly as materials for clothing"
+[ヴェルナ]「主に衣服の素材に使われることが多い」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み
 
-[Verna]"If you go to a clothing store, \nyou'd definitely found it"
+[ヴェルナ]「被服屋なら、まず間違いなく持っているだろう」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -152,11 +152,11 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Mifukuragi's flower..."
+[ヴェルナ]「ミフクラギの花か……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"This is native to any part of the Hilveda Forest"
+[ヴェルナ]「これはヒルベダの森ならどこにでも自生している」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -164,7 +164,7 @@
 
 ;;===============================================================================
 *mission004
-@select s1=Where_we_can_find_'Flower of Tsukushi'?/*code007 s2=Where_we_can_find_'Moriyu grass'?/*code008 s3=Small_talk/*eventCode
+@select s1=『ツキウツシの花』が入手できる場所を教えて/*code007 s2=『モリユ草』が入手できる場所を教えて/*code008 s3=世間話をする/*eventCode
 
 ;;---------------------------------------------------------------------
 ;;モリユ草
@@ -173,11 +173,11 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Moriyu grass..."
+[ヴェルナ]「モリユ草か……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"That's right... it can be taken around the school. \nI recently heard that's \na trouble with it breeding naturally"
+[ヴェルナ]「そうだな……学舎辺りで取れるはずだ。最近、自然繁殖して困っていると聞いたからな」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -188,15 +188,15 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"The flower of Tsukshushi?
+[ヴェルナ]「ツキウツシの花か……」
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"This is a special plant that blooms only at night. \nIf you get it, it's night."
+[ヴェルナ]「これは夜にのみ花を咲かせる特殊な植物だ。手に入れるなら夜だな」
 
 @bs f=ヴェルナ@笑み
 
-[Verna]"This can be obtained in \nthe interior of the Hilveda Forest"
+[ヴェルナ]「これはヒルベダの森の奥地で入手することができる」
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -222,18 +222,18 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"What happened? What is your errand today?"
+[ヴェルナ]「どうした？　今日はなんの用事だ？」
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@考える x=350 y=50 t=300 wt=1
 
-[Verna]"Especially... it doesn't seem to be something"
+[ヴェルナ]「特に何か……といったわけじゃなさそうだな」
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-[Verna]"Fufu, just right. I also had something \nI wanted to talk to you"
+[ヴェルナ]「ふふ、丁度いい。私も君に相談したいことがあったんだ」
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=600 wt=1
@@ -241,7 +241,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=300 wt=1
 
-[Verna]"Actually. I am running short of samples for research. \nSo I would like to ask for your cooperation. \nDo you mind?"
+[ヴェルナ]「実はな。研究用のサンプルが不足しているんだ。だからその協力をキミにお願いしたい。構わないかな？」
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -256,8 +256,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[Verna]"Fufufu. I have to come"
-
+[ヴェルナ]「ふふふ。そう来なければな」
 ;;暗転
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300 wt=1

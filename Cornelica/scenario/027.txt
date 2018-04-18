@@ -11,7 +11,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[Verna]"Good, you came back"
+[ヴェルナ]「よく来たな」
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -25,23 +25,23 @@
 @huki b=2 id=AC0
 @bs f=リリィ@微笑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"So, did you understand something from the research?"
+[リリィ]「それで、研究で何か分かったりとかした？」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@微笑_r x=-350 y=50 t=200 wt=1
 
-[Verna]"Oh... right. Even Al will be able to pass through \nthe portal, if there is a medicine that can temporarily \nstore the magical power of this world as his own"
+[ヴェルナ]「ああ……そうだな。この世界の魔力を一時的に本人のものとして蓄積することができる薬さえできればアルでも門を通れるだろう」
 
 @huki b=2 id=AC0
 @bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"Ehm... in other words, do you give up returning Al?"
+[リリィ]「えっと……つまりアルを帰してあげることができそうってこと？」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"It will not be"
+[ヴェルナ]「そうなるな」
 
 @move f=リリィ@通常_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -67,7 +67,7 @@
 @huki b=3 id=AC0
 @bs f=リリィ@笑顔  x=350 y=50 t=200
 
-[Lily]"Hooray Al!"
+[リリィ]「やったねアル！」
 
 @dir dir=right id=AC0
 
@@ -82,12 +82,11 @@
 
 @move_f f=ヴェルナ@通常 in=c t=300 wt=1
 
-[Verna]"However... it cannot be pleased unconditionally"
-[Verna]"Because it doesn't depend on the capacity of the person, \nit's necessary to use the enormous magic power \nand stabilize it with force"
+[ヴェルナ]「ただ、一概に喜ぶことはできない。本人の容量に依存しない以上、膨大な魔力を使い、無理矢理に安定させなければならない」
 
 @bs f=ヴェルナ@考える
 
-[Verna]"Therefore, a certain amount of magical substance \nis required for preparation"
+[ヴェルナ]「よって、作成にはそれなりの魔力物質が必要になる」
 
 @move_f f=ヴェルナ@ out=c t=300 wt=1
 
@@ -100,7 +99,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ  x=350 y=50 t=200
 
-[Lily]"What kind of things do you need?"
+[リリィ]「どういったものが必要なの？」
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -112,7 +111,7 @@
 
 @huki b=8 id=2
 
-[Verna]"Fufu... well you listened. This is it..."
+[ヴェルナ]「ふふ……よくぞ聞いてくれた。これだ……」
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -131,12 +130,12 @@
 @huki b=6 id=AC0
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"Huh...? What is this piece of paper?"
+[リリィ]「え……？　なに、この紙切れ……？」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"I list the ingredients necessary for drug creation. \nIt's a commonly referred as an ordinary list"
+[ヴェルナ]「薬の作成に必要な素材をリストアップしてある。俗に言うお使いリストという奴だ」
 
 @se f=Book1
 @move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
@@ -144,12 +143,12 @@
 @huki b=6 id=AC0
 @bs f=リリィ@蔑み_r op=汗 x=-350 y=50 t=200 wt=1
 
-[Lily]"Uh..that is...?"
+[リリィ]「えと……つまり……？」
 
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
 
-[Verna]"I concentrate on my research. \nTherefore, I want you to collect necessary materials."
+[ヴェルナ]「私は研究に専念する。故に君達には必要な素材を集めてきてほしい」
 
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@笑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -170,15 +169,15 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Lily]"What?!"
+[リリィ]「えぇ！？」
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
 
 @huki b=8 id=2
-[Verna]"Ah... and it's expensive to obtain but I need everything. \nAnd as you can see I'm penniless. If it's a currency \nof the human world, there is so much to rotten"
-;;I tried...
+[ヴェルナ]「あぁ、それと入手にかかりそうな費用だが私には一切期待するな。こう見えて私は無一文だ。人間界の通貨なら腐るほどあるがな……」
+
 
 @bs f=アル@焦り op=困惑 x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@蔑み op=汗 x=400 y=50 opa=0 t=20 wt=0
@@ -198,7 +197,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑 t=300 wt=1
 
-[Verna]"Oh dear, \C[2]Slime Core\C[0] and \C[2]Teona Mushroom\C[0] \naren't unusual either. I will tell you where you are \nlikely to get those, so please do your best"
+[ヴェルナ]「まぁ、『スライムコア』も『テオナ茸』も珍しい物でもない。手に入りそうな場所も教えてやるから、頑張ってくれ」
 
 @move f=ヴェルナ@微笑 x=0 y=0 w=100 h=100 opa=0 t=200 wt=1
 
@@ -214,7 +213,7 @@
 
 @bs f=リリィ@哀しみ op=困惑  x=350 y=50 t=200 wt=1
 
-[Lily]"Ah...it's look hard, but it cannot be helped...uhm"
+[リリィ]「はぁ……大変そうだけど、仕方ない……のかな……？」
 
 @huki b=8
 @bs f=アル@笑顔 op=焦り x=-350 y=50 t=400 wt=1
@@ -227,7 +226,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑  x=350 y=50 t=200
 
-[Lily]"Alright then, AL. Let's go"
+[リリィ]「それじゃアル、行こっか」
 
 ;;主人公：うなずく
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1
@@ -299,11 +298,11 @@
 
 @move_f f=リリィ@通常 in=c t=150
 
-[Lily]"Ehm...sure. Verna said \C[2]Slime core\C[0] and \C[2]Teona Mushroom\C[0]."
+[リリィ]「えっと……たしか、ヴェルナが言ってたのは『スライムコア』と『テオナ茸』とだね」
 
 @bs f=リリィ@微笑
 
-[Lily]"\C[2]Slime core\C[0] can be bought at the Tool Store.\nThe \C[2]Teona Mushroom\C[0] can be found in the Hilberta Forest."
+[リリィ]「『スライムコア』は道具屋さんで、『テオナ茸』はヒルベルタの森で手に入るみたいだよ」
 
 @move_f f=リリィ@ out=c t=150
 
