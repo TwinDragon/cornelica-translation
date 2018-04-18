@@ -2,6 +2,6 @@
 
 [Teacher Succubus]"I look forward to drinking here at night."
 
-[Teacher Succubus]"I get tired from my little girl pupils... I suppose I'm getting old."
+[Teacher Succubus]"I get tired from my little girl pupils...\nI suppose I'm getting old."
 
 
