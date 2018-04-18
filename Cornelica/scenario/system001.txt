@@ -5,15 +5,15 @@
 ;;----------------------------------------------
 *branch001
 
-\CLAre you going to sleep already?
+\CLGo to sleep for the rest of today?
 
 @select s1=Yes/*st01a s2=No/*st01b
 ;;----------------------------------------------
 *branch002
 
-\CLAre you going to sleep already?
+\CLGo to sleep for the rest of today?
 
-@select s1=Rest_until_the_night/*st01c s2=Yes/*st01a s3=No/*st01b
+@select s1=Rest_until_nighttime/*st01c s2=Yes/*st01a s3=No/*st01b
 ;;----------------------------------------------
 
 ;;=============================

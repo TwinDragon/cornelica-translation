@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-\CLToday's work is over♥
+\CLBusiness has concluded for the day.♥
 @mes_win back=0 pos=2

@@ -1,8 +1,8 @@
 ;;■01
 
-[酔いサキュバス]「よぉ！　お前みたいなやつがこんなとこでどうしたんだ？」
+[Drunk Succubus]"Yooo! What's someone like you doin' in a place like this?"
 
-[酔いサキュバス]「酒飲むか？　ハハハッ！」
+[Drunk Succubus]"Wanna drink? Hahahah!"
 
 
 

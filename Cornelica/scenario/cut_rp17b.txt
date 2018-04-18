@@ -4,29 +4,28 @@
 
 ;;好感度低
 
-[リリィ/rry0141]「んちゅっ……ふっちゅ……気持ち良さそうだね。キス、気持ちいい……？」
+[Lily/rry0141]"mmfchu... nfchu...\nLooks like it feels good. Does kissing, feel good...?"
 
-[アル]「う……うん……」
+[Al]"Y-... Yeah..."
 
 @bgv f=fera_rry1
 
-[リリィ/rry0143]「んっちゅる……ちゅるる……ふちゅるるぅ」
+[Lily/rry0143]"mmhchu... chuu... fhchuu"
 
-[リリィ/rry0144]「くひの中全部……吸ってあげりゅ……んじゅるる……ちゅずるるるぅ」
+[Lily/rry0144]"Like this... I'll suck it all... into my mouth for you...\nmmslurp... chuslurp"
 
-[リリィ/rry0145]「んっじゅる……ちゅずる……んじゅっぶ……んっんっ……んんんっ」
+[Lily/rry0145]"mmslurp... chu... nnslurpff... mmn mn... mmmmh"
 
-[リリィ/rry0146]「んっんっ……んふうううっ……」
+[Lily/rry0146]"Nnh mm... mmfuuh..."
 
-[リリィ/rry0147]「んっは……はぁっはぁっはぁっ……んふうう…………もっとぉ……んちゅっ………んっ………」
+[Lily/rry0147]"mmhaaa... Haa haa haa... nnfuah... More~...\nmmchu...... mmn......"
 
-[リリィ/rry0147a]「まだ………もっと……もっとぉ………じゅるっ……じゅるるっ………………」
+[Lily/rry0147a]"Not yet...... more... more~......\nslurp... sluuuurp........."
 
-[リリィ/rry0147b]「じゅるっ………んはぁっ………んちゅっ………」
+[Lily/rry0147b]"slurp... nhaa... sluurp......"
 
 @bgv
 
 ;;■暗転
 ;;===============================================================================
-
 
