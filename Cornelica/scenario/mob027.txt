@@ -1,6 +1,6 @@
 ;;■01
 
-[Sister Succubus]"Oh my, are you hoping to join the faith? We accept any kind of person here."
+[Sister Succubus]"Oh my, are you hoping to join the faith?\nWe accept any kind of person here."
 
 
 
