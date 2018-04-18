@@ -7,12 +7,12 @@
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 
-[リリィ]「もー……違うって言ってるのに……」
+[Lily]"Noo.. I'm saying it's different..."
 
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[アルネ]「それで、お客さん♪　今日は何をお探しッスか？　『八頭ディルド』ッスか？　それとも『感度3000倍ローション』ッスか？」
+[Arne]"So then, customer♪ What are you looking for today? \nIt's the 'Eight-head dildo'? \nOr it's the '3000x Sensitivity Lotion'?"
 
 @huki b=7 id=AC0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=400
@@ -20,7 +20,7 @@
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[リリィ]「はぁ、もういいや……それじゃあ、えっと、これ」
+[Lily]"Ah, all right.... well then, I need those"
 
 ;;お使いの紙を渡す
 @bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
@@ -35,37 +35,37 @@
 @bs f=アルネ@蔑み x=350 y=50 t=200 wt=1
 @bs f=リリィ@通常_r x=-350 y=50 t=200
 
-[アルネ]「……スライムのコア？　確かにあるにはあるッスけど……売り物じゃないんスよねぇ……アレ無いとローション作れないし」
+[Arne]"...'Slime Cores'? I have certainly some of those here... \nbut there are not for sale. \nI cannot make lotions without it"
 
 @se f=Book1
 @move_f f=お使いリスト@ face=0 out=c t=250
 
 @bs f=アルネ@焦り x=350 y=50 t=200 wt=1
 
-[アルネ]「売るとなると……高いッスよ？」
+[Arne]"When it sell.... is it expensive?"
 
 @bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200
 
 @huki b=2 id=AC0
-[リリィ]「いくらくらいに、なるのかな……？」
+[Lily]"How much will it be ...?"
 
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 
 @huki b=8 id=3
-[アルネ]「ざっとこれくらいッスね」
+[Arne]"Roughly it's about this"
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200
 @move f=リリィ@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「えぇ！？　そんなの払えるわけないよ！」
+[Lily]"What?!　There is no way I can pay so much!"
 
 ;;主人公の方を見ながら
 @huki b=8 id=3
 @bs f=アルネ@困惑 x=350 y=50 t=200 wt=1
 
-[アルネ]「そうっスよねぇ……」
+[Arne]"It's that so..."
 
 @move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
 @move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
@@ -113,23 +113,23 @@
 
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 
-[アルネ]「……まぁ、でもどうしてもって言うなら譲ってあげなくもないッスよ」
+[Arne]"...well, but if you say you \nabsolutely must not give up..."
 
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200
 
-[リリィ]「えっ、ほんと！？」
+[Lily]"Eh, really?!"
 
 @bs f=アルネ@微笑 x=350 y=50 t=200 wt=1
 
-[アルネ]「えぇ、ただし条件付きッスけど」
+[Arne]"However, at one condition"
 
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200
 
-[リリィ]「条件？　どんな……？」
+[Lily]"Condition? Which?"
 
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 
-[アルネ]「まぁ、それは追々……」
+[Arne]"Oh well, one step at the time"
 
 @move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -181,12 +181,12 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 
-[アルネ]「ふむふむ……時に、お嬢さん。この子『性奴隷』じゃないってことは、つまり『野良』ってことでいいッスよね？」
+[Arne]"Hmmm ...by the way, young lady. \nThis child's not a 'sex slave' so, in other words, \nit is a good idea to say is 'stray'?
 
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[リリィ]「え！？　……え、えと……そう……いう事？　……に……なる……のかな……？」
+[Lily]"What?!Uhm... so... is that what you mean? Will it be...?"
 
 @bs f=アルネ@笑み x=350 y=50 t=600 wt=1
 @wait t=400
@@ -211,7 +211,7 @@
 
 @bs f=アルネ@淫靡 x=350 y=50 t=200 wt=1
 
-[アルネ]「……それは、それは……凄く理想的ッスね。ちょうど、そんな人を探してたんスよ」
+[Arne]"...That, it's... ideal. \nI was just looking for such a person"
 
 ;;主人公：疑問符
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=400 wt=1
@@ -235,7 +235,7 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 
-[アルネ]「……さっき言った条件ッスけど、この子に新商品の開発を手伝ってもらいたいッス。　まぁ、一日アルバイトってやつッスね」
+[Arne]"...the condition I said a while ago is that \nI would like this child to help me develop a new product. \nOh dear, a part time job for Al"
 
 @move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
 @move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1
@@ -259,7 +259,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=100 wt=0
 
-[リリィ]「新商品の開発……？　んー、アル……どうする？」
+[Lily]"Development of new products...? \nHmm... Al, what shall we do?"
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1

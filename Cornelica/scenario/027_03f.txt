@@ -55,11 +55,11 @@
 @bs f=アル@困り_頬 x=-350 y=50 t=200
 
 ;;■道具屋
-[アルネ]「ほい、約束の『スライムコア』ッス」
+[Arne]"So, here the promise 'Slime Core'"
 
 @se f=Item3
 @mes_win back=1 pos=1
-\CLスライムコアを手に入れた！
+\CLI got a slime core!
 @mes_win back=0 pos=2
 
 ;;主人公：戸惑い赤面
@@ -71,7 +71,7 @@
 @bs f=アルネ@淫靡 x=350 y=50 t=200
 @bs f=アル@困り_頬 x=-350 y=50 t=200
 
-[アルネ]「これからも新製品は作り続けますんで、もしよかったらまたよろしくッス♪　次は給料も出すんで」
+[Arne]"If you wish I will keep making new products from now on. \nNext time I will pay you salary \nThank you again♪♪"
 
 ;;主人公：困惑
 @huki b=7

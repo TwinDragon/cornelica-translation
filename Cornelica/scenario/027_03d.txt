@@ -6,7 +6,7 @@
 
 @move_f f=アルネ@笑み in=c t=150
 
-[アルネ]「あっ！　もしかしてアルバイトしてくれる気になったんッスか？」
+[Arne]"Ah! Have you become interested in my part-time job offer?"
 
 ;;---------------------------------------------------------
 
