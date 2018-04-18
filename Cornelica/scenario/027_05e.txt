@@ -9,7 +9,7 @@
 
 @huki b=3 id=62
 
-[Teacher]"Fufu♪ Thank you for today. I was saved."
+[Teacher]"Fufu♪ Thank you for today. You saved me"
 
 @huki b=3 id=62
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1

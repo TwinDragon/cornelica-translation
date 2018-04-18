@@ -6,7 +6,7 @@
 
 @move_f f=サキュバス先生@01 body=-1 face=0 in=c t=150
 
-[Teacher]"If there is opportunity, can you do it again please?"
+[Teacher]"If there is a chance, can you do it again please?"
 
 @move_f f=サキュバス先生@ out=c t=150
 

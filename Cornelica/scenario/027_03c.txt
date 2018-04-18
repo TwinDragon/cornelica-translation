@@ -20,7 +20,7 @@
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[Lily]"Ah, all right.... well then, I need those"
+[Lily]"Muuu, all right.... well then, I need those"
 
 ;;お使いの紙を渡す
 @bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
@@ -35,14 +35,14 @@
 @bs f=アルネ@蔑み x=350 y=50 t=200 wt=1
 @bs f=リリィ@通常_r x=-350 y=50 t=200
 
-[Arne]"...'Slime Cores'? I have certainly some of those here... \nbut there are not for sale. \nI cannot make lotions without it"
+[Arne]"...'Slime Cores'? I certainly have some of those here... \nbut there are not for sale. \nI cannot make lotions without it"
 
 @se f=Book1
 @move_f f=お使いリスト@ face=0 out=c t=250
 
 @bs f=アルネ@焦り x=350 y=50 t=200 wt=1
 
-[Arne]"When it sell.... is it expensive?"
+[Arne]"When it sell... it's expensive"
 
 @bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200
 
@@ -186,7 +186,7 @@
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[Lily]"What?!Uhm... so... is that what you mean? Will it be...?"
+[Lily]"What?!Uhm... yeah... is that what you mean? Will it be...?"
 
 @bs f=アルネ@笑み x=350 y=50 t=600 wt=1
 @wait t=400
@@ -235,7 +235,7 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 
-[Arne]"...the condition I said a while ago is that \nI would like this child to help me develop a new product. \nOh dear, a part time job for Al"
+[Arne]"...the condition I said a while ago is that \nI would like this child to help me develop a new product. \nWell, a part time job for Al!"
 
 @move f=リリィ@焦り x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
 @move f=アルネ@困惑 x=400 y=50 w=100 h=100 opa=0 t=300 wt=1

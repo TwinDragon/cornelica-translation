@@ -6,6 +6,6 @@
 
 @huki b=7 id=AC0
 
-[Lily]"Muuu……That's not it..."
+[Lily]"Muuu...It's not like that!"
 
 @move_f f=サキュバス先生@ face=0 out=c t=150

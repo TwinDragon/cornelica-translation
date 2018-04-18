@@ -46,7 +46,7 @@
 @move f=サキュバス先生@01 x=350 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Teacher]"Is that so. Al-kun? \nWill you help me with my class if you have the time?"
+[Teacher]"Is that so. Al-kun? \nWill you help me with my class if you have time?"
 
 ;;主人公：疑問符
 @huki b=2
@@ -59,7 +59,7 @@
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[Teacher]"Just, I was looking for a child like you. \nHow? Can you ask me?"
+[Teacher]"I was just looking for a child like you. \nSo? Will you do it for me?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400

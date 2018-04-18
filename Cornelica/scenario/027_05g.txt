@@ -38,13 +38,13 @@
 
 @bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
 
-[Teacher]"So then... After this, tell me when you want to go home, ok?"
+[Teacher]"So then... after this, tell me when you want to go home, ok?"
 
 @huki b=3 id=1
 @move f=サキュバス先生@01 x=350 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Teacher]"However, if possible, \nI want you to be a little more here♪ \nBecause they seem to care about you"
+[Teacher]"But if possible, I want you to stay here for a little more♪ \nEveryone seems to mind carefully about Al-kun"
 
 @move f=サキュバス先生@01 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=350 y=50 w=100 h=100 t=130 wt=1

@@ -26,7 +26,7 @@
 
 @bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
 
-[Teacher]"Al-kun, good job♪　Thank you for today♪　Thanks to you I got a great lesson♪"
+[Teacher]"Al-kun, good job♪　Thank you again for today♪　\nIt was a great lesson thanks to you♪"
 
 @bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -37,7 +37,7 @@
 
 @bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
 
-[Teacher]"Then, tell me when you want to go home, ok?"
+[Teacher]"Well then, tell me when you want to go home, ok?"
 
 @move f=アル@困り_頬 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=サキュバス先生@01 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

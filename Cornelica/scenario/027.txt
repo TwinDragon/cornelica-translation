@@ -31,18 +31,18 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@微笑_r x=-350 y=50 t=200 wt=1
 
-[Verna]"Oh... right. Even Al will be able to pass through \nthe portal, if there is a medicine that can temporarily \nstore the magical power of this world as his own"
-
+[Verna]"Oh... right. Even Al will be able to pass the portal \nas long as the drug that can temporarily accumulate \nthe magic of this world transforming it as his own can be created"
+;;Need Review
 @huki b=2 id=AC0
 @bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"Ehm... in other words, do you give up returning Al?"
-
+[Lily]"Ehm... that means I can return Al?"
+;;What?
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
 [Verna]"It will not be"
-
+;;WHAT?
 @move f=リリィ@通常_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 
@@ -82,7 +82,7 @@
 
 @move_f f=ヴェルナ@通常 in=c t=300 wt=1
 
-[Verna]"However... it cannot be pleased unconditionally"
+[Verna]"However... we can't rejoice yet"
 [Verna]"Because it doesn't depend on the capacity of the person, \nit's necessary to use the enormous magic power \nand stabilize it with force"
 
 @bs f=ヴェルナ@考える
@@ -112,7 +112,7 @@
 
 @huki b=8 id=2
 
-[Verna]"Fufu... well you listened. This is it..."
+[Verna]"Fufu... well, heard it. This is it..."
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -136,7 +136,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"I list the ingredients necessary for drug creation. \nIt's a commonly referred as an ordinary list"
+[Verna]"I list the ingredients necessary for drug creation. \nIt's a commonly referred as an Errand List"
 
 @se f=Book1
 @move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
@@ -149,7 +149,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
 
-[Verna]"I concentrate on my research. \nTherefore, I want you to collect necessary materials."
+[Verna]"I need to concentrate on my research. \nTherefore, I want you to collect the necessary materials"
 
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@笑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -170,15 +170,15 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Lily]"What?!"
+[Lily]Huh?!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 @move f=ヴェルナ@通常 x=0 y=0 w=100 h=100 opa=255 t=200 wt=1
 
 @huki b=8 id=2
-[Verna]"Ah... and it's expensive to obtain but I need everything. \nAnd as you can see I'm penniless. If it's a currency \nof the human world, there is so much to rotten"
-;;I tried...
+[Verna]"Ah... and it's expensive to obtain but I need everything. \nLooking like this you are penniless. There is a decaying \neffect of the currency of the human world"
+;;Need review
 
 @bs f=アル@焦り op=困惑 x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@蔑み op=汗 x=400 y=50 opa=0 t=20 wt=0
@@ -214,7 +214,7 @@
 
 @bs f=リリィ@哀しみ op=困惑  x=350 y=50 t=200 wt=1
 
-[Lily]"Ah...it's look hard, but it cannot be helped...uhm"
+[Lily]"Argh...it's look hard, but it can't be helped...uhm"
 
 @huki b=8
 @bs f=アル@笑顔 op=焦り x=-350 y=50 t=400 wt=1
@@ -227,7 +227,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑  x=350 y=50 t=200
 
-[Lily]"Alright then, AL. Let's go"
+[Lily]"Alright then, Al. Let's go"
 
 ;;主人公：うなずく
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1

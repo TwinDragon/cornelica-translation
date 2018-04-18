@@ -71,7 +71,7 @@
 @bs f=アルネ@淫靡 x=350 y=50 t=200
 @bs f=アル@困り_頬 x=-350 y=50 t=200
 
-[Arne]"If you wish I will keep making new products from now on. \nNext time I will pay you salary \nThank you again♪♪"
+[Arne]"If you wish I will keep making new products from now on. \nNext time I will pay you salary \nremeber me♪♪"
 
 ;;主人公：困惑
 @huki b=7

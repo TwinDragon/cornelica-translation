@@ -6,7 +6,7 @@
 @huki b=2 id=2
 @move_f f=ヴェルナ@微笑 in=c t=150 wt=1
 
-[Verna]"What? What happened?"
+[Verna]"What? What's happened?"
 
 @variables id=108 val=0 type=0 calc=0
 ;;---------------------------------------------------------------------
@@ -23,7 +23,7 @@
 ;;===============================================================================
 *mission001
 
-@select s1=Where_we_can_find_'Slime_Core'?/*code001 s2=Where_we_can_find_'Teona_Mushroom'?/*code002 s3=Small_talk/*eventCode
+@select s1=Where_we_can_find_the_'Slime_Core'?/*code001 s2=Where_we_can_find_the_'Teona_Mushroom'?/*code002 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;; スライムコア
 *code001
@@ -31,7 +31,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み
 
-[Verna]"Where it's likely to find a 'Slime Core'..."
+[Verna]"Where it's likely to find a \C[2]Slime Core\C[0]..."
 
 @bs f=ヴェルナ@通常
 
@@ -40,7 +40,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@微笑
 
-[Verna]"Because it is raw material for lotion, \na tool store should have it"
+[Verna]"Because it is raw material for lotion, \na tools store should have it"
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -51,7 +51,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"'Teona mushroom'..."
+[Verna]"\C[2]Teona mushroom\C[0]..."
 
 @bs f=ヴェルナ@微笑
 
@@ -72,7 +72,7 @@
 ;;===============================================================================
 *mission002
 
-@select s1=Where_we_can_find_'Mandragora's_purple_root'?/*code003 s2=Where_we_can_find_'Miasma_stone'?/*code004 s3=Small_talk/*eventCode
+@select s1=Where_we_can_find_the_'Mandragora's_purple_root'?/*code003 s2=Where_we_can_find_the_'Miasma_stone'?/*code004 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;;マンドラゴラの紫根
 *code003
@@ -80,16 +80,16 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Where is Mandragora's purple root? ..."
+[Verna]"Where is \C[2]Mandragora's purple root\C[0]? ..."
 
 @bs f=ヴェルナ@微笑
 
-[Verna]"Because it's a special material, \nobtaining natural products is difficult"
+[Verna]"Because it's a special material, \nobtaining with natural process is difficult"
 
 @huki b=8 id=2
 @bs f=ヴェルナ@笑み
 
-[Verna]"Oh dear, because this one is used to cook, \nI think that you can find it at the bar"
+[Verna]"Well, since this one is used to cook, \nI think that you can find it at the bar"
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 @jump target=*end001
@@ -100,7 +100,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Miasma stone?..."
+[Verna]"\C[2]Miasma stone\C[0]?..."
 
 @bs f=ヴェルナ@微笑
 
@@ -124,7 +124,7 @@
 ;;===============================================================================
 *mission003
 
-@select s1=Where_we_can_find_'Barometsu's Golden Hair'?/*code005 s2=Where_we_can_find_'Mifukuragi flower'?/*code006 s3=Small_talk/*eventCode
+@select s1=Where_we_can_find_the_'Barometsu's Golden Hair'?/*code005 s2=Where_we_can_find_the_'Mifukuragi flower'?/*code006 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;;バロメッツ金毛
 *code005
@@ -132,7 +132,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Barometsu's golden hair..."
+[Verna]"\C[2]Barometsu's golden hair\C[0]..."
 
 @bs f=ヴェルナ@微笑
 
@@ -152,7 +152,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Mifukuragi's flower..."
+[Verna]"\C[2]Mifukuragi's flower\C[0]..."
 
 @bs f=ヴェルナ@微笑
 
@@ -164,7 +164,7 @@
 
 ;;===============================================================================
 *mission004
-@select s1=Where_we_can_find_'Flower of Tsukushi'?/*code007 s2=Where_we_can_find_'Moriyu grass'?/*code008 s3=Small_talk/*eventCode
+@select s1=Where_we_can_find_the_'Flower of Tsukushi'?/*code007 s2=Where_we_can_find_the_'Moriyu grass'?/*code008 s3=Small_talk/*eventCode
 
 ;;---------------------------------------------------------------------
 ;;モリユ草
@@ -173,7 +173,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"Moriyu grass..."
+[Verna]"\C[2]Moriyu grass\C[0]..."
 
 @bs f=ヴェルナ@微笑
 
@@ -188,7 +188,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常
 
-[Verna]"The flower of Tsukshushi?
+[Verna]"\C[2]The flower of Tsukshushi\C[0]?
 
 @bs f=ヴェルナ@微笑
 
@@ -229,11 +229,11 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=300 wt=1
 
-[Verna]"Especially... it doesn't seem to be something"
+[Verna]"Soo... it doesn't seem to be something"
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-[Verna]"Fufu, just right. I also had something \nI wanted to talk to you"
+[Verna]"Fufu, it's ok. I also had something \nI wanted to talk to you"
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=600 wt=1

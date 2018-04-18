@@ -28,7 +28,7 @@
 
 @bs f=アルネ@困惑
 
-[Arne]"Hmm! That's disappointing... oh dear, \nI'm always looking for people, \nso please if you change your mind"
+[Arne]"Hmm! That's disappointing... oh dear, \nI'm always looking for people, \nso come back if you change your mind"
 
 @move_f f=アルネ@ out=c t=200 wt=1
 @bs
