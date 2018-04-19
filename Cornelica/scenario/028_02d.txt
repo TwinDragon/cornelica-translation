@@ -4,16 +4,16 @@
 
 @move_f f=ロザリー@通常 in=c t=250
 
-[ロザリー]「ねぇ……お酒を運んできてくれる……？」
+[Rosary]"Hey... will you bring me a drink...?"
 
-@select s1=受ける/*code01 s2=やめておく/*code02
+@select s1=Accept/*code01 s2=Refuse/*code02
 ;;==========================================
 ;;受ける
 *code01
 
 @bs f=ロザリー@微笑 in=c t=250
 
-[ロザリー]「それじゃあ……私の部屋に、お願い……」
+[Rosary]"Well then... to my room, please ..."
 
 @bgm_save
 @bgm
@@ -31,7 +31,7 @@
 
 @bs f=ロザリー@焦り in=c t=250
 
-[ロザリー]「そう……べつに、いいけど……」
+[Rosary]"Yeah ... well, it's okay, but ..."
 
 @move_f f=ロザリー@ out=c t=250
 @variables id=108 val=0 type=0 calc=0

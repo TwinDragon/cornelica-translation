@@ -4,11 +4,11 @@
 @huki b=2 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=200 wt=1
 
-[ロザリー]「……？　何？」
+[Rosary]"...? What is it?"
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[リリィ]「これを分けて欲しいんだけど……」
+[Lily]"I'd like to buy this..."
 
 ;;お使いの紙を渡す
 @bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
@@ -23,15 +23,15 @@
 @bs f=ロザリー@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@通常_r x=-350 y=50 t=200
 
-[ロザリー]「『マンドラゴラの紫根』……？」
+[Rosary]"Mandragora's purple root...?"
 
 @bs f=ロザリー@考える x=350 y=50 t=300 wt=1
 
-[ロザリー]「…………」
+[Rosary]"..."
 
 @bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200
 
-[リリィ]「……ダメ？」
+[Lily]"...it's no good?"
 
 @se f=Book1
 @move_f f=お使いリスト@ face=0 out=c t=250
@@ -39,19 +39,19 @@
 @bs f=ロザリー@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200
 
-[ロザリー]「…………ひとつ、お願いを聞いてくれるなら……」
+[Rosary]"...only if you do me a favor..."
 
 @bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200
 
-[リリィ]「お願い？」
+[Lily]"A favor?"
 
 @bs f=ロザリー@焦り x=350 y=50 t=200 wt=1
 
-[ロザリー]「最近、お客さんが……増えて……人手が、足りない」
+[Rosary]"Recently, the customers are... \nincreasing... and the manpower is not enough"
 
 @bs f=ロザリー@通常 x=350 y=50 t=200 wt=1
 
-[ロザリー]「だから、お手伝いを……お願い……？」
+[Rosary]"So, can you help me... please?"
 
 @move f=リリィ@微笑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ロザリー@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -75,7 +75,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=0
 
-[リリィ]「んー……アル、どうする？」
+[Lily]"...Al.  What shall we do?"
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1

@@ -14,7 +14,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「はい。頼まれてた素材。全部集めてきたよ」
+[Lily]"Okay. We've gathered all the material you asked for"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -25,11 +25,11 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「あぁ、ありがとう。助かったよ」
+[Verna]"Ah. Thank you for the help"
 
 @bs f=ヴェルナ@考える t=200
 
-[ヴェルナ]「こちらも丁度、配合量の目処が付いたところだ。すぐ作業に取り掛かる」
+[Verna]"Even exactly with the right amount. \nI'll start working immediately"
 
 @bgm_save
 @bgm
@@ -64,7 +64,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「さてアル。これを服用してみたまえ」
+[Verna]"Well Al. Try this one"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -98,7 +98,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「どう……？」
+[Lily]"How is it...?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=600
@@ -119,7 +119,7 @@
 
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「ふむ。魔力が少し回復したみたいだな。失敗か、よし次だ」
+[Verna]"Hmm. It seems that magical power has recovered a little. \nFailed, alright next"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -133,7 +133,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「えぇ！？　失敗！？」
+[Lily]"What?! Failed?!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -144,7 +144,7 @@
 
 @move_f f=ヴェルナ@通常 in=c t=200 wt=1
 
-[ヴェルナ]「まぁ、新たな研究だからな失敗もあるだろう」
+[Verna]"Oh dear, there will be failures because it's a new research"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -157,7 +157,7 @@
 
 @bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=200
 
-[リリィ]「それって……！　アルは大丈夫なの……！？」
+[Lily]"That's...! Al is okay?!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -168,7 +168,7 @@
 
 @move_f f=ヴェルナ@通常 in=c t=200 wt=1
 
-[ヴェルナ]「安心しろ、命に別状はない」
+[Verna]"Don't worry, he isn't in danger"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -183,7 +183,7 @@
 
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「そう……なの……？　アルはそれで大丈夫……？」
+[Lily]"Is that so? Al, are you okay with that...?"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
@@ -198,7 +198,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=200
 
-[リリィ]「なら……いいけど……」
+[Lily]"Then...it's good, but..."
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -211,7 +211,7 @@
 @dir dir=down id=AC0
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「さて……話が落ち着いたところで、次はこれを頼む」
+[Verna]"Well... now that it's all settled down, \nnext I will need these one..."
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -229,12 +229,12 @@
 @huki b=6 id=AC0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「……え？　これって……」
+[Lily]"...Huh? Is this..."
 
 @huki b=8 id=2
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「俗に言うお使いリス……」
+[Verna]"Another errand list"
 
 @se f=Book1
 @move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
@@ -242,20 +242,20 @@
 @huki b=6 id=AC0
 @bs f=リリィ@困惑_r op=汗_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「そうじゃなくてっ！　また集めてこないといけないの！？」
+[Lily]"That's not it! We have to collect stuff again?!"
 
 @huki b=8 id=2
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「薬を新しく作り直す必要がある。素材も新たに必要になるのは必定だろう？　手間をかけさせるがよろしく頼む」
-
+[Verna]"I need to create a new drug. \nIs it necessary to newly require materials as well? \nPlease, take care of the trouble"
+;;Need review
 @huki b=6 id=AC0
 @bs f=リリィ@蔑み_r op=汗_r x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=リリィ@困惑_r op=困惑_r x=-350 y=50 t=600 wt=1
 
-[リリィ]「あぁ、もう……仕方ない……」
+[Lily]"Ah... It can't be helped..."
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@考える x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -277,7 +277,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「じゃアル、行こっか」
+[Lily]"Well Al. Let's go"
 
 ;;主人公：うなずく
 
@@ -312,7 +312,7 @@
 
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「あぁ、そうだ。１つ言い忘れていた」
+[Verna]"Oh, that's right. I forgot to mention one"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -326,7 +326,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……？　なに？」
+[Lily]"...? What is it?"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -337,11 +337,11 @@
 
 @move_f f=ヴェルナ@通常 in=c t=200 wt=1
 
-[ヴェルナ]「今、試作した薬だが、必要な場面もあるかもしれない」
+[Verna]"Now, although it is a trial drug, \nthere may be necessary some equipment"
 
 @bs f=ヴェルナ@微笑 t=200
 
-[ヴェルナ]「魔法道具屋のブラスタに、同じものを生成できる機能を付けておいた」
+[Verna]"At the Magic Store, I added a function that \ncan generate some thing"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -354,7 +354,7 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「い、いつの間に……」
+[Lily]"Well, when did..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -365,15 +365,15 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=200 wt=1
 
-[ヴェルナ]「さっき、席を外した時ついでにな」
+[Verna]"A little while ago, when I got outside"
 
 @bs f=ヴェルナ@通常 t=200
 
-[ヴェルナ]「生成の仕方だが、口頭で注文した後、お金を払えば後は自動でやってくれる」
+[Verna]"However for generating stuff you need to \nordering it verbally. After paying it, \nit will do it automatically"
 
 @bs f=ヴェルナ@考える t=200
 
-[ヴェルナ]「まぁ、機会があったら試してみたまえ」
+[Verna]"Well, if you have the opportunity try it"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -394,7 +394,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「うん……わかった」
+[Lily]"Ok... I understand"
 
 @bgm
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

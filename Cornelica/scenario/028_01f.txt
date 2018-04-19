@@ -11,18 +11,18 @@
 
 @move_f f=ロザリー@焦り in=c t=200
 
-[ロザリー]「アル……倒れちゃった？」
+[Rosary]"Al... did you fall down?"
 
 @bs f=ロザリー@考える
 
-[ロザリー]「………じゃあ、こっちで……休もっか……」
+[Rosary]"...well...here...rest"
 
 @bs f=ロザリー@通常 t=600
 @wait t=600
 
 @bs f=ロザリー@笑み t=200
 
-[ロザリー]「……フフ、お酒も持っていっちゃお」
+[Rosary]"Fufu, take a drink too"
 
 @fade type=out t=1000 wt=1
 

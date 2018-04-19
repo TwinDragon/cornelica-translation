@@ -11,14 +11,14 @@
 
 @move_f f=ロザリー@微笑 in=c t=250
 
-[ロザリー]「……ありがとう……じゃあ……これ、お給料あげるね」
+[Rosary]"...thank you...so here...I will pay you..."
 
 @bs f=ロザリー@通常 t=600 wt=1
 @wait t=400
 
 @bs f=ロザリー@微笑 t=600 wt=1
 
-[ロザリー]「……また、きてね」
+[Rosary]"Come back again..."
 
 @move_f f=ロザリー@ out=c t=200
 

@@ -18,11 +18,11 @@
 
 @bs f=ロザリー@通常 x=350 y=50 t=200
 
-[ロザリー]「……いらっしゃい」
+[Rosary]"……Welcome"
 
 @bs f=リリィ@笑顔_r x=-350 y=50 t=200
 
-[リリィ]「こんにちは」
+[Lily]"Hello"
 
 @huki b=8 id=3
 @bs f=リリィ@微笑_r x=-350 y=50 t=100 wt=0
@@ -31,24 +31,24 @@
 
 @bs f=ロザリー@通常 face=0 x=350 y=50 t=200
 
-[ロザリー]「……リリィも、隅に置けない」
+[Rosary]"...Lily, you can't be understimated"
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[リリィ]「え、あっ！　違うの！　アルはそういうのじゃなくて……」 
+[Lily]"Uh, ah! You're wrong! It's not like that!"
 
 @huki b=2 id=3
 @bs f=ロザリー@考える x=350 y=50 t=200
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[ロザリー]「……照れてる？」
+[Rosary]"...are you embarrassed?"
 
 @huki b=7 id=AC0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200
 
-[リリィ]「あぁ、もう！　そ、そのことより……！　お願いしたいことがあるの！」
+[Lily]"Ah, already! There is something I would like to ask you!"
 
 ;;==========================================================================================
 

@@ -5,11 +5,11 @@
 @huki b=2 id=3
 @move_f f=ロザリー@通常 in=c t=150
 
-[ロザリー]「……いらっしゃい」
+[Rosary]"...Welcome"
 
 @bs f=ロザリー@考える t=150
 
-[リリィ]「こんにちは♪　今日は、お願いしたいことがあって来たの」
+[Lily]"Hello♪　Today, there is something I want to ask"
 
 @move_f f=ロザリー@ out=c t=150
 

@@ -4,7 +4,7 @@
 
 @move_f f=ロザリー@微笑 in=c t=150
 
-[ロザリー]「……また、きてね」
+[Rosary]"Come back again..."
 
 @move_f f=ロザリー@ out=c t=150
 

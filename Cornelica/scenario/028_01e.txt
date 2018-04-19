@@ -15,7 +15,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=200 wt=0
 
-[リリィ]「あー……なんとか終わったね……それにしてもほんとに大変だね……」
+[Lily]"Ah... we managed to finish it...\nhowever, it was really tough..."
 
 ;;主人公：うなずく
 @bs f=アル@普通 op=焦り x=-350 y=50 t=200
@@ -32,14 +32,14 @@
 
 @move_f f=ロザリー@微笑 in=c t=250
 
-[ロザリー]「……ありがとう……じゃあ……『マンドラゴラの紫根』、あげるね」
+[Rosary]"...thank you... well then... \nI'll give you the Mandragora's purple root"
 
 @bs f=ロザリー@考える t=600
 @wait t=400
 
 @bs f=ロザリー@微笑 t=250
 
-[ロザリー]「……また、きてね」
+[Rosary]"Come back again..."
 
 @move_f f=ロザリー@ out=c t=200
 
@@ -53,7 +53,7 @@
 ;;@huki b=3 id=AC0
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=0
 
-[リリィ]「またねー！」
+[Lily]"See you!"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
 @move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=300 wt=1

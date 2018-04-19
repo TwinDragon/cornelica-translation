@@ -31,7 +31,7 @@
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 @bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
 
-[リリィ]「もうっ…心配したんだからね？　……ほんとに寝てただけなの？」
+[Lily]"Already... I was worried about you. \nWhere you really just asleep?"
 
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=300 wt=1
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -42,7 +42,7 @@
 @bs f=リリィ@蔑み x=350 y=50 t=600 wt=1
 @wait t=500
 
-[リリィ]「……あやしい……」
+[Lily]"...I am sorry...."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=500
@@ -53,7 +53,7 @@
 @bs f=リリィ@哀しみ x=350 y=50 t=200 wt=1
 @bs f=アル@困り op=焦り x=-350 y=50 t=200 wt=1
 
-[リリィ]「むぅ、でもアルがそういうんだったらいいよ」
+[Lily]"Muuu, but I wish Al were like that"
 
 @huki b=7
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
