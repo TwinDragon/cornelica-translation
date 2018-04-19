@@ -4,6 +4,5 @@
 
 @move_f f=ユスティーナ@通常 in=c t=200 wt=1
 
-[ユスティーナ]「あら、『アルバイト』の件、気が変わったのかしら？」 
-
+[Justina]"Oh, did you change your mind on the part-time job?"
 ;;======================================================

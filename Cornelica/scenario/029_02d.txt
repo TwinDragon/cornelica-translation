@@ -6,16 +6,16 @@
 
 @bs f=ユスティーナ@笑み t=200
 
-[ユスティーナ]「ねぇアルくん。ちょっとこっちに……いいかしら？」
+[Justina]"Al-kun. Can you came here a moment?
 
-@select s1=ついていく/*code01 s2=やめておく/*code02
+@select s1=Follow/*code01 s2=Refuse/*code02
 ;;==========================================
-;;ついていく
+;;ついていく Follow
 *code01
 
 @bs f=ユスティーナ@淫靡 t=200
 
-[ユスティーナ]「うふふ……そう来なくっちゃ」
+[Justina]"Uhufu... just as i thought"
 
 @if eval=v(47)==1 ok=jump:*branch001 bad=jump:*end001
 ;;-----------------------------------------------------------------
@@ -23,7 +23,7 @@
 
 @bs f=ユスティーナ@微笑 t=200 wt=1
 
-[ユスティーナ]「あ、リリィちゃんは、そこで待っててね。すぐ終わるから♪」
+[Justina]"Oh, Lily, wait there. It will end soon♪"
 
 ;;-----------------------------------------------------------------
 *end001
@@ -38,12 +38,12 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end001
 ;;==========================================
-;;やめておく
+;;やめておく Refuse
 *code02
 
 @bs f=ユスティーナ@微笑 t=200
 
-[ユスティーナ]「あら……つれないわね。　ふふ……でも、そんな子もお姉さん好きよ♪」
+[Justina]"Oh... I'll not tell. Fufu... \nHowever, such a child likes miss♪"
 
 @move_f f=ユスティーナ@ out=c t=400
 

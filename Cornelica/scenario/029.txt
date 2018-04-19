@@ -13,7 +13,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「はい。これ、頼まれてた素材だよ」
+[Lily]"Okay. We've gathered all the material you asked for"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -24,7 +24,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「あぁ、ありがとう。すぐに配合に取り掛かる」
+[Verna]"Ah... thank you. I'll start blending it at once"
 
 @bgm_save
 @bgm
@@ -60,7 +60,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「できたぞ。さあアル。これを服用してみたまえ」
+[Verna]"I can do it. Here, Al: try this"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -94,7 +94,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「どんな感じ……？」
+[Lily]"How does it feel...?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=600
@@ -115,7 +115,7 @@
 
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「チャームに対する耐性ができたようだな。見るに効果は数十時間か？　ふむ、いい感じだ、よし次だ」
+[Verna]"It seems that resistance to charm has increased. \nWill the effect decay in the next hours? \nHmm, I have a good vibe. Alright next"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -129,7 +129,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「えぇ！？　次！？　成功したんじゃないの！？」
+[Lily]"What?! Next?! Did it not succeed?!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -140,7 +140,7 @@
 
 @move_f f=ヴェルナ@通常 in=c t=200 wt=1
 
-[ヴェルナ]「前例がない研究だからな。試行錯誤を繰り返しながら外堀を少しずつ埋めていくしかない……そんなわけで……」
+[Verna]"It is an unprecedented research. There is no choice but \nto fill up the outer moat little by little by repeating \ntrial and error...that's why..."
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -158,15 +158,15 @@
 @huki b=6 id=AC0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「またコレ……！？」
+[Lily]"This again?!"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「大変だろうが、素材が無いことには始まらない。すまないが、よろしく頼む」
+[Verna]"It might be difficult, but I can't start with no material. \nI'm sorry but I ask you to do your best."
 
 @bs f=リリィ@困惑_r op=困惑_r x=-350 y=50 t=600 wt=1
 
-[リリィ]「はぁ……仕方ないんだよね……」
+[Lily]"...it can't be helped..."
 
 @se f=Book1
 @move_f f=お使いリスト@ out=c t=300 wt=1
@@ -198,7 +198,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「じゃアル、行こ」
+[Lily]"So Al, let's get going"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 op=焦り x=-350 y=50 t=200 wt=1

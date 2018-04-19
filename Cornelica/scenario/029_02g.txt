@@ -4,7 +4,7 @@
 
 @move_f f=ユスティーナ@微笑 in=c t=150 wt=1
 
-[ユスティーナ]「ふふ、今日はありがとう♪　出来たらまた、お手伝いしてくれたらうれしいわ♪」
+[Justina]"Fufu, thank you for today♪ \nI will be happy if you help me again♪"
 
 @move_f f=ユスティーナ@ out=c t=150 wt=1
 

@@ -1,14 +1,14 @@
 ;;======================================================
 ;;被服屋でアルバイト
 
-@select s1=受ける/*code01 s2=やめておく/*code02
+@select s1=Accept/*code01 s2=Refuse/*code02
 ;;---------------------------------------------------------
-;;受ける
+;;受ける Accept
 *code01
 
 @bs f=ユスティーナ@笑み t=200
 
-[ユスティーナ]「そう！　ありがとう♪　それじゃあこっちに来て頂戴♪」 
+[Justina]"Ok! Thank you♪ Then, please come over here♪"
 
 @bgm_save
 @bgm
@@ -19,12 +19,12 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=end01
 ;;---------------------------------------------------------
-;;受けない
+;;受けない Refuse
 *code02
 
 @bs f=ユスティーナ@微笑 t=200
 
-[ユスティーナ]「そう……残念だけど、仕方ないわね」 
+[Justina]"Ok...I'm sorry. It can't be helped"
 
 @move_f f=ユスティーナ@ out=c t=200 wt=1
 
