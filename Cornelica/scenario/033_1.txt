@@ -28,7 +28,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「やばっ！　見つかった！」
+[Lily]"Crap! We got found!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -40,7 +40,7 @@
 @huki b=8 id=AC1 wt=1
 @move_f f=メイ@怒り in=c t=200
 
-[メイ－α]「問題……ありません」
+[Vlasta-α]"Problem... located"
 
 @move_f f=メイ@ out=c t=200
 
@@ -69,11 +69,11 @@
 @move f=リリィ@焦り_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=0
 @move f=メイ@怒り x=350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[メイ－α]「排除……完了」
+[Vlasta-α]"Elimination... completed"
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「う、嘘……」
+[Lily]"Ok, no way..."
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=メイ@怒り x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -84,7 +84,7 @@
 @dir dir=left id=AC1
 @move_f f=メイ@怒り in=c t=200
 
-[メイ－α]「……先へ」
+[Vlasta-α]"... proceed"
 
 @move_f f=メイ@ out=c t=200
 
@@ -108,7 +108,7 @@
 
 @bs f=リリィ@笑顔 x=350 y=50 t=200
 
-[リリィ]「うんっ！」
+[Lily]"Yup!"
 
 @move f=アル@笑顔 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

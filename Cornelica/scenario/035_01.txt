@@ -2,7 +2,7 @@
 ;;■15
 ;;■城（領主の部屋前）
 
-[メイ－α]「どちらへ行かれるのですか？　部屋を移るのでしたら賢者の石の回収を推奨します」
+[Vlasta-α]"Where are you going? \nWe recommend collecting the \C[2]Philosofer's Stone\C[0] \nbefore leaving the room"
 
 @fb dir=back
 ;;==========================================================================

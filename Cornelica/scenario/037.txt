@@ -42,7 +42,7 @@
 
 @bs f=メイド@蔑み_赤 x=350 y=50 t=200 wt=1
 
-[ヴラスタA]「目……覚めた……」
+[Vlasta A]"Eyes... he woke up"
 
 @bgm f=h-003 pitch=90
 
@@ -67,7 +67,7 @@
 
 @move_f f=メイド@蔑み_赤 in=c t=250 wt=1
 
-[ヴラスタB]「侵入者……貴方のことを調べさせてもらいます」
+[Vlasta B]"Intruder... I will check you"
 
 @move_f f=メイド@蔑み_赤 out=c t=250 wt=1
 

@@ -5,7 +5,7 @@
 
 ;;主人公：考える
 
-[ヴラスタ]「侵入者が脱走……見つけ次第、拘束」
+[Vlasta]"The intruder escaped... as soon as it finds, restraint him"
 
 ;;主人公：驚く
 

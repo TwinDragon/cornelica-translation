@@ -9,9 +9,10 @@
 @dot_move x=0 y=0 id=54
 @dot_move x=0 y=0 id=55
 
-;;[アル]「はぁああ……ようやくお城から出られた。えっと……ここは？　もしかして居住区？」
+;;[Al]"Ok... finally got out of the castle. \nEr... where am I? Maybe a residential district?"
 
-;;[アル]「早く逃げないと……まだヴラスタが追いかけてくるし……サキュバスにも……見つからないようにしないと……」
+;;[Al]"I have to get away quickly... \nI have still Vlasta chases me... succubus also... \nI have to make sure not to be found"
+
 ;;自由行動
 
 ;;■居住区行き止まり
@@ -20,7 +21,7 @@
 @huki b=1
 @c_jump wt=0
 
-[ヴラスタ]「……こちらの方か？」
+[Vlasta]".... This one?"
 
 @dir dir=up
 @step_anime type=on

@@ -6,14 +6,14 @@
 
 @move_f f=ヴェルナ@通常 in=c t=200
 
-[ヴェルナ]「準備はできたか？」
+[Verna]"Are you ready?"
 
-;;「大丈夫！」
-;;「もうちょっと待って！」
+;;"All_right!"
+;;"Wait_a_minute!"
 
-@select s1=大丈夫/*code01 s2=もうちょっと待って/*code02 s3=世間話をする/*code03
+@select s1="All_right!"/*code01 s2="Wait_a_minute!"/*code02 s3=Small_talk/*code03
 ;;========================================================================================================
-;;大丈夫！
+;;大丈夫！ "All right!"
 *code01
 
 @move_f f=ヴェルナ@ out=c t=200
@@ -38,12 +38,12 @@
 ;;-------------------------------------------------------
 *branch001
 
-[リリィ]「よし……それじゃあ……お城に行こう」
+[Lily]"Alright...well then...let's go to the castle"
 
 ;;-------------------------------------------------------
 *branch002
 
-[リリィ]「よし……それじゃあ……夜になり次第、お城に行こう」
+[Lily]"Alright...well then...\nas soon as the night comes, let's go to the castle"
 
 ;;-------------------------------------------------------
 
@@ -54,7 +54,7 @@
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[リリィ]「いい？　失敗して逃げることができても警備は強くなるはずだから、チャンスは1回だけだよ」
+[Lily]"Ready? Even if you can fail away and escape, \nthe security will be strong, \nso you only have one opportunity"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -74,7 +74,7 @@
 @dir dir=right id=AC0
 @move_f f=ヴェルナ@考える in=c t=250 wt=1
 
-[ヴェルナ]「気を付けろよ」
+[Verna]"Be careful"
 
 @move_f f=ヴェルナ@ out=c t=250 wt=1
 
@@ -85,18 +85,18 @@
 @variables id=108 val=2 type=0 calc=0
 @jump target=*end001
 ;;========================================================================================================
-;;もうちょっと待って！
+;;もうちょっと待って！ "Wait a minute!"
 *code02
 @bs f=ヴェルナ@考える t=200
 
-[ヴェルナ]「分かった。準備は万全にな」
+[Verna]"I understood. The preparation must be flawlessness"
 
 @move_f f=ヴェルナ@ out=c t=200
 
 @variables id=108 val=0 type=0 calc=0
 @jump target=*end001
 ;;========================================================================================================
-;;もうちょっと待って！
+;;もうちょっと待って！Small_talk - They comment WRONG WTF MAN!
 *code03
 
 ;;■魔女の館
@@ -110,18 +110,18 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「どうした？　今日はなんの用事だ？」
+[Verna]"What happened? What is your errand today?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@考える x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「特に何か……といったわけじゃなさそうだな」
+[Verna]"Soo... it doesn't seem to be something"
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「ふふ、丁度いい。私も君に相談したいことがあったんだ」
+[Verna]"Fufu, it's ok. I also had something \nI wanted to talk to you"
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=600 wt=1
@@ -129,7 +129,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「実はな。研究用のサンプルが不足しているんだ。だからその協力をキミにお願いしたい。構わないかな？」
+[Verna]"Actually. I am running short of samples for research. \nSo I would like to ask for your cooperation. \nDo you mind?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -144,7 +144,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「ふふふ。そう来なければな」
+[Verna]"Fufufu. Just as i thought"
 ;;暗転
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300 wt=1

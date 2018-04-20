@@ -20,7 +20,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
 @mes_win back=1 pos=1
-\CLいない……別の場所か……
+\CLNo...another place...
 @mes_win back=0 pos=2
 
 ;;主人公：落ち着く
@@ -40,7 +40,7 @@
 
 @huki b=2 id=4
 
-[？？？]「おや……どうかされましたか？」
+[？？？]"Oh... is there something wrong?"
 
 @bs f=アル@驚き op=ビックリ x=-400 opa=0 y=50 t=20 wt=1
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=150 wt=1
@@ -67,11 +67,11 @@
 @huki b=8 id=4
 @bs f=白良@笑み x=350 y=50 t=200
 
-[？？？]「貴方は？」
+[？？？]"You?"
 
 @bs f=アル@困り op=焦り x=-350 y=50 t=400 wt=1
 
-@select s1=僕は……/*st25a s2=アルといいます/*st25b
+@select s1="I..."/*st25a s2="I'm Al"/*st25b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st25b
 
@@ -83,7 +83,7 @@
 
 @bs f=白良@微笑 x=350 y=50 t=200
 
-[？？？]「アル……良い名前ですね」
+[？？？]"Al... It's a nice name"
 
 @jump target=*next001
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -100,18 +100,18 @@
 
 @bs f=白良@笑み x=350 y=50 t=200
 
-[？？？]「……見たところ、人間のようですね……何故ここに？」
+[？？？]"...Seemingly... you looks \nlike a human... why are you here?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=白良@通常 x=350 y=50 t=200
 
-[？？？]「言伝もなく入ったことは構いませんよ。ここはどんな方も拒絶しない教会ですから」
+[？？？]"I don't care that you entered without permission. \nBecause here it's a church which rejects no one"
 
 @bs f=白良@笑み x=350 y=50 t=200
 
-[？？？]「それで……事情を聞かせてもらってもよろしいですか？」
+[？？？]"So then... do you mind if you \nlet me know the circumstances?"
 
 ;;主人公：戸惑う
 @huki b=8
@@ -121,11 +121,11 @@
 
 @bs f=白良@笑み x=350 y=50 t=400
 
-[？？？]「…………」
+[？？？]"..."
 
 @bs f=白良@微笑 x=350 y=50 t=400
 
-[？？？]「なるほど。領主の『賢者の石』を……そういう事情ですか」
+[？？？]"I see... stealing the Lord \C[2]Philosopher's Stone\[0]..."
 
 ;;主人公：驚き
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
@@ -135,26 +135,26 @@
 
 @bs f=白良@通常 x=350 y=50 t=400
 
-[？？？]「私含め、高位のサキュバスの一部は他人の思考が読める物もいます。そうやって、好みの女性を演じ、警戒を解かせるのです」
+[？？？]"Some of the high succubus, including me, can read other's \nthinking. By doing that, I play a favorite woman. \nIt's to let alarm get out"
 
 @bs f=白良@笑み x=350 y=50 t=200
 
-[？？？]「それにしても……ふふ、窃盗ですか。悪い子ですね……」
+[？？？]"However... fufu, are you a theft. You're a bad child..."
 
 ;;主人公：悲しい顔
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @bs f=白良@淫靡 x=350 y=50 t=600 wt=1
 
-[？？？]「…………」
+[？？？]"..."
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[？？？]「ふふ……わたくしが匿ってあげましょうか？」
+[？？？]"Fufu...Shall I give you shelter?"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
 
-@select s1=本当に……！？/*st27a s2=いいの！？/*st27b
+@select s1=Really...?!/*st27a s2=Is_it_okay?!/*st27b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st27a
 *st27b
@@ -164,12 +164,12 @@
 
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 
-[？？？]「もちろんです」
+[？？？]"Of course"
 
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 @bs f=白良@微笑 x=350 y=50 t=200 wt=1
 
-[白良]「……そういえば自己紹介がまだでしたね。わたくしの名は白良……この愛の教団の教祖を務めさせてもらっている者です」
+[Shirao]"I did not introduce myself yet. My name is Shirao... I'm the one who is serving as the guru of this love group"
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -179,7 +179,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「雄……コホン。ではなく、人の男（おのこ）と、対等の愛を育む教えを説いる教団でございます」
+[Shirao]"Male... Kohon. Rather than predominance, it's a cult \nthat preaches the teaching which fosters equal love"
 
 ;;主人公：疑問符
 @huki b=2
@@ -188,11 +188,11 @@
 
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 
-[白良]「わたくし達は人を物や奴隷の様には扱いません。夫婦として、恋人として……時には、親子として」
+[Shirao]"We do not treat people like things or slaves. \nBut as a couple, as a lover... and sometimes, as family"
 
 @bs f=白良@笑み x=350 y=50 t=200 wt=1
 
-[白良]「ですから……アル……貴方も安心してここにいていただいて構いませんよ」
+[Shirao]"So...Al...you can be safe here as well"
 
 @bgm
 ;;主人公：怪しむ
@@ -211,7 +211,7 @@
 @huki b=2 id=4
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「どうかなさいましたか？」
+[Shirao]"What's the matter?"
 
 ;;主人公：おびえる
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -223,7 +223,7 @@
 @huki b=2 id=4
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 
-[白良]「……大丈夫、恐れる必要などはありません、お疲れでしょう……さぁ、奥へ」
+[Shirao]"... It's okay. There's no need to be afraid. \nAre you tired? Come on inside"
 
 ;;主人公：おびえる
 @bs f=アル@驚き op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -245,19 +245,19 @@
 @move f=白良@笑み x=350 y=50 w=100 h=100 opa=255 t=600 wt=0
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=1
 
-[白良]「……………………」
+[Shirao]"..."
 
 ;;白良悲しい顔
 @bs f=白良@焦り x=350 y=50 t=600 wt=1
 
-[白良]「ふぅ……そうですか」
+[Shirao]"Is that so?"
 
 @bgm
 
 ;;白良落ち込む
 @bs f=白良@哀しみ x=350 y=50 t=400 wt=1
 
-[白良]「来て……いただけない、と」
+[Shirao]"Come...isn't impossible to get it"
 
 ;;主人公：焦り
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -270,15 +270,15 @@
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「……そんな顔をしないでください。貴方が悪いわけではないのですから……ふふ、アルさん、貴方はとても優しい方なのですね」
+[Shirao]"Please don't have such a face. \nBecause I'm not bad... fufu, Al-kun, you are a very kind person"
 
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 
-[白良]「そうですよね。よく知らない相手、といのは怖いものですよね。でしたら、そう……アルさんには、もう少しわたくし達のことを知っていただかなくては」
+[Shirao]"That's right, is it? It's frightening to trust someone \nyou do not know well. If it is good... Al-san should \nlearn more about us"
 
 @bs f=白良@淫靡 x=350 y=50 t=400 wt=1
 
-[白良]「教えてあげます。愛の教団がどれほど素晴らしいものなのか……ということを」
+[Shirao]"I will teach you. \nHow wonderful is the cult of love... that"
 
 @bgm f=h-004 pitch=130
 
@@ -303,14 +303,14 @@
 @move f=白良@微笑 x=350 y=50 w=100 h=100 opa=255 t=600 wt=0
 @move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=600 wt=1
 
-[白良]「皆さん……アルさんの身体に優しく教えてあげて下さい。わたくし達の愛というものを」
+[Shirao]"Everyone... Please teach to Al's body gently. We love you"
 
 @huki b=1
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=100 wt=1
 
 ;;突然現れるシスター達
 @mes_win back=1 pos=1
-\CLはい、白良様！
+\CLYes... Shirao-sama
 @mes_win back=0 pos=2
 
 @move f=アル@驚き x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

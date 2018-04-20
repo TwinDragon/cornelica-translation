@@ -8,11 +8,12 @@
 
 @bs f=メイド@蔑み_赤
 
-[ヴラスタ]「ターゲット……気絶」
+[Vlasta]"Target... Faint"
+「ターゲット……気絶」
 
 @bs f=メイド@通常_赤
 
-[ヴラスタ]「……任務を完了しました」
+[Vlasta]"...Mission accomplished"
 
 @move_f f=メイド@ out=c t=200 wt=1
 

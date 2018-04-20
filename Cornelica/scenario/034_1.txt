@@ -19,15 +19,15 @@
 
 @huki b=1 id=19
 
-[ヴラスタ１]「侵入者」
+[Vlasta 1]"Intruder"
 
 @huki b=8 id=22
 
-[ヴラスタ２]「排除……排除……」
+[Vlasta 2]"...Remove...Remove..."
 
 @huki b=8 id=20
 
-[ヴラスタ３]「捕まえる」
+[Vlasta 3]"Capture"
 
 @huki b=6
 @huki b=6 id=AC0 wt=1
@@ -44,7 +44,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「まずい……騒ぎが大きくなってきた……早くしないと……」
+[Lily]"Bad...the turmoil is getting bigger... \nif we don't act quickly..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -58,7 +58,7 @@
 
 @move_f f=メイ@怒り in=c t=300 wt=1
 
-[メイ－α]「戦闘システム起動……排除……開始」
+[Vlasta-α]"Combat system activated... elimination... start"
 
 @move_f f=メイ@ out=c t=300 wt=1
 
@@ -92,7 +92,7 @@
 @dir dir=up id=AC1
 @move_f f=メイ@怒り in=c t=200 wt=1
 
-[メイ－α]「敵ヴラスタ……沈黙」
+[Vlasta-α]"Enemy Vlasta... silenced"
 
 @bgm f=s-009 pitch=80
 @move_f f=メイ@ out=c t=200 wt=1
@@ -104,9 +104,9 @@
 @move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
 
-;;「凄い……！」
-;;「カッコいい……」
-@select s1=凄い……！/*st20a s2=カッコいい……/*st20b
+;;"Amazing!"
+;;"Cool..."
+@select s1="Amazing!"/*st20a s2="Cool..."/*st20b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st20a
 *st20b
@@ -128,7 +128,7 @@
 @bs f=メイ@困惑_頬 x=350 y=50 t=600 wt=1
 @wait t=300
 
-[メイ－α]「……進みましょう」
+[Vlasta-α]"...let's proceed"
 
 ;;主人公：疑問符
 @huki b=2
@@ -138,7 +138,7 @@
 @dir dir=up id=AC1
 @bs f=メイ@怒り x=350 y=50 t=200 wt=1
 
-[メイ－α]「何か？」
+[Vlasta-α]"What is?"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200

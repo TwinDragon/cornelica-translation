@@ -47,7 +47,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「あ……！　いたっ！」
+[Lily]"Ah! There!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -67,7 +67,7 @@
 
 @bs f=リリィ@微笑 op=焦り t=200
 
-[リリィ]「よかった……やっと見つけた……捕まっちゃってたんだね」
+[Lily]"I'm glad... finally I found you... I was caught"
 
 @move_f f=リリィ@ out=c t=200 wt=1
 
@@ -81,9 +81,9 @@
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
 
-;;リリィ！？
-;;どうしてここに！？
-@select s1=リリィ？/*st23a s2=どうしてここに？/*st23b
+;;Lily?!
+;;Why_are_you_here?!
+@select s1=Lily?!/*st23a s2=Why_are_you_here?!/*st23b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st23a
 *st23b
@@ -94,7 +94,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「そんなことは今はいいって、それよりも……」
+[Lily]"It's better to do such a thing now, than that..."
 
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 
@@ -104,7 +104,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「よし」
+[Lily]"All right"
 
 @huki b=2
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=400 wt=1
@@ -132,7 +132,7 @@
 
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=200
 
-[リリィ]「……驚くのも無理ないよね……まぁ、色々あってね。それより、早くここから逃げて。ほら、これ……」
+[Lily]"It's reasonable to be surprised... oh dear, \nthere are various things. Other than that, run away from \nhere as soon as possible. Here, this..."
 
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 
@@ -149,16 +149,16 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「脱出ルートを書いておいた。それがあればアル一人でも街に……」
+[Lily]"I wrote the escape route. With this, even Al alone could..."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
 @se f=Book1
 @move_f f=お使いリスト@ out=l t=300 wt=1
 
-;;リリィは一緒じゃないの？
-;;一人で残るつもり？
-@select s1=リリィは一緒じゃないの？/*st24a s2=一人で残るつもり？/*st24b
+;;"Lily_are_you_not_comming?"
+;;"Are_you_planning_to_leave_me_alone?"
+@select s1="Lily_are_you_not_comming?"/*st24a s2="Are_you_planning_to_leave_me_alone?"/*st24b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st24a
 *st24b
@@ -169,7 +169,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「うん」
+[Lily]"Yes"
 
 @huki b=1
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=400 wt=1
@@ -184,7 +184,7 @@
 
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=300
 
-[リリィ]「気持ちは嬉しいけど私は……大丈夫。危ないことだってないから……。だからアル……逃げて」
+[Lily]"I'm glad but you are... safe. Because there is no danger. \nSo Al... run away"
 
 ;;主人公：首を振る
 @huki b=8
@@ -196,7 +196,7 @@
 
 @bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=300
 
-[リリィ]「早くっ！」
+[Lily]"Quick!"
 
 ;;主人公：驚き
 @huki b=1
@@ -213,7 +213,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=300
 
-[リリィ]「……ごめんね。後で……後で、必ず追いつくから」
+[Lily]"...I'm sorry. Later... later I will defenitely \ncatch up with you"
 
 @bs f=アル@焦り x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -284,12 +284,12 @@
 @huki b=8 id=15
 @dir dir=right id=15
 
-[リリィ]「……やっと……行ってくれた」
+[Lily]"...finally...it went"
 
 @huki b=1 id=15
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
 
-[？？？]「しばらく見ぬ間に随分やんちゃになったものだのぅ」
+[？？？]"You've become quite mischievous while \nI have not seen you for a while"
 
 @bgm f=s-012 pitch=90
 
@@ -316,35 +316,35 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[？？？]「さっき振りじゃのぅ……リリィ」
+[？？？]"It took a while... Lily"
 
 @bs f=リリィ@蔑み_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「……だね」
+[Lily]"...right"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[？？？]「それにしても、まさかこのような方法で戻ってくるとは思いもせなんだぞ」
+[？？？]"Even so, I don't think that \nyou will come back in such a way"
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「それはね……私も同感」
+[Lily]"That... I also agree"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[？？？]「ふふ……で、あの人間はなんじゃ？　ヴェルナのところのガラクタはともかく……アレはなかなか気になるぞ」
+[？？？]"Fufu...What is that man? It's nothing but a waste from Verna... it's pretty obvious"
 
 @bs f=リリィ@蔑み_r x=-350 y=50 t=800 wt=1
 
-[リリィ]「…………」
+[Lily]"......"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[？？？]「話す気はなしといったところか……」
+[？？？]"So, you are not talking?"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[？？？]「……まぁいい。話す気がないのなら、別によい……わしは部屋に戻る」
+[？？？]"...oh well. If you do not feel like talking, I'll return to my room"
 
 @bgm
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
@@ -362,7 +362,7 @@
 @huki b=8 id=15 wt=0
 @move_f f=リリィ@哀しみ in=c t=600 wt=1
 
-[リリィ]「………………」
+[Lily]"......"
 
 @fade type=out t=2000 wt=1
 @move_f f=リリィ@ out=c t=20 wt=1

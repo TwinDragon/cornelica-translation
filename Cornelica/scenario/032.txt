@@ -67,7 +67,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「よしっ！　上手く入り込めたみたい……！」
+[Lily]"All right! It seems we could get in smoothly...!
 
 @move_f f=リリィ@ out=r t=200 wt=1
 
@@ -75,7 +75,7 @@
 @bs f=メイ@怒り x=400 y=50 opa=0 t=20 wt=0
 @move f=メイ@怒り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
 
-[メイ－α]「……辺りに熱源は無いようです……ですが」
+[Vlasta－α]"... there seems to be no heat source around... but..."
 
 @move_f f=アル@ out=l t=200 wt=1
 
@@ -86,15 +86,15 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「どうしたの？　メイ？」
+[Lily]"What's wrong? Vlasta－α?"
 
 @bs f=メイ@焦り x=350 y=50 t=200 wt=1
 
-[メイ－α]「索敵用のレーダーが妨害されております。見つかった場合は実力行使となるでしょう」
+[Vlasta－α]"Radar for searching enemies is being disturbed. \nIt's likely to become a fight if we get found"
 
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「そんなセキュリティがあったんだ……慎重に進まないとね」
+[Lily]"We had such security... we have to proceed carefully"
 
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=メイ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -119,7 +119,7 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「アル、こっちだよ」
+[Lily]"Al, here"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=600

@@ -5,7 +5,7 @@
 
 @move_f f=メイド@蔑み_赤 in=c t=600 wt=1
 
-[ヴラスタ]「ターゲット……捕獲。連行する」
+[Vlasta]"Target...capture. Taking him away"
 
 @se f=Move1
 

@@ -24,11 +24,11 @@
 @huki b=7 id=AC0
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200
 
-[リリィ]「はぁ……思ってた以上に大変だった……でも」
+[Lily]"Ha... it was harder than I expected... however..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「……アル、この先が領主の部屋だよ」
+[Lily]"...Al, this is the Lord's room"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=800 wt=1
 @wait t=600
@@ -126,7 +126,7 @@
 @huki b=1 id=AC0
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200
 
-[リリィ]「あ……ほら、あれ！　あれが、『賢者の石』って……」
+[Lily]"Ah... hey, that! That's...the \C[2]Philosofer's Stone\C[0]!"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
@@ -137,7 +137,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……？　前、見た時より、光ってない……？」
+[Lily]"...? Previously, than when I saw it, it doesn't shine?"
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -156,7 +156,7 @@
 
 @move_f f=メイ@怒り in=c t=200 wt=1
 
-[メイ－α]「……未知の魔力を検知。石の表面に作用していると思われます。特にトラップ等は検知できません」
+[Vlasta-α]"Detect unknown magical power. \nIt seems that it is acting on the surface of the stone. \nParticularly trap and other haven't be detected"
 
 @move_f f=メイ@ out=c t=200 wt=1
 
@@ -175,7 +175,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「なにかの魔法で光を押さえてるのかな……？　でも、トラップじゃないなら大丈夫だよね」
+[Lily]"Is light suppressed by the magic of something...? \nBut, if it's not a trap, it's okay"
 
 @dir dir=down id=AC0
 @dir dir=right
@@ -184,7 +184,7 @@
 @bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=200
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
 
-[リリィ]「行こ、アル！　『賢者の石』さえ手に入れれば帰れるよ！」
+[Lily]"Let's go Al! \nWith the \C[2]Philosofer's Stone\C[0] you can return home!"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1

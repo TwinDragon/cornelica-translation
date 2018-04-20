@@ -187,7 +187,7 @@
 @c_jump wt=0
 
 @mes_win back=1 pos=1
-\CL侵入者が脱走……見つけ次第、拘束
+\CLThe intruder escaped... as soon as it finds, restraint him
 @mes_win back=0 pos=2
 
 @huki b=7

@@ -13,7 +13,7 @@
 @huki b=8 id=AC0
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「……はい。また、集めてきたよ。言われてた素材」
+[Lily]"Okay. We've gathered all the material you asked for"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -24,7 +24,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「あぁ、ありがとう。少し待っていてれ、すぐに用意する」
+[Verna]"Ah, thank you. Wait a while, I'll prepare it immediately"
 
 @bgm_save
 @bgm
@@ -58,7 +58,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「さて、できたぞ。ではアル。これを服用してみたまえ」
+[Verna]"Well, you can do it. So, Al: try this"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -92,7 +92,7 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「どう……？」
+[Lily]"How is it...?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=600
@@ -113,7 +113,7 @@
 
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「蓄積してるチャームが少し減ったようだな。ふむ……進展アリか、よし次だ」
+[Verna]"It seems that the accumulating charm \nhas decreased a little. \nUhm... small progress. Alright next"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -128,12 +128,12 @@
 @huki b=2 id=AC0
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「ねぇ……もう少し別の方法とか、無いの……？　これじゃ、全然先が見えないよ……」
+[Lily]"Come on...is there something a bit different, \nor is not it...? I can't see the destination at all..."
 
 @huki b=7 id=AC0
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「……せめて、必要な素材が全部わかればいいんだけど……」
+[Lily]"...at least, I hope to find all the necessary materials..."
 
 @move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@困惑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -144,7 +144,7 @@
 
 @move_f f=ヴェルナ@考える in=c t=200 wt=1
 
-[ヴェルナ]「そうは言っても、服用後の経過を見ないことにはなぁ……汎用的に使える素材が揃えられるなら話は別だが……」
+[Verna]"Having said that, you'll not see the progress \nafter taking it. If it is possible to arrange \ngeneral-purpose materials, the story is different"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -158,33 +158,33 @@
 @huki b=2 id=AC0
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「例えば……？」
+[Lily]"For example...?"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「そうだな……それこそ、上位のドラゴンの心臓くらいでなければ無理だろう」
+[Verna]"I hear that... that will be impossible unless \nit's about the heart of the superior dragon"
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「ド、ドラゴン！？　そんな上位の魔物、倒せるわけないよ！」
+[Lily]"D-D-Dragon?!　Such superior demon, we can't beat it!"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「だろうな。その他となれば……そうだな、身近なところで言えば、『賢者の石』あたりでもあれば、万事解決かもな」
+[Verna]"I wonder. Otherwise... that's it, speaking of \nfamiliar place, the \C[2]Philosopher's Stone\C[0] \nwill also solve all our problem"
 
 @huki b=8 id=AC0
 @bs f=リリィ@困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「………………」
+[Lily]"..."
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「それって…………」
+[Lily]"...that's..."
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「………領主が、とある男と共同で製作した高純度の魔力結晶だ」
+[Verna]"...It's a high purity magical crystal that the Lord \nproduced in cooperation with a certain man"
 
 @move f=リリィ@困惑_r x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -203,9 +203,9 @@
 
 @bs f=アル@普通 op=ハテナ x=-350 y=50 t=200 wt=1
 
-;;領主……？
-;;どんな人なんだろう？
-@select s1=領主……？/*st17a s2=どんな人なんだろう？/*st17b
+;;Lord...?
+;;What_kind_of_person_is_it?
+@select s1=Lord...?/*st17a s2=What_kind_of_person_is_it?/*st17b
 ;;============================================================================
 *st17a
 *st17b
@@ -216,7 +216,7 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「いやみったらしくて、古臭いやつ」
+[Lily]"It seems that he was miserable, old-fashioned guy"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @wait t=300
@@ -234,7 +234,7 @@
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=300 wt=0
 @move f=ヴェルナ@焦り x=350 y=50 w=100 h=100 opa=255 t=300 wt=1
 
-[ヴェルナ]「いや、別にそんなことは……」
+[Verna]"Ehm... something like that..."
 
 @huki b=8 id=2
 @bs f=ヴェルナ@通常 x=350 y=50 t=600 wt=1
@@ -247,7 +247,7 @@
 @bs f=ヴェルナ@考える x=350 y=50 t=600 wt=1
 @wait t=800
 
-[ヴェルナ]「……ああ、なるほど。そういうことか……リリィ、キミはアルに何か秘密にしてることがあるんじゃないか？」
+[Verna]"Ah...I see. I get it... Lily, \nare you not keeping anything secret to Al?"
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
@@ -280,7 +280,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200
 
-[リリィ]「別に、何もないもん……ただ、あんなやつに頼んでも無駄だから」
+[Lily]"There is nothing... however, \nit's useless to ask such a bad guy"
 
 @move_f f=リリィ@ out=r t=200 wt=1
 
@@ -290,13 +290,13 @@
 @move f=ヴェルナ@考える x=350 y=50 w=100 h=100 opa=255 t=400 wt=0
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
-[ヴェルナ]「まぁ……別に私は構わないが、アルはそれでもいいのかな？」
+[Verna]"Well... even if I do not mind, is Al still Ok?"
 
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1
 
-;;気にしない
-;;大丈夫
-@select s1=気にしない/*st18a s2=大丈夫/*st18b
+;;Don't_worry
+;;It's_Ok
+@select s1=Don't_worry/*st18a s2=It's_Ok/*st18b
 ;;============================================================================
 *st18a
 *st18b
@@ -314,7 +314,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600
 
-[リリィ]「……アル……」
+[Lily]"...Al..."
 
 ;;リリィ微笑む
 @bs f=アル@笑顔 x=-350 y=50 t=600 wt=1
@@ -325,7 +325,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
 
-[リリィ]「ありがと」
+[Lily]"Thank you"
 
 ;;シーン終了
 @move f=アル@笑顔  x=-400 y=50 w=100 h=100 opa=0 t=300 wt=0
@@ -340,7 +340,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「ふむ。君がそれで構わないのなら私は何も言うまい」
+[Verna]"Hmm...if you are all right, I will not say anything"
 
 @move_f f=ヴェルナ@ out=c t=250 wt=1
 
@@ -353,54 +353,54 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「で、話を戻すが、それ以外だと、やはり試行錯誤を繰り返す以外はないな」
+[Verna]"And, if it is nothing else, there is no other way \nthan to repeat trial and error"
 
 @huki b=7 id=AC0
 @bs f=リリィ@困惑_r op=困惑_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「うぅ……せめてあと何回くらい素材集めすればいいか、それだけでも分かれば気が楽なのに……」
+[Lily]"Uh... at least you know how many more times \nshould we collect the material?"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「そうだな……順調に進んでも百は超えるだろうな」
+[Verna]"Oh yeah... well, if we go on steadily \nit will probably exceed one hundred"
 
 @huki b=1 id=AC0
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200
 @move f=リリィ@焦り_r x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り_r x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「百！？　それも少なくて！？　そんなの何年かかるかわからないよ！」
+[Lily]"One hundred?! This much?! \nI don't know how long it will take!"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「何年で済めばまだマシな方だろう。そもそも、君たちが取ってこれそうなものを選んで頼んでいるんだ」
+[Verna]"How many years will it cost to be still better? \nI'm asking you in the first place to choose \nwhat you are likely to get"
 
 @bs f=リリィ@哀しみ_r op=焦り_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「うぅ…………」
+[Lily]"Wow..."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「まぁ、この私が取り組むんだ。遅くても十年内には納めて見せるさ」
+[Verna]"Now now, this's what I'm working on. \nI will pay it within 10 years even if it's late"
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=600 wt=1
 @wait t=600
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「…………」
+[Lily]"..."
 
 @bs f=リリィ@蔑み_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「……ねぇ、もし『賢者の石』があったら、どれくらいでアルを向こうに帰せる……？」
+[Lily]"...hey, if there were the \C[2]Philosopher's Stone\C[0], \nhow long it would take for Al to go home?"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「即日だ。アルがこちらに来てしまった原因が『触媒』を持った状態でポータルに近付いた事だ」
+[Verna]"The same day. The reason why Al came here is that he \napproached the portal with a "catalyst" in the first place"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「同じ現象を起こせるだけのそれが手に入るのなら、そもそもこんな事をする必要が無い」
+[Verna]"If we have one enough powerfull to produce the \nsame phenomenon, there is no need to keep researching \nin the first place"
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 @wait t=600
@@ -432,16 +432,16 @@
 @bs f=リリィ@蔑み x=350 y=50 t=600
 @wait t=400
 
-[リリィ]「…………」
+[Lily]"..."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「分かった……こうなったら……」
+[Lily]"I understood... when it comes to this..."
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=200
 
-[リリィ]「……気付かれないように盗み出す。『賢者の石』を！」
+[Lily]"...we must steal the \C[2]Philosopher Stone\C[0] \nwithout being noticed"
 
 ;;主人公：驚き
 @huki b=1
@@ -452,13 +452,13 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「多分……大丈夫……」
+[Lily]"...maybe...all right..."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=200
 
-;;「そんなことして大丈夫なの！？」
-;;「でも、それじゃリリィが……」
-@select s1=そんなことして大丈夫なの！？/*st19a s2=でも、それじゃリリィが……/*st19b
+;;"Is_it_okay_to_do_such_thing?!"
+;;"But_then,_Lily..."
+@select s1="Is_it_okay_to_do_such_thing?!"/*st19a s2="But_then,_Lily..."/*st19b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st19a
 *st19b
@@ -479,20 +479,20 @@
 
 @move_f f=ヴェルナ@考える in=c t=250 wt=1
 
-[ヴェルナ]「別に、研究に使ったからと言って賢者の石が消滅するわけではないが、貸してもらうことすら難しいと……君が言うのならそうなのだろう」
+[Verna]"Even though we use it for research, the \C[2]Philosopher's Stone\C[0]\n will not disappear, but it is difficult even to lend it... \nI wonder trying to steal it"
 
 @bs f=ヴェルナ@通常 t=200
 
-[ヴェルナ]「……いざという時は私が匿おう。私も長く生きている。逃走手段などいくらでもあるよ」
+[Verna]"In case of emergency, I will give you shelter. \nI am alive for a long time. There are many ways to escape"
 
 @bs f=ヴェルナ@考える t=200
 
-[ヴェルナ]「なに、大した事じゃないさ、私は好奇心が第一なのだよ。これから面白いものが見られるかもしれないのだ、多少の犠牲は問題ではない」
+[Verna]"It's not a big deal, I am very curious. \nI may be able to see interesting things from now on. \nA little sacrifice is not a problem"
 
 @huki id=2 b=2
 @bs f=ヴェルナ@微笑 t=200
 
-[ヴェルナ]「それで、侵入はどうするつもりだ？」
+[Verna]"So what do you intend to do?"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -505,7 +505,7 @@
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
 
-[リリィ]「その点なら大丈夫。城の隠し通路を知ってるから」
+[Lily]"Well, in this case it's ok. \nI know a hidden passage for the castle"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=300
@@ -513,7 +513,7 @@
 
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「入口に関しては問題ないよ。だから……侵入して盗むってことで……決まりでいいよね？」
+[Lily]"There isn't a problem for the entrance. \nSo... sneak in and steal... that's settled?"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
@@ -528,7 +528,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「決まりだな。となると……よし、こいつを連れて行け」
+[Verna]"It's settled. When starting... you can take this guy"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -549,17 +549,17 @@
 @move_f f=メイ@怒り in=c t=250 wt=1
 ;;メイ－α出現
 
-[メイ－α]「……よろしくお願いします」
+[Vlasta－α]"...please treat me well"
 
 @move_f f=メイ@ out=c t=250 wt=1
 
 @move_f f=ヴェルナ@通常 in=c t=250 wt=1
 
-[ヴェルナ]「私が戦闘用に特別チューンしたヴラスタだぞ。燃費は悪いが、きっと役に立つ」
+[Verna]"It's a Vlasta that I tune specifically for battle. \nBad fuel consumption, but surely useful"
 
 @bs f=ヴェルナ@微笑 t=200 wt=1
 
-[ヴェルナ]「私はついていけないからな、代理だ」
+[Verna]"Since I can't come with you, it's a substitute"
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 
@@ -572,11 +572,11 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[リリィ]「ありがとう！」
+[Lily]"Thank you!"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200
 
-[リリィ]「それで……『賢者の石』場所なんだけど、領主の部屋に置いてあることは間違いないよ。領主は夜の間そこから離れた執務室にいるから、やるなら夜だね」
+[Lily]"So then... there's no doubt that the \C[2]Philosopher's Stone\C[0] \nis in the Lord room. The lord is away from his office \nin the night, so if we do it, it must be night"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=600
@@ -595,7 +595,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「よし決まりだ……では準備ができたら話しかけるといい」
+[Verna]"Alright... then you should talk to me when you are ready"
 
 @bgm
 @fade type=out t=1000 wt=1

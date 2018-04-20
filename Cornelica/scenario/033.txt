@@ -18,8 +18,8 @@
 @huki b=1 id=AC1 wt=1
 
 @huki b=1 id=47 wt=0
-[ヴラスタ]「侵入者……侵入者」
-
+[Vlasta]"Intruder... Intruder"
+;;*flashback to WoW:"Intruder Alert! Intruder Alert!"*
 @map_scroll dir=right dis=11 spd=7
 
 @change f=メイドゴーレム id=49

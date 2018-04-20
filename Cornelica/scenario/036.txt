@@ -17,7 +17,7 @@
 @huki b=1
 
 @mes_win back=1 pos=1
-\CL何をしておる
+\CLWhat are you doing
 @mes_win back=0 pos=2
 
 @dir dir=down id=AC0
@@ -35,7 +35,7 @@
 
 @bs f=リリィ@蔑み op=焦り x=350 y=50 t=200
 
-[リリィ]「……ぁ、……し、しまったっ！」
+[Lily]"...Ah...Oh no!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@蔑み x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -54,7 +54,7 @@
 @huki b=7 id=1
 @anime id=1 num=203 wt=0
 
-[？？？]「はぁ……。全員、しばらく寝ておれ」
+[？？？]"Is...Everyone, please sleep for a while"
 
 @anime id=1 num=204 wt=0
 @huki b=1 id=AC0
@@ -94,7 +94,7 @@
 @move f=リリィ@焦り x=340 y=50 w=100 h=100 t=50 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=50 wt=1
 
-[リリィ]「あ……あああああっ……」
+[Lily]"Ah...Aaaaaah..."
 
 @bs f=アル@屈辱 op=困惑 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
@@ -102,10 +102,10 @@
 @move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
 
-;;倒れる二人
-;;「なに……これ……」
-;;「身体……動かない……」
-@select s1=なに……これ……/*st21a s2=身体……動かない……/*st21b
+;;Two people falling down
+;;"what's...this……"
+;;"My_body...doesn't_move..."
+@select s1="what's...this……"/*st21a s2="My_body...doesn't_move..."/*st21b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st21a
 *st21b
@@ -113,7 +113,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 @bs f=リリィ@困惑 op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「……ぅ…」
+[Lily]"...no..."
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=リリィ@困惑 x=350 y=300 w=100 h=100 opa=0 t=250 wt=1
@@ -125,13 +125,13 @@
 @bs f=メイ@焦り x=400 y=50 opa=0 t=20 wt=0
 @move f=メイ@焦り x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
 
-[メイ－α]「申し訳……ありません……。回路に深刻なダメージが……入りました」
+[Vlasta-α]"Apology...There is none... \nThere is no serious problem in the circuit...to hold"
 
-[メイ－α]「リカバリーする必要……あり……。しばらく機能……停止……」
+[Vlasta-α]"Recovering required...it's... for a while...stop..."
 
 @bs f=メイ@怒り x=350 y=50 t=200 wt=1
 
-[メイ－α]「……………………」
+[Vlasta-α]"......."
 
 @move f=メイ@怒り x=350 y=300 w=100 h=100 opa=0 t=250 wt=1
 @se f=Blow6
@@ -142,7 +142,7 @@
 
 @huki b=2 id=1
 
-[？？？]「…………ん？」
+[？？？]"...hmmm?"
 
 @huki b=7
 @move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1
@@ -160,7 +160,7 @@
 
 @bs f=ヴァネッサ@蔑み t=300
 
-[？？？]「なんじゃ、まだ意識があるのか」
+[？？？]"What's going on? Are you still conscious?"
 
 @move_f f=ヴァネッサ@ out=c t=300 wt=1
 

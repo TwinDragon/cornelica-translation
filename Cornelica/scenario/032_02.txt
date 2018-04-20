@@ -6,11 +6,11 @@
 
 @move_f f=リリィ@焦り op=ビックリ in=c t=150
 
-[リリィ]「待って……！」
+[Lily]"Wait……!"
 
 @bs f=リリィ@困惑 in=c t=150
 
-[リリィ]「昼間に忍び込むのは危険だから、夜まで待ってからにしよう？」
+[Lily]"Since it is dangerous to sneak in during the day, \nshall we wait until the night?"
 
 @move_f f=リリィ@ out=c t=150
 @route route=down

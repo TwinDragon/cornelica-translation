@@ -4,7 +4,7 @@
 
 @move_f f=リリィ@焦り op=ビックリ in=c t=200
 
-[リリィ]「アル……！　こっちは正面玄関だよっ」
+[Lily]"Al!　This is the main entrance"
 
 @move_f f=リリィ@ out=c t=200
 

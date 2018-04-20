@@ -87,7 +87,7 @@
 
 @move_f f=メイド@蔑み_赤 in=c t=600 wt=1
 
-[ヴラスタ]「指定の場所に到着。無力化作業、開始」
+[Vlasta]"Arrived at the designated place. \nDisempowerment work,  beginning"
 
 @move_f f=メイド@ out=c t=300 wt=1
 
