@@ -9,15 +9,15 @@
 @bs f=白良@哀しみ x=350 y=50 t=300 wt=1
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 
-[白良]「……そうですか」
+[Shirao]"...is that so"
 
 @bs f=白良@通常 x=350 y=50 t=300 wt=1
 
-[白良]「ふふ。すぐに決めろというのも確かに酷な話」
+[Shirao]"Fufu. It's certainly a cruel choice to decide immediately"
 
 @bs f=白良@微笑 x=350 y=50 t=300 wt=1
 
-[白良]「分かりました。少しばかり猶予を、決意が固まったら私に声をかけてください」
+[Shirao]"I understand. A little grace, \nplease call me when you have decide"
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1

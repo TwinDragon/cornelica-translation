@@ -45,7 +45,7 @@
 
 @move_f f=ヴァネッサ@微笑 in=c t=300
 
-[ヴァネッサ]「ここは……そこの馬鹿娘の部屋じゃよ」
+[Vanessa]"Here... you're in the stupid daughter's room there"
 
 @move_f f=ヴァネッサ@ out=c t=300
 
@@ -60,7 +60,7 @@
 @move f=リリィ@蔑み x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@蔑み x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「むっ……むぐううっ！」
+[Lily]"Muu... Mug"
 
 @dir dir=up
 
@@ -86,7 +86,7 @@
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「ここに来た理由じゃが……簡単な理由じゃ。見せつけてやるためじゃよ」
+[Vanessa]"There's a reason why we came here... \nEasy reason. I'm trying to show off to you"
 
 ;;主人公：疑問符
 @huki b=2
@@ -95,11 +95,11 @@
 
 @bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「まぁ、すぐに分かる」
+[Vanessa]"Well, you understand immediately"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……では、始めるぞ」
+[Vanessa]"...then, let's get started."
 
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=300 wt=1
 @wait t=200

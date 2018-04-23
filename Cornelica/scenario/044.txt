@@ -10,7 +10,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「フフ……それが貴方の選択肢なのですね」
+[Shirao]"Hehe... that's your choice"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=300 wt=1
@@ -20,7 +20,7 @@
 
 @bs f=白良@淫靡 x=350 y=50 t=300 wt=1
 
-[白良]「では、今日から貴方は私達のものです……それでは……」
+[Shirao]"From today, you are ours... then..."
 
 @move f=アル@屈辱 x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=白良@淫靡 x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -41,7 +41,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「怯えなくても大丈夫ですよ。アルさん……貴方にはこの魔法で変わっていただきます」
+[Shirao]"You do not need to be frightened. \nAl... you will be changed by this magic"
 
 ;;主人公：疑問符
 @huki b=2
@@ -50,7 +50,7 @@
 
 @bs f=白良@淫靡 x=350 y=50 t=300 wt=1
 
-[白良]「今の貴方も魅力的ではありますが、もっともっと私好みの姿に……」
+[Shirao]"Even now you are attractive, \nbut this is more like my personal preference..."
 
 ;;主人公：驚く
 @bs f=アル@驚き op=焦り body=-1 face=0 x=-350 y=50 t=300

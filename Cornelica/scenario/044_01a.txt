@@ -2,63 +2,64 @@
 ;;■教会
 ;;主人公：目覚める
 
-[白良]「……目が覚めましたか？」
+[Shirao]"...did you awake?"
 
 ;;主人公：驚く
 
-[白良]「そんなに驚かないで下さい。わたくしだって傷つきますよ……」
+[Shirao]"Please do not be so surprised. Even I will get hurt..."
 
 ;;主人公：焦り
 
-[白良]「ふふ、素直ですね。アルさん……先ほどは貴方をいきなり襲わせてしまって、申し訳ありません」
+[Shirao]"Fufu, you're obedient. Al... I am sorry \nI let you hit suddenly"
 
-[白良]「でも、あれは必要なことだったのです。貴方を逃がさないために……」
-
-;;主人公：疑問符
-
-[白良]「教団の教えのことではありません。わたくしは、貴方がお城から逃げて来たことを知っていたのです。領主様から念話で聞されておりました」
-
-[白良]「ちなみに、城勤めのヴラスタ達も教会の方向へ追い詰めるように動いておりましたよ」
-
-[白良]「最初から、貴方を捕まえるため、ここに誘い込んだのです」
-
-;;主人公：おびえ
-
-[白良]「……そんなに心配しなくてもいいですよ。まだわたくしは貴方を捕らえたことを領主様達に伝えてはおりませんから」
+[Shirao]"However, that was necessary. \nIn order not to let you escape..."
 
 ;;主人公：疑問符
 
-[白良]「……疑問に思いますか？　そうですね……ふふ……貴方に、選択肢を与えるため、と言ったところでしょうか」
+[Shirao]"It's not about the teachings of the cult. \nI knew that you ran away from the castle. \nI was tasked by my lord mind"
 
-[白良]「わたくしは、領主からは『リリィと同じくらいの歳の人間を捕まえたら領主の前に突き出せ』と言われております」
+[Shirao]"By the way, The castle's vlastas were moving as well \nto chase you towards the church"
+
+[Shirao]"From the beginning, I brought you here to capture you"
 
 ;;主人公：おびえ
 
-[白良]「……しかし、貴方にはもう一つ選択を差し上げます。」
+[Shirao]"...don't worry too much. \nI have not yet passed on to the Lord that I caught you"
 
-[白良]「フフ……貴方には元の世界に戻ることを諦めてもらい、その上で、わたくし達と共にこの教会で暮らす、という選択肢です。……その際には、少々姿を変えてもらいますが」
+;;主人公：疑問符
 
-[白良]「フフ……フフフフ……さて、どういたしますか？　このまま領主の前に突き出されるか、わたくし達の子として暮らすか。……先程のシスター達の奉仕は、心地よかったでしょう？」
+[Shirao]"...are you wondering? That's so... fufu... \nI told you I'll give you the choice"
+
+[Shirao]"The Lord said 'If you capture a human with the same age as Lily, hand him over'"
+
+;;主人公：おびえ
+
+[Shirao]"...However, I will give you another choice for you"
+
+[Shirao]"Eheh... You can choice give up on returning to the \noriginal world, and then live in this church with us... \nin that case, I will change you a little bit"
+
+[Shirao"Eh...eheheh... Well, how do you do? Will you return in front of the lord? Or will you live as a child of ours?"
 
 ;;主人公：考える
 
-;;領主に会う
-;;ここで暮らす
-@select s1=諦めない/*st29a s2=諦める/*st29b
+;;Meet_the_lord
+;;Living_here
+@select s1=Meet_the_lord/*st29a s2=Living_here/*st29b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st29b
 
 
 ;;領主に会う
 
-[白良]「わかりました……それでは、領主様の元へ……わたくしが連れて行って差し上げます」
+[Shirao]"I see...then, to the Lord...I will take you there."
 
-[白良]「……さぁ、手を……」
+[Shirao]"...now, hold my hand"
+
 
 ;;主人公：うなずく
 
 ;;白良の手を取るアル
-[白良]「では……いきます」
+[Shirao]"Well, we will go"
 
 ;;SE■魔法発動音
 ;;ホワイトアウト

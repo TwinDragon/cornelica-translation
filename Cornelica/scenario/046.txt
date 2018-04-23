@@ -20,7 +20,7 @@
 @move_f f=ヴァネッサ@微笑 in=c t=250 wt=1
 
 ;;アル、領主の間に入る
-[？？？]「……来たか」
+[？？？]"Did you come ...?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -44,11 +44,11 @@
 @huki b=2 id=5
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[？？？]「どうかしたか？」
+[？？？]"What's wrong?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 
-@select s1=きみが……？/*st32a s2=領主だったの？/*st32b
+@select s1=You...? /*st32a s2=You_were_the_lord?/*st32b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st32a
 *st32b
@@ -60,17 +60,17 @@
 @huki id=5 b=8
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[？？？]「ははぁ……そうか。妾の姿を見て、勘違いしたか？　じゃが、それは間違いであるぞ」
+[？？？]"Haha... Is that so? \nDid you misunderstand when you saw me? \nWell then, that's a mistake."
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=300 wt=1
 
-[？？？]「妾の名はヴァネッサ。この街の……コルネリカの領主ヴァネッサじゃ」
+[？？？]"My name is Vanessa. \nIn this city... Cornelica's Lord Vanessa"
 
 @huki id=5 b=8
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「……よく来たな……アルよ」
+[Vanessa]"...well come... Al"
 
 ;;主人公：驚く
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -80,7 +80,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「貴様がここに来ることは白良から聞いておったからな。当然名前もな」
+[Vanessa]"I heard from Shirao that you are here. \nOf course there are also other voices..."
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -90,17 +90,17 @@
 ;;主人公：納得
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「じゃが……すべてを聞いたわけではない。故に、話してもらうぞ」
+[Vanessa]"Well then, I didn't listen to everyone. \nTherefore, I will have you talk"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「何故我が城に忍び込んだのか。そして何故、わし……いや妾の『賢者の石』を持ち去ろうとしたのかを……な」
+[Vanessa]"Why did you sneak in to my castle? \nAnd why... did you try to be steal my \C[2]Philosopher's stone\C[0]?"
 
 ;;主人公：真剣な顔
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 
-@select s1=ポータルを開くため/*st33a s2=元の世界に帰るため/*st33b
+@select s1=To_open_a_portal/*st33a s2=To_return_to_my_world/*st33b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st33a
 *st33b
@@ -111,14 +111,14 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「なるほど……異界の門を開く為か……。ふむ……それであの――」
+[Vanessa]"I see... To open a gate in a different world. \nHmm... so... umm..."
 
 @bgm
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「……馬鹿娘と」
+[Vanessa]"...with a foolish daughter"
 
 ;;主人公：驚く
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -150,7 +150,7 @@
 @move_f f=リリィ@焦り op=ビックリ in=c t=200 wt=1
 ;;室内にリリィが入ってくる
 
-[リリィ]「アルっ！！」
+[Lily]"Al!!"
 
 @move_f f=リリィ@ out=c t=200 wt=1
 
@@ -169,7 +169,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「なんでこんな所にいるの！？」
+[Lily]"Why are you in such place?"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -190,19 +190,19 @@
 
 @bs f=リリィ@蔑み_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「ママッ！　アルを解放して！！」
+[Lily]"Mama! Release Al!!"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「解放？　こうなったのは誰のせいだと思っておるのじゃ？　わざわざ面倒なことをしでかしおって」
+[Vanessa]"Release? Who do you think it was because of this? \nDon't bother doing all this trouble"
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「『この世界の外へ行ってみたい』ずっとそう言っておったからな……大方、利用するつもりで付きまとっていたのであろう？」
+[Vanessa]"'I want to go out of this world', you always said so... \nwere you supposed to have the intention of using it?"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「チャームを吸う魔法を教えたのは間違いじゃったか？」
+[Vanessa]"Have you taught magic that sucks charm is a mistake?"
 
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 @move f=リリィ@焦り_r x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -211,16 +211,16 @@
 
 @bs f=リリィ@哀しみ_r op=焦り_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「そ……！　そんなこと……」
+[Lily]"That's...! Such a thing……"
 
 @huki id=5 b=2
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「図星か？」
+[Vanessa]"Did I hit bull's-eye?"
 
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「……ち、ちがっ！　さ……最初は……だったけど……アルを心配していたのも本気で……！」
+[Lily]"...it's different! ...at first...but... \nI was worried about Al seriously!"
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -247,7 +247,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=300 wt=1
 
-[リリィ]「……うぅ……」
+[Lily]"...uh..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -268,20 +268,20 @@
 
 @bs f=ヴァネッサ@怒り x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「言い訳などするな」
+[Vanessa]"Do not make excuses"
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「己が欲望の為に他者を誑かす――実にサキュバスらしい」
+[Vanessa]"I am crazy for others for desire - \nit really seems to be succubus"
 
 @bs f=リリィ@蔑み_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「違う！！　本当にそんなつもりじゃ――」
+[Lily]"It is different! I'm gonna do such a thing"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=100 wt=1
 @bs f=リリィ@焦り_r op=ビックリ x=-350 y=50 t=200 wt=1
 
-[ヴァネッサ]「”そのことは咎めぬ。”……じゃが、『賢者の石』を盗もうとしたことは許さぬぞ」
+[Vanessa]"'I will not blame it'... well then, \nit's unforgivable to try stealing the \C[2]Philosopher's Stone\C[0]"
 
 @move_f f=リリィ@ out=l t=300
 @bs f=アル@屈辱 op=焦り x=-400 y=50 opa=0 t=20 wt=0
@@ -290,7 +290,7 @@
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 @bs f=ヴァネッサ@怒り x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「アレは妾――だけではない……わしらの宝なのじゃからな……！」
+[Vanessa]"It's not just me... it's our treasure!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=ヴァネッサ@微笑 x=350 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -305,7 +305,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「だ、ダメ！！　アルには手を出さないで……！」
+[Lily]"It's useless! Don't involve Al!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -316,7 +316,7 @@
 
 @move_f f=ヴァネッサ@怒り in=c t=250 wt=1
 
-[ヴァネッサ]「馬鹿娘は黙っておれ！」
+[Vanessa]"Stupid daughter be silent!"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 @dot_move x=12 y=12 id=13 dir=up
@@ -367,7 +367,7 @@
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=50 wt=1
 
 ;;ヴラスタ達が現れ、リリィを左右から拘束
-[リリィ]「あっ！　やだ……放して！　アル早く逃げて！　むっ！　むぐぅ！」
+[Lily]"Ah! No... release me! \nAl, quickly escape! Mum! Stop!"
 
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
@@ -382,15 +382,15 @@
 
 @move_f f=ヴァネッサ@困惑 in=c t=250 wt=1
 
-[ヴァネッサ]「そもそもお前が、たぶらかしさえしなければ……こやつも、余計な希望を抱くこともなかったじゃろう」
+[Vanessa]"You don't even have to pretend in the first place... \nYou didn't have any extra hope for guy either"
 
 @bs f=ヴァネッサ@蔑み
 
-[ヴァネッサ]「さて、これで馬鹿娘は邪魔はできぬし、口を塞いだから余計な口出しもできん」
+[Vanessa]"Now, foolish daughter, I closed your mouth \nso you can give up interfering"
 
 @bs f=ヴァネッサ@怒り
 
-[ヴァネッサ]「というわけで……覚悟は良いな？」
+[Vanessa]"So... are you prepared for good?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -410,7 +410,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「ん゛ーーー！　む゛ーーーっ！」
+[Lily]"Uhーーー! Mumーーー!"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -436,7 +436,7 @@
 
 @bs f=アル@困り x=-350 y=50 t=600 wt=1
 
-@select s1=ヴァネッサさんは/*st34a s2=領主様は/*st34b
+@select s1=Vanessa-sama/*st34a s2=Lord/*st34b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st34a
 *st34b
@@ -448,11 +448,11 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……む？　なんじゃ？」
+[Vanessa]"...uhm? What?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 
-@select s1=サキュバスが嫌いなの？/*st35a
+@select s1=Do_you_hate_Succubus?/*st35a
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st35a
 
@@ -466,7 +466,7 @@
 
 @move_f f=リリィ@哀しみ op=ハテナ in=c t=250 wt=1
 
-[リリィ]「……？」
+[Lily]"...?"
 
 @move_f f=リリィ@ out=c t=250 wt=1
 
@@ -482,30 +482,30 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「…………は」
+[Vanessa]"...wa"
 
 @bs f=ヴァネッサ@笑み x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「ふふ……ははは……ふははははははは！　そんな分がけなかろう！　わし……いや……妾はこのサキュバスの街、コルネリカの領主であるぞ」
+[Vanessa]"Fufu...ahahah..uhahahah! \nI shouldn't do that! Well... \nI'm the Lord of this Succubus city, Cornelica"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「幾ら恐怖で動揺していようと世迷言にもほどがあるじゃろう」
+[Vanessa]"No matter how frightful you are upset \nyou will have plenty of naughtiness"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……ん？」
+[Vanessa]"...Hmm?"
 
 ;;主人公：真面目な表情
 @bs f=アル@焦り x=-350 y=50 t=600 wt=1
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「………………」
+[Vanessa]"......"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……お主……まさか今の……本気か？」
+[Vanessa]"...your face... no way... what are you serious?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=300 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -516,17 +516,17 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
 
-[ヴァネッサ]「………………」
+[Vanessa]"..."
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……ふむ」
+[Vanessa]"...Hmm"
 
 @bgm f=s-014 pitch=70
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……気が変わった。故にチャンスをやろう」
+[Vanessa]"...I changed my mind, \nso I will give you a chance"
 
 ;;主人公：驚き
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
@@ -536,12 +536,12 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「一応じゃが、それなりの理由もあったことじゃしの……」
+[Vanessa]"Once in a while, there were reasons for that..."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「して……貴様には妾と勝負をしてもらう」
+[Vanessa]"... you will have a fight against me"
 
 ;;主人公：疑問符
 @huki b=2
@@ -550,7 +550,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「もし妾に勝つとができたら……今回の件を不問とし、『賢者の石』も貸してやろう」
+[Vanessa]"If you can win against me... \nlet's make this case relevant, \nI'll lend you the \C[2]Philosopher's Stone\C[0]"
 
 ;;主人公：喜ぶ
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -560,16 +560,16 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……あの偏屈者もようやく有用そうな研究をしはじめたことじゃしの」
+[Vanessa]"It's a fact that the devastate has finally started \ndoing research that seems to be useful"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「……じゃが、負けたら奴隷じゃ」
+[Vanessa]"...but if you lose, you are my slave"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「どうじゃ？　この勝負……乗るか？」
+[Vanessa]"How about? This game... do you ride?"
 
 ;;主人公：考える
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
@@ -585,7 +585,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「くく……いい返事じゃ……では、早速始めるとしよう」
+[Vanessa]"Kuku...it's a good reply... let's say you start early"
 
 @bgm
 @se f=Move1

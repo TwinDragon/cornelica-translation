@@ -17,7 +17,7 @@
 
 @fade type=in t=1000 wt=1
 
-[ヴァネッサ]「目が覚めたようじゃな」
+[Vanessa]"You seem to have woken up"
 
 @se f=衣擦れの音1
 @change num=0
@@ -39,7 +39,7 @@
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[ヴァネッサ]「そうじゃな。貴様の負けじゃ」
+[Vanessa]"So... you have loose"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -47,7 +47,7 @@
 ;;主人公：哀しい顔
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「約束を覚えているな」
+[Vanessa]"Remember the promise"
 
 ;;主人公：哀しい顔
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -57,27 +57,27 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=600 wt=1
 
-[ヴァネッサ]「絶望……といったところかのう……。ふふ……そんな貴様にまたチャンスを与えてやる」
+[Vanessa]"Despair... I guess it's like that. \nFufu... I will give you such a chance again"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
 
 @bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「アルだったか……。ただの人間のわりに、なかなかのものじゃった。故に貴様には見込みがあると踏んだ」
+[Vanessa]"Al, it was... It was pretty good for just human beings. \nI told you that you have a promise"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「じゃからな、貴様に試練を与える」
+[Vanessa]"Well then, I'll give you a challenge"
 
 @bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「今回は解放してやる。じゃからな、修練を積んでこい。淫魔への耐性を鍛え、もう一度妾に挑むといい」
+[Vanessa]"I'll release it this time. Complete your training. \nTrain the tolerance to the charm, \nthen challenge me again"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「その時、妾を満足させることができたら……貴様の勝ち、ということにしてやる」
+[Vanessa]"At that time... If I can satisfy me... \nI will make you say that you win"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -87,7 +87,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「こう見えて妾は慈悲深いんじゃよ。とはいえ、満足させることができなかったら……その時は今度こそ奴隷じゃ」
+[Vanessa]"This is how I'm benevolent. \nHowever, if you can't satisfy... \nat that time you will become my slave"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
@@ -95,14 +95,14 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「じゃが、一つだけ貴様に罰を与える」
+[Vanessa]"Well then, I will give you just one punishment"
 
 ;;主人公：疑問符
 @bs f=アル@焦り op=ハテナ x=-350 y=50 t=200 wt=1
 
 @bs f=ヴァネッサ@怒り x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「リリィの助力を受けることは許さん。貴様一人の力で妾に勝てるだけのものを得よ。よいな」
+[Vanessa]"You're not allowed to receive assistance of Lily. \nYou get what you can win by yourself with your own power"
 
 ;;主人公：哀しい顔
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
@@ -119,7 +119,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「ふふ、いい表情じゃ。では、待っておるぞ」
+[Vanessa]"Fufu, It's a nice look. \nWell, I will wait for you"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=ヴァネッサ@微笑 x=350 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -138,7 +138,7 @@
 @move_f f=メイド@蔑み_赤 in=c t=300 wt=1
 
 ;;ヴラスタ出現
-[ヴラスタ]「………………」
+[Vlasta]"..."
 
 @move_f f=メイド@ out=c t=300 wt=1
 
@@ -168,11 +168,11 @@
 ;;ヴラスタに捕まるアル
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「放り出しておけ」
+[Vanessa]"Throw him out"
 
 @bs f=メイド@蔑み_赤 x=-350 y=50 t=200 wt=1
 
-[ヴラスタ]「イエス――マスター」
+[Vlasta]"Yes... master"
 
 @move_f f=メイド@ out=l
 

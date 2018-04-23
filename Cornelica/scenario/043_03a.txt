@@ -8,12 +8,12 @@
 
 @bs f=白良@微笑 x=350 y=50 t=300 wt=1
 
-[白良]「わかりました……それでは、領主様の元へ……わたくしが連れて行って差し上げます」
+[Shirao]"I see...then, to the Lord...I will take you there."
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「……さぁ、手を……」
+[Shirao]"...now, hold my hand"
 
 ;;主人公：うなずく
 @huki b=8
@@ -44,7 +44,7 @@
 ;;白良の手を取るアル
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「では……いきます」
+[Shirao]"Well, we will go"
 
 @bgm
 @se f=Flash3 pitch=90

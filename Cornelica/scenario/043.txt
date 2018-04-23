@@ -53,7 +53,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「……目が覚めましたか？」
+[Shirao]"...did you awake?"
 
 ;;主人公：驚く
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -65,7 +65,7 @@
 
 @bs f=白良@哀しみ x=350 y=50 t=400 wt=1
 
-[白良]「そんなに驚かないで下さい。わたくしだって傷つきますよ……」
+[Shirao]"Please do not be so surprised. Even I will get hurt..."
 
 ;;主人公：焦り
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
@@ -75,11 +75,11 @@
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「ふふ、素直ですね。アルさん……先ほどは貴方をいきなり襲わせてしまって、申し訳ありません」
+[Shirao]"Fufu, you're obedient. Al... I am sorry \nI let you hit suddenly"
 
 @bs f=白良@哀しみ x=350 y=50 t=400 wt=1
 
-[白良]「でも、あれは必要なことだったのです。貴方を逃がさないために……」
+[Shirao]"However, that was necessary. \nIn order not to let you escape..."
 
 ;;主人公：疑問符
 @huki b=2
@@ -88,17 +88,17 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[白良]「教団の教えのことではありません。わたくしは、貴方がお城から逃げて来たことを知っていたのです。領主様から念話で聞されておりました」
+[Shirao]"It's not about the teachings of the cult. \nI knew that you ran away from the castle. \nI was tasked by Lord's mind"
 
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 
-[白良]「ちなみに、城勤めのヴラスタ達も教会の方向へ追い詰めるように動いておりましたよ」
+[Shirao]"By the way, the castle's vlastas were moving as well \nto chase you towards the church"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[白良]「最初から、貴方を捕まえるため、ここに誘い込んだのです」
+[Shirao]"From the beginning, I brought you here to capture you"
 
 ;;主人公：おびえ
 @bs f=アル@驚き op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -112,7 +112,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=600 wt=1
 
-[白良]「……そんなに心配しなくてもいいですよ。まだわたくしは貴方を捕らえたことを領主様達に伝えてはおりませんから」
+[Shirao]"...don't worry too much. \nI have not yet passed on to the Lord that I caught you"
 
 ;;主人公：疑問符
 @huki b=2
@@ -121,16 +121,16 @@
 
 @bs f=白良@通常 x=350 y=50 t=600 wt=1
 
-[白良]「……疑問に思いますか？　そうですね……ふふ……貴方に、選択肢を与えるため、と言ったところでしょうか」
+[Shirao]"...are you wondering? That's so... fufu... \nI told I'll give you the choice"
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=白良@微笑 x=350 y=50 t=300 wt=1
 
-[白良]「わたくしは、領主からは『リリィと同じくらいの歳の人間を捕まえたら領主の前に突き出せ』と言われております」
+[Shirao]"The Lord said 'If you capture a human with the same age as Lily, hand him over'"
 
 @bs f=白良@通常 x=350 y=50 t=300 wt=1
 
-[白良]「故に、このままではわたくしは貴方を領主の前に突き出さなければなりません」
+[Shirao]"Therefore, I should hand you over the Lord"
 
 ;;主人公：おびえ
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300
@@ -141,19 +141,19 @@
 
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「……しかし、貴方にはもう一つ選択を差し上げます」
+[Shirao]"...However, I will give you another choice for you"
 
 @bs f=白良@通常 x=350 y=50 t=300 wt=1
 
-[白良]「フフ……貴方には元の世界に戻ることを諦めてもらい、その上で、わたくし達と共にこの教会で暮らす、という選択肢です。……その際には、少々姿を変えてもらいますが」
+[Shirao]"Eheh... You can choice give up on returning to the \noriginal world, and then live in this church with us... \nin that case, I will change you a little bit"
 
 @bs f=白良@淫靡 x=350 y=50 t=300 wt=1
 
-[白良]「フフ……フフフフ……さて、どういたしますか？　このまま領主の前に突き出されるか、わたくし達の子として暮らすか」
+[Shirao]"Eh...eheheh... Well, how do you do? \nWill you return in front of the lord? \nOr will you live as a child of ours?"
 
 @bs f=白良@笑み x=350 y=50 t=300 wt=1
 
-[白良]「……先程のシスター達の奉仕は、心地よかったでしょう？」
+[Shirao]"Were the service of the sisters comfortable, was not it?"
 
 ;;主人公：考える
 @huki b=8

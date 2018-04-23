@@ -18,7 +18,7 @@
 @move f=シスターB@01 x=-350 y=50 opa=255 w=100 h=100 t=200 wt=0
 @move f=シスターC@01 x=0 y=20 opa=255 w=100 h=100 t=200 wt=1
 
-[シスター３]「んふふ……愛を知りたくなったらまたいらしてくださいね」
+[Sister 3]"Fufu, please come again when you want to know love"
 
 @move f=シスターA@01 x=400 y=50 opa=0 w=100 h=100 t=200 wt=0
 @move f=シスターB@01 x=-400 y=50 opa=0 w=100 h=100 t=200 wt=0
