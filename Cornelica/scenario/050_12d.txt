@@ -13,18 +13,18 @@
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「ん？また来たの？　……ふふ、やっぱりスケべね。　前の時はごめんなさいね。ついやりすぎちゃった。」
+[Succubus]"Well, have you come again? \nHuh, after all, sorry that I was too busy last time"
 
-[サキュバス]「それはそれとして、またHしに来たんでしょ？　……そうね、今度は舌で搾ってあげる。前の時はやりそびれちゃったからね」
+[Succubus]"As it's, did you come again to have sex? \nSo, I will squeeze it with my tongue. \nBecause I got towed from the previous time"
 
-[サキュバス]「それで……どうするの？」
+[Succubus]"So ... what shall we do?"
 
 ;;========================================================
 ;;　リリィ一緒
 @if eval=s(47)==1 ok=jump:*scene001 bad=jump:*next001
 *scene001
 
-[リリィ]「……アルに判断を任せるよ……アル、どうするの？」
+[Lily]"...I will leave decision to Al. What should we do?"
 
 ;;========================================================
 *next001

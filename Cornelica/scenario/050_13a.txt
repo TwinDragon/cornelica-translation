@@ -16,11 +16,11 @@
 
 
 
-[サキュバス]「あら……リリィちゃんじゃない。こんにちは♪」
+[Succubus]"Ah...if it's not Lily. Hello♪"
 @bs f=リリィ@笑顔 t=200 op=音符 x=-350 y=50 t=600
 
 
-[リリィ]「こんにちは♪」
+[Lily]"Hello♪"
 
 
 @move_f f=リリィ@笑顔 face=0 out=c t=150 wt=0
@@ -46,19 +46,19 @@
 
 
 
-[サキュバス]「あら……どちら様かしら？」
+[Succubus]"Oh... who are you?"
 
 ;;主人公：焦る
 
 
 @bs f=アル@驚き t=200 op=ビックリ x=-350 y=50 t=600
 
-[サキュバス]「ふふ♪　お名前はなんていうのかしら？」
+[Succubus]"Fufu♪　What's your name?"
 
 ;;主人公：名乗る
 @bs f=アル@困り
 
-[サキュバス]「アル……いいお名前ね。ねぇ、アルちゃん……わたくしと楽しいことを致しません？」
+[Succubus]"Al... That's a nice name. \nAl-chan... will you not do fun things with me?"
 
 ;;主人公：考える
 

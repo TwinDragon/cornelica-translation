@@ -18,11 +18,11 @@
 
 
 
-[サキュバス]「あら……リリィちゃんじゃない。こんにちは♪」
+[Succubus]"Ah...if it's not Lily. Hello♪"
 @bs f=リリィ@笑顔 t=200 op=音符 x=-350 y=50 t=600
 
 
-[リリィ]「こんにちは♪」
+[Lily]"Hello♪"
 
 
 @move_f f=リリィ@笑顔 face=0 out=c t=150 wt=0
@@ -44,15 +44,15 @@
 
 
 
-[サキュバス]「んふふ……また来てくれましたのね」
+[Succubus]"Hehehe... You came again"
 
-[サキュバス]「それではまた……気持ちいいことを致しましょう♪」
+[Succubus]"Well then ... let's do something pleasant♪"
 
 ;;主人公：怪しむ@bs f=アル@焦り t=200 op=困惑 x=-350 y=50 t=600
 
 
 
-[サキュバス]「どうかしまして？」
+[Succubus]"What's wrong?"
 
 ;;主人公：焦る
 

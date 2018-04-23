@@ -1,10 +1,10 @@
 ;;■城
 
-横たわる屍はしばらくしたらメイドによって片づけられるであろう。
+The dead corpse will be cleaned up by the maid after a while
 
-ヴァネッサはアルの虚ろな目を一瞥すると、何事もなかったように無表情で去っていった。
+When Vanessa glanced at the empty eyes of Al, \nhe left without expressions as if nothing had happened.
 
-――これこそが彼女達にとっての日常なのだ。
+This is everyday for them.
 
 
 ;;暗転

@@ -11,7 +11,7 @@
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
 
-[イリーナ]「ふふ……是非また、ご指名を♪」
+[Irina]"Fufu... come again, Nomination♪"
 
 @move_f f=アル@屈辱 face=0 out=c t=150 wt=0
 @move_f f=イリーナ@淫靡 face=0 out=c t=150 wt=1

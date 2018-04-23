@@ -11,13 +11,13 @@
 @move f=イリーナ@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[イリーナ]「おや？　また会いましたね」
+[Irina]"Oya? We met again"
 @bs f=イリーナ@淫靡 t=200
 
 
 
 
-[イリーナ]「ふふ……もしかして、サービスを受けてみる気になったのですか？」
+[Irina]"Fufu... Perhaps, did you become \ninterested in receiving services?"
 
 ;;========================================================
 ;;　リリィ一緒

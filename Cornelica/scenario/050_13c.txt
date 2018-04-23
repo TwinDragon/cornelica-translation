@@ -7,12 +7,12 @@
 ;;========================================================
 *next01
 
-@select s1=お願いする/*code001 s2=やめておく/*code002
+@select s1=Accept/*code001 s2=Refuse/*code002
 ;;========================================================
-;;お願いする
+;;お願いする Accept
 *code001
 
-[サキュバス]「ふふふ♪　いいお返事ですわね」
+[Succubus]"Fufufu♪ It's a good reply"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1
 @bs
@@ -23,10 +23,10 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=end01
 ;;========================================================
-;;やめておく
+;;やめておく Refuse
 *code002
 
-[サキュバス]「あら残念。でも、したくなったらいつでも来てくれて構いませんからね♪」
+[Succubus]"Oh regret. But, if you want to come, you can come anytime♪"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1
 @bs

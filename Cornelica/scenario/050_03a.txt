@@ -9,26 +9,26 @@
 
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
-[クラーラ]「あたしクラーラ。ねぇ、あんたさぁ……あたし達と鬼ごっこしない？」
+[Kurra]"I am Kurra. Hey you,... do you want to play tags with us?"
 
 ;;主人公：疑問符
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
 @move f=ジゼル@ x=0 y=50 opa=255 t=200 wt=1
 
-[ジゼル]「キミのこと～、気に入っちゃったんだよねぇ。可愛い顔してるし～。あ、わたしは～ジゼルだよ」
+[Gisele]"I love you, I love you. You have a cute face. I am Giselle"
 
 @bs f=アル@屈辱 op=焦り t=200
 
 @move f=クラーラ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=モニカ@ x=350 y=50 opa=255 t=200 wt=1
 
-[モニカ]「私はモニカ。鬼ごっこをして、私達が貴方を捕まえることができましたら……ふふ、貴方の精液を絞り取らせてもらいます」
+[Monica]"I am Monica. If you get a tag and we can catch you... \nFufu, I will have your sperm squeezed out"
 
 ;;主人公：驚き
 @bs f=アル@驚き t=200
 
-;;[モニカ]「因みに私はモニカです」
+;;[Monica]"By the way, I am Monica.
 
 ;;主人公：一歩引く
 @move f=アル@ x=-400 y=50 t=200 wt=1
@@ -37,14 +37,14 @@
 @move f=モニカ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
-[クラーラ]「あっ、それと拒否権はないよ」
+[Kurra]"Oh, you don't have veto power"
 
-[ジゼル]「だから～」
+[Gisele]"Soo～"
 
 @move f=クラーラ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=モニカ@ x=350 y=50 opa=255 t=200 wt=1
 
-[モニカ]「ゲーム開始です！」
+[Monica]"The game is starting!"
 
 
 @move_f f=アル@ face=0 out=c t=150 wt=0

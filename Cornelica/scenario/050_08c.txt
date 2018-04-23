@@ -3,7 +3,7 @@
 ;;■ECG11A
 ;;■マルヘリート区
 
-[サキュバス]「ふふふ……んじゃ、一緒に楽しもうか……」
+[Succubus]"Fufufu... let's have fun together..."
 
 ;;暗転
 ;;シーン終了

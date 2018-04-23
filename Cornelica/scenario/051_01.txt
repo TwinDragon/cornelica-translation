@@ -4,7 +4,7 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「全てそろったか。よし、すぐに準備しよう」
+[Verna]"Have you got it all? OK, let's prepare quickly"
 
 @bgm_save
 @bgm
@@ -35,7 +35,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「さてアル。これが、チャームの魔力を無力化する薬だ」
+[Verna]"Well, Al. This is a medicine to \nneutralize the charm's magical power"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -49,22 +49,22 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 ;;主人公：薬を飲もうとする
 
-[ヴェルナ]「おっと待て、使用するのはまだ早い」
+[Verna]"Wait a moment, it's still early to use"
 
 @huki b=2
 @bs f=アル@焦り op=ハテナ x=-350 y=50 t=300 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「効果の持続時間だが、持って一晩といったところだ」
+[Verna]"It's the duration of the effect, but it's overnight,"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「一応、魔法屋のブラスタに生成できる機能を付けておいたが……製作過程が面倒でな」
+[Verna]"For once, I added a function that can be \ncreated on the blaster of the magician, but... \nthe production process is troublesome"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「必要な金額も割高にしてある。私が言えたことではないが、慎重に使えよ」
+[Verna]"The necessary amount is also expensive. \nThough I was able not to say, Use it carefully."
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -76,7 +76,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「ふふ。頑張れよ」
+[Verna]"Fufu. Do your best"
 
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=ヴェルナ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

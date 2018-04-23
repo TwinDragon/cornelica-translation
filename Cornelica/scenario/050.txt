@@ -16,7 +16,7 @@
 @huki b=8 id=2
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「アルか。その様子だと、ヴァネッサの奴にこっぴどくやられたようだな」
+[Verna]"Al? As it seems, it looks like \nyou was tricked by the Vanessa guys"
 
 ;;主人公：驚く
 @huki b=1
@@ -27,7 +27,7 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「メイに記録されていたログで事のあらましは確認させてもらった。別れて以降の事は君の話を聞くしかないが……」
+[Verna]"The overview of things was confirmed with the logs \nrecorded in Vlasta-α. I have no other choice \nbut to listen to your story after his breakup..."
 
 ;;その……
 ;;実は……
@@ -43,7 +43,7 @@
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 
-[ヴェルナ]「なるほど。領主と勝負か……それはまた、娘の男相手にとんでもない難題を出してきたものだ」
+[Verna]"I see. It's a game against The lord... It's also the one \nthat has given ridiculous challenges to the daughter's man"
 
 ;;主人公：驚く
 @huki b=1
@@ -56,24 +56,24 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「……ん？　あぁ、リリィの事情については『気づいていた』。ヴァネッサに娘がいることは知っていたし、家出しているということも耳に入っていたからな」
+[Verna]"...uh? Ah, about circumstances of Lily: I was aware of it. \nI knew that Vanessa had a daughter and I heard \nthat she was away from home.
 
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「本人と会ったのは、君と忍び込んできたあの日が初だったが……よく見れば奴にそっくり……」
+[Verna]"I saw herself that day that you crawled with her \nfor the first time... If you look closely \nshe looks like her..."
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「……いや、今はそんな話より」
+[Verna]"...well, From now on such a story"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「領主、ヴァネッサは、サキュバスの中でも有数の実力者だ」
+[Verna]"Lord Vanessa is one of the most powerful succubus here"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「単純な力勝負でさえ話にならないところを、サキュバスに有利な条件で勝負を挑むなど自殺行為もいいところだろう」
+[Verna]"It's also a good way to commit suicide, such as \nchallenging a game with favorable conditions to a Succubus, \nwhere even a simple force game is not talkative"
 
 ;;主人公：哀しい顔
 @huki b=8
@@ -82,14 +82,14 @@
 
 @bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「……しかし、ふふ。中途半端になっていた研究が、こんなところで役に立つとはな……アル、君もなかなか悪運が強い」
+[Verna]"However, hehe. The research that was halfway up \nis not useful in such a place... \nAl, you are also quite bad luck"
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=300 wt=1
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「君を『元の世界』に送り返す研究の際……幾つか試作した薬があっただろう？」
+[Verna]"During my research to send you back home... \ndid you have some prototype drugs?"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -100,7 +100,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「その薬を改良すれば、服用後から一定時間、チャームの魔力を完全に無力化する薬を作ることができる」
+[Verna]"If you improve that medicine, you can make medicine that \nwill completely disable Charm's magical power \nfor a certain period of time after taking it"
 
 ;;主人公：驚く
 @huki b=1
@@ -111,7 +111,7 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「それがあれば、まぁ、勝負にはなるだろう。用意するには少々手間もかかるが……」
+[Verna]"If you can make it, oh dear, will it be a game? \nIt takes time and effort to prepare, but ..."
 
 @bs f=お使いリスト@01 x=50 face=0 body=-1 y=0 opa=0 t=20 wt=0
 
@@ -128,14 +128,14 @@
 ;;主人公：微妙な表情
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「そんな顔をするな。なに、今回はこの素材を集めてくればすぐに用意できる」
+[Verna]"Do not make such a face. Well, this time I can prepare it \nas soon as you gather this material"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「入手が面倒な素材だが……背に腹は代えられんだろう？」
-
+[Verna]"It's a troublesome material to obtain... can you change your belly on your back?
+;;Need review - WTF!?
 @se f=Book1
 @move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
 
@@ -148,7 +148,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=600 wt=1
 
-[ヴェルナ]「私も急ぎ、準備を進めておく。素材方は頼むぞ」
+[Verna]"I will hurry and prepare for it. \nYou will ask for material"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1

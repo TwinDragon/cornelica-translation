@@ -1,12 +1,12 @@
 ;;■ECG11C
 ;;■酒場：曲芸師
 
-@select s1=お願いする/*code001 s2=やめておく/*code002
+@select s1=Please/*code001 s2=Refuse/*code002
 ;;========================================================
-;;お願いする
+;;お願いする Please
 *code001
 
-[イリーナ]「はい。畏まりました。では、こちらへどうぞ」
+[Irina]"Yes. I know it. So please, come here"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=イリーナ@淫靡 face=0 out=c t=150 wt=1
 @bs
@@ -16,12 +16,12 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=end01
 ;;========================================================
-;;やめておく
+;;やめておく Refuse
 *code002
 
 
 @bs f=イリーナ@通常 t=200
-[イリーナ]「まぁ、それもいいでしょう。賢明ですね」
+[Irina]"Oh dear, that would be nice. You're prudence"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=イリーナ@通常 face=0 out=c t=150 wt=1
 @bs

@@ -3,9 +3,9 @@
 ;;■ECG11A
 ;;■マルヘリート区
 
-[サキュバス]「おっと、逃がさねぇよ？　何か急いでたみてぇだけど、別にあたしと話すくらいいいだろ？」
+[Succubus]"Oops, do you not let it escape? \nI tried something in a hurry, \nbut is it enough to talk to me separately?"
 
-[サキュバス]「あぁ、後、お前に拒否権なんかねぇからな」
+[Succubus]"Oh, well, you do not have the right to veto"
 
 @dir_fix type=off
 

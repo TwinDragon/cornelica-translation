@@ -12,15 +12,15 @@
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
 
-[イリーナ]「おや、また来ましたね。　私の胸が忘れられませんでしたか？」
+[Irina]"Oh, you came again. Did you not forget my chest?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600
 
 @bs f=イリーナ@淫靡 t=200
 
-[イリーナ]「ふふ……、そこまで凝視していれば、　誰でもわかりますよ」
+[Irina]"Fufu...If you stare at them...a that point everyone knows"
 
-[イリーナ]「念のため聞きますが……いかが致しますか？」
+[Irina]"Just to be sure I will ask... How would you like to do?"
 
 ;;========================================================
 ;;　リリィ一緒

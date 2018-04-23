@@ -24,7 +24,7 @@
 @huki b=2 id=19
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「あっ、目が覚めた……？」
+[Lily]"Ah... woke up?"
 
 ;;主人公：赤面（困惑）
 @huki b=8
@@ -33,7 +33,7 @@
 
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=400
 
-[リリィ]「……さっきは……その……ごめん……私……つい……むきになっちゃって……」
+[Lily]"...A little while ago... Sorry I just...I got hung up..."
 
 ;;主人公：向き直る
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=400 wt=1
@@ -53,13 +53,13 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=200
 
-[リリィ]「アル……」
+[Lily]"Al..."
 
 @bs f=アル@笑顔 x=-350 y=50 t=600 wt=1
 
 @bs f=リリィ@困惑 x=350 y=50 t=600
 
-[リリィ]「…………」
+[Lily]"..."
 
 @huki b=8 id=19
 @bs f=リリィ@哀しみ x=350 y=50 t=600
@@ -68,7 +68,7 @@
 @huki b=2 id=19
 @bs f=リリィ@蔑み op=ハテナ x=350 y=50 t=400
 
-[リリィ]「……ねぇ……諦めるつもり……ない？」
+[Lily]"...hey... are you not going to give up?"
 
 ;;主人公：疑問符
 @huki b=2
@@ -77,7 +77,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=400
 
-[リリィ]「……元の世界に帰ること」
+[Lily]"... returning to your world"
 
 ;;主人公：哀しい表情
 @huki b=1
@@ -90,18 +90,18 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=400
 
-[リリィ]「元の世界に帰るってことは、またママと勝負するってことでしょ……？　そんなの駄目……！　ママに勝つなんて、できっこないよ……！」
+[Lily]"You know hoing back to your world mean to win against mama? \nIt's impossible! You'll never defeat mama!"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400
 
-[リリィ]「だから……お願い……諦めよう？　諦めて……その……私と一緒に暮らそうよ……？　私、アルと一緒にいられるのなら、外の世界の事も、諦められる……」
+[Lily]"So... please... give it up! Give up... \nLet's live with me! If I can stay with you, I can give up \non the outside world as well..."
 
 @bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
 
-@select s1=リリィはどうして/*se1 s2=人間の世界に行きたかったの？/*se2
-;;リリィはどうして
-;;人間の世界に行きたかったの？
+@select s1=Why_Lily/*se1 s2=Did_you_want_to_go_to_the_human_world?/*se2
+;;Why_Lily
+;;Did_you_want_to_go_to_the_human_world?
 *se1
 *se2
 
@@ -116,7 +116,7 @@
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=600
 @wait t=400
 
-[リリィ]「それは……」
+[Lily]"That's……"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=600
 @wait t=200
@@ -125,7 +125,7 @@
 
 @bs f=リリィ@困惑 op-焦り x=350 y=50 t=400
 
-[リリィ]「……私ね、パパを探してるの」
+[Lily]"...I'm looking for a dad"
 
 ;;主人公：疑問符
 @huki b=2
@@ -133,33 +133,34 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400
 
-[リリィ]「……ママってさ、誰よりもサキュバス「らしく振舞」っているでしょ？　でもね昔は違ったの」
+[Lily]"...mama, you see her like more a succubus \n'than anyone else'?. But it was different in the past"
+
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 x=350 y=50 t=400
 
-[リリィ]「パパがいた頃はね、他のサキュバスじゃ考えられないくらいにパパと愛し合ってた。本当に……まるで人間同士みたいに……」
+[Lily]"When she was with my dad, she was in love with my dad \nto the extent that other succubus can not think about it. \nReally... just as human beings..."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400
 
-[リリィ]「でも、パパが突然いなくなって……ママも、それから今みたいになったの……」
+[Lily]"However, papa suddenly disappear... \nand Mom is become what you can see now"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 x=350 y=50 t=400 wt=1
 
-[リリィ]「だから……もしパパが返ってきてくれれば、昔に戻れるんじゃないかって……思って……」
+[Lily]"So... If daddy comes back...I wonder if can it not \nreturn to old times...I thought so..."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=400 wt=1
 
-;;リリィのパパは人間なの？
-;;リリィのパパは僕がいた世界にいるの？
-@select s1=リリィのパパは人間なの？/*st02a s2=リリィのパパは僕がいた世界にいるの？/*st02b
+;;"Is_your_dad_a_human?"
+;;"Is_your_dad_in_my_world?"
+@select s1="Is_your_dad_a_human?"/*st02a s2="Is_your_dad_in_my_world?"/*st02b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
 ;;====================================================================================
-;;リリィのパパは人間なの？
+;;"Is_your_dad_a_human?"
 *st02a
 
 @huki b=2
@@ -167,11 +168,11 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400 wt=1
 
-[リリィ]「……うん」
+[Lily]"....yup"
 
 @jump target=*end01
 ;;====================================================================================
-;;リリィのパパは僕がいた世界にいるの？
+;;"Is_your_dad_in_my_world?"
 *st02b
 
 @huki b=2
@@ -179,7 +180,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400 wt=1
 
-[リリィ]「分かんない……でも、パパは人間だったから……」
+[Lily]"I don't know... but, because he was a human..."
 
 @jump target=*end01
 ;;====================================================================================
@@ -189,26 +190,26 @@
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 x=350 y=50 t=400 wt=1
 
-[リリィ]「だから、森でアルと出会った時は、チャンスだって思った……」
+[Lily]"So, when I met you in the forest, \nI thought it was a chance"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200 wt=1
 
-[リリィ]「前にママに聞いたときは「パパは外の世界に帰った」って言ってたの。「外の世界」がアルがいた世界の事かはわからないけど……」
+[Lily]"When I asked Mom before, she said that \n'Daddy returned to the outside world'. I don't know if \n[the outside world] was the world where you was..."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「もしかしたら……私と、ママと、パパ……また家族３人で過ごせるんじゃないかって……」
+[Lily]"Maybe... dad, mom, me... \nI can spend it with my family again..."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200 wt=1
 
-[リリィ]「でも、アルと過ごしているうちにね、その中にアルもいればいいなって……思うようになった」
+[Lily]"But, while you was with you, I came to think that \nI hope to have Al in it too"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「アルと一緒にいるの、すっごく楽しかった……ずっと……ずっと一緒にいたい……私、アルにいなくなって欲しくないの……」
+[Lily]"When I was with you, I had a lot of fun... always. \nI want to be together forever... \nI don't want you to be gone..."
 
 @bs f=アル@困り op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -218,12 +219,12 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=200 wt=1
 
-[リリィ]「だから……」
+[Lily]"So...."
 
 @bs f=アル@焦り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=600 wt=1
 
-[リリィ]「………………」
+[Lily]"..."
 
 
 ;;主人公：考える
@@ -233,9 +234,9 @@
 
 @bs f=アル@焦り x=-350 y=50 t=600 wt=1
 
-@select s1=それでも……/*se1c s2=家に帰らないと/*se2c
-;;それでも……
-;;家に帰らないと
+@select s1="Still..."/*se1c s2="I_have_to_go_home"/*se2c
+;;Still...
+;;I_have_to_go_home
 *se1c
 *se2c
 
@@ -244,29 +245,29 @@
 
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200 wt=1
 
-[リリィ]「どうして……？　どうして、そこまで……」
+[Lily]"Why...? How come that..."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
-;;僕にも帰りを待ってる家族がいるから
-@select s1=僕にも帰りを待ってる家族がいるから/*se2d
+;;I_also_have_a_family_waiting_for_my_return
+@select s1="I_also_have_a_family_waiting_for_my_return"/*se2d
 *se2d
 
 @bs f=リリィ@焦り op=ビックリ x=350 y=50 t=200 wt=1
 
-[リリィ]「……あ」
+[Lily]"...ah"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=リリィ@困惑 op=焦り x=350 y=50 t=200 wt=1
 
-[リリィ]「……そう、そうだよね……」
+[Lily]"...Yes, that's right..."
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=200 wt=1
 
-[リリィ]「ごめんね。私……わがままなことばっかり言ってた……」
+[Lily]"I'm sorry. I was only...selfish..."
 
 ;;主人公：首を振る
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
@@ -283,14 +284,14 @@
 
 @bs f=リリィ@通常 op=焦り x=350 y=50 t=400 wt=1
 
-[リリィ]「アル……………………」
+[Lily]"Al..."
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=400 wt=1
 
-[リリィ]「……うん。諦めて……なんてもう言わない……だから、アル……絶対、負けちゃ嫌だからね……？」
+[Lily]"...yes. Give up... I won't say any more... \nSo, Al... absolutely, you don't want to lose...?"
 
 ;;主人公：うなずく
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1
@@ -299,7 +300,7 @@
 
 @bs f=リリィ@笑顔 x=350 y=50 t=400 wt=1
 
-[リリィ]「……うん！　約束！」
+[Lily]"...Yeah! Promise!"
 
 @bs f=アル@笑顔 x=-350 y=50 t=400 wt=1
 @wait t=600
@@ -307,7 +308,7 @@
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
 @bs f=アル@普通 x=-350 y=50 t=400 wt=1
 
-[リリィ]「……それじゃあ、私、そろそろ部屋に戻らないと。ママに逃げ出したのがバレちゃう。だからその…………またね」
+[Lily]"...Then, I have to go back to the room soon. \nI ran away from mama. So...Umm... See you later"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -343,7 +344,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400 wt=1
 
-[リリィ]「……あ、あのね……その、もし……あっちの世界に……帰る時は……えっと……」
+[Lily]"...ah, you know what... that if to the world there... \nwhen you go home ... umh..."
 
 @huki b=8 id=19
 @bs f=リリィ@困惑 x=350 y=50 t=600 wt=1
@@ -355,12 +356,12 @@
 @dir dir=right id=19
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
 
-[リリィ]「……ううん。ごめん、やっぱり何でも――」
+[Lily]"...No. Sorry. After all whatever..."
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 
-;;一緒に行こう
-@select s1=一緒に行こう/*st03a
+;;Let's_go_together
+@select s1="Let's_go_together"/*st03a
 *st03a
 
 @bs f=アル@笑顔 x=-350 y=50 t=600 wt=1
@@ -371,7 +372,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400 wt=1
 
-[リリィ]「え……そ、その……」
+[Lily]"Oh...that...that..."
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 @bs f=リリィ@通常 op=焦り x=350 y=50 t=600 wt=1
@@ -379,11 +380,11 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
 
-[リリィ]「…………」
+[Lily]"..."
 
 @bs f=リリィ@笑顔_頬 x=350 y=50 t=400 wt=1
 
-[リリィ]「……うん！　それも約束だからね！」
+[Lily]"...YES! Because it is a promise, too!"
 
 ;;空き家を出て行くリリィ
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

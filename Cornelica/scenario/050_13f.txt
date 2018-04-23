@@ -12,17 +12,17 @@
 
 
 
-[サキュバス]「目が覚めたのですね」
+[Succubus]"You woke up"
 
 ;;主人公：焦る
 
 
-[サキュバス]「んふふ……わたくし貴方のことが気に入ってしまいました」
+[Succubus]"Hehehe... I liked you"
 @bs f=アル@焦り t=200 op=焦り x=-350 y=50 t=600
 
 
 
-[サキュバス]「だから、気が向いたらまた来て下さいね♪」
+[Succubus]"So, please come back again if you feel like♪"
 
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1

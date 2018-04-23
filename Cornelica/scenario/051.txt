@@ -2,16 +2,16 @@
 
 @move_f f=ヴァネッサ@微笑 in=c t=150
 
-[ヴァネッサ]「来たか」
+[Vanessa]"Did you come?"
 
 ;;主人公：真面目な顔
 @bs f=ヴァネッサ@普通 t=150
 
-[ヴァネッサ]「なかなか自信ありげな顔じゃな。じゃが、分かっておるか？　今度は慈悲などかけぬぞ」
+[Vanessa]"It's pretty confident face. \nWell, do you understand? \nNext time I will not have mercy"
 
 @bs f=ヴァネッサ@微笑 t=150
 
-[ヴァネッサ]「ふふ、では、早速始めるとするかのう」
+[Vanessa]"Fufu, well, I guess it will start soon."
 
 ;;シーン終了
 @fade type=out t=1000 wt=1

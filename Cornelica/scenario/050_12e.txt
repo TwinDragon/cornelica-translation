@@ -13,7 +13,7 @@
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「さて、それじゃあ始めましょうね」
+[Succubus]"Well, let's get started"
 
 
 @move_f f=アル@焦り face=0 out=c t=150 wt=0

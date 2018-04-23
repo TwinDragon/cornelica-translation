@@ -11,20 +11,20 @@
 
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
-[サキュバス]「ふう、今回は搾りすぎないようにできたわ。　……もしかして物足りなかった？」
+[Succubus]"Fufu, It wasn't possible to squeeze it too much this time. \nDid it make you feel unsatisfactory?"
 
 ;;アル否定する
 
 
 @bs f=アル@驚き t=200 op=焦り x=-350 y=50 t=600
-[サキュバス]「冗談よ♪　でも、もし奴隷になりたかったら……まぁ、私以外の人がいいかもね」
+[Succubus]"Just kidding♪ But if you want to be a slave... \nWell, someone other than me may be good"
 
 ;;アル疑問に思う
 @bs f=アル@困り t=200 op=困惑 x=-350 y=50 t=600
 
-[サキュバス]「私、恥ずかしいけど大喰らいなの。　キミじゃ全部食べたとしても、ちょっと物足りないかな」
+[Succubus]"I am embarrassed but it isn't big meal. \nEven if you eat everything by yourself, \nit might be a bit unsatisfactory.
 
-[サキュバス]「それじゃ、またご贔屓にね♪」
+[Succubus]"Well then, please come again♪"
 
 @bgm_replay
 

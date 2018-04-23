@@ -14,16 +14,16 @@
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「ん……あぁ、君か。またあったね」
+[Succubus]"...Ah, you? Hello again"
 
-[サキュバス]「……もしかして、私とHしてみたくなったの？」
+[Succubus]"...maybe you wanted to have sex with me?"
 
 ;;========================================================
 ;;　リリィ一緒
 @if eval=s(47)==1 ok=jump:*scene001 bad=jump:*next001
 *scene001
 
-[リリィ]「むっ……アルに判断を任せるけど……アル、どうするの？」
+[Lily]"Muuu...I will leave decision to Al. What should we do?"
 
 ;;========================================================
 *next001

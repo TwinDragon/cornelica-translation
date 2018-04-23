@@ -1,9 +1,9 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=150
 
-[ヴェルナ]「ん？　どうした？」
+[Verna]"Hmm? What happened?"
 
-@select s1=話す/*code001 s2=世間話をする/*eventCode
+@select s1=Speak/*code001 s2=Small_Talk/*eventCode
 ;;===============================================================================
 *code001
 
@@ -18,11 +18,11 @@
 
 @bs f=ヴェルナ@考える t=150
 
-[ヴェルナ]「『賢者の石』を盗み出すのは容易でないだろう」
+[Verna]"\C[2]Philosopher's Stone\C[0] It would not be easy to steal"
 
 @bs f=ヴェルナ@通常 t=150
 
-[ヴェルナ]「気を付けろよ」
+[Verna]"Watch out"
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 
@@ -32,11 +32,11 @@
 
 @bs f=ヴェルナ@考える t=150
 
-[ヴェルナ]「あとはアル。キミ次第だ」
+[Verna]"The rest it's up to you Al"
 
 @bs f=ヴェルナ@微笑 t=150
 
-[ヴェルナ]「さぁ、行ってこい」
+[Verna]"Now. Go"
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 
@@ -46,11 +46,11 @@
 
 @bs f=ヴェルナ@考える t=150
 
-[ヴェルナ]「あとはアル。キミ次第だ」
+[Verna]"The rest it's up to you Al"
 
 @bs f=ヴェルナ@微笑 t=150
 
-[ヴェルナ]「さぁ、行ってこい」
+[Verna]"Now. Go"
 
 @move_f f=ヴェルナ@ out=c t=150 wt=1
 
@@ -75,18 +75,18 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[ヴェルナ]「どうした？　今日はなんの用事だ？」
+[Verna]"What's wrong with you today?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=ヴェルナ@考える x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「特に何か……といったわけじゃなさそうだな」
+[Verna]"Soo... it doesn't seem to be something"
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「ふふ、丁度いい。私も君に相談したいことがあったんだ」
+[Verna]"Fufu, it's ok. I also had something \nI wanted to talk to you"
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=600 wt=1
@@ -94,7 +94,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「実はな。研究用のサンプルが不足しているんだ。だからその協力をキミにお願いしたい。構わないかな？」
+[Verna]"Actually. I am running short of samples for research. \nSo I would like to ask for your cooperation. \nDo you mind?"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -109,7 +109,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[ヴェルナ]「ふふふ。そう来なければな」
+[Verna]"Fufufu. Just as i thought"
 ;;暗転
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300 wt=1

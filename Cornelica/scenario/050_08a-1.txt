@@ -8,7 +8,7 @@
 @huki b=1
 @c_jump
 
-[サキュバス]「お前……また会ったな」
+[Succubus]"You... I see you again"
 
 @bs f=アル@焦り op=焦り x=-400 y=50 opa=0 t=20 wt=0
 @move f=アル@焦り x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1

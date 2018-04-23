@@ -9,23 +9,23 @@
 
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
-[クラーラ]「おい！　そこの教材。また会ったな」
+[Kurra]"Hey! Teaching materials there. I see you again"
 
 ;;主人公：疑問符
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
 @move f=ジゼル@ x=0 y=50 opa=255 t=200 wt=1
 
-[ジゼル]「ふふ、このあいだは～とっても逃げるの上手だったよね～」
+[Gisele]"Fufu, running away was very good the other day"
 
-[ジゼル]「わたしたちも～。たのしかったよぉ❤」
+[Gisele]"We also... love it. It was fun❤"
 
 @bs f=アル@屈辱 op=焦り t=200
 
 @move f=クラーラ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=モニカ@ x=350 y=50 opa=255 t=200 wt=1
 
-[モニカ]「ですので、また遊んでいただきたいのです」
+[Monica]"So, we'd like you to play again"
 
 ;;主人公：一歩引く
 
@@ -35,14 +35,14 @@
 @move f=モニカ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
-[クラーラ]「当然、拒否権はないよ」
+[Kurra]"Of course... you don't have veto power"
 
-[ジゼル]「じゃあさっそく～」
+[Gisele]"Then now～"
 
 @move f=クラーラ@ x=400 y=50 opa=0 t=200 wt=1
 @move f=モニカ@ x=350 y=50 opa=255 t=200 wt=1
 
-[モニカ]「ゲーム開始です！」
+[Monica]"The game is starting!"
 
 @move_f f=アル@ face=0 out=c t=150 wt=0
 @move_f f=クラーラ@ face=0 out=c t=150 wt=1

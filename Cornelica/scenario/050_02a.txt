@@ -4,9 +4,9 @@
 
 @move_f f=メイ@通常 in=c t=250 wt=1
 
-[メイ－α]「何か、買う？」
+[Vlasta-α]"Do you buy something?"
 
-@select s1=買い物/*code01 s2=話す/*code02
+@select s1=Shopping/*code01 s2=Speak/*code02
 ;;----------------------------------------------------------------
 ;;買い物
 *code01
@@ -25,7 +25,7 @@
 
 @bs f=メイ@笑み t=200
 
-[メイ－α]「エネルギー助かった。また、頼みたい」
+[Vlasta-α]"I was saved by energy. I'd also like to talk"
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs
@@ -37,16 +37,16 @@
 
 @bs f=メイ@微笑 t=200
 
-[メイ－α]「ねぇ……ちょっとこっちに……」
+[Vlasta-α]"Hey...come here for a moment..."
 
-@select s1=どうしたの？/*code03 s2=やめておく/*code04
+@select s1=What's_the_matter?/*code03 s2=Refuse/*code04
 ;;----------------------------------------------------------------
-;;どうしたの？
+;;What's_the_matter?
 *code03
 
 @bs f=メイ@笑み t=200
 
-[メイ－α]「また……頼みたい」
+[Vlasta-α]"I... want to ask again..."
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs
@@ -54,11 +54,11 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end001
 ;;----------------------------------------------------------------
-;;やめておく
+;;Refuse
 *code04
 
 @bs f=メイ@困惑 t=200
-[メイ－α]「残念……」
+[Vlasta-α]"Regrettably..."
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs

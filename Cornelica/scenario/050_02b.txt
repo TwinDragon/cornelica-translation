@@ -9,7 +9,7 @@
 @move f=メイ@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[メイ－α]「かなり回復できた……次も……よろしく」
+[Vlasta-α]"I was able to recover quite a bit...well...thanks you..."
 
 ;;主人公：赤面（困惑）
 

@@ -10,29 +10,30 @@
 
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「はぁあ～…………」
+[Succubus]"Haha～"
 
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「……ん？　男の子がこんなとこでどうしたの？」
+[Succubus]"...hmm? What did a boy do in this place?"
 
 @bs f=アル@笑顔 t=200
 
-[サキュバス]「元気がなさそうだから声をかけたって？　……優しいのね。まぁ、だからと言ってどうなるわけでもないんだけど……」
+[Succubus]"You heard a voice since it seems not to be energetic? \nIt's kind of you. Well, it doesn't matter what I say..."
 
 @bs f=アル@困り t=200
 
-[サキュバス]「……ここね、もとは娼館だったんだ。魔力を余分に払う代わりにチャームの侵食は抑えるから、特例としてフランカ区でやれたの。ここの方が客が入りやすいしね」
+[Succubus]"...Here originally was a brothel. Instead of paying \nextra magical power, we'll suppress the erosion of the charm \nmaking it a special case in Franca Ward"
+[Succubus]"It's easier for customers to enter here"
 
-[サキュバス]「サキュバスとHはしたいけど、奴隷はいやって人とか、サキュバスを組み敷きたいって人には人気があったんだけど……」
+[Succubus]"I want succubus and sex, but I don't want people \nto become slaves. People said that they wanted to fuck\n succubuses, but..."
 
-[サキュバス]「最近は男が少なくてね。ついついサキュバス達が暴走しちゃってねぇ……」
+[Succubus]"Recently there are few men. \nSuccubuses got out of control"
 
 @bs f=アル@焦り t=200 op=焦り x=-350 y=50 t=600
 
-[サキュバス]「まぁ、サキュバスに吸精を押さえろってのも酷よね……」
+[Succubus]"Well, it's too cruel to hold sucking on Succubus..."
 
-[サキュバス]「愚痴を聞いてくれてありがと。良かったら、キミも魔力の消費だけで私とHしてみる？」
+[Succubus]"Thank you for listening me bitching. \nIf you do not mind, why do not you try sex with me \njust by using magical power?"
 
 @bs f=アル@焦り_頬 t=200
 
@@ -43,7 +44,7 @@
 @if eval=s(47)==1 ok=jump:*scene001 bad=jump:*next001
 *scene001
 
-[リリィ]「むっ……まぁ、安全なら、アルに判断を任せるけど……アル、どうするの？」
+[Lily]"Muuu... well, if safe, I will leave decision to Al. \nWhat do you wanna do?"
 
 ;;========================================================
 *next001

@@ -12,9 +12,9 @@
 @bs f=アル@焦り op=ハテナ x=-350 y=50 opa=255 t=600 wt=1
 @wait t=400
 
-[サキュバス]「あたしが誰かって？　あたしのことなんかどうでもいいだろ？」
+[Succubus]"Who am I? You do not care about me at all, do you?"
 
-[サキュバス]「それよりお前だよ。お前……名前はなんていうんだ？」
+[Succubus]"More than that. You ... what is your name?"
 
 @bs f=アル@屈辱 op=困惑 x=-350 y=50 opa=255 t=600 wt=1
 @move f=アル@屈辱 x=-340 y=50 w=100 h=100 t=50 wt=1

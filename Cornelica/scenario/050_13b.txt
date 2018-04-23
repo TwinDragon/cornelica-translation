@@ -16,11 +16,11 @@
 
 
 
-[サキュバス]「あら……リリィちゃんじゃない。こんにちは♪」
+[Succubus]"Ah...if it's not Lily. Hello♪"
 @bs f=リリィ@笑顔 t=200 op=音符 x=-350 y=50 t=600
 
 
-[リリィ]「こんにちは♪」
+[Lily]"Hello♪"
 
 
 @move_f f=リリィ@笑顔 face=0 out=c t=150 wt=0
@@ -44,7 +44,7 @@
 @move f=貴族サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[サキュバス]「あら？　わたくしと楽しい事、したくなったのかしら？」
+[Succubus]"Ah? Did you want to have fun with me?"
 
 @jump target=*end001
 ;;========================================================

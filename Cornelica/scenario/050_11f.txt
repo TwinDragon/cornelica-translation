@@ -4,7 +4,7 @@
 ;;========================================================
 
 @bs f=イリーナ@笑み t=200
-[イリーナ]「それでは、私はいつでもお客様をお待ちしております」
+[Irina]"Well then, I am always waiting for you"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=イリーナ@笑み face=0 out=c t=150 wt=1
 @bs

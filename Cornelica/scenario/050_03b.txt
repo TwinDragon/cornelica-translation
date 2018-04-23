@@ -9,17 +9,17 @@
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
 ;;捕まる
-[クラーラ]「よーし、捕まえた♪」
+[Kurra]"Ok, I caught him♪"
 
 ;;主人公：暴れる
 
 @move f=ジゼル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[ジゼル]「暴れたって、だ～め♪」
+[Gisele]"It is no use raging♪"
 
 @move f=モニカ@ x=0 y=50 opa=255 t=200 wt=1
 
-[モニカ]「貴方の精液……たっぷり、味わわせてもらいますね」
+[Monica]"Your semen... enough. Please let me taste it"
 
 ;;暗転
 

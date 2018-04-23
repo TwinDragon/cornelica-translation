@@ -5,15 +5,16 @@
 
 
 
-@select s1=お願いする/*code001 s2=やめておく/*code002
+@select s1=Accept/*code001 s2=Refuse/*code002
 ;;========================================================
-;;お願いする
+;;お願いする Accept
 
 
 
 *code001
 
-[サキュバス]「フフ……よし、それじゃあそこの角にいこっか。娼館が無くなった今、目立つのも良くないしね」
+[Succubus]"Huh... Well, then let's go to the corner there. \nNow that the brothel is gone, \nit's no good to be conspicuous"
+
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=元娼婦サキュバス@ face=0 out=c t=150 wt=1
 @bs
@@ -22,10 +23,10 @@
 @variables id=108 val=1 type=0 calc=0
 @jump target=end01
 ;;========================================================
-;;やめておく
+;;やめておく Refuse
 *code002
 
-[サキュバス]「そう……まぁ、魔力に余裕ができたら来なさいな。　私はしばらくここにいるからね」
+[Succubus]"Ok... well, if you can afford magical power, \ncome back. I am here quite a time"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=元娼婦サキュバス@ face=0 out=c t=150 wt=1
 @bs
