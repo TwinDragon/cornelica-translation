@@ -24,7 +24,7 @@
 @bs f=リリィ（堕）@微笑 x=350 y=50 t=200 wt=1
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=100 wt=1
 
-[リリィ]「起きた……？　ここはね、私の部屋だよ」
+[Lily]"You got up...? Here is my room"
 
 ;;主人公：疑問符
 @huki b=2
@@ -34,7 +34,7 @@
 @huki b=8 id=7
 @bs f=リリィ（堕）@通常 x=350 y=50 t=200 wt=1
 
-[リリィ]「……今からね……アルを私のものにするの。アルを……私だけのものに」
+[Lily]"... from now on ...I will you mine... Al... only mine"
 
 ;;主人公：驚く
 @bs f=アル@驚き op=焦り x=-350 y=50 t=600 wt=1
@@ -47,12 +47,12 @@
 @huki b=2 id=7
 @bs f=リリィ（堕）@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「ごめんね……？　でも、無理なの……そうしたいって思って止まらないの」
+[Lily]"I'm sorry... but, but it's impossible... \nI do not want to stop doing it..."
 
 @huki b=3 id=7
 @bs f=リリィ（堕）@淫猥な笑み x=350 y=50 t=200 wt=1
 
-[リリィ]「アルが帰りたいのは知ってる……でも。諦めて♪　……お願ぁい♪」
+[Lily]"I know that you wants to go... but... give up♪ Please♪"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -64,7 +64,7 @@
 @huki b=8 id=7
 @move_f f=リリィ（堕）@淫猥な笑み in=c t=250
 
-[リリィ]「ずっとずっと……一緒だよ♪　サキュバスの本気の肢体、味あわせてあげる♪」
+[Lily]"Always forever... together ♪ Succubus's serious body, you will taste ♪"
 
 @bgm
 @fade type=out t=1000 wt=1

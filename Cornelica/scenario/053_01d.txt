@@ -3,7 +3,7 @@
 
 @bs f=リリィ@笑顔
 
-[リリィ]「うん！　分かった」
+[Lily]"Yeah! I understand"
 
 @move_f f=リリィ@ out=c t=150
 

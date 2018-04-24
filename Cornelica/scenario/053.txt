@@ -19,7 +19,7 @@
 @huki b=2 id=7
 @bs f=リリィ@哀しみ op=ハテナ x=350 y=50 t=200
 
-[リリィ]「どうして帰るって即答しなかったの？　やっと、元の世界に戻れるのに……」
+[Lily]"Why did not you reply promptly? \nFinally, you can return to your world..."
 
 ;;主人公：哀しい顔
 @huki b=8
@@ -32,16 +32,16 @@
 @huki b=2 id=7
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「……アル？」
+[Lily]"...Al?"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @wait t=400
 
-;;もう少し一緒にいたい
-;;街をもう少し回りたい
-@select s1=もう少し一緒にいたい/*code01 s2=街をもう少し回りたい/*code02
+;;"I_want_to_be_with_you_for_a_while"
+;;"I_want_to_go_around_the_city_a_bit_more"
+@select s1="I_want_to_be_with_you_for_a_while"/*code01 s2="I_want_to_go_around_the_city_a_bit_more"/*code02
 ;;============================================================================
-;;もう少し一緒にいたい
+;;もう少し一緒にいたい "I_want_to_be_with_you_for_a_while"
 *code01
 
 @huki b=8
@@ -51,16 +51,15 @@
 @huki b=8 id=7
 @bs f=リリィ@哀しみ x=350 y=50 t=600
 
-[リリィ]「アル……」
-
+[Lily]"Al..."
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=300
 
-[リリィ]「うん……私も……一緒にいたい」
+[Lily]"Yeah... I also... want to be with you ..."
 
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end01
 ;;============================================================================
-;;街をもう少し回りたい
+;;街をもう少し回りたい "I_want_to_go_around_the_city_a_bit_more"
 *code02
 
 @huki b=8
@@ -70,7 +69,7 @@
 @huki b=8 id=7
 @bs f=リリィ@微笑 x=350 y=50 t=600
 
-[リリィ]「うん。分かった」
+[Lily]"Yeah. I understand"
 
 @huki b=8 id=7
 @bs f=リリィ@通常 x=350 y=50 t=600
@@ -79,11 +78,11 @@
 @bs f=リリィ@微笑 op=ハテナ x=350 y=50 t=200
 @bs f=アル@困り x=-350 y=50 t=100 wt=1
 
-[リリィ]「あっ……えっと……その……もしよかったら……私も一緒についていってもいい……？」
+[Lily]"Ah... er... that... If it's okay... \ncan I also follow you around...?"
 
 @bs f=リリィ@哀しみ x=350 y=50 t=600
 
-[リリィ]「もう少しで……お別れかも知れないし……」
+[Lily]"A little more... It may be goodbye..."
 
 ;;主人公、うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1

@@ -42,7 +42,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=400 wt=1
 
-[リリィ]「それじゃあ……行ってくるね」
+[Lily]"Well then ... I'm going"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -60,11 +60,11 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[白良]「お気を付けて……」
+[Shira]"Be careful……"
 
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=250 wt=1
 
-[ヴェルナ]「二人共、戻って来た時は向こうの情報を頼むぞ」
+[Verna]"When both of you return, \nI will ask for information on the other side"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -74,7 +74,7 @@
 
 @move_f f=ヴァネッサ@微笑 in=c t=250 wt=1
 
-[ヴァネッサ]「リリィ……無事でな。アル……リリィを頼んだぞ」
+[Vanessa]"Lily... stay safe. Al... I entrust you Lily"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -129,23 +129,23 @@
 
 @mes_win back=1 pos=1
 
-\CLこうして、長かったようで、短かった私達の小さな冒険はお終い。
+\CLThus, our small adventure as if it was long and short was over.
 
-\CLだけど――
+\CLHowever...
 
-\CL本当の冒険は。多分、ここからが始まり。
+\CLA real adventure... perhaps, it starts from here.
 
-\CLこの先どうなっていくのか……まだ、私達には、まだ分からないけど。
+\CLWhat will happen in the future ...? We don't know yet.
 
-\CLきっと何とかしていけると思う。
+\CLI think that I am sure that I can manage it somehow
 
-\CLコルネリカでもそうだったみたいに……。
+\CLLike it was in Cornelica...
 
-\CLきっと、大変な事、辛い事もいっぱいあると思う。
+\CLSurely, there are lots of hardships and painful things.
 
-\CLでも、乗り越えていけるよ――
+\CLBut we can overcome it...
 
-\CL――二人でならきっと。
+\CL...together
 
 @rps
 @wait t=3000

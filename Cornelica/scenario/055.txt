@@ -11,7 +11,7 @@
 @huki b=8 id=5
 @move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
 
-[ヴァネッサ]「………………いや……駄目。駄目じゃ……」
+[Vanessa]"...No, you can't... it useless..."
 
 @huki b=1 id=10
 @huki b=1 id=11
@@ -33,7 +33,7 @@
 
 @bs f=リリィ@蔑み op=ビックリ x=350 y=50 t=300 wt=1
 
-[リリィ]「そんな……！」
+[Lily]"I will do it!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -45,11 +45,11 @@
 @huki b=8 id=5
 @move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
 
-[ヴァネッサ]「気持ちは分かる。分かるが……じゃが、やはりダメじゃ」
+[Vanessa]"I understand your feelings. \nI understand, but... it is no use"
 
 @bs f=ヴァネッサ@焦り
 
-[ヴァネッサ]「リリィはわしの大切な娘なのじゃ……それを、こんな小競り合いに巻き込みたくはない……」
+[Vanessa]"Lily is my precious girl... \nI don't want to involve it in such skirmishes..."
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -67,7 +67,7 @@
 @huki b=1 id=11
 @bs f=リリィ@哀しみ x=350 y=50 t=600 wt=1
 
-[リリィ]「ママ……」
+[Lily]"Mama..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -78,7 +78,7 @@
 
 @move_f f=ヴァネッサ@焦り in=c t=250 wt=1
 
-[ヴァネッサ]「じゃから……」
+[Vanessa]"Therefore..."
 
 @bgm
 
@@ -127,7 +127,7 @@
 
 @bgm f=s-014
 
-[リリィ]「え？　なに？」
+[Lily]"Uhm? What?"
 
 @huki b=1 id=10
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
@@ -152,12 +152,13 @@
 @huki b=1 id=12
 @bs f=白良@困惑 x=350 y=50 t=400 wt=1
 
-[白良]「――それは！」
+[Shira]"--that is!"
+
 
 @huki b=1 id=13
 @bs f=ヴェルナ@怒り x=-350 y=50 t=400 wt=1
 
-[ヴェルナ]「娘相手に正気か！？」
+[Verna]"Are you insane doing it to your daughter?"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -170,7 +171,7 @@
 @huki b=8 id=5
 @move_f f=ヴァネッサ@蔑み in=c t=250 wt=1
 
-[ヴァネッサ]「家族の問題じゃ……ぬしらは席を外しておれ」
+[Vanessa]"It's Family Matter... stay out of this"
 
 @anime id=5 num=203 wt=0
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
@@ -191,11 +192,11 @@
 
 @huki b=1 id=12
 
-[白良]「――！！」
+[Shira]"---!!"
 
 @huki b=1 id=13
 
-[ヴェルナ]「……くっ」
+[Verna]"...damn"
 
 @se f=Flash1
 @flash t=1000
@@ -225,7 +226,7 @@
 @se f=Flash3 pitch=90
 @move_f f=white face=0 in=c t=1000 wt=1
 
-[リリィ]「え……あっ……あぁああああ……」
+[Lily]"Uhm...ah...aaaaah"
 
 @invisible type=on id=1
 
@@ -265,7 +266,7 @@
 @bs f=ヴァネッサ@蔑み x=350 y=50 opa=0 t=20 wt=1
 @move f=ヴァネッサ@蔑み x=300 y=50 w=100 h=100 opa=255 t=250 wt=1
 
-[ヴァネッサ]「別にわしは特別なことなど何もしておらぬ。ただ、刺激してやったのじゃ」
+[Vanessa]"Don't worry, I didn't do anything special. \nI just stimulated her"
 
 ;;主人公：疑問符
 @huki b=2 id=10
@@ -274,7 +275,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴェルナ]「リリィのサキュバスの本能……それを目覚めさせてやったのじゃよ」
+[Verna]"Lily's Succubus instinct... I let you awake it"
 
 @move_f f=ヴァネッサ@ out=r t=250
 
@@ -299,7 +300,7 @@
 ;;リリィ起き上がる
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[リリィ]「ねぇ……アル……」
+[Lily]"Hey...Al..."
 
 ;;主人公：疑問符
 @huki b=2 id=10
@@ -308,7 +309,7 @@
 
 @bs f=リリィ@淫猥 x=350 y=50 t=200 wt=1
 
-[リリィ]「大好きだよ」
+[Lily]"I love you"
 
 @anime id=11 num=203 wt=0
 

@@ -6,12 +6,12 @@
 @bs f=リリィ@微笑 x=400 y=50 opa=0 t=20 wt=0
 @bs f=アル@普通 x=-400 y=50 opa=0 t=20 wt=0
 @move f=アル@微笑 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=0
-@move f=リリィ@普通 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1
+@move f=リリィ@普通 x=350 y=50 w=100 h=100 opa=255 t=400 wt=1together
 
 @huki b=1 id=7
 @bs f=リリィ@笑顔 op=ビックリ x=350 y=50 t=400
 
-[リリィ]「あっ、アル！　ちょうど伝えたいことがあったの」
+[Lily]"Ah, Al! There was something I just wanted to tell"
 
 ;;主人公疑問符
 @huki b=2
@@ -22,7 +22,7 @@
 @bs f=リリィ@微笑 op=音符 x=350 y=50 t=200
 @bs f=アル@困り x=-350 y=50 t=100 wt=0
 
-[リリィ]「実はね……プレゼントがあるの！」
+[Lily]"Actually, there is a gift!"
 
 @huki b=1
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
@@ -34,7 +34,7 @@
 @huki b=3 id=7
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200
 
-[リリィ]「えへへ♪　ナニかはまだヒミツ」
+[Lily]"Ahh♪　It's a secret!"
 
 @bs f=アル@普通 x=-350 y=50 t=600
 @bs f=リリィ@微笑 x=350 y=50 t=600
@@ -43,7 +43,7 @@
 @huki b=3 id=7
 @bs f=リリィ@微笑 op=音符 x=350 y=50 t=300
 
-[リリィ]「じゃあ、準備するから……少し部屋の扉の前で待ってて♪」
+[Lily]"Well, I'll be preparing it... \nwait a little in front of the door of the room♪"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=0

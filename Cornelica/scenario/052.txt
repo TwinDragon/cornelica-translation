@@ -13,7 +13,7 @@
 
 @fade type=in t=1000 wt=1
 
-[ヴァネッサ]「目覚めたか」
+[Vanessa]"Did you awake?"
 
 @se f=衣擦れの音1
 @change num=0
@@ -35,14 +35,14 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……アル。貴様は妾とのセックスの後、気絶したのじゃよ」
+[Vanessa]"...Al. You fainted after having sex with me...
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
 ;;主人公：哀しい顔
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400
 
-[ヴァネッサ]「故に、勝負はお主の負け……」
+[Vanessa]"Therefore, you lost the match..."
 
 ;;主人公：哀しい顔
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
@@ -50,7 +50,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=600 wt=1
 
-[ヴァネッサ]「――と、いいたいところじゃが、アルよ。貴様の勝ちとする。妾は十分満足することができたからの」
+[Vanessa]"...but I want to say, Al: you win. Because I was satisfied enough"
 
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=400 wt=1
@@ -93,7 +93,7 @@
 @move f=リリィ@笑顔 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@笑顔 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「やったねアル！」
+[Lily]"You did it Al!"
 
 ;;主人公：喜ぶ
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
@@ -117,11 +117,11 @@
 
 @bs f=ヴァネッサ@普通 t=600
 
-[ヴァネッサ]「………………」
+[Vanessa]"...."
 
 @bs f=ヴァネッサ@微笑 t=250
 
-[ヴァネッサ]「アルよ……貴様、この世界に残るつもりはないか？」
+[Vanessa]"Al... do you intend to stay in this world?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 ;;主人公：疑問符
@@ -155,7 +155,7 @@
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=600 wt=1
 @bs f=アル@焦り x=-350 y=50 t=400 wt=1
 
-[ヴァネッサ]「……わしは貴様のことが気に入った。じゃから、残ってもらえると嬉しい」
+[Vanessa]"..... I liked you. Well then, I'm happy to have it left"
 
 ;;主人公：考える
 @huki b=8
@@ -164,12 +164,12 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「答えをすぐに出す必要はない。決めたらまた来るがよい。ただし、一つだけ留意しておけ」
+[Vanessa]"There is no need to answer immediately. \nWhen you decide, come back again. \nHowever, only one thing to keep in mind"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @bs f=ヴァネッサ@怒り x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「貴様がどんな決断を下そうと、リリィはここに残す。この世界から出すつもりはないからな」
+[Vanessa]"Whatever decision you are going to make, Lily leaves here. \nI do not intend to give her out of this world."
 
 ;;主人公：驚く
 @huki b=1
@@ -181,7 +181,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「それだけはしっかり心に刻んでおくのじゃ」
+[Vanessa]"Keep it firmly in your mind"
 
 ;;主人公：哀しい顔
 @bs f=アル@焦り x=-350 y=50 t=600 wt=1
@@ -209,7 +209,7 @@
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600
 @wait t=400
 
-[リリィ]「………………」
+[Lily]"......."
 ;;暗転
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

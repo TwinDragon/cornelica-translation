@@ -3,18 +3,18 @@
 
 @move_f f=ヴァネッサ@普通 in=c t=150
 
-[ヴァネッサ]「……答えは、決まったか？」
+[Vanessa]"...So, has the answer been decided?"
 
-;;決まった
-;;もう少し考えたい
-@select s1=決まった/*code01 s2=もう少し考えたい/*code02
+;;I_Have_decided
+;;I_want_to_think_a_bit_more
+@select s1=I_Have_decided/*code01 s2=I_want_to_think_a_bit_more/*code02
 ;;==============================================================
-;;決まった
+;;決まった I_Have_decided
 *code01
 
 @bs f=ヴァネッサ@微笑 t=150
 
-[ヴァネッサ]「うむ。では、聞かせてもらおうか」
+[Vanessa]"Ok. Well, let me hear you"
 
 @bgm
 @fade type=out t=1000 wt=1
@@ -49,16 +49,16 @@
 
 @bs f=ヴァネッサ@普通 t=250
 
-;;元の世界に戻る
-;;この世界に残る
-@select s1=元の世界に戻る/*code03 s2=この世界に残る/*code04
+;;I_want_to_return_to_my_world
+;;I_want_to_remain_in_this_world
+@select s1=I_want_to_return_to_my_world/*code03 s2=I_want_to_remain_in_this_world/*code04
 ;;==============================================================
-;;もう少し考えたい
+;;もう少し考えたい I_want_to_think_a_bit_more
 *code02
 
 @bs f=ヴァネッサ@微笑 t=150
 
-[ヴァネッサ]「そうか、ゆっくり考えるといい」
+[Vanessa]"Okay, you should think slowly"
 
 @move_f f=ヴァネッサ@ out=c t=150
 
@@ -66,11 +66,11 @@
 @jump target=*end01
 ;;==============================================================
 *code04
-;;この世界に残る
+;;この世界に残る I_want_to_remain_in_this_world
 
 @bs f=ヴァネッサ@微笑 t=150
 
-[ヴァネッサ]「……ふむ」
+[Vanessa]"...Hmm"
 
 @move_f f=ヴァネッサ@ out=c t=150
 
@@ -86,7 +86,7 @@
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 
-[リリィ]「いいの……？　アル……」
+[Lily]"It is good...? Al..."
 
 @huki b=8 id=10
 ;;主人公：哀しい顔
@@ -100,7 +100,7 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400
 
-[リリィ]「アル……」
+[Lily]"Al..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -120,7 +120,7 @@
 
 @bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「そうか……よく決断した。ならば……わし達はこれからずっと一緒じゃ」
+[Vanessa]"Well... well good decision. \nThen... we will always be together forever"
 
 @bgm
 @fade type=out t=1000 wt=1
@@ -147,7 +147,7 @@
 @jump target=*end01
 ;;==============================================================
 *code03
-;;元の世界に戻る
+;;元の世界に戻る I_want_to_return_to_my_world
 
 @bs f=ヴァネッサ@困惑 t=600 wt=1
 @wait t=400
@@ -168,19 +168,19 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=600 wt=1
 
-[ヴァネッサ]「…………」
+[Vanessa]"......"
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=600 wt=1
 
-[リリィ]「………………」
+[Lily]".........."
 
 @bs f=リリィ@微笑_r op=焦り_r x=-350 y=50 t=300 wt=1
 
-[リリィ]「まぁ……当然の選択だよね……」
+[Lily]"Well... the obvious choice..."
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「そうか……それは、残念――」
+[Vanessa]"Right?... that is a shame..."
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -197,7 +197,7 @@
 @wait t=300
 
 ;;主人公台詞：だけど
-@select s1=だけど/*se01
+@select s1="But"/*se01
 *se01
 
 @bgm
@@ -223,11 +223,11 @@
 @huki b=2 id=5
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「何じゃ？」
+[Vanessa]"What?"
 
 @bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「……？」
+[Lily]"...?"
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -247,9 +247,9 @@
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
-;;リリィも連れて行く！
-;;二人であっちの世界に行く！
-@select s1=リリィと一緒に行く！/*se03 s2=二人であっちの世界に行く！/*se04
+;;Lily,_I_will_also_take_you_there!
+;;I_will_go_to_my_world_with_two_people!
+@select s1="Lily,_I_will_also_take_you_there!"/*se03 s2="I_will_go_to_my_world_with_two_people!"/*se04
 *se03
 *se04
 
@@ -276,11 +276,11 @@
 
 @bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……な、なんじゃと！？」
+[Vanessa]"...what, WHAT?!"
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=600 wt=1
 
-[リリィ]「アル……私は……」
+[Lily]"Al...I'm..."
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -300,19 +300,19 @@
 
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=600 wt=1
 
-[リリィ]「………………」
+[Lily]"...."
 
 @huki b=8 id=11
 @bs f=リリィ@通常 op=焦り x=350 y=50 t=600 wt=1
 
-[リリィ]「………………」
+[Lily]"......."
 
 @huki b=1 id=11
 @bs f=リリィ@微笑 x=350 y=50 t=300 wt=1
 
 @bgm f=s-015 pitch=70
 
-[リリィ]「行く。行くよ。私もアルと一緒に！」
+[Lily]"I will go, I will go with Al!"
 
 @huki b=8 id=10
 @huki b=1 id=5
@@ -332,7 +332,7 @@
 
 @move_f f=ヴァネッサ@焦り in=c t=150
 
-[ヴァネッサ]「な……何をいっておる！　そんなこと……わしは許さぬぞ！」
+[Vanessa]"No... what are you saying! \nSuch a thing... I will not forgive you!"
 
 @move_f f=ヴァネッサ@ out=c t=150
 
@@ -345,7 +345,7 @@
 
 @bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=300
 
-[リリィ]「……ママ……」
+[Lily]"...Mama..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -356,7 +356,7 @@
 
 @move_f f=ヴァネッサ@怒り in=c t=400
 
-[ヴァネッサ]「可愛い娘を異世界になどやれるものか！　全く……何を言い出すかと思えば……！」
+[Vanessa]"You can't go with my lovely daughter in your world! \nAt all... if you think what you just said!"
 
 @move_f f=ヴァネッサ@ out=c t=400
 
@@ -380,7 +380,7 @@
 @wait t=500
 @move_f f=ヴァネッサ@焦り in=c t=150
 
-[ヴァネッサ]「むっ！？　な、なんじゃいきなり！？」
+[Vanessa]"Uhm?! What is it so suddenly!"
 
 @move_f f=ヴァネッサ@ out=c t=150
 
@@ -396,7 +396,7 @@
 @huki b=2 id=11
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=600
 
-[リリィ]「これ……転移魔法？」
+[Lily]"Is this... a teleport magic?"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -439,12 +439,12 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[白良]「……ふう」
+[Shira]"...huhu"
 
 @huki b=8 id=13
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=400 wt=1
 
-[ヴェルナ]「……ちょうどいいタイミングだな」
+[Verna]"...It's just right timing"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -487,15 +487,15 @@
 
 @bs f=白良@笑み x=350 y=50 t=600 wt=1
 
-[白良]「アルさん。お久しぶりです」
+[Shira]"Al. It's been a long time"
 
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=300 wt=1
 
-[ヴェルナ]「いや、なに。君の事だリリィも連れていきたいと言い出すんじゃないかと踏んでな」
+[Verna]"No, what. You're telling me that you're going to say \nyou want to take Lily too"
 
 @bs f=ヴェルナ@考える x=-350 y=50 t=250 wt=1
 
-[ヴェルナ]「折角だから、そこの頑固者の説得に力を貸してやろうと出向いたまでさ」
+[Verna]"Because it is a point, I have decided to lend a hand to \npersuading the stubborn people here"
 
 @huki b=1 id=5
 
@@ -510,7 +510,7 @@
 @dir dir=up id=10
 @dir dir=up id=11
 
-[ヴァネッサ]「はぁ！？　説得じゃと！？」
+[Vanessa]"Haa! Persuasion!?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -527,12 +527,12 @@
 
 @bs f=ヴェルナ@考える x=-350 y=50 t=400 wt=1
 
-[ヴェルナ]「はぁ……ヴァネッサ……お前は一度頭を冷やすべきだ」
+[Verna]"Huh... Vanessa... you should cool your head once."
 
 @huki b=8 id=12
 @bs f=白良@哀しみ x=350 y=50 t=400 wt=1
 
-[白良]「あなたの事情は承知しております。ですがこのままではあまり良いことにはならないでしょう。あなたにとっても……この街にとっても……」
+[Shira]"I am aware of your circumstances. However, it will not be \na very good thing as it is. For you... for the city..."
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -553,7 +553,7 @@
 @huki b=2 id=11
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=400 wt=1
 
-[リリィ]「事情……？」
+[Lily]"Circumstances...?"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -568,7 +568,7 @@
 @huki b=8 id=5
 @move_f f=ヴァネッサ@困惑 in=c t=250 wt=1
 
-[ヴァネッサ]「…………」
+[Vanessa]"..."
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -582,17 +582,17 @@
 @huki b=2 id=11
 @bs f=リリィ@哀しみ_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「ママ……？　何の事なの……？」
+[Lily]"Mama...? What's the matter...?"
 
 @huki b=7 id=5
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「全く……白良、本当に余計なことをしてくれたな……」
+[Vanessa]"Truly... Shira, you really did a mess..."
 
 @huki b=2 id=11
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「ママ……？」
+[Lily]"Mama...?"
 
 @huki b=7 id=5
 @bs f=ヴァネッサ@焦り x=300 y=50 t=600 wt=1
@@ -600,21 +600,21 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「……そうじゃな……そもそもの原因は、わしの統治不足にあった」
+[Vanessa]"...That's right ...the cause in the first place \nlies in my lack of governance..."
 
 @huki b=8 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「簡潔に言えばな、わしと夫の関係があまりにもサキュバスと人間らしからぬ、対等な関係であっため、領主にはふさわしくないと考えた者どもによって反乱が起きかけた」
+[Vanessa]"Briefly speaking, since my relationship between me and \nmy husband was equal, a rebellion came about saying that it \nwas inappropriate for a succubus lord having such equality"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[ヴァネッサ]「責任を感じた夫は、勝手に異世界へと行ってしまった。ただ、それだけの話じゃ」
+[Vanessa]"My husband felt responsible and went to another world. \nHowever, that's the story"
 
 @huki b=1 id=11
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「そんな……そんな話……私……」
+[Lily]"Such... Such a story... I..."
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -636,7 +636,7 @@
 
 @bs f=白良@焦り x=350 y=50 t=400 wt=1
 
-[白良]「決して貴女の耳に入らぬよう、関係者には厳命しておりましたから」
+[Shira]"You never heard the story because \nit was strictly forbidden to tell it"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -657,20 +657,20 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「そもそも。わし達にとって、人の雄と対等にあること自体が異常なのじゃ」
+[Vanessa]"To begin with, for us it's unusual \nitself to be equal to a man's males"
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「ほとんどのものは奴隷か食料としてしか見ておらんし、そのような存在に愛を持ってしまったわしの方が異端なのじゃろう」
+[Vanessa]"I see most of them as slaves or food only, \nand it's more heresy that I have love for such existence"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「話がそれたな。故に私は、リリィに出て行ってほしくないのじゃ。あやつを連れ帰るなどもってのほかじゃ」
+[Vanessa]"There was a story. Therefore, I don't want Lily to go out. \nIt will not be easy to bring back your dad"
 
 @huki b=2 id=11
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「パパが戻ってきたら……また反乱がおこるから……？」
+[Lily]"If Dad comes back.. also the revolt will too?"
 
 @huki b=8 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
@@ -678,41 +678,41 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「…………そうじゃ。……わかってくれるな？　リリィ」
+[Vanessa]"...Yes... do you understand, Lily?"
 
 @huki b=8 id=11
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「………………」
+[Lily]"....."
 
 @bs f=リリィ@蔑み_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「………………やだ」
+[Lily]"...No"
 
 @huki b=8 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「リリィ……」
+[Vanessa]"Lily..."
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「やだよ……だって、ママ、寂しそうだもん……」
+[Lily]"No... because, Mom... you seems to be lonely"
 
 @bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……何を言って――」
+[Vanessa]"...what to say-"
 
 @huki b=8 id=13
 @move_f f=リリィ@ out=l t=250 wt=1
 @bs f=ヴェルナ@考える x=-400 y=50 t=20 opa=0 wt=1
 @move f=ヴェルナ@考える x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[ヴェルナ]「強がりはやめておけ。我が子というものは存外、気づいているものだぞ」
+[Verna]"Stop hardening, your daughter saw that, \nyou are aware of it"
 
 @huki b=7 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
 
-[ヴァネッサ]「…………」
+[Vanessa]"...."
 
 @move_f f=ヴェルナ@ out=l t=300
 @bs f=リリィ@哀しみ_r x=-400 y=50 t=20 opa=0 wt=1
@@ -720,7 +720,7 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……はぁ……あぁ、そうじゃとも。本音を言うとな……しかし、仕方がないじゃろう」
+[Vanessa]"...Haa ...Oh, well then. \nI should say my true feelings... \nHowever, it can't be helped"
 
 @bs f=リリィ@困惑_r x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -728,26 +728,26 @@
 @huki b=8 id=11
 @bs f=リリィ@蔑み_r x=-350 y=50 t=300 wt=1
 
-[リリィ]「…………わかった……でも、パパには会いに行く」
+[Lily]"...I understand... but I will go see him."
 
 @huki b=1 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[ヴァネッサ]「リリィ……！」
+[Vanessa]"Lily!"
 
 @bs f=リリィ@微笑_r x=-350 y=50 t=400 wt=1
 
-[リリィ]「それでね、旅をして、一人前のサキュバスになって、そしたら、この街を変えるの。パパが戻ってきてもいいような、そんな街に」
+[Lily]"That's right. I wanna journey to become a grow up succubus. \nThen, I will come back and change this town. \nSo that papa may return"
 
 @huki b=8 id=11
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[リリィ]「絶対……絶対の絶対……変えて見せるから」
+[Lily]"Absolutly... absolutly... I will change and show it"
 
 @huki b=8 id=5
 @bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
 
-[ヴァネッサ]「……リリィ……」
+[Vanessa]"...Lily..."
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -761,7 +761,7 @@
 @move_f f=ヴァネッサ@焦り in=c t=600 wt=1
 
 ;;ヴァネッサ、リリィを見つめる
-[ヴァネッサ]「………………」
+[Vanessa]"...."
 
 @move_f f=ヴァネッサ@ out=c t=600 wt=1
 

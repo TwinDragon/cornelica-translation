@@ -17,7 +17,7 @@
 
 @bs f=ヴァネッサ@蔑み t=400 wt=1
 
-[ヴァネッサ]「……分かった……」
+[Vanessa]"...I understood..."
 
 @huki b=1 id=10
 @huki b=1 id=11
@@ -35,7 +35,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=600 wt=1
 
-[リリィ]「……ママ……」
+[Lily]"...mama..."
 
 ;;主人公：喜ぶ
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
@@ -54,11 +54,11 @@
 
 @bs f=ヴァネッサ@普通 t=800
 
-[ヴァネッサ]「リリィ……いつまでも子供じゃと思っておったが、わしに自分の意思を語るまでになったか……」
+[Vanessa]"Lily... I thought you will be a child forever, \nbut was it until you told me your will"
 
 @bs f=ヴァネッサ@微笑 t=800
 
-[ヴァネッサ]「寂しいが……嬉しいぞ」
+[Vanessa]"I am lonely... but I am happy"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -71,7 +71,7 @@
 
 @bs f=リリィ@笑顔 x=350 y=50 t=400 wt=1
 
-[リリィ]「ママ……ありがとう」
+[Lily]"Mama... Thank you"
 
 @move_f f=リリィ@ out=r t=300
 @bs f=ヴァネッサ@困惑 x=350 y=50 opa=0 t=20 wt=1
@@ -79,7 +79,7 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=800
 
-[ヴァネッサ]「………………アル」
+[Vanessa]"...Al"
 
 ;;主人公：驚く
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -89,7 +89,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200
 
-[ヴァネッサ]「リリィを頼むぞ。これは命令……いや、わしからのお願いじゃ」
+[Vanessa]"I will ask for Lily. This isn't a order, I beg you"
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 @wait t=200
@@ -106,13 +106,13 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200
 
-[ヴァネッサ]「……ちゃんと連絡を寄こすのじゃよ。あと、偶には顔を見せい」
+[Vanessa]"...Please keep in touch, then, show your face on occasion"
 
 @bs f=リリィ@笑顔_r x=-350 y=50 t=200 wt=1
 @move f=リリィ@笑顔_r x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=リリィ@笑顔_r x=-350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「うん……うんっ！！」
+[Lily]"Yes... Yes!!"
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -135,11 +135,11 @@
 
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=250 wt=1
 
-[ヴェルナ]「話はついたみたいだな」
+[Verna]"The moment seems to have arrived"
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[白良]「ええ。アルさんとお別れなのは少し残念ですが。丸く収まったようで、なによりです」
+[Shira]"Yeah, it's a pity that we are having a parting with Al. \nBut it seems that it has gotten around and well, mostly"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -156,7 +156,7 @@
 @huki b=2 id=11
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「んー……それは良かったんだけど……これからどうすればいいんだろう？」
+[Lily]"Wow... that was good, but... what should we do now?"
 
 @move_f f=アル@ out=l t=250
 @bs f=ヴァネッサ@困惑 x=-350 y=50 opa=0 t=20 wt=1
@@ -168,12 +168,12 @@
 @huki b=6 id=5
 @bs f=ヴァネッサ@蔑み x=-300 y=50 t=200
 
-[ヴァネッサ]「……なんじゃあれだけ大口を叩いておいて、肝心な『異世界に行く方法』は何も考えておらんかったのか？」
+[Vanessa]"...what, you are beating that big mouth of your \nso much, but you didn't think about asking the important \nquestion 'How to go to a different world'?"
 
 @huki b=7 id=11
 @bs f=リリィ@蔑み op=困惑 x=350 y=50 t=200 wt=1
 
-[リリィ]「だ、だって……」
+[Lily]"Oh, well..."
 
 @move f=ヴァネッサ@困惑 x=-350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -186,15 +186,15 @@
 
 @move_f f=ヴェルナ@微笑 in=c t=250 wt=1
 
-[ヴェルナ]「はは、まぁ、そういってやるな」
+[Verna]"Oh dear. So, I will say it"
 
 @bs f=ヴェルナ@考える t=200
 
-[ヴェルナ]「……そうだな『賢者の石』をもってアルと初めて会った場所に行くといい」
+[Verna]"...That's right. You should go to the place where you met \nwith Al for the first time with the Philosopher's stone"
 
 @bs f=ヴェルナ@微笑 t=200
 
-[ヴェルナ]「後は、ポータルに近付けば勝手に起動するだろう」
+[Verna]"Afterwards, if you get closer \nto the portal you'll start it on your own."
 
 @move_f f=ヴェルナ@ out=c t=250 wt=1
 
@@ -207,7 +207,8 @@
 
 @bs f=リリィ@笑顔 x=350 y=50 t=200 wt=1
 
-[リリィ]「うん！　ありがとう！」
+[Lily]"Yeah! Thank you!"
+
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -223,7 +224,7 @@
 
 @move_f f=白良@微笑 in=c t=250 wt=1
 
-[白良]「ただ、色々と準備もあるでしょう。出発は明日がよろしいかと。お二人とも疲れもあるでしょうからね」
+[Shira]"But there will be plenty of preparation needed, \nso please leave tomorrow because both of you are tired"
 
 @move_f f=白良@ out=c t=250 wt=1
 
@@ -238,7 +239,7 @@
 @move f=リリィ@微笑 x=350 y=100 w=100 h=100 t=160 wt=1
 @move f=リリィ@微笑 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[リリィ]「……そうだね。それじゃあ、一旦、隠れ家に帰ろうか？」
+[Lily]"...yeah. Well then, should we go back to the hideout?"
 
 ;;主人公うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
@@ -254,7 +255,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=600 wt=1
 
-[リリィ]「それじゃあ、ママ……えと……」
+[Lily]"Well then, Mama... umh..."
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@焦り x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -265,7 +266,7 @@
 
 @move_f f=ヴァネッサ@微笑 in=c t=250 wt=1
 
-[ヴァネッサ]「……準備は抜かりなくな？」
+[Vanessa]"...Are you ready?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -278,7 +279,7 @@
 
 @bs f=リリィ@笑顔 x=350 y=50 t=600 wt=1
 
-[リリィ]「うん……ありがとう」
+[Lily]"Yes, thank you"
 
 @dir dir=up id=10
 @dir dir=up id=11
@@ -291,7 +292,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[リリィ]「……それじゃ、アル。行こ？」
+[Lily]"That's it, Al. Let's go"
 
 ;;主人公うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
