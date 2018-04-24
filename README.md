@@ -26,6 +26,8 @@ If you want to contribute to the project, have a look at reading on how to [Cont
 
 Basically these are the people who you contact for issues.
 
+* Antielfi
 * Bezerker77
 * Darkhawk02
-* TwinDragon *<shippo[at]starfleetplatoon.com>*
+* TwinDragon *<twinshadow[at]shadowhime.net>*
+* XenoPI
