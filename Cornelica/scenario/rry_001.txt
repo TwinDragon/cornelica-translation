@@ -2,7 +2,7 @@
 
 @move_f f=リリィ@笑顔 op=ハテナ in=c t=200
 
-[リリィ]「アル？　どうしたの？」
+[Lily]"Al? What's wrong?"
 
 @bs f=リリィ@微笑 t=200
 
