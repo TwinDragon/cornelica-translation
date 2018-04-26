@@ -180,8 +180,8 @@
 
 @move f=旅人B@01 x=300 y=100 w=100 h=100 t=160 wt=1
 @move f=旅人B@01 x=300 y=50 w=100 h=100 t=130 wt=1
-;; Implying customer 1, not sure if italics will work
-[Customer 2]"... Helping out at that age, huh...\nHuge difference from a NEET like [I]someone[/I]."
+;; Implying customer 1, Italics won't work
+[Customer 2]"... Helping out at that age, huh...\nHuge difference from a NEET like 'someone'."
 
 @dir dir=right id=18 wt=0
 @dir dir=left id=21

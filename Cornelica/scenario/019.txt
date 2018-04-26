@@ -25,7 +25,7 @@
 ;;姿を表すヴェルナ
 [？？？＠ヴェルナ]"Oh dear, good. Where did you come from?"
 
-[？？？＠ヴェルナ]"...and then? What is it with that boy? \n...who's that one? \nIt's like a human being...is your slave?"
+[？？？＠ヴェルナ]"...and then? What is it with that boy? ...who's that one? \nIt's like a human being...is your slave?"
 
 [Lily]"Eh, wrong! This boy is Al"
 

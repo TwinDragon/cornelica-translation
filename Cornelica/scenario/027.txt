@@ -31,7 +31,7 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@微笑_r x=-350 y=50 t=200 wt=1
 
-[Verna]"Oh... right. Even Al will be able to pass the portal \nas long as the drug that can temporarily accumulate \nthe magic of this world transforming it as his own can be created"
+[Verna]"Oh... right. Even Al will be able to pass the portal as \nlong as the drug that can temporarily accumulate the magic \nof this world transforming it as his own can be created"
 ;;Need Review
 @huki b=2 id=AC0
 @bs f=リリィ@通常_r op=ハテナ_r x=-350 y=50 t=200 wt=1

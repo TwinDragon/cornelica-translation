@@ -96,7 +96,7 @@
 
 @bs f=ヴェルナ@通常 t=200 wt=1
 
-[Verna]"I am Verna. Witch Verna. Please to me you."
+[Verna]"I am Verna. Witch Verna. Please to met you."
 
 @move_f f=ヴェルナ@ out=c t=200 wt=1
 @move_f f=リリィ@ out=c t=20 wt=0

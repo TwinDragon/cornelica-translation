@@ -1,4 +1,4 @@
-;;■04
+﻿;;■04
 ;;■Hilberta Forest
 @bgm
 
@@ -87,7 +87,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@通常 x=350 y=50 t=200
 
-[Lily]"Sex demons are demons that lives by eating\nhumans' semen. Ah, but, no need to be afraid."
+[Lily]"Sex demons are demons that lives by eating\nhuman's semen. Ah, but, no need to be afraid."
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
@@ -284,7 +284,7 @@
 @bs f=アル@焦り x=-350 y=50 t=100 wt=0
 @bs f=リリィ@困惑 op=ハテナ x=350 y=50 t=200
 
-[Lily]: "... Do you want to return to the other side?"
+[Lily]"... Do you want to return to the other side?"
 
 ;;主人公うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
@@ -346,7 +346,7 @@
 
 @bs f=アル@普通 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@微笑 x=350 y=50 t=200
-[Lily]"So let's go together, to Cornelica - the city of\nwe, the Succubi."
+[Lily]"So let's go together, to Cornelica \nthe city of Succubi."
 
 ;;主人公うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1

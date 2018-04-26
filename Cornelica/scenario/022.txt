@@ -66,7 +66,7 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"But... you actually came to this world so you should have few magical powers."
+[Verna]"But... you actually came to this world so \nyou should have few magical powers."
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
@@ -83,7 +83,7 @@
 @huki b=2 id=3
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Almost fortunately...no, it's bad... did you have a super-powerful catalyst either?"
+[Verna]"Almost fortunately...no, it's bad... \ndid you have a super-powerful catalyst either?"
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
@@ -149,7 +149,7 @@
 
 [Verna]"Because sending people who have poor magical power \nto another world is not a good research \nunless there is a good purpose."
 
-[Verna]"We might not understand anything until we advance into the research."
+[Verna]"We might not understand anything until \nwe advance into the research."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 

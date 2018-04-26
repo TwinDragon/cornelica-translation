@@ -6,12 +6,14 @@
 @bgm f=s-001
 
 @mes_win back=1 pos=1
-
+;;Need Review
 \CL\A \{Sex demon\}, the -Succubus- is,
 
 \CL\a \{fantastical\} being that lives by \{sucking\} human \{semen\}.
 
-\CL\It is said that \{somewhere\} in this \{world\}, is a \{world\} where \{Sex demons\} live...
+\CL\It is said that \{somewhere\} in this \{world\}, 
+
+\CL\is a \{world\} where \{Sex demons\} live...
 
 @mes_win back=0 pos=2
 
