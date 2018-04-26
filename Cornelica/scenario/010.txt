@@ -43,7 +43,7 @@
 @wait t=600
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily]"Welcome.♪ This is the place where I live right now."
+[Lily]"Welcome♪ This is the place where I live right now."
 
 @huki b=2 id=12
 @bs f=リリィ@微笑 op=ハテナ body=-1 face=0 x=350 y=50 t=200
@@ -53,7 +53,7 @@
 
 ;; It is a very large room
 ;; Does Lily live here alone?
-@select s1=It's_really_huge./*st01a s2=Do_you_live_here_alone?/*st01b
+@select s1="It's_really_huge"/*st01a s2="Do_you_live_here_alone?"/*st01b
 ;;----------------------------------------------
 *st01a
 
@@ -64,7 +64,7 @@
 @bs f=アル@笑顔 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily]"Isn't it. ♪"
+[Lily]"Isn't it ♪"
 
 @huki b=3 id=12
 @bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=200
@@ -103,7 +103,7 @@
 @bs f=アル@普通 body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
 
-[Lily]"Now then, I'll guide you to a room. ♪\nEven though I say that, It's only a place to sleep..."
+[Lily]"Now then, I'll guide you to a room ♪\nEven though I say that, It's only a place to sleep..."
 
 @move f=アル@普通 x=-350 y=100 w=100 h=100 t=160 wt=1
 @move f=アル@普通 x=-350 y=50 w=100 h=100 t=130 wt=1
@@ -145,7 +145,7 @@
 @bs f=アル@焦り_頬 op=焦り body=-1 face=0 x=-350 y=50 t=200
 ;;Chest somehow ......
 ;;Do you feel excited?
-@select s1=My_chest_is_kind_of.../*st02a s2=My_heart_is_pounding?/*st02b
+@select s1="My_chest_is_kind_of..."/*st02a s2="My_heart_is_pounding?"/*st02b
 ;;----------------------------------------------
 *st02a
 *st02b
@@ -264,10 +264,10 @@
 @bs f=アル@困り_頬 body=-1 face=0 x=-350 y=50 t=200
 
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily]"Okay. ♪"
+[Lily]"Okay ♪"
 
 @bs f=リリィ@淫猥 op=音符 body=-1 face=0 x=350 y=50 t=200
-[Lily]"Well then... I'll begin. ♪"
+[Lily]"Well then... I'll begin ♪"
 
 @move f=リリィ@淫猥 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
 

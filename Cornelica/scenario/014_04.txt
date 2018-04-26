@@ -8,7 +8,7 @@
 @huki b=8 id=3
 @move_f f=メイド@蔑み_赤 in=c t=150
 
-[Vlaster]"Master is at town hall"
+[Vlasta]"Master is at the town hall"
 
 @move_f f=メイド@ out=c t=150
 

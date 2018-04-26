@@ -84,7 +84,7 @@
 ;;Original Line - 「リリィは…………束縛系？」
 ;;This definitely could use some review...
 [Rosary/lzr0008]"Lily is... ....restraint system?"
-
+;;Need Review ... probably ingame review
 @fade type=out t=1000 wt=1
 @move_f f=ロザリー@ out=c t=20 wt=0
 @bs

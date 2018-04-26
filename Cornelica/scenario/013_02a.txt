@@ -41,7 +41,7 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=I_want_to_know_how_to_collect_magical_power/*se01
+@select s1="I_want_to_know_how_to_collect_magical_power"/*se01
 ;;----------------------------------------------------------------------
 ;;I want to know how to collect magical power
 *se01
@@ -72,7 +72,7 @@
 
 @bs f=アルネ@通常 x=350 y=50 t=100 wt=0
 
-[Arne]"To see that, it seems it is not enough"
+[Arne]"To see that, it seems it's not enough"
 
 @bs f=アル@屈辱 x=-350 y=50 t=400
 @wait t=400

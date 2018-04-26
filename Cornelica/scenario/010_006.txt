@@ -1,7 +1,7 @@
 
 ;;===============================================================================
 
-[Lily]"Ehehe ♪\nTell me again, whenever it's gets rough, okay."
+[Lily]"Ehehe ♪\nTell me again, whenever it's gets rough, okay ♪"
 
 ;;===============================================================================
 

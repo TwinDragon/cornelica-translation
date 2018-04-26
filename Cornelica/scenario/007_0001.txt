@@ -25,13 +25,13 @@
 
 @huki b=2 id=AC0
 @bs f=リリィ@笑顔 body=-1 face=0 x=350 y=50 t=200
-[Lily]"Well, welcome to Cornelica. ♪ How is it? It's a bit dark\nat night but, it's a splendid city, right. ♪"
+[Lily]"Well, welcome to Cornelica ♪ How is it? It's a bit dark\nat night but, it's a splendid city, right ♪"
 
 @bs f=リリィ@微笑 body=-1 face=0 x=350 y=50 t=100 wt=0
 
 @bs f=アル@普通 op=焦り body=-1 face=0 x=-350 y=50 t=200
 
-@select s1=It's_incredibly_big.../*st09a s2=It's_a_wonderful_city.../*st09b
+@select s1="It's_incredibly_big..."/*st09a s2="It's_a_wonderful_city..."/*st09b
 ;;============================================================================
 *st09a
 *st09b
@@ -67,7 +67,7 @@
 [Lily]"They don't move during the night and, in the first place,\nyou can't blame them if you're kidnapped, brought\ninto a room, and assaulted, so be careful, ok."
 
 @bs f=地図@03 body=-1 face=0 t=250 wt=1
-[Lily]"And then, there's the Marhelito district but, there\naren't any particular rules... so it may be better not\nto go there unless it's necessary..."
+[Lily]"And then, there's the Marhelito District but, there\naren't any particular rules... so it may be better not\nto go there unless it's necessary..."
 [Lily]"... So, you shouldn't go too near it, you know?"
 
 @move_f f=地図@ face=0 out=c t=200 wt=1

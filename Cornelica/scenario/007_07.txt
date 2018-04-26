@@ -29,10 +29,10 @@
 @bs f=アル@焦り x=-350 y=50 t=200
 
 ;;主人公、疑問符
-;;どうしたの？
-;;なにかあったの？
+;;"What's_wrong?"
+;;"Did_something_happen?"
 
-@select s1=What's_wrong?/*st10a s2=Did_something_happen?/*st10b
+@select s1="What's_wrong?"/*st10a s2="Did_something_happen?"/*st10b
 ;;----------------------------------------------------
 *st10a
 *st10b

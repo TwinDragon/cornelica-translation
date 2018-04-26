@@ -25,7 +25,7 @@
 
 @bs f=メイド@怒り_赤
 
-[Vlasta]"I will bring it with you"
+[Vlasta]"I will bring him with you"
 
 ;;暗転
 @move f=メイド@怒り_赤 x=0 y=0 w=100 h=100 opa=0 t=250 wt=1
@@ -125,8 +125,8 @@
 ;;■魔女の館：搾精部屋
 @move_f f=メイド@蔑み_赤 in=c t=150 wt=1
 
-[Vlasta]"Arrived in the expressing room. From this we will begin to act on espouse"
-;;what?
+[Vlasta]"Arrived in the extracting room. \nEnergy extraction beginning"
+;;Need Review
 @fade type=out t=250 t=1
 
 @move_f f=メイド@ out=c t=20 wt=0

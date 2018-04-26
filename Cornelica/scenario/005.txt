@@ -44,7 +44,7 @@
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200 wt=1
-[???]"You, your sleeping face is pretty cute. ♪"
+[???]"You, your sleeping face is pretty cute ♪"
 
 ;; jumped up, take a distance from Lily
 ;; "Huh, Who!?" "Where am I!?"
@@ -68,7 +68,7 @@
 @dir dir=right id=8
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=250 wt=1
-@select s1=Wh-_Who!?/*st04a s2=Wh-_Where_am_I!?/*st04b
+@select s1="Huh,_Who!?"/*st04a s2="Where_am_I!?"/*st04b
 ;;===========================================================================
 *st04a 
 
@@ -149,7 +149,7 @@
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Lily the Succubus. Nice to meet you. ♪"
+[Lily]"Lily the Succubus. Nice to meet you ♪"
 
 ;;主人公感嘆符
 @huki b=1 id=8
@@ -206,7 +206,7 @@
 @huki b=3 id=9
 @bs f=アル@焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Glad you understand. ♪"
+[Lily]"Glad you understand ♪"
 
 ;;主人公普通の表情
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300
@@ -244,12 +244,12 @@
 @huki b=2 id=9
 @bs f=リリィ@笑顔 op=ハテナ body=-1 face=0 x=350 y=50 t=300
 
-[Lily]"It's awkward to keep calling you, 'you',\nI'd appreciate if you'd tell me. ♪"
+[Lily]"It's awkward to keep calling you, 'you',\nI'd appreciate if you'd tell me ♪"
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 
 ;;「僕はアル」
-@select s1=I'm_Al./*st05a
+@select s1="I'm_Al"/*st05a
 *st05a
 
 @huki b=8 id=8
@@ -259,10 +259,10 @@
 
 @huki b=3 id=9
 @bs f=リリィ@笑顔 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Al, huh... Okay. That's a nice name. ♪\nThank you for telling me. ♪"
+[Lily]"Al, huh... Okay. That's a nice name. ♪\nThank you for telling me ♪"
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=300 wt=0
 @bs f=リリィ@微笑 op=音符 body=-1 face=0 x=350 y=50 t=300
-[Lily]"Now that we're done introducing ourselves...\nLet's talk while we change location. ♪"
+[Lily]"Now that we're done introducing ourselves...\nLet's talk while we change location ♪"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@微笑 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

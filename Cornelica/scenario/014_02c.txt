@@ -1,14 +1,14 @@
 ;;==========================================================================================
 
 ;;日常会話
-
+;;Need Review ... a general one
 [Arne]"Oya customers, it's been a long time! \nSo, you're walking your pet today as well ♪"
 
 [Lily]"I already said that you're wrong, but what about you? \nDon't you do the same thing?"
 
-[Arne]"Well, about that... uh...my Mr. Hora, probably because \nhe's a cait sìth, his blood is dark and hard to corrupt,\n... Charm doesn't really do much..."
+[Arne]"Well, about that... uh...my Hora-kun, probably because \nhe's a cait sìth, his blood is dark and hard to corrupt,\n... Charm doesn't really do much..."
 
-[Arne]"Besides, we've had less men captured lately...\nso I've just spent most of my time "tinkering" with tools"
+[Arne]"Besides, we've had less men captured lately...\nso I've just spent most of my time 'tinkering' with tools"
 
 [Lily]"Wow......so really you're just too lazy?"
 
@@ -18,7 +18,7 @@
 
 [Arne]"Ah, I'm sorry! Because I'm lightly traumatic \naround here, please do not bully me!"
 
-[Lily]"Hehe, ...I'm sorry, I will forgive you" ♪
+[Lily]"Hehe, ...I'm sorry, I will forgive you ♪"
 
 [Arne]"Already... really from a trance..."
 

@@ -66,7 +66,7 @@
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 
-@select s1=I_want_to_know_how_to_collect_magic_power/*se01
+@select s1="I_want_to_know_how_to_collect_magic_power"/*se01
 ;;----------------------------------------------------------------------
 ;;I want to know how to collect magical power 
 *se01
@@ -103,7 +103,7 @@
 @bs f=リリィ@困惑_r op=焦り_r x=-400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@困惑_r x=-350 y=50 w=100 h=100 opa=255 t=200 wt=1
 
-[Lily]"Well... that is... it is not enough..."
+[Lily]"Well... that is... it's not enough..."
 
 @huki b=8 id=3
 @bs f=ロザリー@通常 x=350 y=50 t=600 wt=1
@@ -112,7 +112,7 @@
 @bs f=リリィ@困惑_r x=-350 y=50 t=100 wt=0
 @bs f=ロザリー@焦り x=350 y=50 t=300 wt=1
 
-[Rosary]"Hmm...I'm sorry... I do not know..."
+[Rosary]"Hmm...I'm sorry... I don't know..."
 
 @move_f f=リリィ@ out=l t=200 wt=1
 @bs f=ロザリー@通常 x=350 y=50 t=100 wt=0

@@ -19,7 +19,7 @@
 
 @bs f=リリィ@笑顔 op=電球 x=350 y=50 t=200 wt=1
 
-[Lily] "I don't see any golems, so I think we're clear"
+[Lily]"I don't see any golems, so I think we're clear"
 
 @huki b=7
 @bs f=アル@屈辱 op=困惑 body=-1 face=0 x=-350 y=50 t=600 wt=1
@@ -49,7 +49,7 @@
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=100 wt=0
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=200
 
-[Lily] "Well, let's go, Al, ♪"
+[Lily]"Well, let's go Al ♪"
 
 @huki b=8
 @bs f=アル@屈辱 op=焦り body=-1 face=0 x=-350 y=50 t=600

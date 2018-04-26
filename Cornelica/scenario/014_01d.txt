@@ -1,6 +1,6 @@
 
 @bgv f=fera_rry1
-
+;;Need Review ... maybe not, well I'll still mark it 
 [Lily/rry0006]"...Chu ♪"
 
 [Lily/rry0007]"Releasing...Nugget...Juur, Yuururu..."

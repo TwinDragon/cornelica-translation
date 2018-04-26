@@ -17,39 +17,39 @@
 @huki b=8 id=3
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Velasta] "Greetings"
+[Vlasta]"Greetings"
 
 @bs f=リリィ@微笑_r op=ハテナ_r body=-1 face=0 x=-350 y=50 t=200
 
-[Lily] "Hey, there's something we'd like to ask"
+[Lily]"Hey, there's something we'd like to ask"
 
 @huki b=2 id=3
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "How can I be of assistance?"
+[Vlasta]"How can I be of assistance?"
 
 @huki b=2 id=AC0
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@困惑_r x=-350 y=50 t=200 wt=1
 
-[Lily] "The witch of this house ... Can we meet her?"
+[Lily]"The witch of this house ... Can we meet her?"
 
 @huki b=2 id=3
 @bs f=リリィ@通常_r x=-350 y=50 t=100 wt=0
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "Master is away at the moment"
+[Vlasta]"Master is away at the moment"
 
 @huki b=6 id=AC0
 @bs f=メイド@通常_赤 body=-1 face=0 x=350 y=50 t=100 wt=0
 @bs f=リリィ@困惑_r op=焦り_r body=-1 face=0 x=-350 y=50 t=200 wt=1
 
-[Lily] "Uh ... ... when will she come back ...?"
+[Lily]"Uh ... when will she come back ...?"
 
 @huki b=8 id=3
 @bs f=メイド@蔑み_赤 body=-1 face=0 x=350 y=50 t=200
 
-[Vlasta] "Master is absent at the moment"
+[Vlasta]"Master is absent at the moment"
 
 @huki b=7 id=AC0
 @bs f=リリィ@蔑み_r op=困惑 body=-1 face=0 x=-350 y=50 t=200
@@ -70,7 +70,7 @@
 
 @bs f=リリィ@哀しみ op=困惑 x=350 y=50 t=200 wt=1
 
-[Lily] "Oh ... it doesn't seem to understand ... maybe, it isn't allowed to say where she is..."
+[Lily]"Oh ... it doesn't seem to understand... \nmaybe, it isn't allowed to say where she is..."
 
 @bs f=アル@屈辱 body=-1 face=0 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -128,7 +128,7 @@
 
 @bs f=アル@焦り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 
-[Lily] "Al, lookie here"
+[Lily]"Al, look over here"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@笑顔 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -184,7 +184,7 @@
 @bs f=アル@困り body=-1 face=0 x=-350 y=50 t=100 wt=0
 @bs f=リリィ@微笑 x=350 y=50 t=300 wt=1
 
-[Lily] "... ... let's sneak into the witch's house"
+[Lily]"... let's sneak into the Witch's House"
 
 ;;主人公驚き
 
@@ -202,7 +202,7 @@
 
 @bs f=アル@困り op=焦り body=-1 face=0 x=-350 y=50 t=300 wt=1
 
-[Lily] "It's for the sake of returning you to your world! Hey, come on! Hopefully there's a back door!"
+[Lily]"It's for the sake of returning you to your world! \nHey, come on! Hopefully there's a back door!"
 
 @move f=アル@焦り x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=リリィ@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1

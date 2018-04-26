@@ -20,7 +20,7 @@
 ;;-----------------------------------------------------
 ;;魔女の部屋
 
-[？？？＠ヴェルナ]"Noisy ... Who are you?"
+[？？？＠ヴェルナ]"Noisy... Who are you?"
 
 ;;姿を表すヴェルナ
 [？？？＠ヴェルナ]"Oh dear, good. Where did you come from?"
@@ -29,9 +29,9 @@
 
 [Lily]"Eh, wrong! This boy is Al"
 
-;;I'm_Al
-;;Nice_to_meet_you
-@select s1=I'm_Al/*st13a s2=Nice_to_meet_you/*st13b
+;;"I'm_Al"
+;;"Nice_to_meet_you"
+@select s1="I'm_Al"/*st13a s2="Nice_to_meet_you"/*st13b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st13a
 *st13b
@@ -44,7 +44,7 @@
 
 [Lily]"By the way, I wanted to ask it before going ahead: \nSince when did you live here?
 
-[Verna]"It's suddenly impertinent give me the 'you'. \nOh well, good. It was before Franca Ward was formed."
+[Verna]"It's suddenly impertinent give me the 'you'. \nOh well, good. It was before Franca District was formed."
 
 [Lily]"...It's much longer than I thought..."
 
@@ -52,9 +52,9 @@
 
 [Lily]"Eh!? Oh, yeah, I see! Well, let me explain..."
 
-;;I_want_to_return_to_my_world
-;;I_want_to_return_home
-@select s1=I_want_to_return_to_my_world/*st14a s2=I_want_to_return_home/*st14b
+;;"I_want_to_return_to_my_world"
+;;"I_want_to_return_home"
+@select s1="I_want_to_return_to_my_world"/*st14a s2="I_want_to_return_home"/*st14b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st14a
 *st14b
@@ -71,7 +71,7 @@
 
 [Verna]"I cannot concentrate if I'm not alone with him."
 
-[Lily]"Oh dear. In case of this..."
+[Lily]"Oh dear. In that case..."
 
 [Verna]"Well then, come over here."
 

@@ -69,9 +69,9 @@
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 
-;;I'm_Al
-;;Nice_to_meet_you
-@select s1=I'm_Al/*st13a s2=Nice_to_meet_you/*st13b
+;;"I'm_Al"
+;;"Nice_to_meet_you"
+@select s1="I'm_Al"/*st13a s2="Nice_to_meet_you"/*st13b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st13a
 *st13b
@@ -154,9 +154,9 @@
 @bs f=アル@屈辱 opa=0 x=-400 y=50 t=20 wt=0
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 opa=255 t=400 wt=1
 
-;;I_want_to_return_to_my_world
-;;I_want_to_return_home
-@select s1=I_want_to_return_to_my_world/*st14a s2=I_want_to_return_home/*st14b
+;;"I_want_to_return_to_my_world"
+;;"I_want_to_return_home"
+@select s1="I_want_to_return_to_my_world"/*st14a s2="I_want_to_return_home"/*st14b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st14a
 *st14b
@@ -247,7 +247,7 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=100 wt=0
 
-[Lily]"Oh dear. In case of this..."
+[Lily]"Oh dear. In that case..."
 
 @bs f=ヴェルナ@通常 x=400 y=50 opa=0 t=20 wt=0
 @move f=リリィ@哀しみ x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
