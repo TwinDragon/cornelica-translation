@@ -1,4 +1,4 @@
-
+﻿
 ;;=============================================================================
 
 @se f=衣擦れの音1
@@ -10,7 +10,7 @@
 
 [Succubus]"Oh my, such a cute reaction."
 
-[Succubus]"FUFU... Why don't you try playing with my big boobs\ninstead of that small, little girl?"
+[Succubus]"Fufu... Why don't you try playing with my big boobs\ninstead of that small, little girl?"
 
 @se f=締め付ける pitch=150
 @se f=パイズリ・手コキ１ pitch=60

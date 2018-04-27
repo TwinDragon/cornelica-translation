@@ -1,6 +1,6 @@
 ;;■01
 
 @mes_win back=1 pos=1
-\CL... He has already passed on...
+\CL ...He has already passed on...
 @mes_win back=0 pos=2
 

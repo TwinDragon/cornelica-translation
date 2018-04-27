@@ -1,8 +1,8 @@
 ;;■01
 
-[Vlasta]"WOULD YOU LIKE TO, GO OUTSIDE?"
+[Vlasta]"WOULD YOU LIKE TO GO OUTSIDE?"
 
-@select s1=Yes/*mob010a s2=No/*mob010b
+@select s1="Yes"/*mob010a s2="No"/*mob010b
 ;;============================================================================
 
 *mob010a

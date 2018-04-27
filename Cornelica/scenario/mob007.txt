@@ -2,6 +2,6 @@
 
 @se f=Item1
 @mes_win back=1 pos=1
-\CLI should go \C[2]collect water\C[0] from the nearby river.
+\CL I should go \C[2]collect water\C[0] from the nearby river.
 @mes_win back=0 pos=2
 

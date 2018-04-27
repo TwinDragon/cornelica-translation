@@ -3,5 +3,5 @@
 [Man]"...... ugh......"
 
 @mes_win back=1 pos=1
-\CLHe's been debilitated.
+\CL He's been debilitated.
 @mes_win back=0 pos=2

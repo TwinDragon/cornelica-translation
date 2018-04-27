@@ -1,5 +1,5 @@
 ;;■01
 
-[Maid Succubus]"*sigh* ...... This manor has so many books that cleaning\nthem is a pain......"
+[Maid Succubus]"*sigh*.... This manor has so many books \nthat cleaning them is a pain...."
 
 

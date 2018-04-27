@@ -1,10 +1,10 @@
 ;;■01
 
-[Vlasta]"THIS IS, MASTER VERNA'S, MANSION.
+[Vlasta]"THIS IS, MASTER VERNA'S, MANSION"
 
 [Vlasta]"WOULD YOU LIKE, TO GO TO THE MASTER'S, ROOM?
 
-@select s1=Yes/*mob010a s2=No/*mob010b
+@select s1="Yes"/*mob010a s2="No"/*mob010b
 ;;============================================================================
 
 *mob010a
@@ -19,6 +19,6 @@
 ;;============================================================================
 *mob010b
 
-[Vlasta]"WELL THEN, PLEASE PROCEED, INTO THE ENTRANCEWAY."
+[Vlasta]"WELL THEN, PLEASE PROCEED, INTO THE ENTRANCE-WAY."
 ;;============================================================================
 *end001
