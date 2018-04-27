@@ -1,35 +1,34 @@
 
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[Ｄ子]「D子は女の子としかHしない系悪魔デスので、男の子は足で踏みつけてやるデス！」
+[D-Girl]"Since D-Girl is a demon that only has sex with girls,\nI step on boys with my feet!"
 
 @se f=愛液1
 
-[Ｄ子]「んしょ……そらそらそらっ！　デース！」
+[D-Girl]"So... Take! This!"
 
 @se f=パイズリ・手コキ２ pitch=150
 
-[Ｄ子]「フフフ………だんだん、グチョグチョって水っぽい音がしてきたデスよ？」
+[D-Girl]"Fufufu......\nIt's making more and more squelchy sounds, you know?"
 
 @se f=愛液1
 
-[Ｄ子]「………もしかして本当にこんなのでダしちゃうヘンタイさんデスか？」
+[D-Girl]"...... Could it be that you're actually the\ntype of pervert that gets off to this kind of thing?"
 
-[Ｄ子]「そんなヘンタイさんは………」
+[D-Girl]"Such a pervert will be......"
 
 @se f=締め付ける
 
-[Ｄ子]「このっ！」
+[D-Girl]"By this-!"
 
 @se f=パイズリ・手コキ２ pitch=150
 
-[Ｄ子]「D子のっ！」　
+[D-Girl]"D-Girl's-!"　
 
-[Ｄ子]「足でっ！」
+[D-Girl]"Feet-!"
 
-[Ｄ子]「………きたないセーエキ、ビュービュー出しやがれデース！！」
+[D-Girl]"...... Made to spurt out their dirty semen!"
 
 @se f=パイズリ・手コキ２ pitch=150
-
 
 
