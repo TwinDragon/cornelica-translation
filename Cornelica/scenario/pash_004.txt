@@ -5,7 +5,7 @@
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Ｄ子]「ぶぶー！　間違っていたのでお仕置きデース！」
+[D-Girl]"Brr Brrr! You got it wrong, so you get a punishment!"
 
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
 @move f=アル@驚き x=-350 y=0 w=100 h=100 t=160 wt=1
