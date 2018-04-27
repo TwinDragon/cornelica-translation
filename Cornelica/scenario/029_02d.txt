@@ -23,7 +23,7 @@
 
 @bs f=ユスティーナ@微笑 t=200 wt=1
 
-[Justina]"Oh, Lily, wait there. It will end soon♪"
+[Justina]"Oh, Lily, wait there. It will end soon ♪"
 
 ;;-----------------------------------------------------------------
 *end001
@@ -43,7 +43,7 @@
 
 @bs f=ユスティーナ@微笑 t=200
 
-[Justina]"Oh... I'll not tell. Fufu... \nHowever, such a child likes miss♪"
+[Justina]"Oh... I'll not tell. Fufu... \nHowever, such a child likes miss ♪"
 
 @move_f f=ユスティーナ@ out=c t=400
 

@@ -7,7 +7,7 @@
 @huki b=2 id=3
 @move_f f=アルネ@笑み in=c t=150
 
-[Arne]"Oh my gosh. Long time no see! \nWow ~ You're accompanied by him today too? \nWay to show off ♪♪"
+[Arne]"Oh my gosh. Long time no see! \nWow ~ You're accompanied by him today too? ♪\n♪ Way to show off ♪"
 
 @move_f f=アルネ@ out=c t=150
 

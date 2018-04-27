@@ -141,7 +141,7 @@
 @bs f=アル@困り_頬 x=-350 y=50 t=300 wt=1
 @bs f=リリィ@哀しみ x=350 y=50 t=300 wt=1
 
-[Lily]"Al! Muu! I was worried!"
+[Lily]"Al! Muuu! I was worried!"
 
 ;;主人公：哀しい顔
 @bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1

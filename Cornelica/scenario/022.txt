@@ -22,9 +22,9 @@
 @huki b=8 id=3 wt=0
 @map_scroll dir=down dis=1 spd=1
 
-;;So...Uhm...
-;;How_can_I_get_back_to_my_world?
-;;@select s1=So...Uhm.../*st15a s2=How_can_I_get_back_to_my_world?/*st15b
+;;"So...Uhm..."
+;;"How_can_I_get_back_to_my_world?"
+;;@select s1="So...Uhm..."/*st15a s2="How_can_I_get_back_to_my_world?"/*st15b
 ;;;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ;;*st15a
 ;;*st15b
@@ -126,11 +126,11 @@
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"To begin with, why was the powerful catalyst there, \nnear portal?"
+[Verna]"To begin with, why was the powerful \ncatalyst there, near a portal?"
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"Probably it may be that some sort of devil set it \naside for a trap."
+[Verna]"Probably it may be that some sort of \ndevil set it aside for a trap."
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
@@ -160,9 +160,9 @@
 @move f=アル@笑顔 x=-350 y=50 w=100 h=100 t=130 wt=1
 @wait t=200
 
-;;Yes!
-;;I_will_do_my_best!
-@select s1=Yes!/*st16a s2=I_will_do_my_best!/*st16b
+;;"Yes!"
+;;"I_will_do_my_best!"
+@select s1="Yes!"/*st16a s2="I_will_do_my_best!"/*st16b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st16a
 *st16b

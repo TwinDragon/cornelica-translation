@@ -18,11 +18,11 @@
 
 @bs f=ユスティーナ@笑み t=200
 
-[Justina]"Fufu, thank you again for today♪ You was very helpful♪"
+[Justina]"Fufu, thank you again for today ♪ You was very helpful ♪"
 
 @bs f=ユスティーナ@淫靡 t=200
 
-[Justina]"Here, take this. Today's reward♪"
+[Justina]"Here, take this. Today's reward ♪"
 
 @move_f f=ユスティーナ@ out=c t=200 wt=1
 

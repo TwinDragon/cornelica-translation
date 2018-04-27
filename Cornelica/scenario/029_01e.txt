@@ -29,11 +29,11 @@
 @bgm f=s-009 pitch=80
 @move_f f=ユスティーナ@微笑 in=c t=200
 
-[Justina]"Because the box itself is not that heavy, \nAl should be able to carry it one by one♪"
+[Justina]"Because the box itself is not that heavy, \nAl should be able to carry it one by one ♪"
 
 @bs f=ユスティーナ@笑み t=200
 
-[Justina]"It's a bit tough but... I will be glad if you can carry as much as you can♪"
+[Justina]"It's a bit tough but... I will be glad if \nyou can carry as much as you can ♪"
 
 @move_f f=ユスティーナ@ out=c t=200
 
@@ -49,7 +49,7 @@
 @huki b=3 id=AC0
 @bs f=リリィ@微笑 x=350 y=50 t=200 wt=1
 
-[Lily]"Well, it would be fine to do it with two people. \nAl♪ Let's do it together♪"
+[Lily]"Well, it would be fine to do it with two people. \nAl ♪ Let's do it together ♪"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -122,7 +122,7 @@
 ;;笑顔と、勢いでごまかそうとしている 
 @bs f=ユスティーナ@笑み x=350 y=50 t=200
 
-[Justina]"There is nothing better to watch out for, right? \nJust in case♪"
+[Justina]"There is nothing better to watch out for, right? \nJust in case ♪"
 
 @move_f f=リリィ@ out=l t=200 wt=1
 
@@ -132,12 +132,12 @@
 
 @bs f=ユスティーナ@淫靡 x=350 y=50 t=400
 
-[Justina]"Ah, besides that♪ Al, I have a scented perfume bottle \non the floor♪ When carrying box, \nbe careful not to step on, ok?"
+[Justina]"Ah, besides that ♪ Al, I have a scented perfume bottle \non the floor ♪ When carrying box, \nbe careful not to step on, ok?"
 
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=200
 @bs f=ユスティーナ@笑み x=350 y=50 t=200
 
-[Justina]"If you stepped on it... \nmaybe it will be 'terrible thing' for a moment♪"
+[Justina]"If you stepped on it... \nit will be 'terrible thing' for a moment ♪"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -171,7 +171,7 @@
 @huki b=2 id=3
 @bs f=ユスティーナ@笑み x=350 y=50 t=200
 
-[Justina]"That's why♪ Lily, can you wait at the shop?"
+[Justina]"That's why ♪ Lily, can you wait at the shop?"
 
 @bs f=リリィ@蔑み_r x=-350 y=50 t=200
 
@@ -222,7 +222,7 @@
 @huki b=2 id=3
 @bs f=ユスティーナ@笑み x=350 y=50 t=200
 
-[Justina]"I will be fine with Al♪ \nI will bring him to the shop properly when it is over♪ \nOkay?"
+[Justina]"I will be fine with Al ♪ \nI will bring him to the shop properly when it is over ♪ \nOkay?"
 
 @bs f=リリィ@蔑み_r x=-350 y=50 t=200
 
@@ -276,7 +276,7 @@
 
 @bs f=ユスティーナ@笑み x=350 y=50 t=200 wt=1
 
-[Justina]"Fufu♪ Alright then...thanks Al♪"
+[Justina]"Fufu ♪ Alright then...thanks Al ♪"
 
 @bs f=ユスティーナ@怒り x=350 y=50 t=200 wt=1
 
@@ -287,7 +287,7 @@
 
 @bs f=ユスティーナ@笑み x=350 y=50 t=200 wt=1
 
-[Justina]"Let's do our best♥"
+[Justina]"Let's do our best ♥"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1

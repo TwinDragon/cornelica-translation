@@ -2,7 +2,7 @@
 @huki b=3 id=62
 @move_f f=サキュバス先生@01 face=0 in=c t=150
 
-[Teacher]"Ufufu♪　We have to celebrate next time♪」
+[Teacher]"Ufufu ♪　We have to celebrate next time ♪"
 
 @huki b=7 id=AC0
 

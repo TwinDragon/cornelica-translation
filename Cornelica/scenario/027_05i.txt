@@ -37,13 +37,13 @@
 @move f=サキュバス先生@01 x=0 y=0 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[Teacher]"Fufu, I will be happy if you do so. \nEveryone seems to like doing things with Al-kun♪"
+[Teacher]"Fufu, I will be happy if you do so. \nEveryone seems to like doing things with Al-kun ♪"
 
 @huki b=3 id=1
 @move f=サキュバス先生@01 x=0 y=100 w=100 h=100 t=160 wt=1
 @move f=サキュバス先生@01 x=0 y=50 w=100 h=100 t=130 wt=1
 
-[Teacher]"Although, you can stay here forever? \nI guess everyone will treasure it♪"
+[Teacher]"Although, can you stay here forever? \nI guess everyone will treasure it ♪"
 
 @move_f f=サキュバス先生@ face=0 out=c t=150 wt=1
 @bs

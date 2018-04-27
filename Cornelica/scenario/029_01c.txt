@@ -3,7 +3,7 @@
 @dir dir=up wt=0 id=AC0
 @dir dir=up wt=0
 
-@select s1=I_need_to_buy_a_'Barometsu's_gold_hair'/*se01
+@select s1="I_need_to_buy_a_'Barometsu's_gold_hair'"/*se01
 ;;---------------------------------------------------------------------
 ;;主人公台詞：バロメッツの金毛を譲ってほしい 
 *se01
@@ -46,11 +46,11 @@
 @bs f=ユスティーナ@微笑 x=350 y=50 t=200 wt=1
 @bs f=アル@困り x=-350 y=50 t=200
 
-[Justina]"...oh, that's it. Fufu... if Al start working \nin here as part-time job, \nI can hand it over depending on the result♪"
+[Justina]"...oh, that's it. Fufu... \nif Al start working in here as part-time job, \nI can hand it over depending on the result ♪"
 
 @bs f=ユスティーナ@笑み x=350 y=50 t=200 wt=1
 
-[Justina]"...however, if you can♪"
+[Justina]"...however, if you can ♪"
 
 @bs f=アル@普通 x=-350 y=50 t=600
 @wait t=400

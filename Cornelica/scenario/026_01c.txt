@@ -33,7 +33,7 @@
 *next001
 
 ;;疑問符
-@select s1=This,_that_time/*se1 s2=Do_nothing/*se2
+@select s1=T"his,_that_time"/*se1 s2=Do_nothing/*se2
 ;;************************************************************
 *se1
 

@@ -203,9 +203,9 @@
 
 @bs f=アル@普通 op=ハテナ x=-350 y=50 t=200 wt=1
 
-;;Lord...?
-;;What_kind_of_person_is_it?
-@select s1=Lord...?/*st17a s2=What_kind_of_person_is_it?/*st17b
+;;"Lord...?"
+;;"What_kind_of_person_is_it?"
+@select s1="Lord...?"/*st17a s2="What_kind_of_person_is_it?"/*st17b
 ;;============================================================================
 *st17a
 *st17b
@@ -294,9 +294,9 @@
 
 @bs f=アル@普通 x=-350 y=50 t=200 wt=1
 
-;;Don't_worry
-;;It's_Ok
-@select s1=Don't_worry/*st18a s2=It's_Ok/*st18b
+;;"Don't_worry"
+;;"It's_Ok"
+@select s1="Don't_worry"/*st18a s2="It's_Ok"/*st18b
 ;;============================================================================
 *st18a
 *st18b

@@ -23,7 +23,7 @@
 ;;===============================================================================
 *mission001
 
-@select s1=Where_we_can_find_the_'Slime_Core'?/*code001 s2=Where_we_can_find_the_'Teona_Mushroom'?/*code002 s3=Small_talk/*eventCode
+@select s1="Where_we_can_find_the_'Slime_Core'?"/*code001 s2="Where_we_can_find_the_'Teona_Mushroom'?"/*code002 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;; スライムコア
 *code001
@@ -124,7 +124,7 @@
 ;;===============================================================================
 *mission003
 
-@select s1=Where_we_can_find_the_'Barometsu's Golden Hair'?/*code005 s2=Where_we_can_find_the_'Mifukuragi flower'?/*code006 s3=Small_talk/*eventCode
+@select s1="Where_we_can_find_the_'Barometsu's Golden Hair'?"/*code005 s2="Where_we_can_find_the_'Mifukuragi flower'?"/*code006 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;;バロメッツ金毛
 *code005
@@ -164,7 +164,7 @@
 
 ;;===============================================================================
 *mission004
-@select s1=Where_we_can_find_the_'Flower of Tsukushi'?/*code007 s2=Where_we_can_find_the_'Moriyu grass'?/*code008 s3=Small_talk/*eventCode
+@select s1="Where_we_can_find_the_'Flower of Tsukushi'?"/*code007 s2="Where_we_can_find_the_'Moriyu grass'?"/*code008 s3=Small_talk/*eventCode
 
 ;;---------------------------------------------------------------------
 ;;モリユ草
@@ -222,7 +222,7 @@
 
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
-[Verna]"What happened? What is your errand today?"
+[Verna]"What's happened? What's your errand today?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -256,7 +256,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[Verna]"Fufufu. Just as i thought"
+[Verna]"Fufufu. Just as I thought"
 
 ;;暗転
 

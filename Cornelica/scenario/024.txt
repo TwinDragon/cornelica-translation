@@ -85,7 +85,7 @@
 
 @bs f=ヴェルナ@通常
 
-[Verna]"And now it's night. I don't want you to go home \nand be violated on the way. \nTake care on the way home!"
+[Verna]"And now it's night. I don't want you to go home \nand be assaulted on the way. Take care on the way home!"
 
 @bs f=アル@困り x=-400 y=50 opa=0 t=20 wt=0
 @bs f=リリィ@哀しみ x=400 y=50 opa=0 t=20 wt=0
@@ -97,7 +97,7 @@
 
 @bs f=リリィ@微笑 x=350 y=50 t=200
 
-[Lily]"I see... yeah... I understand... but it was good... \nhope seems to be visible."
+[Lily]"I see... yeah... I understand... \nbut it's good... hope seems to be visible."
 
 ;;主人公：赤面（うなずく）
 @huki b=7

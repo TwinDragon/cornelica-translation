@@ -5,7 +5,7 @@
 @move_f f=メイ@怒り in=c t=150 wt=1
 
 [Vlasta-α]"Was the preparation complete?"
-;;more robotic sound
+
 @move_f f=メイ@ out=c t=150 wt=1
 
 ;;========================================================================================================

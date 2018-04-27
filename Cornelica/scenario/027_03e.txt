@@ -55,7 +55,7 @@
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 @bs f=アル@困り x=-350 y=50 t=200
 
-[Arne]"I mean, without contaminating the magical powers \nof the devil, tolerance to stimulation...\nI don't have special training for those case..."
+[Arne]"I mean, without containing the magical powers \nof the succubus, tolerance to stimulation...\nI don't have special training for those case..."
 [Arne]"Oh well, I tried to make a tool that can do that"
 
 @bs f=アルネ@通常 x=350 y=50 t=200
@@ -67,7 +67,7 @@
 
 @bs f=アルネ@笑み x=350 y=50 t=200
 
-[Arne]"It's not that difficult. \nAfter experiencing it, \njust tell me your impressions"
+[Arne]"It's not that difficult. \nAfter experiencing it, just tell me your impressions"
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=600

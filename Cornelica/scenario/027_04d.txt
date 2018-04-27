@@ -37,7 +37,7 @@
 
 @se f=Coin
 @mes_win back=1 pos=1
-\CLI received 1000 G!
+\CL I received 1000G!
 @mes_win back=0 pos=2
 
 ;;主人公：（赤面）困惑

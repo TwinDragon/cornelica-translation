@@ -8,7 +8,7 @@
 
 @bs f=ユスティーナ@笑み t=200
 
-[Justina]"Ok! Thank you♪ Then, please come over here♪"
+[Justina]"Ok! Thank you ♪ Then, please come over here ♪"
 
 @bgm_save
 @bgm

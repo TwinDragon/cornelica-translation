@@ -81,9 +81,9 @@
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
 
-;;Lily?!
-;;Why_are_you_here?!
-@select s1=Lily?!/*st23a s2=Why_are_you_here?!/*st23b
+;;"Lily?!"
+;;"Why_are_you_here?!"
+@select s1="Lily?!"/*st23a s2="Why_are_you_here?!"/*st23b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st23a
 *st23b

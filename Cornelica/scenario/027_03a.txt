@@ -21,7 +21,7 @@
 @huki b=2 id=3
 @bs f=アルネ@笑み x=350 y=50 t=200
 
-[Arne]"Welcome! You've got a cute pet accompanying you! This can be expected"
+[Arne]"Welcome! You've got a cute pet accompanying you! \nThis can be expected"
 
 @huki b=1 id=AC0
 @bs f=アルネ@通常 x=350 y=50 t=100 wt=0

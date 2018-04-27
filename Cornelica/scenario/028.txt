@@ -248,7 +248,7 @@
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
 [Verna]"I need to create a new drug. \nIs it necessary to newly require materials as well? \nPlease, take care of the trouble"
-;;Need review
+;;Need Review
 @huki b=6 id=AC0
 @bs f=リリィ@蔑み_r op=汗_r x=-350 y=50 t=600 wt=1
 @wait t=400

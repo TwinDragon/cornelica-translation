@@ -103,9 +103,9 @@
 @move f=アル@屈辱 x=-350 y=50 w=100 h=100 t=50 wt=1
 
 ;;Two people falling down
-;;"what's...this……"
+;;"What's...this……"
 ;;"My_body...doesn't_move..."
-@select s1="what's...this……"/*st21a s2="My_body...doesn't_move..."/*st21b
+@select s1="What's...this……"/*st21a s2="My_body...doesn't_move..."/*st21b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st21a
 *st21b

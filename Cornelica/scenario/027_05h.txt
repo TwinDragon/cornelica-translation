@@ -26,7 +26,7 @@
 
 @bs f=アル@困り_頬 x=-350 y=50 t=200 wt=1
 
-[Teacher]"Al-kun, good job♪　Thank you again for today♪　\nIt was a great lesson thanks to you♪"
+[Teacher]"Al-kun, good job ♪　Thank you again for today ♪　\nIt was a great lesson thanks to you ♪"
 
 @bs f=アル@屈辱_頬 x=-350 y=50 t=600 wt=1
 @wait t=400

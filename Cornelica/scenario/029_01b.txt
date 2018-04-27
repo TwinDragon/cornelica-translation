@@ -2,13 +2,13 @@
 ;;被服屋：アルバイト（面識なし）
 
 @move_f f=ユスティーナ@微笑 in=c t=200
-[Justina]"Ah, Lily-chan. Also Al-kun♪ \n♪Fufu, you're still together♪"
+[Justina]"Ah, Lily-chan. Also Al-kun ♪ \n♪ Fufu, you're still together ♪"
 
 @bs f=ユスティーナ@通常 t=200
 [Lily]"Muu, again!　Don't tease me...!"
 
 @bs f=ユスティーナ@笑み t=200
-[Justina]"Ufufu♪ I wish you could not be so shy ♪"
+[Justina]"Ufufu ♪ I wish you could not be so shy ♪"
 
 @move_f f=ユスティーナ@ out=c t=200 wt=1
 

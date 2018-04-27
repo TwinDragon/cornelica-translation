@@ -9,7 +9,7 @@
 
 @bs f=ロザリー@考える t=150
 
-[Lily]"Hello♪　Today, there is something I want to ask"
+[Lily]"Hello ♪　Today, there is something I want to ask"
 
 @move_f f=ロザリー@ out=c t=150
 

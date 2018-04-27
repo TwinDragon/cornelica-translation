@@ -12,7 +12,7 @@
 @bs f=アルネ@笑み x=350 y=50 t=200 wt=1
 @bs f=リリィ@困惑_r x=-350 y=50 t=200
 
-[Arne]"So then, customer♪ What are you looking for today? \nIt's the 'Eight-head dildo'? \nOr it's the '3000x Sensitivity Lotion'?"
+[Arne]"So then, customer ♪ What are you looking for today? \nIt's the 'Eight-head dildo'? \nOr it's the '3000x Sensitivity Lotion'?"
 
 @huki b=7 id=AC0
 @bs f=リリィ@蔑み_r op=困惑_r x=-350 y=50 t=400
@@ -186,7 +186,7 @@
 @bs f=アルネ@通常 x=350 y=50 t=200 wt=1
 @bs f=リリィ@焦り_r op=焦り_r x=-350 y=50 t=200
 
-[Lily]"What?!Uhm... yeah... is that what you mean? Will it be...?"
+[Lily]"What?!Uhm...yeah...is that what you mean? Will it be...?"
 
 @bs f=アルネ@笑み x=350 y=50 t=600 wt=1
 @wait t=400
