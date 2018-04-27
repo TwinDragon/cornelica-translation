@@ -15,12 +15,12 @@
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Ｄ子]「こんな所にオトコノコなんて珍しいデース！」
+[D-Girl]"A boy in this place, how scarce!"
 
 @bs f=D子@普通 op=ハテナ x=350 y=50 t=200 wt=1
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
-[Ｄ子]「観光デスか？　それとももう奴隷さんデスか？」
+[D-Girl]"Are you thrillseeking?　Or perhaps you're already a slave?"
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -29,13 +29,13 @@
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Ｄ子]「……まぁ、ここで会ったのも何かの縁デース！」
+[D-Girl]"... Well, us meeting here is some kind of fate!"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 
 @bs f=D子@普通 op=ビックリ x=350 y=50 t=200 wt=1
 
-[Ｄ子]「特別サービスで、『秘密のパスワード』を言えたら内緒で回想を全開放してあげるデス！」
+[D-Girl]"As a special service, if you can tell me the\n'Secret Password', I'll secretly unlock all of the\n reminiscence scenes for you!"
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 wt=1
 
@@ -43,15 +43,15 @@
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Ｄ子]「……ただし！　間違ったらお仕置きなので、『秘密のパスワード』をいう時は慎重にデス」
+[D-Girl]"... However! Since there's a punishment for getting\nit wrong, use discretion when you say the\n'secret password'."
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
 @bs f=D子@普通 op=ビックリ x=350 y=50 t=200 wt=1
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
-
-[Ｄ子]「『秘密のパスワード』はHPやtwitterで公開する予定なので急ぎチェックデース！」
+;; Secret Password is '0331'
+[D-Girl]"The 'Secret Password' is going to be announced on HP\nand twitter so check it occasionally!"
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=600 wt=1
 @wait t=400
