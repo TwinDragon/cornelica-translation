@@ -5,11 +5,11 @@
 @move f=D子@普通 x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=D子@普通 x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Ｄ子]「……！」
+[D-Girl]"...!"
 
 @bs f=D子@普通 op=拒否 x=350 y=50 t=200 wt=1
-
-[Ｄ子]「そのパスワードは！！」
+;; No idea what the code for this one is, probably in one of their previous games.
+[D-Girl]"That password is-!!"
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=200 wt=1
 @wait t=200
@@ -44,7 +44,7 @@
 @huki b=1
 
 @mes_win back=1 pos=1
-\CL「へへへ……来たか……」
+\CL"Hehehe... You've come, huh..."
 @mes_win back=0 pos=2
 
 @bgm f=g-001
@@ -61,9 +61,9 @@
 
 @bs f=guest@01 face=0 body=-1 opa=0 x=350 y=50 t=20 wt=0
 @move f=guest@01 x=300 y=50 w=100 h=100 opa=255 t=200 wt=1
-[？？？]「よぉ、俺は汚作ってんだ！　また会ったな！」
+[???]"Yo, I am called the Defiler! We meet again!"
 
-@select s1=え、誰！？/*st01a s2=お、オジサンは！/*st01b
+@select s1=Huh,_who!?/*st01a s2="Mi-_Mister,_you're-!/*st01b
 ;;============================================================================
 
 ;;-------------------------------
@@ -71,7 +71,7 @@
 @huki b=2
 @bs f=アル@焦り x=-350 y=50 op=ハテナ t=300 wt=1
 
-[汚作]「へへ、未プレイたぁ、寂しいじゃねぇか……」
+[Defiler]"Hehe, we haven't played yet, aren't you lonely..."
 
 @jump target=*end01
 ;;-------------------------------
@@ -79,7 +79,7 @@
 @huki b=1
 @bs f=アル@驚き x=-350 y=50 op=ビックリ t=300 wt=1
 
-[汚作]「覚えててくれたか……へへ、うれしいじゃねぇか」
+[Defiler]"You remembered, huh... Hehe, aren't you happy."
 
 @jump target=*end01
 ;;-------------------------------
@@ -88,21 +88,21 @@
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 
 @huki b=8 id=1
-[汚作]「…………」
+[Defiler]"......"
 
 @huki b=3 id=1
-[汚作]「……いやぁ、それにしてもよぉ」
+[Defiler]"... Man, even so."
 
 @huki b=8 id=1
-[汚作]「いくらパスワードが分からねぇからって『或る館にて』のパスワードを打ち込むなんて……その無鉄砲さ、嫌いじゃないぜ」
+[Defiler]"Because you didn't know the password,\nto enter 'A Certain Palace's' password...\nI don't hate that recklessness."
 
 @bs f=アル@屈辱 x=-350 y=50 t=300 wt=1
 
 @huki b=8 id=1
-[汚作]「…………」
+[Defiler]"......"
 
 @huki b=4 id=1
-[汚作]「へへへ……だが、悪い子ちゃんには、お仕置きをしなくちゃいけないよなぁ？」
+[Defiler]"Hehehe...\nBut, you have to give bad children a punishment don't you?"
 
 @bs f=アル@驚き x=-350 y=50 t=100 wt=1
 @move f=アル@驚き x=-350 y=50 w=100 h=100 opa=0 t=200 wt=0
@@ -118,7 +118,7 @@
 @flash t=200 wt=1
 
 @huki b=4 id=1
-[汚作]「そらっ！　お尻ペンペンだッ」
+[Defiler]"Take this! A spanking."
 
 @flash col=255,0,0,255 t=300 wt=0
 @fade type=out t=100 wt=1
