@@ -12,7 +12,7 @@
 @move f=貴族サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[Succubus]"Fufu♪　Please come again if you feel like it♪"
+[Succubus]"Fufu ♪　Please come again if you feel like it ♪"
 
 
 @move_f f=アル@困り face=0 out=c t=150 wt=0

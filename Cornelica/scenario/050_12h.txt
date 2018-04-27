@@ -24,7 +24,7 @@
 
 [Succubus]"I am embarrassed but it isn't big meal. \nEven if you eat everything by yourself, \nit might be a bit unsatisfactory.
 
-[Succubus]"Well then, please come again♪"
+[Succubus]"Well then, please come again ♪"
 
 @bgm_replay
 

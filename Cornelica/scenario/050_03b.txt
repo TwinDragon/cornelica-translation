@@ -9,13 +9,13 @@
 @move f=クラーラ@ x=350 y=50 opa=255 t=200 wt=1
 
 ;;捕まる
-[Kurra]"Ok, I caught him♪"
+[Kurra]"Ok, I caught him ♪"
 
 ;;主人公：暴れる
 
 @move f=ジゼル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[Gisele]"It is no use raging♪"
+[Gisele]"It is no use raging ♪"
 
 @move f=モニカ@ x=0 y=50 opa=255 t=200 wt=1
 

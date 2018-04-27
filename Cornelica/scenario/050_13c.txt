@@ -12,7 +12,7 @@
 ;;お願いする Accept
 *code001
 
-[Succubus]"Fufufu♪ It's a good reply"
+[Succubus]"Fufufu ♪ It's a good reply"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1
 @bs
@@ -26,7 +26,7 @@
 ;;やめておく Refuse
 *code002
 
-[Succubus]"Oh regret. But, if you want to come, you can come anytime♪"
+[Succubus]"Oh regret. But, if you want to come, you can come anytime ♪"
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1
 @bs

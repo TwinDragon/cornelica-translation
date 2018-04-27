@@ -13,8 +13,8 @@
 [Irina]"Well then, I am always waiting for you"
 @bs f=イリーナ@淫靡 t=200
 
-
-[Irina]"Fufu... come again, Nomination♪"
+;;Need Review
+[Irina]"Fufu... come again, Nomination ♪"
 @move_f f=アル@屈辱 face=0 out=c t=150 wt=0
 @move_f f=イリーナ@淫靡 face=0 out=c t=150 wt=1
 @bs

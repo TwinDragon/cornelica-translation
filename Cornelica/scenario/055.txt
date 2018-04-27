@@ -152,7 +152,7 @@
 @huki b=1 id=12
 @bs f=白良@困惑 x=350 y=50 t=400 wt=1
 
-[Shira]"--that is!"
+[Shirao]"--that is!"
 
 
 @huki b=1 id=13
@@ -192,7 +192,7 @@
 
 @huki b=1 id=12
 
-[Shira]"---!!"
+[Shirao]"---!!"
 
 @huki b=1 id=13
 
@@ -275,7 +275,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[Verna]"Lily's Succubus instinct... I let you awake it"
+[Verna]"Lily's Succubus instinct... I let you awake it..."
 
 @move_f f=ヴァネッサ@ out=r t=250
 

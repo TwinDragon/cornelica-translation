@@ -5,9 +5,9 @@
 
 [Vanessa]"...So, has the answer been decided?"
 
-;;I_Have_decided
-;;I_want_to_think_a_bit_more
-@select s1=I_Have_decided/*code01 s2=I_want_to_think_a_bit_more/*code02
+;;"I_Have_decided"
+;;"I_want_to_think_a_bit_more"
+@select s1="I_Have_decided"/*code01 s2="I_want_to_think_a_bit_more"/*code02
 ;;==============================================================
 ;;決まった I_Have_decided
 *code01
@@ -49,9 +49,9 @@
 
 @bs f=ヴァネッサ@普通 t=250
 
-;;I_want_to_return_to_my_world
-;;I_want_to_remain_in_this_world
-@select s1=I_want_to_return_to_my_world/*code03 s2=I_want_to_remain_in_this_world/*code04
+;;"I_want_to_return_to_my_world"
+;;"I_want_to_remain_in_this_world"
+@select s1="I_want_to_return_to_my_world"/*code03 s2="I_want_to_remain_in_this_world"/*code04
 ;;==============================================================
 ;;もう少し考えたい I_want_to_think_a_bit_more
 *code02
@@ -180,7 +180,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=400 wt=1
 
-[Vanessa]"Right?... that is a shame..."
+[Vanessa]"Right?... That's a shame..."
 
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
 @move f=リリィ@蔑み_r x=-400 y=50 w=100 h=100 opa=0 t=400 wt=1
@@ -247,8 +247,8 @@
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
-;;Lily,_I_will_also_take_you_there!
-;;I_will_go_to_my_world_with_two_people!
+;;"Lily,_I_will_also_take_you_there!"
+;;"I_will_go_to_my_world_with_two_people!"
 @select s1="Lily,_I_will_also_take_you_there!"/*se03 s2="I_will_go_to_my_world_with_two_people!"/*se04
 *se03
 *se04
@@ -439,7 +439,7 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[Shira]"...huhu"
+[Shirao]"...huhu"
 
 @huki b=8 id=13
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=400 wt=1
@@ -487,7 +487,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=600 wt=1
 
-[Shira]"Al. It's been a long time"
+[Shirao]"Al. It's been a long time"
 
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=300 wt=1
 
@@ -495,7 +495,7 @@
 
 @bs f=ヴェルナ@考える x=-350 y=50 t=250 wt=1
 
-[Verna]"Because it is a point, I have decided to lend a hand to \npersuading the stubborn people here"
+[Verna]"Because a this point, I have decided to lend a hand to \npersuading the stubborn people here"
 
 @huki b=1 id=5
 
@@ -510,7 +510,7 @@
 @dir dir=up id=10
 @dir dir=up id=11
 
-[Vanessa]"Haa! Persuasion!?"
+[Vanessa]"Haha! Persuasion!?"
 
 @move_f f=ヴァネッサ@ out=c t=250 wt=1
 
@@ -532,7 +532,7 @@
 @huki b=8 id=12
 @bs f=白良@哀しみ x=350 y=50 t=400 wt=1
 
-[Shira]"I am aware of your circumstances. However, it will not be \na very good thing as it is. For you... for the city..."
+[Shirao]"I am aware of your circumstances. However, it will not be \na very good thing as it is. For you... for the city..."
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -636,7 +636,7 @@
 
 @bs f=白良@焦り x=350 y=50 t=400 wt=1
 
-[Shira]"You never heard the story because \nit was strictly forbidden to tell it"
+[Shirao]"You never heard the story because \nit was strictly forbidden to tell it"
 
 @move f=ヴェルナ@通常 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0
 @move f=白良@通常 x=400 y=50 w=100 h=100 opa=0 t=200 wt=1
@@ -657,7 +657,7 @@
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[Vanessa]"To begin with, for us it's unusual \nitself to be equal to a man's males"
+[Vanessa]"To begin with, for us it's unusual \nitself to be equal to a human's males"
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
@@ -670,7 +670,7 @@
 @huki b=2 id=11
 @bs f=リリィ@困惑_r op=ハテナ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"If Dad comes back.. also the revolt will too?"
+[Lily]"If Papa comes back.. also the revolt will too?"
 
 @huki b=8 id=5
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=600 wt=1
@@ -696,7 +696,7 @@
 
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1
 
-[Lily]"No... because, Mom... you seems to be lonely"
+[Lily]"No... because, Mama... you seems to be lonely"
 
 @bs f=ヴァネッサ@焦り x=300 y=50 t=400 wt=1
 
@@ -737,7 +737,7 @@
 
 @bs f=リリィ@微笑_r x=-350 y=50 t=400 wt=1
 
-[Lily]"That's right. I wanna journey to become a grow up succubus. \nThen, I will come back and change this town. \nSo that papa may return"
+[Lily]"That's right. I wanna journey to become a grow up succubus. \nThen, I will come back and change this town. \nSo that Papa may return"
 
 @huki b=8 id=11
 @bs f=リリィ@哀しみ_r x=-350 y=50 t=200 wt=1

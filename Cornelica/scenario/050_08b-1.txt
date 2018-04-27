@@ -3,7 +3,7 @@
 ;;■ECG11A
 ;;■マルヘリート区
 
-[Succubus]"Hehe♪ Will not you escape this time? \nIs it enough to talk to me separately?"
+[Succubus]"Hehe ♪ Will not you escape this time? \nIs it enough to talk to me separately?"
 
 [Succubus]"Oh, well, you do not have the right to veto"
 

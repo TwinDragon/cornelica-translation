@@ -22,7 +22,7 @@
 @bs f=メイ@怒り x=350 y=50 t=400 wt=1
 
 [Vlasta-α]"...I had you accompany me before... blaster"
-
+;;Need Review
 ;;主人公：喜ぶ
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -63,7 +63,7 @@
 ;;"However,..."
 ;;"Can_I_not_apologize_for_anything?"
 
-@select s1="However,..."/*st01a s2=Can_I_not_apologize_for_anything?"/*st01b
+@select s1="However,..."/*st01a s2="Can_I_not_apologize_for_anything?"/*st01b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st01a
 *st01b
@@ -118,10 +118,10 @@
 ;;主人公：笑み
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 
-;;Good!
-;;I'll_do_anything!
+;;"Good!"
+;;"I'll_do_anything!"
 
-@select s1=Good!/*st02a s2=I'll_do_anything!/*st02b
+@select s1="Good!"/*st02a s2="I'll_do_anything!"/*st02b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st02a
 *st02b

@@ -109,7 +109,7 @@
 
 @bs f=ヴェルナ@淫靡 x=350 y=50 t=300 wt=1
 
-[Verna]"Fufufu. Just as i thought"
+[Verna]"Fufufu. Just as I thought"
 ;;暗転
 
 @bs f=アル@屈辱 op=ハテナ x=-350 y=50 t=300 wt=1

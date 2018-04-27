@@ -16,7 +16,7 @@
 @move f=シスターC@01 x=0 y=0 w=100 h=100 t=160 wt=1
 @move f=シスターC@01 x=0 y=20 w=100 h=100 t=130 wt=1
 
-[Sister 1]"Ah...Al.Have a nice day"
+[Sister 1]"Ah...Al. Have a nice day"
 
 @huki b=8 id=14
 @move f=シスターB@01 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -25,7 +25,7 @@
 [Sister 2]"Fufufu... And also you, Lily"
 
 @huki b=3 id=AC0
-[Lily]"Good day♪"
+[Lily]"Good day ♪"
 
 @move f=シスターA@01 x=400 y=50 opa=0 w=100 h=100 t=200 wt=0
 @move f=シスターB@01 x=-400 y=50 opa=0 w=100 h=100 t=200 wt=0

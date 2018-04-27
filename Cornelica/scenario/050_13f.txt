@@ -22,7 +22,7 @@
 
 
 
-[Succubus]"So, please come back again if you feel like♪"
+[Succubus]"So, please come back again if you feel like it ♪"
 
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=貴族サキュバス@ face=0 out=c t=150 wt=1

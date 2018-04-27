@@ -73,7 +73,7 @@
 
 @bs f=ヴァネッサ@普通 x=300 y=50 t=200 wt=1
 
-[Vanessa]"I'll release it this time. Complete your training. \nTrain the tolerance to the charm, \nthen challenge me again"
+[Vanessa]"I'll release you this time. Complete your training. \nTrain the tolerance to the charm, then challenge me again"
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
@@ -87,7 +87,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=400 wt=1
 
-[Vanessa]"This is how I'm benevolent. \nHowever, if you can't satisfy... \nat that time you will become my slave"
+[Vanessa]"This is how I'm benevolent. \nHowever, if you can't satisfy me... \nat that time you will become my slave"
 
 ;;主人公：うなずく
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1

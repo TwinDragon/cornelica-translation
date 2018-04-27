@@ -60,7 +60,7 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400 wt=1
 
-[Shira]"Be careful……"
+[Shirao]"Be careful……"
 
 @bs f=ヴェルナ@微笑 x=-350 y=50 t=250 wt=1
 
@@ -129,23 +129,23 @@
 
 @mes_win back=1 pos=1
 
-\CLThus, our small adventure as if it was long and short was over.
+\CL Thus, our small adventure as if it was long and short was over.
 
-\CLHowever...
+\CL However...
 
-\CLA real adventure... perhaps, it starts from here.
+\CL A real adventure... perhaps, it starts from here.
 
-\CLWhat will happen in the future ...? We don't know yet.
+\CL What will happen in the future ...? We don't know yet.
 
-\CLI think that I am sure that I can manage it somehow
+\CL I think that I am sure that I can manage it somehow
 
-\CLLike it was in Cornelica...
+\CL Like it was in Cornelica...
 
-\CLSurely, there are lots of hardships and painful things.
+\CL Surely, there are lots of hardships and painful things.
 
-\CLBut we can overcome it...
+\CL But we can overcome it...
 
-\CL...together
+\CL ...together
 
 @rps
 @wait t=3000

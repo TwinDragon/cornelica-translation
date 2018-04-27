@@ -20,7 +20,7 @@
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
 @mes_win back=1 pos=1
-\CLNo...another place...
+\CL No...another place...
 @mes_win back=0 pos=2
 
 ;;主人公：落ち着く
@@ -154,7 +154,7 @@
 ;;主人公：驚き
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
 
-@select s1=Really...?!/*st27a s2=Is_it_okay?!/*st27b
+@select s1="Really...?!"/*st27a s2="Is_it_okay?!"/*st27b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st27a
 *st27b
@@ -310,7 +310,7 @@
 
 ;;突然現れるシスター達
 @mes_win back=1 pos=1
-\CLYes... Shirao-sama
+\CL Yes... Shirao-sama
 @mes_win back=0 pos=2
 
 @move f=アル@驚き x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

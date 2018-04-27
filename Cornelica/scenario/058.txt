@@ -34,7 +34,7 @@
 @huki b=3 id=7
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200
 
-[Lily]"Ahh♪　It's a secret!"
+[Lily]"Ahh ♪　It's a secret!"
 
 @bs f=アル@普通 x=-350 y=50 t=600
 @bs f=リリィ@微笑 x=350 y=50 t=600
@@ -43,7 +43,7 @@
 @huki b=3 id=7
 @bs f=リリィ@微笑 op=音符 x=350 y=50 t=300
 
-[Lily]"Well, I'll be preparing it... \nwait a little in front of the door of the room♪"
+[Lily]"Well, I'll be preparing it... \nwait a little in front of the door of the room ♪"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=0

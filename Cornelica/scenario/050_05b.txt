@@ -6,7 +6,7 @@
 
 ;;■学舎
 [Al]"...I got into terrible eyes..."
-
+;;Need Review
 [Al]"I might as well as get out of here really soon... \nI'll die if nothing is done as it is"
 ;;シーン終了
 

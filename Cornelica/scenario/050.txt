@@ -82,7 +82,7 @@
 
 @bs f=ヴェルナ@笑み x=350 y=50 t=200 wt=1
 
-[Verna]"However, hehe. The research that was halfway up \nis not useful in such a place... \nAl, you are also quite bad luck"
+[Verna]"However, hehe. The research that was halfway up \nis not useful in such a place... \nAl, you are also quite good luck"
 
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=300 wt=1
@@ -135,7 +135,7 @@
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
 [Verna]"It's a troublesome material to obtain... can you change your belly on your back?
-;;Need review - WTF!?
+;;Need review
 @se f=Book1
 @move_f f=お使いリスト@01 face=0 out=l t=200 wt=1
 
@@ -148,7 +148,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=600 wt=1
 
-[Verna]"I will hurry and prepare for it. \nYou will ask for material"
+[Verna]"I will hurry and prepare for it. \nYou will search for material"
 
 ;;主人公：うなずく
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1

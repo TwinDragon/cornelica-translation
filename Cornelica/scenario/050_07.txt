@@ -90,7 +90,7 @@
 
 @bs f=リリィ@困惑 x=350 y=50 t=400
 
-[Lily]"You know hoing back to your world mean to win against mama? \nIt's impossible! You'll never defeat mama!"
+[Lily]"You know going back to your world mean to win against Mama? \nIt's impossible! You'll never defeat Mama!"
 
 @bs f=アル@困り x=-350 y=50 t=200 wt=1
 @bs f=リリィ@哀しみ op=焦り x=350 y=50 t=400
@@ -99,9 +99,9 @@
 
 @bs f=アル@屈辱 x=-350 y=50 t=400 wt=1
 
-@select s1=Why_Lily/*se1 s2=Did_you_want_to_go_to_the_human_world?/*se2
-;;Why_Lily
-;;Did_you_want_to_go_to_the_human_world?
+@select s1="Why_Lily"/*se1 s2="Did_you_want_to_go_to_the_human_world?"/*se2
+;;"Why_Lily"
+;;"Did_you_want_to_go_to_the_human_world?"
 *se1
 *se2
 
@@ -125,7 +125,7 @@
 
 @bs f=リリィ@困惑 op-焦り x=350 y=50 t=400
 
-[Lily]"...I'm looking for a dad"
+[Lily]"...I'm looking for my Papa"
 
 ;;主人公：疑問符
 @huki b=2
@@ -133,22 +133,22 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400
 
-[Lily]"...mama, you see her like more a succubus \n'than anyone else'?. But it was different in the past"
+[Lily]"...Mama, you see her like more a succubus \n'than anyone else'?. But it was different in the past"
 
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 x=350 y=50 t=400
 
-[Lily]"When she was with my dad, she was in love with my dad \nto the extent that other succubus can not think about it. \nReally... just as human beings..."
+[Lily]"When she was with Papa, she was in love with Papa \nto the extent that other succubus can not think about it. \nReally... just as human beings..."
 
 @bs f=リリィ@哀しみ x=350 y=50 t=400
 
-[Lily]"However, papa suddenly disappear... \nand Mom is become what you can see now"
+[Lily]"However, Papa suddenly disappear... \nand Mama is become what you can see now"
 
 @bs f=アル@困り x=-350 y=50 t=400 wt=1
 @bs f=リリィ@困惑 x=350 y=50 t=400 wt=1
 
-[Lily]"So... If daddy comes back...I wonder if can it not \nreturn to old times...I thought so..."
+[Lily]"So... If Papa comes back...I wonder if can it not \nreturn to old times...I thought so..."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=400 wt=1
 
@@ -194,18 +194,18 @@
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200 wt=1
 
-[Lily]"When I asked Mom before, she said that \n'Daddy returned to the outside world'. I don't know if \n[the outside world] was the world where you was..."
+[Lily]"When I asked Mama before, she said that \n'Papa returned to the outside world'. I don't know if \n[the outside world] was the world where you was..."
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
-[Lily]"Maybe... dad, mom, me... \nI can spend it with my family again..."
+[Lily]"Maybe... Papa, Mama, me... \nI can spend it with my family again..."
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 @wait t=400
 
 @bs f=リリィ@哀しみ x=350 y=50 t=200 wt=1
 
-[Lily]"But, while you was with you, I came to think that \nI hope to have Al in it too"
+[Lily]"But, while I was with you, I came to think that \nI hope to have Al in it too"
 
 @bs f=リリィ@困惑 x=350 y=50 t=200 wt=1
 
@@ -235,8 +235,8 @@
 @bs f=アル@焦り x=-350 y=50 t=600 wt=1
 
 @select s1="Still..."/*se1c s2="I_have_to_go_home"/*se2c
-;;Still...
-;;I_have_to_go_home
+;;"Still..."
+;;"I_have_to_go_home"
 *se1c
 *se2c
 
@@ -249,7 +249,7 @@
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200 wt=1
 
-;;I_also_have_a_family_waiting_for_my_return
+;;"I_also_have_a_family_waiting_for_my_return"
 @select s1="I_also_have_a_family_waiting_for_my_return"/*se2d
 *se2d
 
@@ -308,7 +308,7 @@
 @bs f=リリィ@微笑 op=焦り x=350 y=50 t=600 wt=1
 @bs f=アル@普通 x=-350 y=50 t=400 wt=1
 
-[Lily]"...Then, I have to go back to the room soon. \nI ran away from mama. So...Umm... See you later"
+[Lily]"...Then, I have to go back to the room soon. \nI ran away from Mama. So...Umm... See you later"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -360,7 +360,7 @@
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 
-;;Let's_go_together
+;;"Let's_go_together"
 @select s1="Let's_go_together"/*st03a
 *st03a
 
@@ -384,7 +384,7 @@
 
 @bs f=リリィ@笑顔_頬 x=350 y=50 t=400 wt=1
 
-[Lily]"...YES! Because it is a promise, too!"
+[Lily]"...YES! Because it's a promise, too!"
 
 ;;空き家を出て行くリリィ
 @move f=アル@普通 x=-400 y=50 w=100 h=100 opa=0 t=200 wt=0

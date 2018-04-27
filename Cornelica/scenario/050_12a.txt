@@ -19,13 +19,13 @@
 @bs f=アル@笑顔 t=200
 
 [Succubus]"You heard a voice since it seems not to be energetic? \nIt's kind of you. Well, it doesn't matter what I say..."
-
+;;Need Review
 @bs f=アル@困り t=200
 
 [Succubus]"...Here originally was a brothel. Instead of paying \nextra magical power, we'll suppress the erosion of the charm \nmaking it a special case in Franca Ward"
 [Succubus]"It's easier for customers to enter here"
 
-[Succubus]"I want succubus and sex, but I don't want people \nto become slaves. People said that they wanted to fuck\n succubuses, but..."
+[Succubus]"I want succubus and sex, but I don't want \npeople to become slaves. People said that they \nwanted to fuck succubuses, but..."
 
 [Succubus]"Recently there are few men. \nSuccubuses got out of control"
 

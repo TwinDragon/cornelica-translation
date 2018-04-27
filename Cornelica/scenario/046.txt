@@ -48,7 +48,7 @@
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=400 wt=1
 
-@select s1=You...? /*st32a s2=You_were_the_lord?/*st32b
+@select s1="You...?"/*st32a s2="You_were_the_lord?"/*st32b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st32a
 *st32b
@@ -70,7 +70,7 @@
 @huki id=5 b=8
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=300 wt=1
 
-[Vanessa]"...well come... Al"
+[Vanessa]"...well, come... Al"
 
 ;;主人公：驚く
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -80,7 +80,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=300 wt=1
 
-[Vanessa]"I heard from Shirao that you are here. \nOf course there are also other voices..."
+[Vanessa]"I heard from Shirao why you are here. \nOf course there are also other voices..."
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -100,7 +100,7 @@
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 
-@select s1=To_open_a_portal/*st33a s2=To_return_to_my_world/*st33b
+@select s1="To_open_a_portal"/*st33a s2="To_return_to_my_world"/*st33b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st33a
 *st33b
@@ -118,7 +118,7 @@
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=300 wt=1
 
-[Vanessa]"...with a foolish daughter"
+[Vanessa]"...with my foolish daughter"
 
 ;;主人公：驚く
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1
@@ -198,11 +198,11 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[Vanessa]"'I want to go out of this world', you always said so... \nwere you supposed to have the intention of using it?"
+[Vanessa]"'I want to go out of this world', you always said so... \nwere you supposed to have the intention of using him?"
 
 @bs f=ヴァネッサ@蔑み x=300 y=50 t=200 wt=1
 
-[Vanessa]"Have you taught magic that sucks charm is a mistake?"
+[Vanessa]"Have I taught you the magic that sucks charm is a mistake?"
 
 @bs f=リリィ@焦り_r op=ビックリ_r x=-350 y=50 t=200 wt=1
 @move f=リリィ@焦り_r x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -367,7 +367,7 @@
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=50 wt=1
 
 ;;ヴラスタ達が現れ、リリィを左右から拘束
-[Lily]"Ah! No... release me! \nAl, quickly escape! Mum! Stop!"
+[Lily]"Ah! No... release me! \nAl, quickly escape! Mama! Stop!"
 
 @move f=アル@焦り x=-350 y=0 w=100 h=100 t=160 wt=1
 @move f=アル@焦り x=-350 y=50 w=100 h=100 t=130 wt=1
@@ -382,7 +382,7 @@
 
 @move_f f=ヴァネッサ@困惑 in=c t=250 wt=1
 
-[Vanessa]"You don't even have to pretend in the first place... \nYou didn't have any extra hope for guy either"
+[Vanessa]"You don't even have to pretend in the first place... \nYou didn't have any extra hope for this guy either"
 
 @bs f=ヴァネッサ@蔑み
 
@@ -410,7 +410,7 @@
 @move f=リリィ@焦り x=350 y=0 w=100 h=100 t=160 wt=1
 @move f=リリィ@焦り x=350 y=50 w=100 h=100 t=130 wt=1
 
-[Lily]"Uhーーー! Mumーーー!"
+[Lily]"Uhーーー! Mamーーー!"
 
 @bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
 @wait t=400
@@ -436,7 +436,7 @@
 
 @bs f=アル@困り x=-350 y=50 t=600 wt=1
 
-@select s1=Vanessa-sama/*st34a s2=Lord/*st34b
+@select s1="Vanessa-sama"/*st34a s2="Lord"/*st34b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st34a
 *st34b
@@ -452,7 +452,7 @@
 
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=600 wt=1
 
-@select s1=Do_you_hate_Succubus?/*st35a
+@select s1="Do_you_hate_Succubus?"/*st35a
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st35a
 
@@ -526,7 +526,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[Vanessa]"...I changed my mind, \nso I will give you a chance"
+[Vanessa]"...I changed my mind, so I will give you a chance"
 
 ;;主人公：驚き
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
@@ -550,7 +550,7 @@
 
 @bs f=ヴァネッサ@困惑 x=300 y=50 t=200 wt=1
 
-[Vanessa]"If you can win against me... \nlet's make this case relevant, \nI'll lend you the \C[2]Philosopher's Stone\C[0]"
+[Vanessa]"If you can win against me... let's make this case relevant, \nI'll lend you the \C[2]Philosopher's Stone\C[0]"
 
 ;;主人公：喜ぶ
 @bs f=アル@焦り op=ビックリ x=-350 y=50 t=200 wt=1

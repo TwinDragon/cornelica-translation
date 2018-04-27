@@ -35,7 +35,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"Well, Al. This is a medicine to \nneutralize the charm's magical power"
+[Verna]"Well, Al. This is a medicine to \nneutralize the \C[2]Charm's Magical Power\C[0]"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -49,22 +49,22 @@
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 ;;主人公：薬を飲もうとする
 
-[Verna]"Wait a moment, it's still early to use"
+[Verna]"Wait a moment, it's still early to use!"
 
 @huki b=2
 @bs f=アル@焦り op=ハテナ x=-350 y=50 t=300 wt=1
 
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"It's the duration of the effect, but it's overnight,"
-
+[Verna]"It's the duration of the effect, but it's overnight"
+;;Need Review
 @bs f=ヴェルナ@通常 x=350 y=50 t=200 wt=1
 
 [Verna]"For once, I added a function that can be \ncreated on the blaster of the magician, but... \nthe production process is troublesome"
-
+;;Need Review
 @bs f=ヴェルナ@考える x=350 y=50 t=200 wt=1
 
-[Verna]"The necessary amount is also expensive. \nThough I was able not to say, Use it carefully."
+[Verna]"The necessary amount is also expensive. \nThough I was able not to say, use it carefully."
 
 @bs f=アル@普通 x=-350 y=50 t=600 wt=1
 @wait t=400
