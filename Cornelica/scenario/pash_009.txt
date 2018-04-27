@@ -6,7 +6,8 @@
 @ev f=ddd
 
 
-[Ｄ子]「フッフッフ……たあいもないデース！」
+[D-Girl]"Fu fu fu... So pathetic!"
 
 @ev
+
 
