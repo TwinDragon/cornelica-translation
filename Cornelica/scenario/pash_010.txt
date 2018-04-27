@@ -65,4 +65,4 @@
 
 [D-Girl]"With this, no matter how much Succubi do\nlewd things to you, you maintain  your composure!"
 ;;Nothing? Broken line?: "[Ｄ子]「" is what it was.
-[D-Girl]"That's all of them, so see yout 'round."
+[D-Girl]"That's all of them, so see you 'round."
