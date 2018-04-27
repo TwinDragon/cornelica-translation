@@ -1,69 +1,68 @@
 
-[Ｄ子]「D子は、メダルやコインを集めるのが好きなのデス！」
+[D-Girl]"D-Girl likes collecting medals and coins!"
 
-[Ｄ子]「珍しい物を見つけてくれたら、買い取ってあげるデース！」
+[D-Girl]"If you bring me rare things, I'll buy them from you!"
 
 ;;==================================================================================
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"　
 
 ;;１０００G
 
 ;;==================================================================================
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"
 
 ;;１５００G
 
-[Ｄ子]「全部で２枚貰っちゃったのデス！　他にもくれたら、もっといい物をあげるデース！」
+[D-Girl]"I've received 2 so far!\nIf you bring me another, I'll give you something better!"
 
 ;;==================================================================================
 
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"　
 
-[Ｄ子]「全部で３枚貰っちゃったのデス！　他にもくれたら、もっといい物をあげるデース！」
+[D-Girl]"I've received 3 so far!\nIf you bring me another, I'll give you something better!"
 
 
 ;;２０００G
 ;;==================================================================================
 
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"　
 
-[Ｄ子]「全部で４枚貰っちゃったのデス！　他にもくれたら、もっといい物をあげるデース！」
+[D-Girl]"I've received 4 so far!\nIf you bring me another, I'll give you something better!"
 
 
 ;;２５００G
 ;;==================================================================================
 
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"　
 
 ;;３０００G
 
-[Ｄ子]「全部で５枚貰っちゃったのデス！　他にもくれたら、今までで一番いい物をあげるデース！」
+[D-Girl]"I've received 5 so far!\nIf you bring me another, I'll give you the best thing yet!"
 
 
 ;;==================================================================================
 
-[Ｄ子]「そのコインは！」
+[D-Girl]"That coin is-!"
 
-[Ｄ子]「とってもレアな物なのデス！　これあげるので、ゆずってほしいデース！」　
+[D-Girl]"A very rare one!\nI'll give you this, so hand it over!"　
 
-;;サキュバスオーブ入手
+;;Succubus Orb get
 
-[Ｄ子]「これがあればサキュバスにいくらHなことをされてもへっちゃらデース！」
-
-[Ｄ子]「
-
+[D-Girl]"With this, no matter how much Succubi do\nlewd things to you, you maintain  your composure!"
+;;Nothing? Broken line?: "[Ｄ子]「" is what it was.
+[D-Girl]"That's all of them, so see yout 'round."
