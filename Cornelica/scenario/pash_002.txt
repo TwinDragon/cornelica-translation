@@ -44,7 +44,7 @@
 @huki b=1
 
 @mes_win back=1 pos=1
-\CL"Hehehe... You've come, huh..."
+\CL "Hehehe... You've come, huh..."
 @mes_win back=0 pos=2
 
 @bgm f=g-001
