@@ -14,7 +14,7 @@
 
 @bs f=D子@普通 op=音符 x=350 y=50 t=200 wt=1
 
-[D-Girl]"So then, just as promised I'll unlock all\nof the reminiscence scenes for you!"
+[D-Girl]"Now then, just as promised I'll unlock all\nof the reminiscence scenes for you!"
 
 @se f=Magic1
 @flash t=1000 wt=1
