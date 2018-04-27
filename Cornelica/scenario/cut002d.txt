@@ -5,10 +5,10 @@
 @bgv f=fera_syc2 pitch=110
 
 @se f=愛液1 pitcu=80
-
-[サキュバス生徒]「んぐ……じゅる、れろっ……じゅるるる」
-
-[サキュバス生徒]「…………じゅぷっ……れろっれろっ……おにいさんの……せいえき……おいしいから、すき……」
+;;Need Review - See cut002 row 66
+[Succubus student]「んぐ……じゅる、れろっ……じゅるるる」
+;;Need Review - See cut002 row 68
+[Succubus student]「…………じゅぷっ……れろっれろっ……おにいさんの……せいえき……おいしいから、すき……」
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -16,16 +16,16 @@
 @flash t=1000 wt=0
 @qk t=500
 @flash t=500 wt=1
-
-[サキュバス生徒]「……んじゅるる……れろぉ……ん…………」
-
-[サキュバス生徒]「んっ……じゅぷっ、じゅる……だから……いっぱいだして？…ぐぽっ……じゅるるるるるる」
+;;Need Review - See cut002 row 70
+[Succubus student]「……んじゅるる……れろぉ……ん…………」
+;;Need Review - See cut002 row 72
+[Succubus student]「んっ……じゅぷっ、じゅる……だから……いっぱいだして？…ぐぽっ……じゅるるるるるる」
 
 @se f=愛液1 pitcu=80
-
-[サキュバス生徒]「………んっふ……じゅるっ……んじゅ……んっぢゅ……ぐっちゅ、ぐっちゅ……」
-
-[サキュバス生徒]「…………ちゅっ……ちゅむっ……ちゅうぅぅぅぅぅ」
+;;Need Review - See cut002 row 74
+[Succubus student]「………んっふ……じゅるっ……んじゅ……んっぢゅ……ぐっちゅ、ぐっちゅ……」
+;;Need Review - See cut002 row 76
+[Succubus student]「…………ちゅっ……ちゅむっ……ちゅうぅぅぅぅぅ」
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

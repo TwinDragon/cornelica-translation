@@ -7,8 +7,8 @@
 @ev f=mob2
 
 @se f=愛液1 pitch=50
-
-[サキュバス生徒]「んぶっ……いっぱいでた………おいしい」
+;;Need Review - See cut002 row 80
+[Succubus student]「んぶっ……いっぱいでた………おいしい」
 
 @bgm
 @bs

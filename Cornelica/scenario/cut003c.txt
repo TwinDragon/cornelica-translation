@@ -4,13 +4,13 @@
 
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[サキュバス生徒]「……あまりあばれないでください。……教材なら教材らしく、おとなしくしてください」
+[Succubus student]"...Please do not rage so much. \nIf you are a teaching material, please be quiet"
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「搾精のテストが近いので、クラスで一番をとるべく予習をしておきたいのですが…………」
+[Succubus student]"Because the test of extracting is near, \nI'd like to prepare for the best in class..."
 
-[サキュバス生徒]「……むぅ……あなたも教材なら、もっとおとなしくして、おっぱいに身をまかせてください」
+[Succubus student]"...grr...If you are a teaching material, \nplease be more quiet and leave yourself up on my boobs"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -19,17 +19,17 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス生徒]「…………」
+[Succubus student]"...."
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「……だんだんとちからがぬけてきましたね。表情もゆるんでいます」
+[Succubus student]"...gradually the force came out, the expression is loose too"
 
-[サキュバス生徒]「……わたくし、これでも上位のせいせきですし、パイズリは一番とくいなんです」
+[Succubus student]"I am still a top-ranking maker, the tits fuck is the hardest thing"
 
-[サキュバス生徒]「さぁ、もっと力を抜いてください。おっぱいとちんちんだけを意識して、ゆっくりと息をはいてください」
+[Succubus student]"Now, please pull out more power. Breathe slowly, sense only my breasts and your dick"
 
-[サキュバス生徒]「ちんちんのさきがふくらんできまてます。……すこしはやいですが、どうぞわたくしのむねの中におだしください」
+[Succubus student]"The tip of your dick is swalling. Although it's a little \nearly, please take it out in my breasts"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

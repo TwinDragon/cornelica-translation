@@ -1,15 +1,15 @@
 
 @huki b=7 wt=0
 @huki b=8 id=17 wt=1
+;;Need Review - A lot of liberty...
+[Succubus student]"...the teaching materials used for the test \nare sex slaves perfectly trained."
 
-[サキュバス生徒]「……テストにつかわれる教材は完璧に調教された性奴隷です」
+[Succubus student]"Therefore they can hold a bit more but, \nas you can see, you don't seem to be a slave so it's good \nto be this much today"
 
-[サキュバス生徒]「ですので、ほんらいならもうすこしもつのですが、みたところ、貴方は奴隷ではないようで、きょうはこのくらいでいいでしょう」
-
-[サキュバス生徒]「あとは、家で飼っている性奴隷で練習することとします」
+[Succubus student]"So, in addition of you I'll practice \nwith a sex slave that I keep at home"
 
 @huki b=8 id=17
 
-[サキュバス生徒]「…………また、予習されたいときは言ってください」
+[Succubus student]"...moreover, please tell me when you want to be prepared"
 
 

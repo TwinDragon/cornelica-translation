@@ -8,7 +8,7 @@
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「はい。とても良いしゃせいです。ちゃんと尿道にのこっているぶんもだしてくださいね。」
+[Succubus student]"Yes. It is very good. \nPlease let me know I'm doing the urethra properly"
 
 
 @ev

@@ -3,13 +3,13 @@
 
 @huki id=18 b=2
 
-[サキュバス生徒]「おにいさん。またあそぼ？」
+[Succubus student]"Big Brother! Wanna play again?"
 
 @se f=衣擦れの音1
 
-[サキュバス生徒]「…………」
+[Succubus student]"....."
 
 @huki id=18 b=4
 
-[サキュバス生徒]「…………じっとしてて。またあそんであげる」
+[Succubus student]"...Stay still... I will play again"
 

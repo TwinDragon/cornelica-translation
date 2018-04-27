@@ -3,10 +3,10 @@
 
 @huki id=18 b=2
 
-[サキュバス生徒]「おにいさん。あそぼ？」
+[Succubus student]"Big Brother! Let's Play!"
 
 @huki id=18 b=4
 
-[サキュバス生徒]「……じっとしててね」
+[Succubus student]"...stay still"
 
 

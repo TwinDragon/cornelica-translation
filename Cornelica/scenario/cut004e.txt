@@ -8,7 +8,8 @@
 
 @se f=愛液1 pitch=50
 
-[サキュバス生徒]「きゃはは♪　……あ～あだしちゃった」
+[Succubus student]"Ahaha♪ Oh, it's okay."
+;;Need Review 「きゃはは♪　……あ～あだしちゃった」
 
 @bgm
 @bs

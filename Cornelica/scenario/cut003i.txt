@@ -2,9 +2,9 @@
 
 @huki b=8 id=17 wt=0
 
-[サキュバス生徒]「……どうやらチャームが溜まり切っているようですね。初めて見ましたが……なるほど、自分の意志では動くこともままならないようですね」
+[Succubus student]"...Apparently it seems that the charm is fully collected. \nI saw it for the first time, but it seems you can't \nkeep moving with your own will"
 
 @huki b=2 id=17 wt=0
 
-[サキュバス生徒]「それでは、今日からは私の家で、『予習』漬けにしてあげます。あなたも立派な『奴隷』になれるよう、きちんとお勉強してくださいね」
+[Succubus student]"Well then, from today I will pick you up for the \n'preparation' at my house, so please study neatly \nso that you can become a fine slave"
 

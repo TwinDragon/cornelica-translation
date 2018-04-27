@@ -3,17 +3,17 @@
 
 ;;カットイン初回
 
-[サキュバス生徒]「あっ、おにいさん！　ちょっとこっちきてっ♪」
+[Succubus student]"Ah, Onii-chan! Come here a moment ♪"
 
 ;;選択肢：行く：行かない
 
 ;;行かない
 
-[サキュバス生徒]「あっ、ちょっとまってよ～」
+[Succubus student]"Ehy, wait a minute～"
 
 ;;行く：アル1歩前進
 
-[サキュバス生徒]「そうそうこっちこっち！　…………………よし、えいっ！」
+[Succubus student]"That's right, here here! ...good!"
 
 ;;=============================================================================
 ;;カットイン
@@ -25,17 +25,17 @@
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス生徒]「わたしは大体この場所にいるから、いじめられたいときはまた明日から来てね♪」
+[Succubus student]"I'm always in this place, \nso when you want to be bullied, come again ♪"
 
 
 ;;==============================================================================
 ;;GAMEOVERA
 
-[アル]「………ぁ……ぅう……」
+[Al]"...oh...uhm..."
 
-[サキュバス生徒]「あ～あ。もうこれわちゃった。……まぁ、ほうっておいても誰かが引き取るでしょ。」
+[Succubus student]"Ah～ah. It was already over. \nWell, even if I leave you, someone will pick you up"
 
-[サキュバス生徒]「……それじゃおにいちゃん。いい人にもらえたらいいね。ばいばい。」
+[Succubus student]"...then onii-chan, I hope you get a good person. Bye～"
 
 ;;暗転
 
@@ -48,19 +48,19 @@
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス生徒]「今はもうペットを飼ってるから、新しいのはいらないかなぁ。」
+[Succubus student]"I already have pets now, I do not need a new one"
 
-[サキュバス生徒]「……まぁでも、今のペットが壊れちゃった時には…………フフフフ♪」
+[Succubus student]"...oh well, however, when \nthe current pet is broken...Hufufu♪"
 
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス生徒]「わたしがなんでここにいるかって？　そりゃサボってるからよ。　だいたいメイドなんてやってらんないわよね。ていねいなとこばで『きもちいいでちゅか～？』って。ダサくてやってらんない」
+[Succubus student]"Why am I here? That's because I'm skipping. \nI don't usually do a maid. It's polite and carefree \n'Feel so comfortable~?'. I'm disgusted and I'll not do it"
 
-[サキュバス生徒]「おとこなんてテキトーにいじくりまわしただけでアヘアヘなっちゃうような生き物に、フリとはいえ『奉仕』だなんて……」
-
-[サキュバス生徒]「……あ～あ。わたしも早く狩りとか行って、おとこをいっぱい捕まえたりしてみたいな～」
+[Succubus student]"To mimic a coward who just fiddled teaching material, \npretending to be a 'service'..."
+;;Need Review
+[Succubus student]"...Ah~ah... I also want to go hunting \nearly and catch a lot of mans~"
 
 @bgm
 

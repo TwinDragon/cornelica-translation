@@ -5,13 +5,13 @@
 @huki b=2
 @bs f=アル@困り op=ハテナ x=-350 y=50 t=400
 
-[サキュバス生徒]「あっ、おにいさん！　ちょっとこっちきてっ♪」
+[Succubus student]"Ah, Onii-chan! Come here a moment ♪"
 
 @huki b=8
 @bs f=アル@屈辱 x=-350 y=50 t=400
 
 ;;選択肢：行く：行かない
-@select s1=行かない/*code001 s2=行く/*code002
+@select s1=Don't_go/*code001 s2=Go/*code002
 ;;------------------------------------------------
 *code001
 
@@ -29,7 +29,7 @@
 @huki b=7 id=31 wt=0
 @c_jump id=31 wt=0
 
-[サキュバス生徒]「あっ、ちょっとまってよ～」
+[Succubus student]"Ehy, wait a minute～"
 
 @variables id=108 val=0 type=0 calc=0
 @jump target=*end001
@@ -41,7 +41,7 @@
 
 @huki b=2 id=31
 
-[サキュバス生徒]「そうそうこっちこっち！　…………………よし、えいっ！」
+[Succubus student]"That's right, here here! ...good!"
 
 @se f=締め付ける
 @se f=壁に「ドンッ」

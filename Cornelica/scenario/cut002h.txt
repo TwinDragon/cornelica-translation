@@ -21,10 +21,10 @@
 @qk
 
 @huki b=7 id=18 wt=1
+;;Need Review - See cut002 row 85
+[Succubus student]「……ぷあっ！」
 
-[サキュバス生徒]「……ぷあっ！」
-
-[サキュバス生徒]「むぅ……また、こんどあそぼうね……」
+[Succubus student]"Muu... Let's play this again... "
 
 
 

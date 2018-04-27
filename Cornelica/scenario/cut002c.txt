@@ -3,16 +3,16 @@
 ;;カットイン
 
 @bgv f=fera_syc2 pitch=110
+;;Need Review - See cut002 row 17
+[Succubus student]「んぐ……じゅる、れろっ……じゅるるる」
 
-[サキュバス生徒]「んぐ……じゅる、れろっ……じゅるるる」
-
-[アル]「……あっ…………えっ………………！」
+[Al]"....ah.....ah!"
 
 @se f=愛液1 pitcu=80
-
-[サキュバス生徒]「……きもひいい？……じゅぷっ……れろっれろっ……」
-
-[サキュバス生徒]「……んじゅるる……れろぉ……ん…………」
+;;Need Review - See cut002 row 19
+[Succubus student]「……きもひいい？……じゅぷっ……れろっれろっ……」
+;;Need Review - See cut002 row 21
+[Succubus student]「……んじゅるる……れろぉ……ん…………」
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -20,16 +20,16 @@
 @flash t=1000 wt=0
 @qk t=500
 @flash t=500 wt=1
-
-[サキュバス生徒]「んっ……じゅぷっ、じゅる……ぐぽっ……じゅるるるるるる」
-
-[サキュバス生徒]「もっと………んっふ……じゅるっ……んじゅ……」
+;;Need Review - See cut002 row 23
+[Succubus student]「んっ……じゅぷっ、じゅる……ぐぽっ……じゅるるるるるる」
+;;Need Review - See cut002 row 25
+[Succubus student]「もっと………んっふ……じゅるっ……んじゅ……」
 
 @se f=愛液1 pitcu=80
-
-[サキュバス生徒]「んっぢゅ……ぐっちゅ、ぐっちゅ……ちゅうぅぅぅぅぅ」
-
-[サキュバス生徒]「でるの？…………ちゅっ……ちゅむっ……いっぱいだして？」
+;;Need Review - See cut002 row 27
+[Succubus student]「んっぢゅ……ぐっちゅ、ぐっちゅ……ちゅうぅぅぅぅぅ」
+;;Need Review - See cut002 row 29
+[Succubus student]「でるの？…………ちゅっ……ちゅむっ……いっぱいだして？」
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

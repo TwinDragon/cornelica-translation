@@ -1,31 +1,31 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[サキュバス生徒]「きゃはは♪　ふつう今のでついてくる？　バカじゃないの？」
+[Succubus student]"Hahaha♪ Usually you comes with me now?\n Are you stupid?"
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「……あっ、もしかして色々期待しちゃった？　そうだよね、そうじゃなかったらついてこないよね」
+[Succubus student]"Ah, you mean, did you expect a lot of different things? \nThat's right. I'll not follow you if not so"
 
-[サキュバス生徒]「かたくなってるよぉ？　…………クスクス、ちっちゃい子にも興奮するんだぁ」
+[Succubus student]"Is it hard? *Giggle* You're also excited by a little child"
 
-[サキュバス生徒]「おちんちんこんなにびくびくなっちゃって……ここの教材にこんなのいたかなぁ」
-
-@se f=愛液1 pitch=80
-
-[サキュバス生徒]「私のおっぱいそんなにないよね？　擦りつけられて気持ちいいの？」
-
-[サキュバス生徒]「なんか汁垂れてるけど……ちっちゃい子からなら何されても気持ちよくなれるひと？」
+[Succubus student]"Your dick has become so scared... \nwas there anything like this in the teaching materials"
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「なんでもいいけど、救いようのないヘンタイであることはたしかだよねぇ♪」
+[Succubus student]"My boobs do not have much? \nAre you rubbing and feeling good?"
 
-[サキュバス生徒]「……きもちよくなりたかったからついてきたんでしょ？　よかったじゃない。きもちよくなれて」　
+[Succubus student]"I have some juice, but... who can be comfortable \nwith anything from a little child?"
 
-[サキュバス生徒]「おちんちんに、ちっちゃなおっぱいを押し付けられただけで抵抗できなくなっちゃう……」
+@se f=愛液1 pitch=80
 
-[サキュバス生徒]「……マゾ教材のおにいちゃん♪」
+[Succubus student]"Anything can be said, \nbut it's certain that an hentai can not be saved ♪♪"
+
+[Succubus student]"...You wanted to be more comfortable, did you not? \nI'm glad that you feel pleasant."
+
+[Succubus student]"You'll not be able to resist me just by \npressing a small tits on your penis..."
+
+[Succubus student]"Onii-chan is a masochist teaching material ♪"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

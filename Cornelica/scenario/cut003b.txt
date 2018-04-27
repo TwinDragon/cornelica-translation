@@ -1,9 +1,9 @@
 
 @huki id=17 b=2
 
-[サキュバス生徒]「……また搾精されにきたのですか？」
+[Succubus student]"... are you coming again to being squeezed?"
 
 @huki id=17 b=8
 
-[サキュバス生徒]「……あぁ、へんじは求めておりませんので、それでは、しつれいいたします。」
+[Succubus student]"...ah, I don't want a no for answer, \notherwise I'll be disappointed"
 

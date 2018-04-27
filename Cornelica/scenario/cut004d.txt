@@ -1,23 +1,25 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[サキュバス生徒]「きゃはは♪ それじゃあまたこうやって、おちんちんゴリゴリしてあげる♪」
+[Succubus student]"Kahaha ♪ Well, then I'll do it again,\n I'll give you a grueling ♪"
+;;Need Review - 「きゃはは♪ それじゃあまたこうやって、おちんちんゴリゴリしてあげる♪」
+@se f=愛液1 pitch=80
+
+[Succubus student]"All right, Just saying you are bad because it's a random ......"
+;;Need Review - 「せんせぇがね、あなたはらんぼうだからダメだって言うんだけどぉ……」
+[Succubus student]"... but, there are also people who will love to do this like this"
+
+[Succubus student]"Hey Onii-chan. Do you not dislike it? You came again ♪"
+;;Need Review - 「ねぇおにいちゃん。おにいちゃんは、らんぼうにHなことされるのきらい？　きらいなわけないよね？　またきてくれたもんねぇ♪」
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「せんせぇがね、あなたはらんぼうだからダメだって言うんだけどぉ……」
+[Succubus student]"Therefore, if Onii-chan ejaculates like this, I'd rather like Onii-chan"
+;;Need Review - 「だからね。おにいちゃんがこのまま射精してくれたら、わたしおにいちゃんのことがもっと好きになっちゃうかも」
 
-[サキュバス生徒]「……でも、こうやってらんぼうにしてあげた方がよろこぶ人もいるもんねぇ」
+[Succubus student]"And if you become my pet, \nI will bully more than I do now ♪"
 
-[サキュバス生徒]「ねぇおにいちゃん。おにいちゃんは、らんぼうにHなことされるのきらい？　きらいなわけないよね？　またきてくれたもんねぇ♪」
-
-@se f=愛液1 pitch=80
-
-[サキュバス生徒]「だからね。おにいちゃんがこのまま射精してくれたら、わたしおにいちゃんのことがもっと好きになっちゃうかも」
-
-[サキュバス生徒]「そして私のペットになってくれたら、いまよりもも～っといじめてあげちゃう♪」
-
-[サキュバス生徒]「ね、どう？　ペットになってくれる？　死ぬまでいじめてあげるよ？　どうなの？」
+[Succubus student]"Right? Can you become my pet? \nI'll bully you until you die. How is it?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

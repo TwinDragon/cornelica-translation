@@ -9,15 +9,15 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス生徒]「……従順なようでなによりです。この胸で搾精されるのが気に入りましたか？」
+[Succubus student]"...it seems obedient and above all. \nDid you like being squeezed by those breasts?"
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「最近は、向こうのクラスにもパイズリの成績が上がってきている子がいるそうで……」
+[Succubus student]"Recently, there seems to be some girls \nwho are getting tits fucking in the other class..."
 
-[サキュバス生徒]「……わたくしもまけてられないので、ちょうど『予習』がしたかったところです」
+[Succubus student]"...Because I can't lose it, I just wanted to 'practise'."
 
-[サキュバス生徒]「そろそろ、出るみたいですね。……前よりはやくなっていませんか？」
+[Succubus student]"It looks like it will be out soon... \nIs not it faster than before?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

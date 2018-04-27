@@ -8,7 +8,7 @@
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「ん……よい射精です」
+[Succubus student]"Hmm... It's a good ejaculation"
 
 @ev
 @bgm

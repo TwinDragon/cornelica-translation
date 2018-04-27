@@ -8,7 +8,8 @@
 
 @se f=愛液1 pitch=50
 
-[サキュバス生徒]「……なんてね♪」
+[Succubus student]"...what ♪"
+;;Need Reviw - 「……なんてね♪」
 
 @bgm
 @bs

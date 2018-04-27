@@ -7,11 +7,11 @@
 
 @huki id=17 b=2
 
-[サキュバス生徒]「……ん、教材の方ですか？」
+[Succubus student]"...hey, are you teaching material?"
 
-[サキュバス生徒]「ちょっとてつだってもらいたいことがありまして」
+[Succubus student]"There is something I want you to help for a moment"
 
 @huki id=17 b=8
 
-[サキュバス生徒]「……へんじは求めておりませんので、それでは、しつれいいたします。」
+[Succubus student]"...I don't want a no for answer, \notherwise I'll be disappointed"
 

@@ -1,9 +1,9 @@
 
 @huki b=2 id=18 wt=1
 
-[サキュバス生徒]「……？どうしたの？……逃げないの？」
+[Succubus student][Succubus student]"...? What's the problem? ...Do not you run away?"
 
 @huki b=8 id=18 wt=1
 
-[サキュバス生徒]「……それじゃあ、もっとあそぼ？　……ずっと、ここで……」
+[Succubus student]"... Well then, let's play more? ...Forever, here ..."
 
