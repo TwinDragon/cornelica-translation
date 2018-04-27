@@ -1,7 +1,7 @@
 
 @move_f f=D子@普通 op=音符 in=c t=150
 
-[Ｄ子]「観光も終わったし、そろそろ、いつもの場所に帰るデス！」
+[D-Girl]"If you're done thrillseeking,\nit's about time you returned to your usual place!"
 
 @move_f f=D子@ out=c t=150
 
