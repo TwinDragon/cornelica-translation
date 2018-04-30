@@ -14,7 +14,7 @@
 @move_speed spd=4
 @move_speed spd=4 id=AC0
 
-[サキュバスＡ]「あんっ♪　もう、強情なんだからぁ」
+[Succubus A]"Oh no! ♪ I'm already stubborn"
 
 
 

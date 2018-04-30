@@ -1,9 +1,9 @@
 
 @huki b=2 id=76
 
-[サキュバスＢ]「ありゃ～？　おにいさんどうしちゃったのー？」
+[Succubus B]"Oh ~ ~ What happened onii-chan?"
 
 @huki b=3 id=76
 
-[サキュバスＢ]「それじゃあ、あっちの方でいっぱい遊ぼうねぇ♪　おにいさんもそれがいいでしょ？」
+[Succubus B]"Well then, Let's play with many people♪ \nIsn't it good for you, onii-chan?"
 

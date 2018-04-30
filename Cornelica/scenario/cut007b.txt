@@ -5,7 +5,7 @@
 @dir dir=right
 
 @huki b=4 id=77
-[サキュバスＡ]「おにいさん♪　久しぶりぃ♪」
+[Succubus A]"Onii-chan ♪ Long time no see ♪"
 
 @huki b=8 id=76
 @route route=right:2 id=76
@@ -13,7 +13,7 @@
 @dir dir=left
 
 @huki b=4 id=76
-[サキュバスＢ]「元気にしてたぁ？」
+[Succubus B]"How are you doing?"
 
 
 

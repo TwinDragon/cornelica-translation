@@ -3,13 +3,13 @@
 ;;カットインmob7
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[サキュバスＡ]「私たちぃ、最近あんまり食べられてらくてお腹ペコペコなの……」
+[Succubus A]"We are getting hungry so much these days..."
 
-[サキュバスＡ]「お腹ペコペコなサキュバスの吸精は……とってもきもちいいよぉ？　それこそ、な～んにも考えられなくなっちゃうくらい♪」
-
+[Succubus A]"お腹ペコペコなサキュバスの吸精は……とってもきもちいいよぉ？ \nI'm at the point that I can not think of anything ♪"
+;;Need Review - TL
 @se f=パイズリ・手コキ１ pitch=60
 @se f=愛液1 pitch=75
 
-[サキュバスＡ]「…………ねぇ、どう？」
+[Succubus A]"...Hey, how about it?"
 
 ;;==============================================================================

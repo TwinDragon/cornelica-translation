@@ -3,18 +3,18 @@
 ;;カットインmob7
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[サキュバスＡ]「ね～え～。いいでしょぉ？」
+[Succubus A]"Hey～you～ Is that okay?"
 
-[サキュバスＡ]「……あはぁ♪　おちんちん、ズボンの上からすりすりされてきもちいいんだ。形が分かるくらい浮いちゃってるよ？」
+[Succubus A]"... Haha ♪ Penis, it's nice to be grinded \nfrom the top of the pants. It's floating so that \nI can see the shape?"
 
-[サキュバスＡ]「こっちについてきてくれたらもっといいことしてあげるよ？」
+[Succubus A]"If you follow me, will you do better?"
 
-[サキュバスＡ]「すりすりだけじゃなくてぇ、ペロペロしたりぃ、グチュグチュしたりしてあげる♪」
-
+[Succubus A]"It's not just snake pulp, it's a licking stuff. \nI'll give you a googuchu ♪"
+;;Need Review
 @se f=パイズリ・手コキ１ pitch=60
 @se f=愛液1 pitch=75
 
-[サキュバスＡ]「ほ～ら、おちんちんの先っぽ、掌でくりくり～ってすると、きもちいいよね？」
+[Succubus A]"Well, doing it with my palm at \nthe tip of the penis, do you feel good?"
 
 ;;==============================================================================
 

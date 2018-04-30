@@ -2,4 +2,4 @@
 ;;カットイン初回
 
 @huki b=4 id=77
-[サキュバスＡ]「アハハハッ。　ねぇ、おにいさん？」
+[Succubus A]"Ahahah. Onii-chan?"

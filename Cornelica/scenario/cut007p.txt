@@ -1,7 +1,7 @@
 
 @huki b=4 id=77
 
-[サキュバスＡ]「おにいさんも、ぺっとになりたかったらいつでもきていいからねぇ♪」
+[Succubus A]"Onii-chan also you can come any \ntime if you want to be a peace♪"
 
 
 

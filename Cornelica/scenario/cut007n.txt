@@ -13,11 +13,11 @@
 
 @huki b=7 id=77
 
-[サキュバスＡ]「あんっ♪　もう、強情なんだからぁ」
+[Succubus A] "Oh no! ♪ I'm already stubborn"
 
 @huki b=7 id=76
 
-[サキュバスＢ]「むっ……だめかぁ」
+[Succubus B]"Grr... No good"
 
 
 

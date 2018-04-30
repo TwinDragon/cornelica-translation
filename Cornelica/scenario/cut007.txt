@@ -3,115 +3,115 @@
 
 ;;カットイン初回
 
-[サキュバスＡ]「アハハハッ。　ねぇ、おにいさん？」
+[Succubus A]"Ahahah. Onii-chan?"
 
-[サキュバスＢ]「私達とぉ、いいことしない？」
+[Succubus B]"Would you like to do a good thing with us?"
 
 ;;=============================================================================
 ;;カットインmob7
 
-[サキュバスＡ]「ね～え～。いいでしょぉ？　……あはぁ♪　おちんちん、ズボンの上からすりすりされてきもちいいんだ。形が分かるくらい浮いちゃってるよ？」
+[Succubus A]"Hey～you～ Is that okay?... Haha ♪ Penis, it's nice to be \ngrinded from the top of the pants. I'm floating enough to \nunderstand the shape?"
 
-[サキュバスＡ]「こっちについてきてくれたらもっといいことしてあげるよ？　すりすりだけじゃなくてぇ、ペロペロしたりぃ、グチュグチュしたりしてあげる♪」
-
-[サキュバスＡ]「ほ～ら、おちんちんの先っぽ、掌でくりくり～ってすると、きもちいいよね？」
+[Succubus A]"If you follow me, will you do better? \nIt's not just snake pulp, it's a licking stuff. \nI'll give you a googuchu ♪"
+;;Need Review
+[Succubus A]"Well, doing it with my palm at \nthe tip of the penis, do you feel good?"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバスＡ]「あんっ♪　もう、強情なんだからぁ」
+[Succubus A]"Oh no! ♪ I'm already stubborn"
 
-[リリィ]「あっ、こらっ！　やめさないっ！　アルにちょっかい出さないで！」
+[Lily]"Oh, come on! Do not stop! \nDo not put it on Al for a while!"
 
-[サキュバスＡ]「え～、でも～……お腹すいたしぃ……どうしよっかなぁ～」
+[Succubus A]"Eh ~ but... I am hungry... what should I do?~"
 
 ;;=============================================================================
 ;;カットインmob8
 
-[サキュバスＢ]「ヒヒッ♪　私もいること忘れてなぁい？　おちんちんすりすりされるのもいいけどぉ、タマタマをコロコロされるのもいいでしょぉ？　あんまりこういうのが得意なサキュバスもいないよ？」
-
-[サキュバスＢ]「2人でにぎにぎ、ころころしたらどうなっちゃうと思う？　……ねぇ、こっちで遊ぼうよぉ♪そんな子なんて置いてさぁ～」
-
+[Succubus B]"Hee hee ♪ Have you forgotten that I am? おちんちんすりすりされるのもいいけどぉ、タマタマをコロコロされるのもいいでしょぉ？ You do not have any succubus that is really good at this kind of thing, right?
+;;Need Review - TL
+[Succubus B]"With two people, what do you think will happen if you \nget rid of it?"... Hey, let's play with me ♪ \nPut such a child there ~"
+;;Need Review 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバスＢ]「えっ……これでもだめなんだぁ。まぁしかたないか。これ以上はバレるとまずいし……」
+[Succubus B]"Eh ... this is not good. Well it can not be helped. \nI guess it's hard to get any more..."
 
-[サキュバスＡ]「おにいさんも、ぺっとになりたかったらいつでもきていいからねぇ♪」
+[Succubus A]"Onii-chan also you can come any \ntime if you want to be a peace♪"
 
-[リリィ]「もうっ！　アルはあんたたちのとこになんか絶対行かせないから！」
+[Lily]"Al! I will never let you go anywhere!"
 
 ;;==============================================================================
 
 ;;GAMEOVERA
 
-[リリィ]「そ、そんな………アル………」
+[Lily]"Well,such...Al ..."
 
-[サキュバスＡ]「アハハッ♪　おててですりすりされただけで降参しちゃうんだ。」
+[Succubus A]"Ahhaha♪ You'll surrender just because \nyou was being laid out♪"
 
-[サキュバスＢ]「ちがうよぉ、タマタマをコロコロしてあげたから諦めたんだよね？」
+[Succubus B]「ちがうよぉ、タマタマをコロコロしてあげたから諦めたんだよね？」
+;;Need Review - TL
+[Succubus A]"Well then, which one was better, please go ahead and do it ♪"
 
-[サキュバスＡ]「それじゃあ、どっちが良かったか、あっちにいってきめよっか♪」
-
-[サキュバスＢ]「そうだねぇ。おにいさんもそれがいいでしょ？　いっぱい遊ぼうねぇ♪」
+[Succubus B]"That's right, Is not it good for you, too? \nDo you want to have lots of it?"
 
 ;;暗転
 
 ;;カットイン2回目
 
-[サキュバスＡ]「おにいさん♪　久しぶりぃ♪」
+[Succubus A]"Onii-chan ♪ Long time no see ♪"
 
-[サキュバスＢ]「元気にしてたぁ？　……こっちは元気かなぁっ？」
+[Succubus B]"How have you been? ...How are you doing?"
 
-[リリィ]「あっ！ま、またっ！」
+[Lily]"Ah! Well, see you again!"
 
 ;;=============================================================================
 ;;カットインmob8
 
-[サキュバスＢ]「ムフフ♪　すっごく元気じゃない？　期待してたの？」
+[Succubus B]"Mufufu ♪　Are you doing very well?　\nDid you expect it?"
 
-[サキュバスＢ]「……あ～あぁ。おにいさんさえよければ、もっといろいろなことしてあげられるのにな～」
+[Succubus B]"Ha～aah. As long as onii-chan is willing, \nI wish I could do a lot more things ~"
 
-[サキュバスＢ]「……ねぇ、わたしお腹すいてきちゃったな～」
+[Succubus B]"...you see, I'm hungry!"
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバスＢ]「わっ。手強いなぁ…………」
-
-[リリィ]「もうっ！　はなれなさいっ！」
+[Succubus B]"Wow. He is tough..."
+チラッ
+[Lily]"Alright! Let's get away!"
 
 ;;=============================================================================
 ;;カットインmob7
 
-[サキュバスＡ]「私たちぃ、最近あんまり食べられてらくてお腹ペコペコなの……」
+[Succubus A]"We are getting hungry so much these days..."
 
-[サキュバスＡ]「お腹ペコペコなサキュバスの吸精は……とってもきもちいいよぉ？　それこそ、な～んにも考えられなくなっちゃうくらい♪」
-
-[サキュバスＡ]「…………ねぇ、どう？」
+[Succubus A]"お腹ペコペコなサキュバスの吸精は……とってもきもちいいよぉ？ \nI'm at the point that I can not think of anything ♪"
+;;Need Review - TL
+[Succubus A]"...Hey, how about it?"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバスＡ]「むっ……だめかぁ」
+[Succubus A]"Grr... No good"
 
-[リリィ]「こーなーいーでーっ！」
+[Lily]"Oh no!"
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバスＡ]「最近はあんまり男の人もいなくって……お腹すいてるのは本当の事なの……」
+[Succubus A]"Recently there are not many men... \nIt's true that I am hungry ... "
 
-[サキュバスＢ]「うちの家族、人数が多いわりに飼ってる性奴隷が貧弱でさぁ～。大体いつも姉ちゃんたちに取られちゃうし……」
+[Succubus B]"The sex slave tha my family keeps are weak. \nAlmost always my sisters will take it..."
 
-[サキュバスＡ]「フランカ区なら引っ掛かりやすそうな男もいると思ったんだけどな～………」
+[Succubus A]"I thought that there are some guys \nthat are likely to get caught in Franca Ward, but..."
 
-[サキュバスＡ]「…………チラッ」
+[Succubus A]"...a glance"
 
 ;;アル一歩引く
 
-[リリィ]「だーめーなーのーっ！」
+[Lily]"Do not do it!"
 
-[サキュバスＢ]「もうっ！　ちょっとくらい、いいじゃなーい！」
+[Succubus B]"A bit more, it's not good!"
 
 @bgm
 

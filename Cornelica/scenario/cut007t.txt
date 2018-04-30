@@ -1,9 +1,10 @@
 
 @huki b=2 id=77
 
-[サキュバスＡ]「あれれ？　もう限界？」
+[Succubus A]"Huh?　Are you at your limit already?"
 
 @huki b=3 id=77
 
-[サキュバスＡ]「えへへ♪　それじゃあ、こっちで遊ぼうよぉ♪」
+[Succubus A]"Eheh♪　"Well then, let's play with me ♪"
+
 

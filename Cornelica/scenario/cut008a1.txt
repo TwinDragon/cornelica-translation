@@ -1,7 +1,7 @@
 
 ;;カットイン初回
 
-[サキュバスＡ]「アハハハッ。　ねぇ、おにいさん？」
+[Succubus A]"Ahahah. Onii-chan?"
 
-[サキュバスＢ]「私達とぉ、いいことしない？」
+[Succubus B]"Would you like to do a good thing with us?"
 

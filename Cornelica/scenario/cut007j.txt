@@ -4,13 +4,13 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[サキュバスＢ]「ムフフ♪　すっごく元気じゃない？　期待してたの？」
+[Succubus B]"Mufufu ♪　Are you doing very well?　\nDid you expect it?"
 
-[サキュバスＢ]「……あ～あぁ。おにいさんさえよければ、もっといろいろなことしてあげられるのにな～」
+[Succubus B]"Ha～aah. As long as onii-chan is willing, \nI wish I could do a lot more things ~"
 
 @se f=パイズリ・手コキ１ pitch=60
 @se f=愛液1 pitch=75
 
-[サキュバスＢ]「……ねぇ、わたしお腹すいてきちゃったな～」
+[Succubus B]"...you see, I'm hungry!"
 
 ;;==============================================================================

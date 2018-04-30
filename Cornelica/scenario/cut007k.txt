@@ -3,7 +3,8 @@
 @ev f=mob7
 @se f=愛液1 pitch=50
 
-[サキュバスＡ]「アハハッ♪　おててですりすりされただけで降参しちゃうんだ～♪」
+[Succubus A]"Ahhaha♪ You'll surrender just because \nyou was being laid out♪"
+
 
 @bgm
 @bs

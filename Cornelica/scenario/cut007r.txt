@@ -1,7 +1,7 @@
 
 @huki b=4 id=76
 
-[サキュバスＢ]「アハハッ♪　おにいさんまた遊ぼうねぇ♪」
+[Succubus B]"Onii-chan♪　Let's play again♪"
 
 
 
