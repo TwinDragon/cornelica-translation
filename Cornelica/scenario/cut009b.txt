@@ -4,25 +4,24 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[アル]「むぐっ！？　…………んあっ……」
+[Al]"What?!...Ah..."
 
-[サキュバス]「フフ…………」
+[Succubus]"Fufu..."
 
-[アル]「ん…………ぁ……」
-
-@se f=パイズリ・手コキ１ pitch=60
-@se f=愛液1 pitch=75
-
-[サキュバス]「私の腕に触ってるけど、もしかしてそれで抵抗してるつもりなの？」
-
-[サキュバス]「……本当は、我慢なんてしたくないんでしょう？」
+[Al]"U...hm..."
 
 @se f=パイズリ・手コキ１ pitch=60
 @se f=愛液1 pitch=75
 
-[サキュバス]「その証拠にほら……おてては頑張ってるみたいだけど……それ以外はだら～んとして、もう降参～っって言ってるわよ？」
+[Succubus]"I'm touching yours arms, but are you trying to resist?"
+
+[Succubus]"... really, do not want to endure it?"
+
+@se f=パイズリ・手コキ１ pitch=60
+@se f=愛液1 pitch=75
+
+[Succubus]"Look at that proof... Looks like you're doing your best \n...but...other than that, are you saying that \nare you going to give up?"
 
 @se f=愛液1 pitch=75
 
-[サキュバス]「前の時はかろうじて大丈夫だったけど……今度はどうかしら？」
-
+[Succubus]"It was barely okay in the previous time, \nbut... I wonder if this time"

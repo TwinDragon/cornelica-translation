@@ -4,20 +4,20 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[アル]「むぐっ！？　…………ん、んんっ……」
+[Al]"What?!...Ah..."
 
-[サキュバス]「フフ…………かわいい坊やね………」
+[Succubus]"Fufu... such cute boy..."
 
-[サキュバス]「いきなりこんなことされて……てっきり抵抗するものだと思ってたのだけど、そんな余裕もないみたいね」
+[Succubus]"Suddenly being like this... I was thinking that you would \nresist things clearly, but I don't think you can afford that"
 
 @se f=パイズリ・手コキ１ pitch=60
 @se f=愛液1 pitch=75
 
-[サキュバス]「こうやって柔らかく抱き着かれて……足でチンポをぐりぐりされちゃうと、力が抜けるでしょう？」
+[Succubus]"So softly cuddly... does your strength get lost if \nyou have your penis swept around with my feet?
 
 @se f=愛液1 pitch=75
 
-[アル]「んっ…………あっ………ぁ……」
+[Al]"Huh...Ah...Ah..."
 
-[サキュバス]「そうよ……いい子ね。そのまま、もっと力を抜いて……身を、委ねて…………」
+[Succubus]"That's right...you are a good boy. \nLeave as much power as you can... entrust yourself..."
 

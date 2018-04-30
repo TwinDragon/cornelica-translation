@@ -6,7 +6,7 @@
 
 @se f=愛液1 pitch=50
 
-[サキュバス]「ん…………まんぞく」
+[Succubus]"Oh...yes~"
 
 @bgm
 @bs

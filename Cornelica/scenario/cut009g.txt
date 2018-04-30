@@ -1,7 +1,7 @@
 
 @huki b=7 wt=1
 
-[サキュバス]「えらいえらい♪　ちゃんと戻れたわね……♪」
+[Succubus]"It's great♪ I was able to return properly... ♪"
 
 
 

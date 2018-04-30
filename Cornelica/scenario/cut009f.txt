@@ -1,9 +1,9 @@
 
 @huki b=7 wt=1
 
-[サキュバス]「あら、正気に戻っちゃた？　……ぎりぎりみたいだったけど」
+[Succubus]"Oh, have you came back to mind?\n... Looks like just barely"
 
-[サキュバス]「…………残念ね」
+[Succubus]"...so sorry"
 
 
 

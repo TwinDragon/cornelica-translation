@@ -5,7 +5,7 @@
 
 @se f=愛液1 pitch=50
 
-[サキュバス]「ふふ……そうやって男の子が蕩けてる所を見るの、たまらないわ～♪」
+[Succubus]"Hehe... seeing a place where boys are shivering \nlike that, it's irresistible ♪"
 
 @bgm
 @bs

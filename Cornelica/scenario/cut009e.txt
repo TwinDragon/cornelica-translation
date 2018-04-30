@@ -3,6 +3,6 @@
 @qk
 
 @huki b=3 id=18
-[サキュバス]「やんっ♪　あらあら…………残念ね」
+[Succubus]"Dear♪　Oh no... Sorry"
 
 

@@ -11,25 +11,25 @@
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス]「あら、正気に戻っちゃた？　……ぎりぎりみたいだったけど」
+[Succubus]"Oh, have you came back to mind?\n... Looks like just barely"
 
-[サキュバス]「…………残念ね」
+[Succubus]"...so sorry"
 
-[リリィ]「ふ、ふふんっ！　さすが『私の』アル！」
+[Lily]"Fufufu! Truly "my" Al!"
 
 ;;GAMEOVERA
 
-[サキュバス]「あら……いいの？　お連れの子もいるんでしょう？」
+[Succubus]"Ah... is it okay?　Do you have the child with you, too?
 
-[リリィ]「ア、アル……そんな……」
+[Lily]"A-A... such ..."
 
-[サキュバス]「ふふ、ごめんなさいねお嬢ちゃん。この子、私の方がいいみたい♪」
+[Succubus]"Fufu, I'm sorry lady. This child, seem to prefer me ♪"
 
-[リリィ]「う、うぅ～っ……！」
+[Lily]"Wow, what?!!"
 
-[サキュバス]「そんなに睨まないの。ちゃんと躾てないあなたも悪いのよ？」
+[Succubus]"You don't look so much. \nYou are not trained properly, are not you? "
 
-[サキュバス]「…………ほら坊や、もっとこっちにいらっしゃい？」
+[Succubus]"... Hey boy, are you coming over here?"
 
 ;;暗転
 
@@ -38,53 +38,53 @@
 ;;=============================================================================
 ;;カットインmob9
 
-[アル]「むぐっ！？　…………んあっ……」
+[Al]"What?!...Ah..."
 
-[サキュバス]「フフ…………」
+[Succubus]"Fufu..."
 
-[アル]「ん…………ぁ……」
+[Al]"U...hm..."
 
-[サキュバス]「私の腕に触ってるけど、もしかしてそれで抵抗してるつもりなの？」
+[Succubus]"I'm touching yours arms, but are you trying to resist?"
 
-[サキュバス]「坊や、あまりサキュバス慣れしてないみたいだけど……それくらいの抵抗はね、私たちの間では『同意』と同じなのよ」
+[Succubus]"Boy, you don't seem to get accustomed to succubus \ntoo much... about that resistance, \nit's the same as 'agreement' among us"
 
-[サキュバス]「その証拠にほら……おてては頑張ってるみたいだけど……それ以外はだら～んとして、もう降参～っって言ってるわよ？」
+[Succubus]"Look at that proof... Looks like you're doing your best \n...but...other than that, are you saying that \nare you going to give up?"
 
-[サキュバス]「前の時はかろうじて大丈夫だったけど……今度はどうかしらね」
+[Succubus]"It was barely okay in the previous time, \nbut... I wonder if this time"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス]「ふふ……そうやって男の子が蕩けてる所を見るの、たまらないわ～♪」
+[Succubus]"Hehe... seeing a place where boys are shivering \nlike that, it's irresistible ♪"
 
-[サキュバス]「えらいえらい♪　ちゃんと戻れたわね……♪」
+[Succubus]"It's great♪ I was able to return properly... ♪"
 
-[リリィ]「ア、アル……大丈夫？」
+[Lily]"A-Al... Are you OK?"
 
-[リリィ]「……も、もうっ！　アルもしっかりしてっ！」
+[Lily]"Even more! Al is also firm!"
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス
+;;[サキュバス - This one confirm that the main file is only a repository
 
-[サキュバス]「お嬢ちゃん。そんなにその男の子が心配なら、もっと縛り付けてあげないと…………」
+[Succubus]"Lady, if the boy is so worried, I have to tie it more..."
 
-[サキュバス]「………取られちゃうわよ？」
+[Succubus]"... will be taken?"
 
-[リリィ]「う……で、でも……」
+[Lily]"Well ... but ... but ..."
 
-[サキュバス]「あら、もしかしてそういうプレイかしら？　それなら悪いことしちゃったわね」
+[Succubus]"Oh, I wonder if that kind of play would do. \nThen I did a bad thing"
 
-[リリィ]「そ、そんなことないもん！　アルっ、行くよ！」
+[Lily]"Well, that's not it! Al, let's go!"
 
 ;;ウェイト
 
-[リリィ]（…………）
+[Lily](...)
 
-[リリィ]（…………縛り、つける……）
+[Lily](...tying, turning on...)
 
-[リリィ]（ううん……よくわかんないや……）
+[Lily](No...well I do not know...)
 
 @bgm
 

@@ -1,7 +1,8 @@
 
 @huki b=2 id=18
-[サキュバス]「あし…………まんぞくできなかった？」
+[Succubus]"Ah... you could not resist?"
 
 @huki b=8 id=18
-[サキュバス]「それなら……もっと、いろんな、きもちいいことしてあげる……」
+[Succubus]"If so...
+[Succubus]"In that case... more, I will do a lot of pleasant stuff..."
 
