@@ -2,17 +2,17 @@
 @se f=壁に「ドンッ」
 @qk
 
-[サキュバス生徒]「どーん！！」
+[Succubus Student]"What's up!!"
 
 @huki id=19 b=3
 
-[サキュバス生徒]「……にひひ♪」
+[Succubus Student]"...Hihihi ♪"
 
 @huki id=19 b=2
 
-[サキュバス生徒]「あっれれ～。　こんなところにはだかんぼの男の子がいるぅ～♪」
+[Succubus Student]"Please be nice ~ \nThere is a baby boy in a place like this ~ ♪"
 
 @huki id=19 b=4
 
-[サキュバス生徒]「そして～♪　わたしのおっぱい見てこ～んなに勃起しちゃってるのはどうしてかな～？」
+[Succubus Student]"And ~ ♪ How have you erected so much by looking at my tits?"
 

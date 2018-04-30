@@ -5,7 +5,7 @@
 @se f=射精音
 @ev f=mob5
 
-[サキュバス]「んんんっ……はぁ……なかなか良い精液じゃねぇか。」
+[Succubus]"Huh...Ha... It's quite good semen."
 
 @bgm
 @bs

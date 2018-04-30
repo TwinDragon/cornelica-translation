@@ -4,19 +4,19 @@
 @se f=壁に「ドンッ」
 @qk
 
-[サキュバス生徒]「どーん！！」
+[Succubus Student]"What's up!!"
 
 @huki id=19 b=3
 
-[サキュバス生徒]「……にひひ♪」
+[Succubus Student]"...Hihihi ♪"
 
 ;;サキュバスが主人公に突進する
 
 @huki id=19 b=3
 
-[サキュバス生徒]「…………あっれれ～。わかってたよね？わたしがいるってわかってて、ここ通ったんだよね？」
+[Succubus Student]"...Oh～. You know what? \nKnowing that I am here, you passed here?"
 
 @huki id=19 b=4
 
-[サキュバス生徒]「それじゃあ、助平なおにいさんのために、またこのおっぱいでズリズリッてしてあげる♪」
+[Succubus Student]"Well then, for a supportable little boy, \nI'll make it slippery with this tits ♪"
 

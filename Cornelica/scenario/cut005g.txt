@@ -24,7 +24,7 @@
 
 @huki b=7 id=79
 
-[サキュバス]「……1回でヤリきれなかったか。見た目のわりに頑丈じゃねぇか」
+[Succubus]"...was not it enough to do it in one time? \nIt's tough to look at, isn't it?
 
 @huki b=7 wt=1
 

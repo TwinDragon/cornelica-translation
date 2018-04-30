@@ -7,7 +7,8 @@
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「きゃっ♪　元気なお返事じゃない♪　きにいったわ♪」
+[Succubus Student]"You Come♪  It's not a cheerful reply ♪ I like it ♪"
+;;Need Review
 
 @ev
 @bgm

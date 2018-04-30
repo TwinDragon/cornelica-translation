@@ -8,95 +8,96 @@
 @se f=壁に「ドンッ」
 @qk
 
-[サキュバス生徒]「どーん！！」
+[Succubus Student]"What's up!!"
 
-[サキュバス生徒]「……にひひ♪」
+[Succubus Student]"...Hihihi ♪"
 
 ;;サキュバスが主人公に突進する
 
-[サキュバス生徒]「あっれれ～。　こんなところにはだかんぼの男の子がいるぅ～♪」
+[Succubus Student]"Please be nice ~ \nThere is a baby boy in a place like this ~ ♪"
 
-[サキュバス生徒]「そして～♪　わたしのおっぱい見てこ～んなに勃起しちゃってるのはどうしてかな～？」
+[Succubus Student]"And ~ ♪ How have you erected so much by looking at my tits?"
 
 ;;=============================================================================
 ;;カットイン
 
-[サキュバス生徒]「にひひ♪　それっ！　……んしょ……んっ……んっ……わたしのおっぱい、きもちいいでしょ。自慢の大きさなんだ～♪」
+[Succubus Student]"Hahaha ♪ That! ...Ah..uhm...uhm... \nMy boobs, are those pleasant? I am proud of the size ~ ♪"
 
-[サキュバス生徒]「こうやってぇ、横からぎゅうぅぅぅ～ってしておちんちん擦ると、男の人はみ～んなすぐにピュッピュッってするんだ♪　」
+[Succubus Student]"By doing this, when you scratch and rub the side \nof the penis, every man gets pickled soon quickly ♪"
 
-[サキュバス生徒]「おにいちゃんも気持ちいいんだよね？　わたしのほうがちっちゃいから、逃げようと思えばすぐに逃げられるとおもうんだけどな～。おかしいな～♪」
+[Succubus Student]"Do you feel good too, onii-chan? \nBecause I'm tiny, I think you can run away as soon as \nyou try to escape. It's funny～♪」
 
-[サキュバス生徒]「ねぇっ！　……んっ！　……ちいさい子に……こうっ！　……やってっ！　……ずりずりされてっ、どんなきもち？……そろそろ答えてくれるといいな～」
-
-[サキュバス生徒]「……ねぇっ！　……どうなのっ！　……ほらっ！　……ほらっ！　……ほらっ！！」
+[Succubus Student]"Aah! ...uhm! ...little child... this way! \n...Do it!... you was shivering, you like that feeling?\n...I hope you answer soon ~"
+;;Need review
+[Succubus Student]"...ah! ...uhm! ....Ah! ...AH! ... AAAH!!"
 
 ;;射精
 
-[サキュバス生徒]「きゃっ♪　元気なお返事じゃない♪　きにいったわ♪」
-
+[Succubus Student]"You Come♪  It's not a cheerful reply ♪ I like it ♪"
+;;Need Review
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス生徒]「……わっ」
+[Succubus Student]"... Wow"
 
-[サキュバス生徒]「もうっ、なによ。結構元気じゃない……」
+[Succubus Student]"What, already. You aren't quite well..."
 
 ;;==============================================================================
 ;;GAMEOVERA
 
-[サキュバス生徒]「……あれれ？　どうしたのぉ？　……逃げないのぉ？♪」
+[Succubus Student]"...Huh? What's wrong? ...Don't you run away? ♪"
 
-[アル]「……あっ、……ぅ……もっと……」
+[Al]"...Ah,...um...more..."
 
-[サキュバス生徒]「……にひひ♪　そう、そこまで言うんだったら仕方ないわね♪　わたしのペットにしてあげるわ！それじゃあ、これからもヨ・ロ・シ・ク・ネッ♪」
-
+[Succubus Student]"...hihi ♪ Yes, it can not be helped if it says so far ♪ \nI will treat you as my pet! \nWell then, from now on Yoshihikune♪"
+;;Need Review
 ;;暗転
 
 
 ;;カットイン2回目
 
-[サキュバス生徒]「……にひひ♪」
+[Succubus Student]"...hihi ♪"
 
 ;;サキュバスが主人公に突進する
 
-[サキュバス生徒]「どーん！！」
+[Succubus Student]"What's up!!"
 
-[サキュバス生徒]「…………あっれれ～。わかってたよね？わたしがいるってわかってて、ここ通ったんだよね？」
+[Succubus Student]"...Oh～. You know what? \nKnowing that I am here, you passed here?"
 
-[サキュバス生徒]「それじゃあ、助平なおにいさんのために、またこのおっぱいでズリズリッてしてあげる♪」
+[Succubus Student]"Well then, for a supportable little boy, \nI'll make it slippery with this tits ♪"
 
 ;;=============================================================================
 ;;カットイン
 
-[サキュバス生徒]「にひひ♪　それっ！　……んしょ……んっ……んっ……おにいちゃんは、こうやって横からぎゅうぅぅぅ～ってしてこするのが好きなんだよね」
+[Succubus Student]"Nihihi♪ That! Uhm...um...um... \nOnii-chan likes rubbing from the side like this, right?"
 
-[サキュバス生徒]「バカみたいに足ガクガクさせて、おめめとろ～んってして、全身できもちいい～って叫んでるような人が、おっぱいが嫌いなわけないもんね♪」
+[Succubus Student]"People like to make fun of me like a fool, but I'm not \ngoing to complain, I'm comfortable with the whole body ♪ \nI don't dislike my boobs ♪"
 
-[サキュバス生徒]「……こうやってっ！　……ずりずりされてっ……きもちいいおもらし、ビュビュ～って……したいんだよねぇ♪」
-[アル]「……うあっ……ち、ちがっ」
+[Succubus Student]"... Doing this...! ...It's being tricked... \nfeeling good, wait a minute ... I want to do... ♪♪"
+;;Need Review
+[Al]"...Uwaa...uhm, ah"
 
-[サキュバス生徒]「あれれ～？おちんちんビクビクさせてとろとろになっちゃってるような人が、なにかいってるぞぉ～？」
+[Succubus Student]"Oh? Someone seems to be getting fuzzy \nand becoming having a stifling penis?"
 
-[サキュバス生徒]「なんだろうな～。ねぇ、もう一回言ってみてよ。……ほらっ！　……もうっ！　……いっ！　……かいっ！」
+[Succubus Student]"I wonder～ Try it once more... see!...uhm!...A little more!
 
 ;;射精
 
-[サキュバス生徒]「きゃっ♪　……やっぱりおにいちゃんは、おちんちんのほうがおりこうさんだね♪」
+[Succubus Student]"You come♪ ...After all, onii-chan, your penis is the best♪"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス生徒]「……わっ」
+[Succubus Student]"... Wow"
 
-[サキュバス生徒]「もうっ、なによ。あんなによろこんでたじゃない……」
+[Succubus Student]""What, already? I am so pleased..."
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス生徒]「最近向こうのクラスのやつがつっかかってくることがあるわ。『あなたにはまけない』なんて言われたけど、いったいなんのことなんだろ？」
+[Succubus Student]"Recently, in the other class a girl is getting flare up. \nShe said "I will not lose", but what on earth is it?"
 
-[サキュバス生徒]「おっぱいはあっちの方が大きいし…………あ、ちょっとよ！ほんのちょっとだけだからねっ！　私だってまだ成長するし！」
+[Succubus Student]"Her Breasts are bigger... Ah, a bit! \nJust a little bit! I'm still growing up!"
 
 
 

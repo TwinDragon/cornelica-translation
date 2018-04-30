@@ -1,7 +1,7 @@
 
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[サキュバス生徒]「にひひ♪　それっ！　……んしょ……んっ……んっ……わたしのおっぱい、きもちいいでしょ。自慢の大きさなんだ～♪」
+[Succubus Student]"Hahaha ♪ That! ...Ah..uhm...uhm... \nMy boobs, are those pleasant? I am proud of the size ~ ♪"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -10,17 +10,18 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス生徒]「こうやってぇ、ぎゅうぅぅぅ～ってしておちんちん擦ると、男の人はみ～んなすぐにピュッピュッってするんだ♪　」
+[Succubus Student]"By doing this, when you scratch and rub the side \nof the penis, every man gets pickled soon quickly ♪"
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「おにいちゃんも気持ちいいんだよね？　わたしのほうがちっちゃいから、逃げようと思えばすぐに逃げられるとおもうんだけどな～。おかしいな～♪」
+[Succubus Student]"Do you feel good too, onii-chan? \nBecause I'm tiny, I think you can run away as soon as \nyou try to escape. It's funny～♪」
 
-[サキュバス生徒]「ねぇっ！　……んっ！　……ちいさい子に……こうっ！　……やってっ！　……ずりずりされてっ、どんなきもち？……そろそろ答えてくれるといいな～」
+[Succubus Student]"Aah! ...uhm! ...little child... this way! \n...Do it!... you was shivering, you like that feeling?\n...I hope you answer soon ~"
+;;Need review
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「……ねぇっ！　……どうなのっ！　……ほらっ！　……ほらっ！　……ほらっ！！」
+[Succubus Student]"...ah! ...uhm! ....Ah! ...AH! ... AAAH!!"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

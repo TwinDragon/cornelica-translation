@@ -2,11 +2,11 @@
 @bgv f=パイズリ・手コキ２ pitch=75
 @se f=愛液1
 
-[サキュバス]「キヒヒッ……ほら、どうした？　ちゃんと見ろよ。サキュバスにチンポが喰われてるところを」
+[Succubus]"Hehehe... hey, what's wrong? Look closely. \nMy succubus's vagina is eating your cock"
 
 @se f=愛液1
 
-[サキュバス]「……好きだろう？　サキュバスにっ、こうやってっ……んっ……貪られるように……セックスされるのがさぁっ……」
+[Succubus]"……Do you like? Doing this with a succubus.. \nuhm... to be raped... having sex... uhn... ahah"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -15,13 +15,13 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス]「……気持ちいいだろ？　いっぱい射精せそうだろ？　蕩けてなくなっちゃいそうだろ？」
+[Succubus]"...does it feels good?... Are you going to ejaculate a lot? \nAre you going to lose it?"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「気持ちいいよなぁ……？　我慢なんてしたくないよなぁっ！？」
+[Succubus]"Do you feel good? Don't you want to endure?"
 
-[サキュバス]「………ほらっ、だせっ……だせっ！　サキュバスのおまんこに負けちゃえっ！」
+[Succubus]"...hey, let it out, come!　Lose to a succubus's cunt!"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

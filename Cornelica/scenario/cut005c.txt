@@ -2,11 +2,11 @@
 @bgv f=パイズリ・手コキ２ pitch=75
 @se f=愛液1
 
-[サキュバス]「おいおい。随分とすっとろいガキじゃないか。いいのか？　こんなに簡単に捕まっちまって」
+[Succubus]"Come on. Extremely ridiculous idiot. \nIs it okay? You got caught so easily"
 
 @se f=愛液1
 
-[サキュバス]「こんなふうに……んっ……こわ～いサキュバスに干乾びるまで絞られても、文句はいえないぞ？」
+[Succubus]"In this way... uhm... even if it is squeezed \nuntil it goes dry in me, can you complain?
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -15,19 +15,19 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス]「…………ほら、チンコがねじ切れそうなほど絞めつけてやる……」
+[Succubus]"...Hey, I will tighten the dick \nso hard that it will thread..."
 
-[サキュバス]「んっ……はぁっ。最近ご無沙汰だったせいで腹へってんだ………」
-
-@se f=愛液1 pitch=80
-
-[サキュバス]「だからさ……んっ……いっぱい、出せよ。あんまり少ないといつまでも終わらないぜ？」
-
-[サキュバス]「そらっ、……んっ……はっ……はぁっ……はっ、はっ、あっ…んんっ……」
+[Succubus]"Ha...aaah... I have been hungry \nbecause lately I have been neglecting"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「だせ、だしちまえっ……いっぱい、あたしが満足できるくらいたくさん出してみろっ！」
+[Succubus]"So... please come a lot. \nIf it's too small it will never end"
+
+[Succubus]"Hey...ah...ah...aah...ahh, that...no..."
+
+@se f=愛液1 pitch=80
+
+[Succubus]"Let it out... come as much as you can so I can be satisfy!"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

@@ -22,9 +22,9 @@
 @fb dir=back
 
 @huki b=7 id=19 wt=1
-[サキュバス生徒]「……わっ」
+[Succubus Student]"... Wow"
 
-[サキュバス生徒]「もうっ、なによ。結構元気じゃない……」
+[Succubus Student]"What, already. You aren't quite well..."
 
 
 

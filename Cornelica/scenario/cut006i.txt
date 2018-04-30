@@ -1,9 +1,10 @@
 
 @huki b=2 id=19 wt=0
 
-[サキュバス生徒]「……あれれ？　どうしたのぉ？　……逃げないのぉ？♪」
+[Succubus Student]"...Huh? What's wrong? ...Don't you run away? ♪"
 
 @huki b=3 id=19 wt=0
 
-[サキュバス生徒]「……にひひ♪　だったら仕方ないわね♪　わたしのペットにしてあげるわ！それじゃあ、これからもヨ・ロ・シ・ク・ネッ♪」
+[Succubus Student]"...hihi ♪ Yes, it can not be helped if it says so far ♪ \nI will treat you as my pet! \nWell then, from now on Yoshihikune♪"
+;;Need Review
 

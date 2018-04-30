@@ -3,32 +3,32 @@
 
 ;;カットイン初回
 
-[リリィ]「ア、アルッ！？」
+[Lily]"Ah, Al!?"
 
 ;;=============================================================================
 ;;カットイン
 
 ;;射精
 
-[サキュバス]「んんんっ……はぁ……なかなか良い精液じゃねぇか。」
+[Succubus]"Huh...Ha... It's quite good semen."
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[リリィ]「だ、大丈夫！？　アル！」
+[Lily]"Are you all right!? Al!"
 
-[サキュバス]「キヒッ。正気の奴隷なんざ、取られちまう方が悪いのさ！　は大人しく家で寝てなっ！」
+[Succubus]"Kihihi. A sane slave, it's bad for him \nto be taken out! Sleep at home quietly!"
 
 ;;==============================================================================
 ;;GAMEOVERA
+ほらっ
+[Al]"Uh...uhm..."
 
-[アル]「う………うぅ……」
+[Lily]"Such...Al..."
 
-[リリィ]「そんな………アル……」
+[Succubus]"Fufu, apparently he seems to be at his limit. \nHe's defenseless you are to blame."
 
-[サキュバス]「ふふっ、どうやら限界のようだな。無防備なお前が悪いんだぜ。」
-
-[サキュバス]「よし、じゃあ今日はお前が水しか射精さなくなるまで搾り出してやる。気絶してもやめねぇから覚悟しろよ♪」
+[Succubus]"Okay, then today I will squeeze you until you only \nejaculate water. Even if you fainted, I'll not stop ♪"
 
 
 
@@ -39,38 +39,38 @@
 ;;=============================================================================
 ;;カットイン
 
-[サキュバス]「キヒヒッ。　……ほら、どうした？　ちゃんと見ろよ。サキュバスの腹ペコなおまんこにチンポ喰われてるところを」
+[Succubus]"Hehehe... hey, what's wrong? Look closely. \nMy succubus's vagina is eating your cock"
 
-[サキュバス]「……好きだろう？　サキュバスにっ、こうやってっ……んっ……貪られるように……セックスされるのがさぁっ……んっ……はぁっ」
+[Succubus]"……Do you like? Doing this with a succubus.. \nuhm... to be raped... having sex... uhn... ahah"
 
-[サキュバス]「……気持ちいいだろ？　いっぱい射精せそうだろ？　蕩けてなくなっちゃいそうだろ？」
+[Succubus]"...does it feels good?... Are you going to ejaculate a lot? \nAre you going to lose it?"
 
-[サキュバス]「気持ちいいよなぁ……？　何もかも投げ出したくなるよなぁっ！？　………これが、サキュバスの『吸精』だっ！」
+[Succubus]"It feels good ...?　Do you want to throw everything?　\nThis is it, a succubus' insemination!"
 
-[サキュバス]「………ほらっ、だせっ……だせっ！　サキュバスのおまんこに負けちゃえっ！」
+[Succubus]"...hey, let it out, come!　Lose to a succubus's cunt!"
 
 ;;射精
 
-[サキュバス]「んんんんっ……はぁっ……………キヒヒッ」
+[Succubus]"Uuuuuhmmmm... aaah... hehe"
 
 
 ;;==============================================================================
 ;;アル一歩引く
 
 
-[サキュバス]「……1回でヤリきれなかったか。見た目のわりに頑丈じゃねぇか」
+[Succubus]"...was not it enough to do it in one time? \nIt's tough to look at, isn't it?
 
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス]「ん？　学生かって？　あたしはこれでも大人だよ。サキュバスってのは個体によって成長の限界が違うのさ。まぁどこまでいっても、しわくちゃにはならないけどよ」
+[Succubus]"What? Am I a student? I am an adult. Succubus have \ndifferent growth limit depending on individuals. \nWell wherever I'll go, I'll not get a wrinkles"
 
-[サキュバス]「なかには言葉もおぼつかないような見た目で成長が止まるやつもいるんだぜ？　それでいて、そんなやつでも生きていけるんだから人間の男ってのは便利だよな」
+[Succubus]"Some of them stop growing at some appearance that words \ndon't hurt? Still, it is convenient for human beings \nto be able to live like that"
+;;Need Review
+[Succubus]"...you like me pretty much, isn't it?"
 
-[サキュバス]「………お前も私くらいのが好みだろう？」
-
-[リリィ]「もうっ　アルはこっちっ！」
+[Lily]"Muuu, Al here!"
 
 @bgm
 

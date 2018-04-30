@@ -1,9 +1,10 @@
 
 ;;GAMEOVERA
 
-[サキュバス]「ふふっ、どうやら限界のようだな」
+[Succubus]"Fufu, apparently you seems to be at your limit"
 
 @huki b=3 id=79
 
-[サキュバス]「よし、じゃあ今日はお前が水しか射精さなくなるまで搾り出してやる。気絶してもやめねぇから覚悟しろよ♪」
+[Succubus]"Okay, then today I will squeeze you until you only \nejaculate water. Even if you fainted, I'll not stop ♪"
+
 

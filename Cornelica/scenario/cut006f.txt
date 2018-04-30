@@ -7,7 +7,7 @@
 
 @se f=愛液1 pitch=80
 
-[サキュバス生徒]「きゃっ♪　……やっぱりおにいちゃんは、おちんちんのほうがおりこうさんだね♪」
+[Succubus Student]"You come♪ ...After all, onii-chan, your penis is the best♪"
 
 @ev
 @bgm
