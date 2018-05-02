@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-サキュバスに足コキされる\n　ヒント：街道上部の階段付近にて……
+Succubus Footjob \nHint:Near the stairs in the upper part of the main road
 @mes_win back=0 pos=2

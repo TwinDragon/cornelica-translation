@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-サキュバスに股間を擦られる\n　ヒント：街道中央の階段付近にて……
+Succubus rubbed between groins \nHint:Near the stairs in the middle of the main road
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-白良の魔法で若返り、パイズリされる\n　ヒント：白良からの選択肢で「一緒に暮らす」を\n　　　　　選ぶと……
+Rejuvenation with white magic, Paizuri \nHint:"Living together" choice from Shirao
 @mes_win back=0 pos=2

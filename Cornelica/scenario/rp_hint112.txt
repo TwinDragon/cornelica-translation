@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-フェアリーに太腿コキされる\n　ヒント：アルが1人でいる時、夜の領主の屋敷の牢屋\n　　　　　にて……
+Faileie is thigh-female \nHint: When Al is alone, at the dungeon of the manor at night
 @mes_win back=0 pos=2

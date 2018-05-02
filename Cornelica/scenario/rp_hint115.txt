@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-サキュバスにパイズリされる\n　ヒント：領主の屋敷１Fの右上の部屋で……
+Succubus Paizuri \nHint:In the room in the 1F upper right of lord's residence 
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-搾精植物に搾り取られる\n　ヒント：夜のヒルベルタの森にて……
+To be squeezed into a pledget \nHint:In the Hilberta forest at night
 @mes_win back=0 pos=2
