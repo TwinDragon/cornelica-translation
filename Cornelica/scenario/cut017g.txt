@@ -8,11 +8,11 @@
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「はい♪　よくできました♥」
+[Succubus]"Yes♪ Well done ♥"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「それでは、もっともーっと、これからもずーっとお漏らししましょうねー」
+[Succubus]"Well then, let's come more, more and more"
 
 
 @ev

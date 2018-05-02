@@ -1,12 +1,12 @@
 
 @se f=衣擦れの音1
 
-[サキュバス]「ふふ……こうやってするのも、もう何回目かしら」
+[Succubus]"Fufu... how many times have you done this way?"
 
 @se f=締め付ける
 @se f=愛液1 pitch=150
 @qk
 
-[サキュバス]「あなたも、この街に馴染んできたようね？」
+[Succubus]"You seem to have become familiar \nwith this town, aren't you?"
 
 @bgm

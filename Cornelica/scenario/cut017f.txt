@@ -2,17 +2,17 @@
 
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[サキュバス]「はーい、おりこうさんですねー♪」
+[Succubus]"Huh, you are a good boy ♪"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「ママがちゃんとあやしてあげますからねー、じっとしてないとめ－っですよー？」
+[Succubus]"Since I'll be a good mama, keep still, ok?"
 
-[サキュバス]「ママのおっぱいでいい子いい子すれば、どんな人だって赤ちゃんになってちまいますからねー」
+[Succubus]"If you are a good boy with mama's tits, you will become my baby"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「ここに来た時点でもう逃げられませんから、あきらめて白いおしっこをぴゅーぴゅーしちゃいましょうねー」
+[Succubus]"You can't get away anymore since you came here, so let's give up your pure cum"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -21,15 +21,15 @@
 @qk t=500
 @flash t=500 wt=1
 
-[サキュバス]「１……２……１……２……♥、ママの匂いもしっかり嗅いでくださいねー」
+[Succubus]"1... 2... 1... 2..., please snif mama good"
 
-[サキュバス]「おちんちんぴくぴくしてきまちたよー？　もう限界ですか―？」
+[Succubus]"Did your penis just twitched? \nAre you already at the limits...?"
 
 @se f=愛液1 pitch=80
 
-[サキュバス]「それでは、元気なおもらし頑張りましょうねー」
+[Succubus]"Well then, let's do our best for comming hard"
 
-[サキュバス]「………ほら、……ぴゅー♥」
+[Succubus]"...hey... Ah ♥"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

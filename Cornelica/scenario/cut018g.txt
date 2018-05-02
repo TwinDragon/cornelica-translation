@@ -1,9 +1,9 @@
 
-[サキュバス]「あらら、これくらいで堕ちちゃったの？」
+[Succubus]"Oh, you fell down this much?"
 
-[サキュバス]「これじゃあどのみち長くはなかったでしょうねぇ」
+[Succubus]"Well then why was not it long?"
 
-[サキュバス]「フフ、私がつきっきりで鍛えてあげるから、夜の街もへっちゃらにしてあげる♪」
+[Succubus]"Huh, you'll train with my best, \nso you'll give the town a night out ♪"
 
-[サキュバス]「ま、普通の生活はもうできないでしょうけど♥」
+[Succubus]"But you can't have a normal life anymore ♥"
 

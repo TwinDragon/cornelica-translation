@@ -2,6 +2,6 @@
 @se f=壁に「ドンッ」
 @qk
 
-[サキュバス]「やん♪」
-
+[Succubus]「やん♪」
+;;Need Review - TL
 

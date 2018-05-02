@@ -3,55 +3,55 @@
 
 ;;カットイン初回
 
-[サキュバス]「あら、また会ったわね」
+[Succubus]"Oh, I met you again"
 
 ;;=============================================================================
 ;;カットインmob6
 
-[サキュバス]「ふふ……夜に出歩くなんて、やっぱり好き者なのかしら♥」
+[Succubus]"Fufu...I was woundering if you'll go out at night, \nafter all I like you ♥"
 
-[サキュバス]「こうやってされるのが好きなんでしょう？」
+[Succubus]"Do you like to do this?"
 
 ;;==============================================================================
 ;;アル一歩引く
 ;;TP10消費
 
-[サキュバス]「やん♪」
-
+[Succubus]「やん♪」
+;;Need Review - TL
 ;;GAMEOVERA
 
-[アル]「ぁ……ぅぅ……」
+[Al]"Ah... ugh..."
 
-[サキュバス]「あらら、これくらいで堕ちちゃったの？」
+[Succubus]"Oh, you fell down this much?"
 
-[サキュバス]「これじゃあどのみち長くはなかったでしょうねぇ」
+[Succubus]"Well then why was not it long?"
 
-[サキュバス]「フフ、私がつきっきりで鍛えてあげるから、夜の街もへっちゃらにしてあげる♪」
+[Succubus]"Huh, you'll train with my best, \nso you'll give the town a night out ♪"
 
-[サキュバス]「ま、普通の生活はもうできないでしょうけど♥」
+[Succubus]"But you can't have a normal life anymore ♥"
 
 ;;暗転
 
 ;;カットイン2回目
 
-[サキュバス]「あら、また会ったわね」
+[Succubus]"Oh, I met you again"
 
 ;;=============================================================================
 ;;カットインmob6
 
-[サキュバス]「ふふ……こうやってするのも、もう何回目かしら」
+[Succubus]"Fufu... how many times have you done this way?"
 
-[サキュバス]「あなたも、この街に馴染んできたようね？」
+[Succubus]"You seem to have become familiar \nwith this town, aren't you?"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス]「ふふ、それじゃあまたね」
+[Succubus]"Fufu, let's see it then"
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス]「コルネリカの夜はお腹をすかせたサキュバスが多いから、気を付けた方がいいわよ」
+[Succubus]"There are a lot of succubus who got hungry during \nthe night at Cornelica, so you should take care."
 
-[サキュバス]「そこらじゅうでチャームが充満してるから、貴方くらいじゃすぐヘロヘロになっちゃうかもね♥」
+[Succubus]"Because the charm is filled everywhere, \nyou might get hilarious as soon as you do it ♥"
 

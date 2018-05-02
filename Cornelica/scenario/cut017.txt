@@ -5,7 +5,7 @@
 
 ;;主人公ドアの前
 
-[サキュバス]「ふふ……こっち、こっち……」
+[Succubus]"Fufu... here, this way..."
 
 ;;主人公ドア進む
 ;;ドア締まる
@@ -13,83 +13,83 @@
 ;;=============================================================================
 ;;カットインmob17
 
-[サキュバス]「はーい、おりこうさんですねー♪」
+[Succubus]"Huh, you are a good boy ♪"
 
-[サキュバス]「ママがしっかりあやしてあげますからね、じっとしてないとめ－っですよー？」
+[Succubus]"Since I'll be a good mama, keep still, ok?"
 
-[サキュバス]「ママのおっぱいでいい子いい子すれば、どんな人だって赤ちゃんになってちまいまちゅからねー」
+[Succubus]"If you are a good boy with mama's tits, you will become my baby"
 
-[サキュバス]「ここに来た時点でもう逃げられませんから、あきらめて白いおしっこをぴゅーぴゅーしちゃいましょうねー」
+[Succubus]"You can't get away anymore since you came here, so let's give up your pure cum"
 
-[サキュバス]「１……２……１……２……、ママの匂いもしっかり嗅いでくだちゃいねー」
+[Succubus]"1... 2... 1... 2..., please snif mama good"
 
-[サキュバス]「おちんちんぴくぴくしてきまちたよー？　もう限界でちゅか―？」
+[Succubus]"Did your penis just twitched? \nAre you already at the limits...?"
 
-[サキュバス]「それでは、元気なおもらし頑張りましょうねー」
+[Succubus]"Well then, let's do our best for comming hard"
 
-[サキュバス]「………ほら、……ぴゅー♥」
+[Succubus]"...hey... Hu ♥"
 
 ;;射精
 
-[サキュバス]「はい♪　よくできまちた♥」」
+[Succubus]"Yes ♪ We was able to do it well ♥"
 
 ;;==============================================================================
 ;;アル一歩引く
 ;;TP50消費
 
-[サキュバス]「あれ？　一回で堕ちないのはめずらしいですねー……」
+[Succubus]"It is rare that you'll not fade in one go..."
 
-[サキュバス]「まぁ、そこまで赤ちゃんになりたくないのなら、かまいませんけど……」
+[Succubus]"Well, if you don't want to be my baby, I do not mind..."
 
-[サキュバス]「でも、ママはいつでも待ってますからねぇ♥」
+[Succubus]"But, Mom is waiting anytime ♥"
 
 ;;GAMEOVERA
 
-[アル]「ぁ……ぅぅ……」
+[Al]"Ah...ugh..."
 
-[サキュバス]「はーい♪　元気な赤ちゃんになれまちたね―♥」
+[Succubus]"Ha ♪ I got used to being a healthy baby~ ♥"
 
-[サキュバス]「それでは、もっともーっとお漏らししましょうねー」
+[Succubus]"Well then, let's come some more~"
 
-[サキュバス]「キャハハ♪」
+[Succubus]"Kahaha ♪"
 
 ;;暗転
 
 ;;カットイン2回目
 
-[サキュバス]「ふふ……また、きちゃいましたねー♪」
+[Succubus]"Fufu... I came too ♪"
 
 ;;=============================================================================
 ;;カットインmob11
 
-[サキュバス]「はい♪　つかまえた♥」
+[Succubus]"Yes ♪ Caught it ♥"
 
-[サキュバス]「ぼくちゃんはぁ……ママのお股の匂いを嗅ぎながらおっぱいでおむつされるのが、すきになっちゃたのかなー？」」
+[Succubus]"My baby... I wonder if you like to be nipped with boobs \nwhile sniffing the smell of my pussy?"
 
-[サキュバス]「キャハハ♪　お股にフゴフゴされてくすぐったーい♪　おっぱいおむつ、そんなにきもちいいでちゅかー？」
+[Succubus]"Kahaha ♪ You tickled in my pussy ♪ Breast nappies... do you feel comfortable?
 
-[サキュバス]「足でしっかり押さえておいてあげますから、いっぱいフゴフゴしまちょうねー♪」
+[Succubus]"I'll hold you firmly with my feet, so don't pack too much♪"
 
-[サキュバス]「それでは、今日のお漏らしも元気にやってみましょう♪」
+[Succubus]"Well then, let's do our best to come today ♪"
 
-[サキュバス]「はい、１……２……ぴゅー♥」
+[Succubus]"Yes, 1... 2 ... Ah ♥"
 
 ;;射精
 
-[サキュバス]「今日もいっぱいでまちたねー♥　えらいえらい♪」
+[Succubus]"Today's full of cum ♥ It's great♪"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[サキュバス]「ふふ、赤ちゃんになってくれたらずっとこうしてあげるのに……」
+[Succubus]"Fufu, if you become my baby, I will always do this..."
 
 ;;==============================================================================
 ;;自由会話
 
-[サキュバス]「サキュバスの中にも、雄の扱い方はそれぞれなの」
+[Succubus]"Every succubus handle the males in different way"
 
-[サキュバス]「奴隷のように使い捨てる人もいるし、私みたいに、赤ちゃんにしてあげる人も結構いるみたい」
+[Succubus]"Some people abandon them like slaves, \nand some people like me treat them like babies"
 
-[サキュバス]「あなたも、赤ちゃんになりたかったらいつでも来てね♥」
+[Succubus]"So, if you want to be a baby, come anytime ♥"
 
 

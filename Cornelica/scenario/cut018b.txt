@@ -1,12 +1,12 @@
 
 @se f=衣擦れの音1
 
-[サキュバス]「ふふ……夜に出歩くなんて、好き者なのかしら♥」
+[Succubus]"Because the charm is filled everywhere, \nyou might get hilarious as soon as you do it ♥"
 
 @se f=締め付ける
 @se f=愛液1 pitch=150
 @qk
 
-[サキュバス]「こうやってされるのが好きなんでしょう？」
+[Succubus]"Do you like to do this?"
 
 @bgm
