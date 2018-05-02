@@ -22,6 +22,6 @@
 
 @huki b=8 id=63
 
-[ヴラスタβ]「エネルギーの30%を回復。残量が規定値に達したため、通常行動に移ります」
+[Vlasta β]"Recover 30% of energy. \nSince the remaining amount has reached the specified value, \nwe will move on to normal behavior"
 
 

@@ -6,7 +6,7 @@
 
 @se f=愛液1 pitch=50
 
-[ヴラスタ]「対象の射精行為を確認。燃料として吸収します。」
+[Vlasta]"Confirm target ejaculation. Absorbs it as fuel."
 
 @bgm
 @bs

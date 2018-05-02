@@ -6,59 +6,59 @@
 ;;フェアリー透明
 ;;主人公止まる
 
-[ダークフェアリー]「クスクス………」
+[Dark Fairy]"Hihihihi...."
 
-[リリィ]「……？　アル、どうしたの？」
+[Lily]"...? Al, what's wrong?"
 
 
 ;;主人公吹き出しハテナ
 ;;主人公一歩進む
 ;;主人公止まる
 
-[ダークフェアリー]「クスクスクス………」
+[Dark Fairy]"Hihihihi...."
 
 ;;=============================================================================
 ;;カットインmob13
 
-[アル]「ぅ……………！？」
+[Al]"Wow...!?"
 
-[ダークフェアリー]「クスクス……んっ……やぁ、ちんちん借りてるよ………あんっ」
+[Dark Fairy]"Hihihi...huh... Hey, I owe you a lot... Awww"
 
-[ダークフェアリー]「坊やがあんまりにも無防備だったから………はぁん………イタズラしたくなってきちゃってぇ♪」
+[Dark Fairy]"Because the boy was unprotected so much... \nhuh...I got to want to mischief ♪"
 
-[ダークフェアリー]「こうやって足でわっかを作って擦ると………んんっ……ちょうどちんこが収まるくらいのサイズになるし……」
+[Dark Fairy]"When I make this way and scrape up with a foot... \nit will be just as big as the size of your dick..."
 
-[ダークフェアリー]「おまんこも………こすれてきもちいいし………ぁあっ」
+[Dark Fairy]"My vagina is also... It's rubbing and feels good... Ah"
 
-[ダークフェアリー]「そのままぎゅっ、ぎゅってしてやるとね……」
+[Dark Fairy]"If you do it as it is..."
 
-[アル]「あ、あっ…………も、もう…………」
+[Al]"Oh, Ah... soon..."
 
-[ダークフェアリー]「……ほら、もうでそうになってきた……ぁっ……」
+[Dark Fairy]"...look, it's getting ready ...ah..."
 
-[ダークフェアリー]「それじゃあこのまま出していい………よっ……」
+[Dark Fairy]"Well then let's do it as it is... yes..."
 
 ;;射精
 
-[ダークフェアリー]「んぁああっ………！　…………わたしもイっちゃった」
+[Dark Fairy]"Aaaaaah! ...I also came..."
 
 ;;==============================================================================
 ;;アル一歩引く
 ;;フェアリー透明解除
 
-[ダークフェアリー]「ふふ……おいしかったよ」
+[Dark Fairy]"Fufu... it was delicious"
 
-[リリィ]「あっ！　………フェアリー！　なんでこんなとこに！」
+[Lily]"Ah! ... Fairy! Why is she here!"
 
-[ダークフェアリー]「べつに、私たちがどこに居ようとサキュバスには関係ないじゃない。……それに、気付かない方が悪いのよ」
+[Dark Fairy]"No matter where we are, it has nothing to do with Succubus. \n...also, those who don't notice are to blame"
 
 ;;GAMEOVERA
 
-[アル]「ぅ……………ぁ……」
+[Al]"ah....Ah..."
 
-[ダークフェアリー]「ん、限界？　それじゃあ招待してあげるよ。フェアリーたちの棲家に……」
+[Dark Fairy]"Is this your limit? \nWell then I'll invite you. To the façade of Fairies..."
 
-[ダークフェアリー]「……きっと気に入ってくれると思うよ？」
+[Dark Fairy]"...do you think you will like it?"
 
 ;;暗転
 ;;=============================================================================
@@ -68,51 +68,51 @@
 ;;フェアリー透明
 ;;主人公止まる
 
-[ダークフェアリー]「クスクス………」
-[リリィ]「……？　アル、どうしたの？」
+[Dark Fairy]"Hihihi..."
+[Lily]"...? Al, what's wrong?"
 
 ;;主人公吹き出しハテナ
 ;;主人公一歩進む
 ;;主人公止まる
 
 
-[ダークフェアリー]「クスクスクス………」
+[Dark Fairy]"Hihihihi...."
 
 
 ;;=============================================================================
 ;;カットインmob13
 
-[ダークフェアリー]「やぁ、またあったね……んっ………」
+[Dark Fairy]"Hey, there you have it again...hehe..."
 
-[ダークフェアリー]「この姿勢ね…………無理してるように見えて………あんっ………意外と楽なんだ」
+[Dark Fairy]"This position... seemed impossible... \nbut... it's unexpectedly easy"
 
-[ダークフェアリー]「こう……羽を使ってバランスをずらすだけで……ぇ……ゆらゆらとゆれるから、あんまり力入れなくていいし……」
+[Dark Fairy]"Like this... just by shifting the balance using the wing... \nBecause it shakes swaying, you don't have to \nput too much strength"
 
-[ダークフェアリー]「わたしもおまんこが…………ぁあっ！…………擦れて、きもちいいしねぇ。」
+[Dark Fairy]"My pussy also... aaAH! \n...It rubs, It's pleasant."
 
-[ダークフェアリー]「ん…………話してるうちに、もう出そうになってるね。坊やもこれが気に入った？」
+[Dark Fairy]"Ah... while talking, it is already going to come. \nDid your boy like this too?"
 
 ;;射精
 
-[ダークフェアリー]「ふぁああっ！……………ごちそうさま♪」
+[Dark Fairy]"Aaaah! ...Thank you for the meal♪"
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[ダークフェアリー]「ふふ……おいしかったよ」
+[Dark Fairy]"[Dark Fairy]"Fufu... it was delicious"
 
-[リリィ]「あっ！　………またいる！」
+[Lily]"Ah! ... Again!"
 
-[ダークフェアリー]「ふふ……気付かない方が悪いのさ…………」
+[Dark Fairy]"Fufu... the one not noticing is to blame..."
 
 ;;==============================================================================
 ;;自由会話
 
-[ダークフェアリー]「フェアリー種はね、植物由来から淫魔由来までいろいろと亜種がいるけどさ、総じて身体は弱いんだ」
+[Dark Fairy]"Fairy species have various subspecies, \nfrom plant origin to bad genie but overall, \nthe body is always weak."
 
-[ダークフェアリー]「だからか、みんな隠れたり認識を阻害する魔法が上手でね、中には全く気付かれずに射精までさせることができるやつもいるんだよ」
+[Dark Fairy]"That's why some guys can hide or \ndisturb recognition and some of which can make you ejaculate \nwithout being noticed at all"
 
-[ダークフェアリー]「坊やも、もしかしたら気付かない間に精も魔力も空っぽ。なんてことになるかも………なんてね」
+[Dark Fairy]"Though you might not notice it, \nbut the boy is empty of magic and energy. \nI wonder what it's supposed to be..."
 
 
 

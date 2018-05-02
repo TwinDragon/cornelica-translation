@@ -1,19 +1,19 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[ダークフェアリー]「クスクス……んっ……ちんちん借りてるよ………あんっ」
+[Dark Fairy]"Hihihi...huh... Hey, I owe you a lot... Awww"
 
 @se f=愛液1 pitch=80
 
-[ダークフェアリー]「坊やがあんまりにも無防備だったから………はぁん………イタズラしたくなってきちゃってぇ♪」
+[Dark Fairy]"Because the boy was unprotected so much... \nhuh...I got to want to mischief ♪"
 
-[ダークフェアリー]「こうやって足でわっかを作って擦ると………んんっ……ちょうどちんこが収まるくらいのサイズになるし……」
+[Dark Fairy]"When I make this way and scrape up with a foot... \nit will be just as big as the size of your dick..."
 
 @se f=愛液1 pitch=80
 
-[ダークフェアリー]「おまんこも………こすれてきもちいいし………ぁあっ」
+[Dark Fairy]"My vagina is also... It's rubbing and feels good... Ah"
 
-[ダークフェアリー]「そのままぎゅっ、ぎゅってしてやるとね……」
+[Dark Fairy]"If we do it as it is..."
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -23,11 +23,12 @@
 @flash t=500 wt=1
 
 
-[アル]「あ、あっ…………も、もう…………」
+[Al]"Oh, Ah... soon..."
 
-[ダークフェアリー]「……ほら、もうでそうになってきた……ぁっ……」
+[Dark Fairy]"...look, it's getting ready ...ah..."
 
-[ダークフェアリー]「それじゃあこのまま出していい………よっ……」
+
+[Dark Fairy]"Well then let's do it as it is... yes..."
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

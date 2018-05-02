@@ -6,7 +6,7 @@
 
 @se f=愛液1 pitch=50
 
-[ダークフェアリー]「んぁああっ………！　…………わたしもイっちゃった」
+[Dark Fairy]"Aaaaaah! ...I also came..."
 
 @bgm
 @bs

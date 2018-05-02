@@ -3,76 +3,77 @@
 
 ;;カットイン初回
 
-[ヴラスタβ]「雄を確認。対象を拘束します。」
+[Vlasta β]"Confirming Male. Restraining Subject."
 
 ;;=============================================================================
 ;;カットインmob11
 
-[アル]「ぐっ！…………え、えぇ！？」
+[Al]"Huh!... Eh, eh?"
 
-[ヴラスタβ]「質疑は受け付けません。……対象への無力化を開始します。」
+[Vlasta β]"Questions are not accepted. \nDisempowerment subject begun." 
 
-[ヴラスタβ]「膨張システム起動。乳房、及び臀部を肥大化。重量、圧力を増加。」
+[Vlasta β]"Expansion system activation. \nBreasts and buttocks are enlarged. \nWeight, increase pressure"
 
-[ヴラスタβ]「続いて、潤滑液を分泌。ピストン運動を行い対象へ搾精を行います。」
+[Vlasta β]"Subsequently, the lubricating fluid is secreted. \nPerform a piston movement and extraction on the target"
 
-[アル]「ぅ………ぐうぅ………」
+[Al]"Ah...aah..."
 
-[ヴラスタβ]「……対象の抵抗力の減少を確認。搾精行動を続けます。」
+[Vlasta β]"Confirm decrease in the target resistance. \nContinue the extraction action"
 
-[アル]「あ………あ、あっ………！」
+[Al]"Ah...ah, there...!!"
 
-[ヴラスタβ]「対象の心拍数上昇。射精まで、カウント5……4……3……」
+[Vlasta β]"Heart rate rise of the subject. \nCount until ejaculation 5...4...3..."
 
-[ヴラスタβ]「2……1……」
+[Vlasta β]"2...1..."
 
-[ヴラスタβ]「……0」
+[Vlasta β]"...0"
 
 ;;射精
 
-[ヴラスタ]「対象の射精行為を確認。燃料として吸収します。」
+[Vlasta β]"Confirm target ejaculation. Absorbs it as fuel."
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[ヴラスタβ]「エネルギーの30%を回復。残量が規定値に達したため、通常行動に移ります。」
+[Vlasta β]"Recover 30% of energy. \nSince the remaining amount has reached the specified value, \nwe will move on to normal behavior"
 
 ;;GAMEOVERA
 
-[アル]「ぁ……ぁぁ……」
+[Al]"Ah ...... Ah ... ...."
 
-[ヴラスタβ]「……対象のチャームの蓄積を確認。新たな備蓄燃料として、搾精施設へ連行します。」
+[Vlasta β]"...Confirm accumulation of target charm. \nWe will take it to the extraction facility \nas a new stockpile fuel."
 
 ;;暗転
 
 ;;カットイン2回目
 
-[ヴラスタβvar.2]「人間種の雄を確認。捕捉します。」
+[Vlasta β ver.2]"Confirming males of human species. Capture."
 
 ;;=============================================================================
 ;;カットインmob11
 
-[アル]「ぐっ！…………ま、また！？」
+[Al]"Damn!... again!?"
 
-[ヴラスタβvar.2]「質疑は受け付けません。……対象への無力化を開始します。」
+[Vlasta β ver.2]"I will not accept questions... We begin to neutralize the target."
 
-[ヴラスタβvar.2]「膨張システム起動。潤滑液を分泌。ピストン運動を行い、対象への搾精行動を開始。」
+[Vlasta β ver.2]"Expansion system activation. Secret lubricant. \nPiston movement is initiated, and actions of contemplative \nsqueezing are started."
 
-[ヴラスタβvar.2]「……ピストン運動の速度を増加。対象を速やかに射精へと導きます」
+[Vlasta β ver.2]"... Increase piston movement speed. \nIt leads the subject to ejaculation promptly"
 
 ;;射精
 
-[ヴラスタ]「対象の射精行為を確認。燃料として吸収します。」
+[Vlasta β ver.2]"Confirm target ejaculation. Absorbs it as fuel."
 
 ;;==============================================================================
 ;;アル一歩引く
 
-[ヴラスタβ]「エネルギーの40%を回復。残量が規定値に達しました。これより、『ヴラスタβvar.2』の出力増加アップグレードの試験行動を終了、通常行動に移ります。」
+[Vlasta β]"Recover 40% of energy. The remaining amount has reached the \nspecified value. From this we finish the test \nbehavior of 'Vlasta β ver.2' output increase upgrade."
+[Vlasta β]"We will move on to normal behavior."
 
 ;;==============================================================================
 ;;自由会話
 
-[ヴラスタ]「当機ヴラスタは、より捕縛、搾精能力の強化を目的とした、次世代型の試験機となります。ご連絡、ご相談は『館の魔女：ヴェルナ』までお願い致します。」
+[Vlasta]"This Vlasta is a next generation type test machine aimed at \nstrengthening the capture and extraction ability. \nFor problem, please contact "Witch's House: Verna".
 
 
 

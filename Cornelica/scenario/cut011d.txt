@@ -2,7 +2,7 @@
 @bgv f=パイズリ・手コキ２ pitch=75
 @se f=愛液1
 
-[ヴラスタβ]「質疑は受け付けません。……対象への無力化を開始します。」
+[Vlasta β]"Questions are not accepted. \nDisempowerment subject begun." 
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -11,9 +11,9 @@
 @qk t=500
 @flash t=500 wt=1
 
-[ヴラスタβ]「膨張システム起動。潤滑液を分泌。ピストン運動を行い、対象への搾精行動を開始」
+[Vlasta β]"Expansion system activation. Secret lubricant. \nPiston movement is initiated, and actions of contemplative \nsqueezing are started."
 
-[ヴラスタβ]「……ピストン運動の速度を増加。対象を速やかに射精へと導きます」
+[Vlasta β]"... Increase piston movement speed. \nIt leads the subject to ejaculation promptly"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

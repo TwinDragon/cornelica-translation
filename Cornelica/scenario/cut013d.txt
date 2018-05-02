@@ -1,13 +1,13 @@
 
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[ダークフェアリー]「またあったねえっ……んっ………♥」
+[Dark Fairy]"There you have it again... huh... ♥"
 
 @se f=愛液1 pitch=80
 
-[ダークフェアリー]「この姿勢ね…………………あんっ♥………意外と楽なんだ」
+[Dark Fairy]"This position...Awww ♥...it's unexpectedly easy"
 
-[ダークフェアリー]「こう……羽を使ってバランスをずらすだけで……ぇ……ゆらゆらとゆれるから、あんまり力入れなくていいし……♥」
+[Dark Fairy]"Like this... just using the wings to shift the balance...ah \n...as it sways fluctuating, you don't have \nto put too much power... ♥"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -16,11 +16,11 @@
 @qk t=500
 @flash t=500 wt=1
 
-[ダークフェアリー]「わたしもおまんこが…………ぁあっ！…………擦れて、きもちいいしねぇ。」
+[Dark Fairy]"My pussy also... aaAH! \n...It rubs, It's pleasant."
 
 @se f=愛液1 pitch=80
 
-[ダークフェアリー]「ん…………話してるうちに、もう出そうになってるね。坊やもこれが気に入った？」
+[Dark Fairy]"Ah... while talking, it is already going to come. \nDid your boy like this too?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

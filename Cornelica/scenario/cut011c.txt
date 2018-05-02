@@ -2,13 +2,13 @@
 @bgv f=パイズリ・手コキ２ pitch=75
 @se f=愛液1
 
-[ヴラスタβ]「質疑は受け付けません。……対象への無力化を開始します」
+[Vlasta β]"Questions are not accepted. \nDisempowerment subject begun."
 
-[ヴラスタβ]「膨張システム起動。乳房、及び臀部を肥大化。重量、圧力を増加」
+[Vlasta β]「膨張システム起動。乳房、及び臀部を肥大化。重量、圧力を増加」
 
 @se f=愛液1
 
-[ヴラスタβ]「続いて、潤滑液を分泌。ピストン運動を行い対象へ搾精を行います」
+[Vlasta β]"Expansion system activation. \nBreasts and buttocks are enlarged. \nWeight, increase pressure"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -17,7 +17,7 @@
 @qk t=500
 @flash t=500 wt=1
 
-[ヴラスタβ]「……対象の抵抗力の減少を確認。搾精行動を続けます。」
+[Vlasta β]"Confirm decrease in the target resistance. \nContinue the extraction action"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -26,9 +26,9 @@
 @qk t=500
 @flash t=500 wt=1
 
-[ヴラスタβ]「対象の心拍数上昇。射精まで、カウント5……4……3……2……1……」
+[Vlasta β]"Heart rate rise of the subject. \nCount until ejaculation 5...4...3...2...1"
 
-[ヴラスタβ]「……0」
+[Vlasta β]"...0"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150

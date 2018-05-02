@@ -1,9 +1,9 @@
 
 @huki b=3 id=13 wt=0
 
-[ダークフェアリー]「ん、限界？　それじゃあ招待してあげるよ。フェアリーたちの棲家に……」
+[Dark Fairy]"Is this your limit? \nWell then I'll invite you. To the façade of Fairies..."
 
 @huki b=4 id=13 wt=0
 
-[ダークフェアリー]「……きっと気に入ってくれると思うよ？」
+[Dark Fairy]"...do you think you will like it?"
 

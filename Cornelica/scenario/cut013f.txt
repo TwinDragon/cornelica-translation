@@ -6,7 +6,7 @@
 
 @se f=愛液1 pitch=50
 
-[ダークフェアリー]「ふぁああっ！……………ごちそうさま♪」
+[Dark Fairy]"Aaaah! ...Thank you for the meal♪"
 
 @bgm
 @bs

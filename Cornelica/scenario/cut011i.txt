@@ -1,5 +1,5 @@
 
 @huki b=8 id=63
 
-[ヴラスタβ]「……対象のチャームの蓄積を確認。新たな備蓄燃料として、搾精施設へ連行します」
+[Vlasta β]"...Confirm accumulation of target charm. \nWe will take it to the extraction facility \nas a new stockpile fuel."
 
