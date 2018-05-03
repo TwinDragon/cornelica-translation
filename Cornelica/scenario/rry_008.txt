@@ -2,6 +2,6 @@
 
 @bs f=リリィ@笑顔 op=音符 t=200
 
-[リリィ]「じゃあ、案内するね♪」
+[Lily]"Then, I will show you ♪"
 
 @move_f f=リリィ@ out=c t=200

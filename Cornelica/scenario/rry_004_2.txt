@@ -3,11 +3,11 @@
 
 @move_f f=リリィ@微笑_頬 op=音符 in=c t=200
 
-[リリィ/rry0148]「えへへ♪　どうだった？　私は……ふふ♪　気持ち良かったよ♪」
+[Lily/rry0148]"Hehe♪ How was it?　I'm...fufu♪　It felt good ♪"
 
 @bs f=リリィ@笑顔 op=音符 t=200
 
-[リリィ]「また辛くなったらいつでもいってね♪」
+[Lily]"Tell me again, whenever it's gets rough, okay ♪"
 
 @move_f f=リリィ@ out=c t=200
 

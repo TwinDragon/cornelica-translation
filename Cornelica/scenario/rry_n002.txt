@@ -1,15 +1,15 @@
 
 @bs f=リリィ@笑顔 t=150
 
-[リリィ]「サキュバスってね、体のどこからでも、精液の『味』を感じることができるんだよ」
+[Lily]"Succubus can feel the semen's taste \nfrom anywhere in their body"
 
 @bs f=リリィ@微笑 t=150
 
-[リリィ]「人間が飲んでも苦いだけらしいんだけど……サキュバスは相手によって違う味を感じるんだ」
+[Lily]"Even if for a human it seems bitter, \nSuccubus feels a different taste depending on the partner"
 
 @bs f=リリィ@笑顔 op=音符 t=150
 
-[リリィ]「すっぱかったり、苦かったりするんだけど……アルのは、甘くておいしいよ♪」
+[Lily]"Can be sour or bitter...\nbut yours is sweet and delicious♪♪"
 
 @move_f f=リリィ@ out=c t=150
 

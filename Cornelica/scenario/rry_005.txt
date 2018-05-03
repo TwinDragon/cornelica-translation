@@ -2,7 +2,7 @@
 
 @bs f=リリィ@淫猥 op=音符 t=200
 
-[リリィ]「ふふふ♪　キスじゃなくて、Hがしたいの……？」
+[Lily]"Fufufu ♪\nNot a kiss, you want to have sex...?"
 
 @se f=衣擦れの音1
 @fade type=out t=1000 wt=1

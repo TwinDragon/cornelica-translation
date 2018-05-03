@@ -30,11 +30,11 @@
 [Lily]"Can be sour or bitter...\nbut your is sweet and delicious♪♪"
 
 ;;===========================================================
-;;See rry_n003.txt!!!!!
+;;Edit rry_n003.txt too
 [Lily]"Why succubus's wings and tails \nare different from each other? \nThey change according to the strength of their magic"
 
-[Lily]"With lot of Magic Power, the shape change for make it a sucking cavity, and you can move those like hands. I can't do that yet..."
-
+[[Lily]"With lot of Magic Power, the shape change for make it a \nsucking cavity, and you can move those like hands. \nI can't do that yet..."
+;;Need Review
 [Lily]"...But I can use them to move♪"
 
 ;;===========================================================

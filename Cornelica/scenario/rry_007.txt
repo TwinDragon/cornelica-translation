@@ -2,4 +2,4 @@
 
 @bs f=リリィ@微笑 op=ハテナ t=200
 
-[リリィ]「うん。分かった♪　どこに行きたい？」
+[Lily]"Yeah. I understand ♪ Where would you like to go?"

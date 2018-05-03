@@ -8,12 +8,12 @@
 
 @bs f=リリィ@笑顔 op=ハテナ x=350 y=50 t=200
 
-[リリィ]「その……アルって、Hは初めてだった？」
+[Lily]"That... Al, was you first time?"
 
 @bs f=アル@焦り_頬 op=焦り x=-350 y=50 t=200
 @bs f=リリィ@哀しみ body=-1 face=0 x=350 y=50 t=200
 
-[リリィ]「わたしが初めてでよかった……？　魔力を吸われて、きつかったりしない？」
+[Lily]"I was good for the first time...? \nSiphon Charm, was hard?"
 
 ;;アルうなずく
 @bs f=アル@屈辱_頬 op=焦り x=-350 y=50 t=600
@@ -26,11 +26,11 @@
 
 @bs f=リリィ@笑顔 op=音符 x=350 y=50 t=200
 
-[リリィ]「そっか！　よかったぁ…………」
+[Lily]"Really! It was good..."
 
 @bs f=リリィ@淫猥 x=350 y=50 t=200
 
-[リリィ]「…………シたくなったら、いつでも言ってね？」
+[Lily]"When you want to do it, always say it ok?"
 
 @huki b=7
 @bs f=アル@屈辱_頬 op=困惑 x=-350 y=50 t=600
