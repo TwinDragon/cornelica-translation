@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Succubus Cowgirl \nHint:On the left side of the middle of the main road
+Succubus Reverse Cowgirl \n     Hint:On the left side of the middle main road
 @mes_win back=0 pos=2

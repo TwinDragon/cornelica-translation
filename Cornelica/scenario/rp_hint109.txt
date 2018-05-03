@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Succubus Footjob \nHint:Near the stairs in the upper part of the main road
+Succubus Footjob \n     Hint:Near the stairs in the upper part\n            of the main road
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Born to aristocratic Succubus breastfeeding \nHint: Talking to aristocratic succubus in the manor
+Born to aristocratic Succubus breastfeeding \n     Hint:Talking to aristocratic succubus in the manor
 @mes_win back=0 pos=2

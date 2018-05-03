@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Rejuvenation with white magic, Paizuri \nHint:"Living together" choice from Shirao
+Shirao Paizuri \n     Hint:"Living together" choice from Shirao
 @mes_win back=0 pos=2

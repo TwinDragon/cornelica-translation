@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Squeeze by Vlasta-α \nHint:After escaping from the lord, at the Magic Shop
+69 with Vlasta-α \n     Hint:After escaping from the lord\n           at the Magic Shop
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Faileie is thigh-female \nHint: When Al is alone, at the dungeon of the manor at night
+Fairy Thighsjob \n     Hint:When Al is alone at the dungeon\n           of the manor at night
 @mes_win back=0 pos=2

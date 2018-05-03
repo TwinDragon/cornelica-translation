@@ -1,4 +1,4 @@
 ﻿
 @mes_win back=1 pos=1
-Squeezed by Verna \nHint：Meet with Verna, \nSmall Talk with her
+Squeezed by Verna \n     Hint:After meeting with Verna\n           "Small Talk" with her
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Vanessa Cowgirl \nHint: Choosing "Give Up" from Vanessa
+Vanessa Cowgirl \n     Hint:Choosing "Give Up" from Vanessa
 @mes_win back=0 pos=2

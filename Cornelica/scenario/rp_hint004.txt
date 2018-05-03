@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Students Footjob \nHint: Talk to a student at the back of school
+Students Footjob \n     Hint:Talk to a student\n           at the back of school
 @mes_win back=0 pos=2

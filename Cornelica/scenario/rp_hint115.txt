@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Succubus Paizuri \nHint:In the room in the 1F upper right of lord's residence 
+Succubus Paizuri \n     Hint:In the room in the 1F upper right\n            of Lord's mannor
 @mes_win back=0 pos=2

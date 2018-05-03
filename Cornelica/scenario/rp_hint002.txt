@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Talk with students as teaching materials \nHint：When Al is alone, \ntalk to the teacher in front of the school gate
+Talk with students as teaching materials\n     Hint:When Al is alone, talk to the teacher\n           in front of the school gate
 @mes_win back=0 pos=2

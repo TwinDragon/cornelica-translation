@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-Squeezed out by the enchanting demon \nHint:In the Hilberta forest at night
+Squeezed in a demon plant \n     Hint:In the Hilberta forest at night
 @mes_win back=0 pos=2

@@ -1,4 +1,4 @@
 
 @mes_win back=1 pos=1
-To be squeezed into a pledget \nHint:In the Hilberta forest at night
+Squeezed by a plant \n     Hint:In the Hilberta forest at night
 @mes_win back=0 pos=2
