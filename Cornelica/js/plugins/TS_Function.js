@@ -27,7 +27,7 @@ Game_Party.prototype.GetMembersIndex = function(name) {
 TS_Function.getScenarioExtension = function(){
 	
 	var output = '.txt';
-	
+	//Commented for .txt usage instead of .sl
 	// エンコードを行うか判定
 	//if(!$gameTemp.isPlaytest() || argTsDecodeDebug){
 	//	output = '.sl';

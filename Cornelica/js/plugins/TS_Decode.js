@@ -24,7 +24,7 @@ ADV_System.prototype.fileLoad = function(filename) {
 	var fs = require('fs');
 	var filepath = this.localFileDirectoryPath()+filename+TS_Function.getScenarioExtension();
 	var file_data = fs.readFileSync(filepath, 'utf-8');
-	
+	//Commented for .txt usage instead of .sl
 	// エンコードを行うか判定
 	//if(!$gameTemp.isPlaytest() || argTsDecodeDebug){
 	//	var text_ary = file_data.split('');
