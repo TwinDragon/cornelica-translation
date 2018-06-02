@@ -1,0 +1,34 @@
+;;=================================================================
+;;魔女の部屋
+@bs
+@bs f=アル@驚き op=焦り x=-350 y=50 t=20 wt=1
+
+@through = type=on
+@move_speed spd=3
+@fade type=in t=1000 wt=0
+@wait t=500
+
+@se f=衣擦れの音1
+@huki b=1
+@route route=left
+
+@huki b=8 wt=0
+@bs f=アル@屈辱 x=-350 y=50 t=600 wt=1
+@wait t=600
+
+@huki b=2
+@bs f=アル@困り x=-350 y=50 t=200 wt=1
+@wait t=500
+
+@fade type=out t=1000 wt=1
+@dot_move map=6 x=17 y=12 dir=left
+@through = type=off
+
+@move_f f=アル@ out=c t=20 wt=0
+@bs
+
+@move_speed spd=4
+@fade type=in t=1000 wt=1
+
+;;アル移動
+;;=================================================================

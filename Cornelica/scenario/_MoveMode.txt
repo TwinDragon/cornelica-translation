@@ -1,0 +1,7 @@
+;;■01
+
+@through type=off
+@invisible type=off
+@move_speed spd=4
+@walk_anime type=on
+

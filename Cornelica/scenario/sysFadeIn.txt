@@ -1,0 +1,3 @@
+
+@fade type=in t=500 wt=0
+
