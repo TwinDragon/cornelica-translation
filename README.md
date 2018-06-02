@@ -6,13 +6,32 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 # FAQ
 
-1. What FAQ?
-    * One doesn't exist yet. Stay tuned, it'll get made eventually.
+1. How do I install this?
+    * Look directly below this FAQ.
+2. Ok, how do I uninstall?
+	* Look directly below install.
+3. Are the text files going to remain?
+	* No, it is easier to TL as a text file. They will be encrypted back to \*.sl once translations are finalized for releases.
+
+# Installation
+
+In order to install the translation, follow these steps to do so:
+
+1. **Backup your original game.**
+2. You can grab the latest repo by [following this link](https://github.com/TwinDragon/cornelica-translation/archive/master.zip) or grab any from the [Releases](https://github.com/TwinDragon/cornelica-translation/releases) tab.
+3. Once downloaded, simply unzip to your main Cornelica game folder.
+4. Your game should now have English text where its needed.
+5. ???
+6. PROFIT!
+
+## Uninstallation?
+
+As long as you backed up your game, simply restore your backup over the files and remove the \*.txt files from the original installation of the patch.
 
 ## To Do List
 
 - [x] Menu Translation
-- [ ] Initial Translation
+- [x] Initial Translation
 - [ ] Convert Machine to readable English
 - [ ] Quality Check
 - [ ] Pre-release and more checking
@@ -22,7 +41,7 @@ No one begun an English patch project for this game, so in our spare time betwee
 
 If you want to contribute to the project, have a look at reading on how to [Contribute](https://github.com/TwinDragon/cornelica-translation/blob/master/CONTRIBUTING.md) to the repo. It's pretty easy and self-explanatory.
 
-# People
+# Who To Bug With Issues
 
 Basically these are the people who you contact for issues.
 
