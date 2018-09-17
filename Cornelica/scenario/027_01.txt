@@ -124,7 +124,7 @@
 ;;===============================================================================
 *mission003
 
-@select s1="Where_we_can_find_the_'Barometsu's Golden Hair'?"/*code005 s2="Where_we_can_find_the_'Mifukuragi flower'?"/*code006 s3=Small_talk/*eventCode
+@select s1="Where_we_can_find_the_'Barometsu's_Golden_Hair'?"/*code005 s2="Where_we_can_find_the_'Mifukuragi_flower'?"/*code006 s3=Small_talk/*eventCode
 ;;---------------------------------------------------------------------
 ;;バロメッツ金毛
 *code005
@@ -164,7 +164,7 @@
 
 ;;===============================================================================
 *mission004
-@select s1="Where_we_can_find_the_'Flower of Tsukushi'?"/*code007 s2="Where_we_can_find_the_'Moriyu grass'?"/*code008 s3=Small_talk/*eventCode
+@select s1="Where_we_can_find_the_'Flower_of_Tsukushi'?"/*code007 s2="Where_we_can_find_the_'Moriyu_grass'?"/*code008 s3=Small_talk/*eventCode
 
 ;;---------------------------------------------------------------------
 ;;モリユ草
