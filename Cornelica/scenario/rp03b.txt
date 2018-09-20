@@ -7,9 +7,9 @@
 @se f=締め付ける
 @qk
 
-　裸で拘束されてしまう。
+ I'm restrained naked
 
-[ヴェルナ/vrn0044]「さぁ、行くぞ」
+[Verna/vrn0044]"Well, let's go"
 
 ;;SE触手音
 ;;CG03a
@@ -20,7 +20,7 @@
 @se f=チャージ pitch=40
 @bgf bg=ev03a t=1000
 
-[ヴェルナ/vrn0045]「搾オナくん１号でたっぷり精液を絞り取ってやろう」
+[Verna/vrn0045]"Let's squeeze out plenty of semen \nwith 'Shionku Onna-kun N.1'"
 
 @se f=愛液1 pitch=60
 @qk
@@ -37,28 +37,28 @@
 @se f=締め付ける pitch=60
 @se f=パイズリ・手コキ２ pitch=50
 
-[アル]「くあっ！　んぁああ」
+[Al]"Waah! Aaah"
 
 @se f=愛液1
 
-　触手に肉棒が咥えこまれる。
+ My cock was caught by a tentacles
 
 @se f=愛液1 pitch=50
 @se f=締め付ける pitch=110
 
-[ヴェルナ/vrn0046]「ふふ……挿入の瞬間、激しくペニスが震えたぞ。いや、挿入時だけではないな。今も震えている。オナホに包まれながらビクッビクッとな」
+[Verna/vrn0046]"Fufu, at the moment of insertion, the dick shook violently. \nNo, it's not only when inserted. I still tremble. \nWrapped around in the onahole"
 
 @se f=愛液1 pitch=120
 @se f=パイズリ・手コキ２ pitch=50
 
-[ヴェルナ/vrn0047]「先走り汁の量も凄いぞ。挿入だけでここまで感じるとは……。もしかして、オナホで犯されることに期待でもしていたのかな？」
+[Verna/vrn0047]"The amount of pre-juice is also amazing. \nWhat is it to feel so far just by inserting... \nPerhaps, were you expecting to be fucked by the onahole?"
 
 @se f=愛液1 pitch=50
 @qk
 
-[アル]「そんな……そんな、こと……」
+[Al]"Such... such a thing..."
 
-[ヴェルナ/vrn0048]「否定か……。なるほど。だが、これでもまだ否定できるかな？　このように、オナホでペニスをジュボジュボ扱かれてもまだ……」
+[Verna/vrn0048]"Denial... I see. But still can we deny it? \nNow, even if the penis is deeply treated in Onahole..."
 
 ;;SE■ピストン音
 @se f=愛液1 pitch=50
@@ -66,18 +66,19 @@
 @bgv f=パイズリ・手コキ１
 @qk
 
-[アル]「あっあっ……はぁあああ！」
+[Al]"Aaah...aaAAHH!"
 
 @se f=締め付ける pitch=120
 @se f=パイズリ・手コキ２ pitch=50
 
-　触手が動き出す。肉棒全体を扱き上げてきた。
+ The tentacles start to move, treated the whole dick.
 
 @se f=愛液1
 
-[ヴェルナ/vrn0049]「ふふ……相変わらずいい声で啼くな。素晴らしい喘ぎ声だ。私までなんだか変な気分になってしまうよ……はぁ……はぁ……はぁ……」
+[Verna/vrn0049]"Fufu, as usual you still don't hesitate with a good voice. \nIt's a wonderful pant voice. \nEven I feel something strange somehow... Haha... Ha..."
 
-[ヴェルナ/vrn0050]「そういう姿……もっと見たくなる。だからほら、こんなこともしてやろう」
+[Verna/vrn0050]"Such image... I want to see more. \nTherefore, I will do something like this"
+「そういう姿……もっと見たくなる。だからほら、こんなこともしてやろう」
 
 ;;SEバイブ音
 @se f=吸引音1
@@ -87,25 +88,25 @@
 @bgf bg=ev03c t=500 wt=0
 @bgv f=パイズリ・手コキ１ pitch=120
 
-　胸にも振動が加えられる。
+ The vibration is also added to the chest
 
 @se f=愛液1
 
-[ヴェルナ/vrn0051]「ペニスを締められながら乳首も刺激される。最高の気分だろ？」
+[Verna/vrn0051]"The nipple is also stimulated while the penis is tightened. \nIsn't the best feeling?"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
 @qk
 
-[アル]「で……ちゃう！　これ……出ちゃうぅう」
+[Al]"Ah...no! This... I'll come"
 
-　ほんの少しの刺激でも十分だった。どうしようもないほどの絶頂感がわき上がってくる。
+　Even a small stimulus was sufficient. \nThe unbearable ejaculation feeling rises up
 
 @se f=愛液1
 
-[ヴェルナ/vrn0052]「確かに……ふふふ、今にも射精しそうな程にペニスが肥大化しているのが分かるぞ」
+[Verna/vrn0052]"Surely... fufufu, I can see that \nthe penis is getting bigger enough to ejaculate"
 
-[ヴェルナ/vrn0053]「構わない……はぁ……はぁ……出したいのならば出すがいい。オナホの中にたっぷりと」
+[Verna/vrn0053]"I don't mind... haha...Haha... \nIf you want come, come. Come plenty in the onahole"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
@@ -118,38 +119,39 @@
 @bgv
 @fin se=射精音 bg=ev03d
 
-[アル]「ふぁああああっ！」
+[Al]"Fu~aaaaah!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
 
-　誘われるがままに白濁液を撃ち放った。
+ As I was invited, I came plenty in the onahole
 
 @se f=愛液1
 
-[ヴェルナ/vrn0054]「良く出ているな。凄い量だ。ふふ……堪らない光景だ」
+[Verna/vrn0054]"You are out well. It's a tremendous amount. \nFufu... it's an irresistible sight"
 
-[アル]「あっあっ……ふわぁああああ……」
+[Al]"Ah... Fuaaaaa..."
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=50
 
-　ひたすら悲鳴を上げ、悶えることしかできない。
+ I just scream and scream, I can only do that
 
 ;;CG03d
 @bgf bg=ev03d t=1000
 
-[ヴェルナ/vrn0055]「本当に凄い量だな。オナホからも溢れ出ている。まんこに出されたら孕みそうな程の量だぞ」
+[Verna/vrn0055]"It's a really tremendous amount. \nIt's overflowing from onahole too. \nIt's enough for you to be served with it"
 
 @se f=愛液1 pitch=50
 
-[アル]「ぁ………………」
+[Al]"Aah...."
 
 @se f=パイズリ・手コキ２ pitch=50
 
-　全身から力が抜けていくのを感じながら、幾度となく肩で息をした。
+ I felt losing strength from the whole body
+ I breathed heavily several times
 
-[ヴェルナ/vrn0056]「返事をする気力もないといったところか……。ふふ、そういうところ、なかなか可愛くて魅力的だぞ」
+[Verna/vrn0056]"Is there no way to reply? ... \nFufu, So that's pretty cute and attractive"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
@@ -162,21 +164,22 @@
 @se f=挿入音 pitch=50
 @bgf bg=ev03f t=1000
 
-　やがてジュボッとペニスが抜かれる。引き抜きの瞬間、カリ首が引っ張られ、甘く痺れる様な愉悦を覚えてしまう。
+ Eventually the penis is pulled out
+ At the moment of pulling out, \nthe glands is pulled and I remember \nthe pleasant feeling of being sweet and numb
 
 @se f=愛液1
 
-[ヴェルナ/vrn0057]「ふふ、質がいい精液を集められたな。これもキミのお陰だ」
+[Verna/vrn0057]"Fufu, I gathered a good quality semen. This is thanks to you"
 
-;;[ヴェルナ/vrn0058]「ああ、それと……また金に困ったら来るがいい。いつでもキミの為に仕事を用意しておくからな」
+;;[Verna/vrn0058]"Oh, and if you are troubled with money again, \nyou should come and I'll have a job ready for you anytime"
 
-[アル]「は……はぃぃ……」
+[Al]"Wa...aah..."
 
 @fade type=out t=1000 wt=1
 
-　何も考えられない。無意識のままに頷いた。
+ I can not think of anything. \nI nodded unconsciously.
 
-[ヴェルナ/vrn0059]「ふふ、いい返事だぞ」
+[Verna/vrn0059]"Fufu, that's a good reply."
 
 @rps
 @fade type=in t=1000 wt=1

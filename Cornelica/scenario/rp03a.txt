@@ -4,34 +4,34 @@
 ;;■CG03
 @bgf bg=ev03 t=1000
 
-[ヴェルナ/vrn0001]「目覚めたみたいだな」
+[Verna/vrn0001]"It sounds like you woke up"
 
-[アル]「ヴェルナ……さん？」
+[Al]"Verna...-san?"
 
 @se f=締め付ける
 @qk
 
-　裸にされていた。しかも、手足も拘束されてしまっている。
+　I was naked. Furthermore, limbs were also restrained
 
-[ヴェルナ/vrn0002]「抵抗されたら搾精も上手くいかないからね。悪いけど拘束させてもらった」
+[Verna/vrn0002]"Although it's bad, you was restrained. \nIt's because is no good to extracts while you put up resistance"
 
-[ヴェルナ/vrn0003]「もがいても無駄だ。私特性の拘束具から逃れることなど不可能だぞ」
+[Verna/vrn0003]"It's useless to struggle. \nIt's impossible to escape from my restraint"
 
-[アル]「そんな……」
+[Al]"Like this..."
 
-[ヴェルナ/vrn0004]「あまり悲観する必要はない。大丈夫。私は本当に異界の門について研究したいだけだからな」
+[Verna/vrn0004]"You don't need to be very pessimistic. It's safe. \nI really want to study about the gates for different worlds"
 
-[ヴェルナ/vrn0005]「まぁ、恐ろしいと思う気持ちも理解できる。だがな、実際これは必要なことなんだよ」
+[Verna/vrn0005]"Well, I can understand the feeling that you feel horrible. \nHowever, in fact, this is necessary"
 
-[ヴェルナ/vrn0006]「この研究の目的はキミを元の世界へ送ることだ。そのためにはキミのことをよく知る必要がある」
+[Verna/vrn0006]"The purpose of this research is to send you \nto the original world. For that we need to know about you"
 
-[ヴェルナ/vrn0007]「そういうわけだから、キミを調査することは重要なんだよ」
+[Verna/vrn0007]"That's why it's important to examinate you"
 
-[ヴェルナ/vrn0008]「精というのは生命の源……。魔力とはまた違ったエネルギーだ。現にサキュバスは精を主食に生きているのだからな」
+[Verna/vrn0008]"Semen is the source of life... \nit's a different energy from magical power. \nThat's why Succubus use it as staple food"
 
-[ヴェルナ/vrn0009]「そして、その者を知るための情報源でもある。故にキミの精液が必要なのだ」
+[Verna/vrn0009]"And it's also a source of information to know a person. \nTherefore we need that semen of yours"
 
-[ヴェルナ/vrn0010]「……あまった分は私のおやつになるがな」
+[Verna/vrn0010]"...a remaining amount is going to be a snack for my part"
 
 ;;スイッチオン
 ;;SE■うねうね音
@@ -42,13 +42,13 @@
 @se f=チャージ pitch=40
 @bgf bg=ev03a t=1000
 
-　ヴェルナの言葉に反応するように、うねうねと蠢く触手の様なものが出現する。
+　Like a reaction to the words of Verna, \ntentacles emerge like worm.
 
-[ヴェルナ/vrn0011]「それくらいの役得はあっていいだろう。まぁ、諦めるんだな」
+[Verna/vrn0011]"It's probably good to have that kind of assistance. \nWell, give it up."
 
-[ヴェルナ/vrn0012]「これは私が開発した搾精用触手オナホール『しょくオナくん１号』だ」
+[Verna/vrn0012]"This is my dick tentacle onahole\n'Shionku Onna-kun N.1'\ndeveloped by me"
 
-[ヴェルナ/vrn0013]「見た目のグロさにビビってるって感じだな。しかし、この子が与えてくれる快感は本物だ。たっぷり楽しませてあげよう」
+[Verna/vrn0013]"It feels like you're scared of his appearance. \nHowever, the pleasure that this gives is real. \nLet's have plenty of pleasure"
 
 @se f=淫唇を開く音
 @se f=愛液1 pitch=75
@@ -61,37 +61,39 @@
 ;;CG03b
 @se f=愛液1 pitch=50
 
-[ヴェルナ/vrn0014]「どうだ？　気持ちいいだろ？　ペニスをギュッて締めつけられる感覚は最高だろう？」
+[Verna/vrn0014]"How is it? It feels good, isn't it? \nThe feeling that it can tighten the penis is the best?"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0015]「オナホの中のヒダヒダ……その一枚一枚がキミのペニスを搾り上げる。ジュルルルッと吸引行動を行いながらな……」
+[Verna/vrn0015]"Pleats in the onahole...\neach one of them squeezes your penis. \nSucking while doing it..."
 
 @se f=愛液1 pitch=50
 
-[ヴェルナ/vrn0016]「もちろん、締めつけるだけじゃ終わらない」
+[Verna/vrn0016]"Of course, just tightening and sucking isn't enoght"
 
 ;;SE■ピストン音
 @bgv f=パイズリ・手コキ１ pitch=80
 @qk
 
-[アル]「うわぁっ！　あぁぅ……！」
+[Al]"Wow! Ah-oh...!"
 
-[ヴェルナ/vrn0017]「ピストン運動も当然行う。ちんぽの根元から先端までを余すことなく扱き上げる。ジュボッジュボッと興奮を煽るような音色を奏でながらね」
+[Verna/vrn0017]"Naturally it does piston motion. \nTreats from the root to the tip of your dick. \nWhile playing the tone that encourages excitement"
 
-[ヴェルナ/vrn0018]「簡単にイッてしまいいそうな程の快感だろ？　すぐにでもペニスから精液を射精したくなってくるだろ？　ビュルビュルしたくて堪らないんじゃないか？」
+;;Need review
+[Verna/vrn0018]"Is it a pleasant feeling that seems easy to get over? \nYou will want to ejaculate immediately, do not you? \nYou do not want to be burulburu, are not you?"
+;;ビュルビュルしたくて堪らないんじゃないか？ burulburu i'm missing it
 
 @se f=愛液1
 @se f=締め付ける
 @qk
 
-[アル]「ぐぅっ……ふくぅう……うっぐうっ……んぅぐぅうっ……！」
+[Al]"Mmm... Faaa... Ugh... umh... mmm!"
 
-[ヴェルナ/vrn0019]「ふむ、我慢するか。もしかして、無理矢理されるのはイヤってことなのか？」
+[Verna/vrn0019]"Hmm, do you endure it? \nIs it that you do not want to be forcibly forced?"
 
-[ヴェルナ/vrn0020]「キミ……顔は可愛いが、案外意地っ張りなようだな。ふふ、そういう子は嫌いではない。嗜虐心が刺激される。苛めたくなってくるぞ」
+[Verna/vrn0020]"You....your face is pretty, but this seems to be unexpected. \nFufu, I don't dislike such child. A sadistic. \nYou like getting teased"
 
-[ヴェルナ/vrn0021]「だから……もっともっと吸引を強くしてあげよう」
+[Verna/vrn0021]"Therefore...  let's give you more suction"
 
 ;;SE■激しくなるピストン音
 
@@ -100,38 +102,38 @@
 @bgv f=パイズリ・手コキ１ pitch=120
 @qk
 
-　速度が上がる。同時に吸引行為もより強いものに……。
+ Speed ​​rises. At the same time, \nthe suction is also stronger... 
 
 @se f=愛液1 pitch=50
 
-[ヴェルナ/vrn0022]「どうだ？　ジュボッジュボッてピストンを激しくされる気分は？　ジュルルルッて吸引を強くされる気分はどんなものかな？」
+[Verna/vrn0022]"How is it? How do you feel with the piston overcharge? \nHow about suction becoming stronger?"
 
-[ヴェルナ/vrn0023]「最高に気持ちいいだろ？　すぐに射精したいってくらい、感じてしまっているだろう？」
+[Verna/vrn0023]"Isn't this feeling the best? \nYou feel like you want to ejaculate quickly, have you?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける
 @qk
 
-[アル]「ぐぅっ……ぅうう……！」
+[Al]"Huh... Huh...!"
 
-[ヴェルナ/vrn0024]「我慢しても無駄だ。何故ならばキミのペニス……凄く震えているからな。ビクッビクッて激しく……」
-
-@se f=愛液1 pitch=75
-
-[ヴェルナ/vrn0025]「いや、ただ震えてるだけじゃないな。大きくもなってる。亀頭がパンパンにね。今にも爆発してしまいそうなくらいだ」
-
-[ヴェルナ/vrn0026]「先走り汁の量も凄い。なんだかお漏らしでもしているみたいだ」
-
-[ヴェルナ/vrn0027]「私はね……魔法でオナホを透視することが可能なんだ。つまり、ペニスの変化は手に取るように理解できる」
+[Verna/vrn0024]"It is useless to endure. \nBecause your dick... it's trembling so terribly. \nVigorously and violently..."
 
 @se f=愛液1 pitch=75
 
-[ヴェルナ/vrn0028]「亀頭を真っ赤にしながら、血管を浮き上がらせてるペニス……ああ……その有様……見てるだけで興奮してしまうな」
+[Verna/vrn0025]"No, it's not just trembling. \nIt's getting bigger too. The glans is filled. \nIt seems that it's about to explode now"
 
-[ヴェルナ/vrn0029]「ふふ、息まで荒くなる。きっと……濡れてしまっているな」
+[Verna/vrn0026]"The amount of pre-juice is also amazing. \nIt seems to leak it out somehow"
 
-[ヴェルナ/vrn0030]「興奮するのならすればいい。もっともっとな。そして……射精するんだ。精液を沢山ね」
+[Verna/vrn0027]"I...I can see through onahara with magic. \nIn other words, I can see the changing the penis is taken"
+
+@se f=愛液1 pitch=75
+
+[Verna/vrn0028]"While the glans is becoming red, \nthe blood vessels lifts the penis ...ah... \nThat way...just watching it makes me excited."
+
+[Verna/vrn0029]"Fufu, rough up to breath. \nSurely... it's getting wet"
+
+[Verna/vrn0030]"If you get excited, you do better. \nA lot more. And... ejaculate. A lot of semen"
 
 ;;SE■振動音
 @se f=愛液1 pitch=50
@@ -141,19 +143,19 @@
 @se f=吸引音1 pitch=75
 @bgv f=パイズリ・手コキ１ pitch=150
 
-[アル]「うわぁっ！　うわぁああ！」
+[Al]"Wow! Wow ah!"
 
-[ヴェルナ/vrn0031]「私が作ったローターバイブだ。乳首……刺激されるのも気持ちいいだろう？」
+[Verna/vrn0031]"It's a rotor vibe I made. \nNipple... it's also pleasant to be stimulated?"
 
 @se f=愛液1 pitch=50
 
-[アル]「これ……駄目！　止めて！　止めてぇ！」
+[Al]"This... don't do it! Stop it! Stop it!"
 
-[ヴェルナ/vrn0032]「どうして？　気持ちいいのだろう……？　なんで止めて欲しいんだ？」
+[Verna/vrn0032]"Why? It feels good...? Why do you want me to stop?"
 
-[アル]「なんでって……すごく、びりびり、するからぁ……！」
+[Al]"Why are you... so terrible, I will do it ...!"
 
-[ヴェルナ/vrn0033]「……なるほど。だったらもっとだ。もっと、振動を強くしてやろう。吸い上げをきつくしてやる……」
+[Verna/vrn0033]"…I see. It would be better. \nLet's strengthen the vibration more. \nTighten sucking up ..."
 
 @se f=吸引音1
 ;;SE■強くなる振動音
@@ -163,9 +165,9 @@
 ;;SE■強くなるピストン音
 @flash t=300
 
-[ヴェルナ/vrn0034]「さぁ！　さぁ出すんだ！　射精するんだ！　精液を沢山、射精しろっ！」
+[Verna/vrn0034]"Come on! Come on now! Ejaculate! Lot of semen, ejaculate!"
 
-　強烈な刺激に抗うことなどできない。
+　I can't resist the intense stimulation
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -174,9 +176,9 @@
 @bgv
 @fin bg=ev03d se=射精音
 
-　どうしようもない愉悦に流されるがまま、精液を撃ち放った。
+　I shoot semen as it's being swept away by unbelievable delight
 
-[ヴェルナ/vrn0035]「ふふ、出てる……想定より沢山、スゴイな」
+[Verna/vrn0035]"Fufu, you came... A lot more than expected, it's amazing"
 
 @se f=愛液1 pitch=110
 @se f=パイズリ・手コキ２ pitch=150
@@ -186,12 +188,11 @@
 @bgv f=パイズリ・手コキ１ pitch=130
 @flash t=300 wt=0
 
-　吸引がより強いものに変わる。
+　The suction turns into a strong one
 
 @se f=愛液1
 
-[ヴェルナ/vrn0036]「だが、まだまだ続けさせてもらうぞ？　さっき、言っただろう？　最後の一滴まで搾り取るって」
-
+[Verna/vrn0036]"However, I will let you continue still more? \nDid I mention it a little while ago? \nI said to squeeze to the last drop"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -204,7 +205,7 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
-　射精させられた。
+ I had came
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -217,7 +218,7 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
-　精液を吸われた。
+ My sperm was sucked
 
 @se f=愛液1 pitch=100
 @se f=パイズリ・手コキ２ pitch=150
@@ -230,11 +231,11 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
-　絶頂の上に絶頂を重ねることとなった……。
+ I came on top of the other cum....
 
 @se f=愛液1
 
-　終わらないイキ地獄の中に沈んでいく……。
+　I sinks in a chic hell that doesn't end... 
 
 @se f=愛液1 pitch=100
 @se f=パイズリ・手コキ２ pitch=150
@@ -258,9 +259,9 @@
 @fade type=in t=1000 wt=1
 ;;CG03d
 
-[アル]「はぁ……はぁ……はぁ……はぁあああ……」
+[Al]"Ah...ah...ah...aaah..."
 
-[ヴェルナ/vrn0037]「最高……最高だったよ」
+[Verna/vrn0037]"It was the best... it was great."
 
 ;;SE引き抜き音
 ;;CG03e
@@ -268,13 +269,13 @@
 @se f=挿入音 pitch=50
 @bgf bg=ev03f t=1000
 
-[ヴェルナ/vrn0038]「ふふ……オナホの中、精液でいっぱいだな。これだけあれば、研究も捗りそうだ」
+[Verna/vrn0038]"Fufu... The onahole, it is full of semen. \nIf there is so much, research seems to be progressing"
 
 @se f=愛液1 pitch=75
 
-[アル]（なにか……いってる……みたい……でも……もう……駄目……）
+[Al](I'd like... to say... something... \nbut... it would be... useless...)
 
-[アル]「……………………」
+[Al]"........."
 
 @fade type=out t=1000 wt=1
 @rps
