@@ -1,5 +1,5 @@
 ;;======================================================
-;;学舎でアルバイト
+;;Part-time at a school building
 
 @bgm f=h-005 pitch=90
 
@@ -7,140 +7,144 @@
 @bgf bg=ev02 t=1000
 @se f=締め付ける
 
-　――気がつけば教卓の上でＭ字開脚させられていた。
+ Before realizing, Al was on the desk \nsitting in a M-Shape with his leg.
 
-[教員/kos0001]「生徒達に男の身体がどうなっているのかをキミの身体を使って教えてあげるの」
+[Teacher/kos0001]"I will tell the students what \nhuman body is like using your body"
 
 @se f=締め付ける
 @qk
 
-[アル]「そんな……恥ずかしい……」
+[Al]"Like that... it's embarrassing..."
 
-[教員/kos0002]「だ～め。引き受けた仕事は最後までしなさい」
+[Teacher/kos0002]"No good. Please do the work you undertake till the end"
 
 @se f=締め付ける
 
-　身体が動かない。まるで拘束でもされてしまっているかのようだ。
+　(My body does not move!) \nIt seems as though Al was being restrained.
 
-[教員/kos0003]「私の仕事をキミは引き受けた。アレは契約なの。淫魔とはいえ悪魔との契約なんだから、やり遂げるまで契約は絶対よ」
+[Teacher/kos0003]"You accept my work. It's a contract. \nBecause it is a contract with a devil, \nyou definitely have to work until it's finish"
 
-[教員/kos0004]「そういうわけで、授業が終わるまでキミの自由は奪わせてもらうわ」
+[Teacher/kos0004]"That's why I'll take your freedom until I finish the lesson"
 
-[アル]「ぁっ、ああ……」
+[Al]"Huh, ah..."
 
-[教員/kos0005]「さて、それじゃあ今日の授業を始めるわよ。今日の授業はちんぽをどう弄れば効率よく男を感じさせることができるのか――という授業よ」
+[Teacher/kos0005]"Well then, let's start today's lesson. \nToday's lesson is how you can touch the dick \nand efficiently make a man come"
 
-　情けない声を上げるアルを無視して、先生は教室に集まった生徒達に語り掛けた。
+　Ignoring Al who raises a miserable voice, \nthe teacher told the students gathered in the classroom
 
-[教員/kos0006]「見なさい。これがちんぽよ」
+[Teacher/kos0006]"Look. This is a dick"
 
-[生徒Ａ/sta0001]「凄い……アレが男の……」
+[Student A/sta0001]"Awesome... That's a man..."
 
-[生徒Ｂ/stb0001]「あたし初めて見た」
+[Student B/stb0001]"I saw it for the first time"
 
-[生徒Ｃ/stc0001]「思ったより可愛い感じだね。でも、嫌いじゃないかも」
+[Student C/stc0001]"It's more cute than I thought, but I do not dislike it."
 
-　ざわつきながらペニスを見つめて来る。
+ Suddenly everybody was staring at his dick.
 
-[教員/kos0007]「さて、それじゃあ今から早速このちんぽを射精させてもらいます。誰かやって見たい子はいますか？」
+[Teacher/kos0007]"Well then, let's jerk it of and try to make it \nejaculate quickly. Is there anyone who would like to try?
 
-[生徒Ａ/sta0002]「あ……はいっ！　先生！　私やりたいです」
+[Student A/sta0002]"Oh! Sensei! I want to do it"
 
-[教員/kos0008]「いいでしょう。それじゃあ早速やってみなさい」
+[Teacher/kos0008]"That's nice. Then do it quickly"
 
-[生徒Ａ/sta0003]「分かりました」
+[Student A/sta0003]"Understood"
 
 @se f=淫唇を開く音
 
 ;;CG02a
 @bgf bg=ev02a t=500
 
-[アル]「……ぁああっ」
+[Al]"...aaAAhhh"
 
 @se f=愛液1
 
-　生徒の手が肉棒に触れる。ビクンッと反射的に肢体を震わせながら、悲鳴を上げた。
+　The student's hand touches his cock. \nHe screamed while shaking the limbs reflexively
 
-[生徒Ａ/sta0004]「あ……。すごっ！　ちょっと触っただけでおちんちんビクって震えた」
+[Student A/sta0004]"Ah……. Awesome! \nJust a little touch and he trembled wildly"
 
-[教員/kos0009]「かなり敏感なペニスの様ですね」
+[Teacher/kos0009]"It looks like a pretty sensitive dick"
 
 @se f=愛液1
 
-[生徒Ａ/sta0005]「ヒクヒク震えて……なんか可愛いかも」
+[Student A/sta0005]"It's twitching... it's might be somewhat cute"
 
-　思わず懇願の言葉を向ける。
+　Instinctively he began to beg
 
-　しかし、生徒も先生もアルの言葉なんかまるで聞いてくれない。
+　But neither the students nor \nthe teacher listen to Al words at all
 
-[生徒Ａ/sta0006]「それでえっと……どうすれば？」
+[Student A/sta0006]"Uhm... well... how can I do?"
 
-[教員/kos0010]「どうすればペニスに快楽を与えられるのか……。これまでの授業で教えてきましたよ。それを思い出しなさい」
+[Teacher/kos0010]"How can you give a dick pleasure...\nI taught in class a while back. Try to remember that"
 
-[生徒Ａ/sta0007]「授業……あ、そうだ。確か、こうやっておちんちんってシコシコ扱けばいいんでしたよね？」
+[Student A/sta0007]"Class...oh, that's right. \nCertainly, it was okay to just treat it like this, right?"
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-　指が蠢き出す。キュッと勃起したペニスを握りつつ、シコシコと上下に擦り上げてきた。
+　The finger start to move. \nWhile holding tightly the erected dick, \nshe start moving the hand up and down.
 
 @se f=愛液1
 
-　ほんの少し扱かれただけに過ぎない。しかし、異常な状況のせいで緊張した身体は普段よりも敏感になってしまっていた。
+ It was just a little stroke. However, \nhis body nervous due to the situations \nbecome more sensitive than usual.
 
-　手の動きに合わせてゾクゾクした刺激が走り、思わず歓喜の悲鳴を漏らしてしまう。
-
-@se f=愛液1
-
-[生徒Ｂ/stb0002]「凄い……本当に気持ち良さそう」
-
-[生徒Ｃ/stc0002]「感じてるんだ。なんか可愛い」
-
-[アル]「あ……ぁあ！　……うぅっ」
+ A throbbing stimulation runs according to the movement \nof the hand, unintentionally releasing the scream of delight
 
 @se f=愛液1
 
-[生徒Ａ/sta0008]「おちんちん……ビクビクしてる。えっと……こう？　これがいいの？」
+[Student B/stb0002]"Amazing... it seems to be really pleasant"
+
+[Student C/stc0002]"I feel it. It's lovely"
+
+[Al]"Ah... Ah! ...ooh"
+
+@se f=愛液1
+
+[Student A/sta0008]"The dick... it's scary. Er... this way? Is this okay?"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-　アルの悲鳴などやはり無視して、肉棒への愛撫を続行してくる。
+　Ignoring the scream of Al and so on, \nshe continue caressing the cock.
 
-　ぎこちない動きではあるけれど、肉茎を幾度も幾度も刺激してきた。
+　Although it is an awkward movement, \nhis dick was stimulated many time, \nover and over again
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ pitch=50
 
-[生徒Ａ/sta0009]「あ……これ……。おちんちんの先から汁が出てきた。これが先走り汁」
+[Student A/sta0009]"Oh... this...juice came out from the tip of the dick. \nThis is a pre-juice"
 
-[教員/kos0011]「そうです。それを使ってどうするか……分かりますね？」
+[Teacher/kos0011]"That's right. What to do with it... you remember?"
 
-[生徒Ａ/sta0010]「はい！　えっと……これを潤滑液にして……おちんちん全体をグッチュグッチュって……」
+[Student A/sta0010]"Yes! Er...using this as a \nlubricating liquid... for rubbing the whole dick"
+;;[生徒Ａ/sta0010]「はい！　えっと……これを潤滑液にして……おちんちん全体をグッチュグッチュって……」
 
 ;;SEグチュグチュ音
 @se f=愛液1
 
-　掌が粘液塗れになることも厭わず、肉棒を更に擦り上げて来る。グッチュグッチュグッチュという卑猥な音色が教室中に響き渡った。
+　Without minding at all she cover the palm in pre-cum, \nthen she start rubbing it against all the dick
+ An obscene tone echoed through the classroom
 
-[生徒Ａ/sta0011]「これ……どんどん先っぽが膨らんでく。亀頭……パンパン。もう出したいって感じ」
+[Student A/sta0011]"This... the tip quickly bulges. \nGlans... is filling. I feel like he is comming already"
 
-[教員/kos0012]「そうですね。ですから、しっかり搾り取ってあげなさい」
+[Teacher/kos0012]"I agree. So, squeeze it tightly"
 
-[生徒Ａ/sta0012]「分かりました。えっと……こうかな？ こうやって……ぐっちゅぐっちゅ……んっふ……んっんっんっんっんっ！」
+[Student A/sta0012]"Understood. Er... is that it? \nDoing this...it's sloppy... a lot...uhnnnn!"
+;;「分かりました。えっと……こうかな？ こうやって……ぐっちゅぐっちゅ……んっふ……んっんっんっんっんっ！」
 
 @se f=パイズリ・手コキ２ pitch=50
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=120
 
-　手淫が激しさを増す。肉茎がより強く握られ、圧迫されてしまう。
+　Handjob's finesse increases. \nThe dick is more strongly grasped and pressed on
 
-[生徒Ａ/sta0013]「出して。ほら……出して♪」
+[Student A/sta0013]"Let it out. Here... let it out♪"
 
 @se f=パイズリ・手コキ２ pitch=50
 @qk
 
-　大勢に見られながらの射精なんて恥ずかし過ぎるからしたくない。でも、そんな想いだけで絶頂感を抑えられるはずなどなく――
+　(I don't want to ejaculate while being seen \nby a crowd because it's too embarassing!)
+ However, with such emotion alone \nhe couldn't suppress the feeling
 
 ;;SE射精音
 ;;射精エフェクト
@@ -148,41 +152,42 @@
 @bgv
 @fin bg=ev02b se=射精音
 
-[生徒Ａ/sta0014]「ああっ！　んふううううっ」
+[Student A/sta0014]"Ahh! Aaaaaah!"
 
 @se f=愛液1
 
-　ビュルビュルと白濁液を撃ち放った。
+　A bucket of semen squirt out
 
-[生徒Ａ/sta0015]「ああ……スゴイ。これ……すっごい量。はぁああ……こんなに……精液ってこんなにビュルビュル出るものなんだ」
+[Student A/sta0015]"Oh ... it's amazing. This... a tremendous amount. \nHaaa... so much... so much semen comes out"
 
-[生徒Ａ/sta0016]「はぁああ……私の手……精液でぐっちゃぐっちゃ……凄くイヤらしい……」
+[Student A/sta0016]"Haha...my hand... it's slopped in semen... \nIt seems unpleasant..."
 
-[生徒Ｃ/stc0003]「匂い……スゴイ」
+[Student C/stc0003]"It smell... great"
 
-[生徒Ｂ/stb0003]「こんなの見てるだけで興奮しちゃう♪」
+[Student B/stb0003]"I get excited just by looking at this ♪"
 
 @se f=愛液1
 
-　向けられる視線に対し、ただ肢体をビクつかせることしかできなかった。
+　Against the gaze aimed at him, \nhe was only able to bend the limbs
 
-[教員/kos0013]「ふふ、良くできました」
+[Teacher/kos0013]"Hehe, You was able to do it well"
 
-[生徒Ａ/sta0017]「はい。ありがとうございます」
+[Student A/sta0017]"Yes! Thank you!"
 
-[教員/kos0014]「それじゃあ……次は誰がやりますか？」
+[Teacher/kos0014]"Well then... who will do next?"
 
-[生徒Ｂ/stb0004]「は～い！　あたしあたし！　次はあたしがやります！！」
+[Student B/stb0004]"Yes! Me! I will do the next!!"
 
-[教員/kos0015]「いいでしょう」
+[Teacher/kos0015]"Good"
 
-[生徒Ｂ/stb0005]「よっしゃ！」
+[Student B/stb0005]"Yeee!"
 
-[生徒Ｂ/stb0006]「たっぷり気持ち良くしてやるからね♪」
+[Student B/stb0006]"I'll make you feel good pleasantly ♪"
 
-　必死に懇願したが意味など無く――
+　He was desperately start to begging but without result
+;;　必死に懇願したが意味など無く――
 
-[生徒Ｂ/stb0007]「いただきま～す♪」
+[Student B/stb0007]"Itadakimasu ♪"
 
 @se f=愛液1
 @bgv f=fera_stb1
@@ -190,96 +195,120 @@
 ;;CG02c
 @bgf bg=ev02c t=500
 
-[生徒Ｂ/stb0008]「うっも……もむううっ」
+[Student B/stb0008]"Uhm... mmmm"
+;;「うっも……もむううっ」
 
-　パクッと肉棒を咥え込まれてしまった。
-
-@se f=愛液1
-
-　射精したばかりで肉体はどうしようもないほどに敏感になってしまっている。自然と悲鳴を漏れ出た。
-
-[生徒Ｂ/stb0009]「んふうう……くひの中れちんぽがビクビクしてりゅ……んはぁああ……これ……せーえきくしゃい。それにちょっと……苦い」
-
-[生徒Ｂ/stb0010]「れも……この苦味が堪らない……。はふうう……もっと……もっともっと……味わわしぇてもらうかりゃな……んふふふ」
+　She got caught in his cock
 
 @se f=愛液1
 
-　悶えるアルを上目遣いで見つめつつ、生徒は笑うと、キュウウッと強く口唇で肉茎を挟み込んできた。
+　Al just ejaculate and his body was became so sensitive \nas to nothing. Moans and screams leaked out
+
+[Student B/stb0009]"Nff... I has worryed touching your dick... aahaaah... \nbut this is... sexy. And a bit... bitter"
+;;「んふうう……くひの中れちんぽがビクビクしてりゅ……んはぁああ……これ……せーえきくしゃい。それにちょっと……苦い」
+
+[Student B/stb0010]"But... this bitterness is unbearable. \nAaahh... more... more... more... \nLet's taste it... Hummhuu"
+;;「れも……この苦味が堪らない……。はふうう……もっと……もっともっと……味わわしぇてもらうかりゃな……んふふふ」
+
+@se f=愛液1
+
+　While staying on the top of Al aggressivly, \nthe students laughed while she caught the dick \nstrongly cover with cum on her lips.
 
 ;;CG02d
 @bgv f=fera_stb2
 @bgf bg=ev02d t=500
 
-[生徒Ｂ/stb0011]「こうひゃってしめつけにゃがら……んっじゅ……ちゅっぼ！　んじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ……んじゅぼぉおお」
+;;Need Review
+[Student B/stb0011]"I will tighten it like this... uhm...tightly! \nんじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ……んじゅぼぉおお"
+;;「こうひゃってしめつけにゃがら……んっじゅ……ちゅっぼ！　んじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ……んじゅぼぉおお」
 
 @se f=愛液1
 
-　顔を前後に振り始める。口腔全体を使ってペニスを扱き始めてきた。
+　She start swinging the face forward and backward, \nshe used the oral cavity to treat his dick
 
-[生徒Ｂ/stb0012]「こうひゃって……ちんぽ扱かれりゅのがいいんらったよね？」
+[Student B/stb0012]"It's like this... \nit's how dealt with by the dick, isn't it?"
 
-[教員/kos0016]「そうです。でも、ただ扱くだけでは駄目ですよ。折角口でしているのでうから、ジュルジュルと吸引するのも忘れてはいけません」
+;;Need Review
+[Teacher/kos0016]"Yeah, but it's useless to just treat it. \nBecause it's much pain doing in the mouth, \nジュルジュルと吸引するのも忘れてはいけません"
+;;「そうです。でも、ただ扱くだけでは駄目ですよ。折角口でしているのでうから、ジュルジュルと吸引するのも忘れてはいけません」
 
-[生徒Ｂ/stb0013]「吸引……？　こふれふか？」
-
-@se f=愛液1
-
-[生徒Ｂ/stb0014]「ふじゅっ！　んじゅずず！　ちゅっず……ずちゅるるるぅ」
-
-　口唇を使って肉茎を扱きつつ、下品な音色が響いてしまうことも厭わず、頬を窄めて肉棒を啜ってくる。
+;;Need Review
+[Student B/stb0013]"Suck...? Overflowing?"
+;;「吸引……？　こふれふか？」
 
 @se f=愛液1
 
-　精液を吸い出されてしまいそうな程強烈な吸引――抵抗などできるはずがなく、狂ったように身悶える。
+;;Need Review
+[Student B/stb0014]"ふじゅっ！　んじゅずず！　ちゅっず……ずちゅるるるぅ"
+;;「ふじゅっ！　んじゅずず！　ちゅっず……ずちゅるるるぅ」
 
-[アル]「こんな……こんなの……またっ！　ぁああああっ！」
-
-[生徒Ｂ/stb0015]「れりゅの？　いいひょ……らひて……ほりゃ……あらひに飲ましぇて……ちゅっずろ……んじゅろ……ちゅずるるるぅ」
+　While treating the dick with her lips, \nshe didn't mind echoing vulgar sound, \npushing the cheeks and pounding the dick.
+;;口唇を使って肉茎を扱きつつ、下品な音色が響いてしまうことも厭わず、頬を窄めて肉棒を啜ってくる。
 
 @se f=愛液1
 
-　ビクンッと全身が跳ねるように震えた。
+　A vigorous suction seems to sucked out sperm
+ There is no way Al can resist, she was aggressive like crazy
+;;精液を吸い出されてしまいそうな程強烈な吸引――抵抗などできるはずがなく、狂ったように身悶える。
+
+[Al]"Comming... I'm comming...again! aaAAHhh!"
+
+;;Need Review
+[Student B/stb0015]"Already? Nice... I'll... dry it... \nhurry up and let me drink... so much... \nんじゅろ……ちゅずるるるぅ"
+;;「れりゅの？　いいひょ……らひて……ほりゃ……あらひに飲ましぇて……ちゅっずろ……んじゅろ……ちゅずるるるぅ」
+
+@se f=愛液1
+
+　Al trembled as if his whole body bounced.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG02e
 @fin bg=ev02e se=射精音
 
-　肉先から白濁液が溢れ出す。
+　Semen overflows from his dick
 
 @se f=愛液1
 
-[生徒Ｂ/stb0016]「むっふ……んっんっんっ……くふううっ！　はっふ……んふううっ」
+;;Need Review
+[Student B/stb0016]"むっふ……んっんっんっ……くふううっ！　はっふ……んふううっ"
+;;「むっふ……んっんっんっ……くふううっ！　はっふ……んふううっ」
 
-[生徒Ｂ/stb0017]「ちゅっずろ……んじゅずず……ちゅずるるるぅ……んっんっ……んんんっ！！」
-
-@se f=愛液1
-
-　突然の射精に驚いた様な表情を浮かべながらも、白濁液を啜ってくる。走る強烈な性感――快楽に抗うことなどできない。
-
-　吸われるがままに、ひたすら精液を撃ち放ち続けた。
-
-[生徒Ｂ/stb0018]「はっふ……んふぅうう……ふうっふうっ……はふううっ……」
+;;Need Review
+[Student B/stb0017]"So much... んじゅずず……ちゅずるるるぅ……んっんっ……んんんっ！！"
+;;「ちゅっずろ……んじゅずず……ちゅずるるるぅ……んっんっ……んんんっ！！」
+;;Second one spotted before
 
 @se f=愛液1
 
-[生徒Ｂ/stb0019]「しぇーえき……おいひい♪」
+　Even though Al was surprised at sudden ejaculation, he shot out tons of semen.
+ A strong sexual pleasure that Al can't resist to
 
-[アル]「あっ……あっ……はぁあああ……」
+ As Al was sucked, Al kept shooting the semen all the time
 
-　全身から力が抜けていく。
-
-　このまま眠ってしまいたくなる。
-
-　でも、そんなことは許されない。
+ ;;Need Review
+[Student B/stb0018]"はっふ……んふぅうう……ふうっふうっ……はふううっ……"
+;;「はっふ……んふぅうう……ふうっふうっ……はふううっ……」
 
 @se f=愛液1
 
-[教員/kos0017]「アルくん……とても気持ち良さそうですね。でも、気を抜いては駄目ですよ。まだまだ生徒は沢山いるんですからね」
+[Student B/stb0019]"Well... amazing ♪"
 
-[教員/kos0018]「泣き言は許しません♪」
+[Al]"Ah... Ah... Aaaaaaa"
 
-[アル]「あ……あっ……ぁあああああっ」
+ The power comes out of his whole body.
+
+ (I want to sleep like this)
+
+ But such a thing is not allowed.
+
+@se f=愛液1
+
+[Teacher/kos0017]"Al-kun... I know you feel very comfortable. \nBut be careful not to get over it. \nThere are still so many students"
+
+[Teacher/kos0018]"And you will not slack off ♪ "
+
+[Al]"Ah... Ah... Aaaaaaa"
 
 @fade type=out t=1000
 @rps
