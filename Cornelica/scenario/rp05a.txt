@@ -14,77 +14,77 @@
 
 @se f=衣擦れの音1
 
-[アル]「……？」
+[Al]"...?"
 
-[ヴェルナ/vrn0060]「ふむ……やっと目覚めたか」
+[Verna/vrn0060]"Hmf... Finally awake, are you."
 
-[アル]「あ……ヴェルナさん……？　あれ……え？」
+[Al]"Ah... Verna...?　What... huh?"
 
 @move f=ev05 x=0 y=0 w=100 h=100 opa=255 t=600 wt=1
 
 @se f=「ドクンッ」という心音
 @qk
 
-　そこで自分の身体が変わっていることに気がついた。
+　I noticed that something had changed about my body\ndown there.
 
-[ヴェルナ/vrn0061]「そうだな。なくなってるな……。いや、なくなってるどころじゃないぞ。代わりに……おまんこがついているなぁ」
+[Verna/vrn0061]"That's right. It's gone... No, it's not gone, per se.\nInstead... it's been replaced by a vagina, huh."
 
 @qk
 
-[アル]「……！？」
+[Al]"...!?"
 
-　乳房がある。肉棒があった場所には秘裂がある。秘裂からはピンク色の柔肉が覗き見えていた。明らかに男の身体とは違う。
+　I have breasts. Where my meat spear was, there's a secret\ngarden. I can see pink folds peeking out from within.\nIt's clearly different from a boy's.
 
-[ヴェルナ/vrn0062]「私のマジックアイテムを弄っただろ？　キミが触れたのは性反転の宝玉というアイテムだ。今のところ男にしか反応しないが……触れた男は女になるという優れものだ」
+[Verna/vrn0062]"You messed with my magic item, right? What you touched was\na gender-swap jewel. Right now it only responds to males\nbut... it turns males it touches into females."
 
-[アル]「あ……その……ごめんなさい」
+[Al]"Ah... Um... I'm sorry."
 
-[ヴェルナ/vrn0063]「ふふ、キミはしっかり謝れるいい子だな。まぁ、別に謝る必要はないがね。というか、寧ろ私の方が礼を言いたいくらいだよ」
+[Verna/vrn0063]"Ehehe, you're a good properly apologetic kid.\nWell, there's no particular need to apologize.\nThat is to say, I would like to thank you instead."
 
-[アル]「……？」
+[Al]"...?"
 
-[ヴェルナ/vrn0064]「ふふ、キミのお陰で楽しめそうだからね」
+[Verna/vrn0064]"Fufu, since thanks to you it seems we'll be able to have\nsome fun, right."
 
-[アル]「え……？　あっ！？」
+[Al]"Eh...? Ah!?"
 
 @se f=愛液1
 @qk
 
-　自分だけではなくヴェルナまで秘部を剥き出しにしているという状況に戸惑う。しかも、今にも秘部と秘部が密着してしまいそうな距離だ。
+　Perplexingly, not only my own, but even Verna's secret\nplace was exposed. Moreover, our secret places seem like\nthey could be touching.
 
-[ヴェルナ/vrn0065]「……今からね、女同士のセックスを楽しもうと考えているよ」
+[Verna/vrn0065]"... Because now, I'm thinking we'll enjoy sex between\ntwo girls you know."
 
-[アル]「え……。その、……やめて、欲しいです……？」
+[Al]"Eh... Uh... could you, stop...?"
 
-[ヴェルナ/vrn0066]「悪いがそれはできないな」
+[Verna/vrn0066]"Sorry, but I can't."
 
-[ヴェルナ/vrn0067]「私は一度したいと思ったことは必ずやり遂げる性格だからね。ああ……それに、これはキミの為でもある」
+[Verna/vrn0067]"I've thought I wanted to do it once, and\nI'm the type to see things through. Aah... and besides,\nthis is for your sake too."
 
-[アル]「……？」
+[Al]"...?"
 
-[ヴェルナ/vrn0068]「性反転の宝形の効果を解くには、反転した身体で、女同士でセックスをして絶頂しないといけないんだよ。ちなみに、自慰では駄目なんだ」
+[Verna/vrn0068]"To reverse the effects of the gender-swap jewel,\nyour swapped body needs to climax by having sex between\ngirls. By the way, masturbation won't work."
 
-[ヴェルナ/vrn0069]「他者と身体を重ねなければ、元の性に戻ることはできない。だから……これはキミの為なんだ」
+[Verna/vrn0069]"If you don't entwine your body with another's, you can't\ngo back to your original gender. So... this benefits you."
 
-[ヴェルナ/vrn0070]「それでもイヤかな？　それならそれで構わないが……もしかして、キミは一生その姿で過ごすつもりなのかな？」
+[Verna/vrn0070]"Do you still not want to? If so, I don't mind but...\nPerhaps, I wonder if you intend to stay in that form\nfor the rest of your life?"
 
-[ヴェルナ/vrn0071]（まぁ、本当は私が任意に解除しない限りそのままなんだがな……）
+[Verna/vrn0071](Well, the truth is it would last as long I didn't cancel it\nmyself, but I'll let him think that...)
 
-[アル]「それは……」
+[Al]"That's..."
 
-[ヴェルナ/vrn0072]「困るか？　なら……構わないね？」
+[Verna/vrn0072]"A problem for you?\nThen... you don't mind, right?"
 
-[アル]「分かり……ました……」
+[Al]"Al-... right..."
 
-[ヴェルナ/vrn0073]「ふふ……そう来なければな」
+[Verna/vrn0073]"Fufu... Or else, huh."
 
-[アル]「でもその…………痛くは……しないで……下さい……」
+[Al]"But uh...... please... don't... hurt me..."
 
-[ヴェルナ/vrn0074]「……………………」
+[Verna/vrn0074]"Ufufufu......"
 
-[アル]「…………？」
+[Al]"......?"
 
-[ヴェルナ/vrn0075]「いや……可愛いなと思ってな。ふふ、いいだろう。優しく……キミの身体に快感を刻み込んでやろう」
+[Verna/vrn0075]"I just thought... 'How cute'. Fufu, alright.\nI'll gently... imprint the pleasure into your body."
 
 ;;SEグチュッという音
 ;;CG05a
@@ -92,71 +92,71 @@
 @se f=愛液1
 @bgf bg=ev05a t=500
 
-[アル]「うっ」
+[Al]"Uun"
 
 @se f=愛液1 pitch=80
 
-　秘部と秘部が密着する。
+　Our secret places stick together.
 
-[ヴェルナ/vrn0076]「んっ、ふぅ……どうだ？　おまんこにおまんこでキスをされる気分は……」
+[Verna/vrn0076]"Nh, nnf... How is it?\nThe feeling of our pussies kissing..."
 
 @se f=愛液1
 
-　伝わってくる生温かさがなんだか心地いい。
+　The raw warmth being transmitted somehow feels good.
 
-[ヴェルナ/vrn0077]「だろう？　触れるだけでも気持ちがいい。それだけ女の身体とは敏感なんだ」
+[Verna/vrn0077]"Right? Just being touched feels good.\nThat's just how sensitive a woman's body is."
 
-[ヴェルナ/vrn0078]「だが、まだまだだ。もっと……そう……もっと気持ち良くしてやるからな」
+[Verna/vrn0078]"But, that's nothing yet.\nI'll... yes... I'll make it feel much better."
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ pitch=150
 @flash t=300
 
-[アル]「っ！　あっ……んっ！」
+[Al]"-! Ah-... n-!"
 
 @se f=愛液1
 
-　密着だけではない。ヴェルナは腰を振り始めた。アルの秘部を自身の秘部で刺激してくる。
+　They aren't just touching. Verna started swaying her hips,\nstimulating Al's secret place with her own.
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50 wt=0
 
-[ヴェルナ/vrn0079]「こうやって……んっ、ふぅ……はぁっ、はぁっ……まんこでまんこを擦る。いわゆる貝合わせというやつだな」
+[Verna/vrn0079]"Like this... nh, fuh... haa, hanh... rubbing your pussy\nwith mine. Is what's called tribadism."
 
-[ヴェルナ/vrn0080]「んっ、くぅう……んんっ……。ふふ、どうかな？　クリトリスでクリトリスを転がされる気分は……」
-
-@se f=愛液1 pitch=90
-
-[アル]「あっ……んっ！　あああ！」
+[Verna/vrn0080]"Hnh, unh... hnh... Fufu, how is it?\nThe feeling of my clitoris rolling against yours..."
 
 @se f=愛液1 pitch=90
 
-　少し腰を動かされただけだというのに、返事をする余裕なんか一瞬でなくなってしまった。
-
-[ヴェルナ/vrn0081]「少し動かれただけで……全身から力が……あふうう……抜けそうなくらい……んっ……感じてしまうだろ？」
+[Al]"Ah-... nnh-! Aaaah!"
 
 @se f=愛液1 pitch=90
 
-　ヴェルナの動きに合わせて秘部が疼いていく。
+　Even though she was only moving her hips a little,\nI can't afford a moment to reply.
+
+[Verna/vrn0081]"Just from this little movement... you're at the point...\nAhfu... where you feel your strength... nnh... has left\nyour whole body, right?"
+
+@se f=愛液1 pitch=90
+
+　Matching with Verna's movements, my secret place throbs.
 
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=90
 @se f=パイズリ・手コキ２ pitch=150
 
-[ヴェルナ/vrn0082]「ふふ……ほら、音まで聞こえ始めて来た。グチュッグチュってこの音……凄くイヤらしいとは思わないか？」
+[Verna/vrn0082]"Fufu ... listen, you can even hear it started\nmaking sounds. Don't you think that... "squelch squelch"\nnoise is incredibly lewd?"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0083]「愛液……もっと露骨な言い方をすればまん汁の音だ。キミのまんこがグショグショに濡れているという証拠だよ。もちろん……私もね」
+[Verna/vrn0083]"It's the secretions... more bluntly it's the sound of\nour pussy juice. Proof that your pussy is gushing wet.\nOf course... mine is, too."
 
-[ヴェルナ/vrn0084]「昂奮してしまうだろ？　それは私も同じだ。とても興奮している。まん汁とまん汁を混ぜ合わせていると思うと……それだけで達してしまいそうな程だ」
+[Verna/vrn0084]"You've gotten aroused right? Same for me.\nI'm very aroused. When I think of our pussy juice mixing...\njust that is enough that I feel I can reach climax."
 
 @se f=愛液1
 @flash t=300
 
-[アル]「……んっ……あぁっ！　なにっ……？　ぅうっ、ゾワゾワ、す、るっ……？」
+[Al]"... nh... Aa-!\nWha-...? uU-, I'm quiv-, eri-, ng...?"
 
-[ヴェルナ/vrn0085]「ふふ、そうか……ならばもっと激しく動こう。もっとキミのまんこを私のまんこで刺激してやるぞ……」
+[Verna/vrn0085]"Fufufu, I see... Then I'll move more intensely.\nI'll stimulate your pussy even more with mine..."
 
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=90
@@ -165,69 +165,69 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75 wt=0
 
-　より強く腰を押し当ててくる。愛液に愛液を混ぜ合わせるように、淫靡に腰をうねらせてきた。
+　She pushes her hips into mine more strongly. To mix our\nlove juices together, she was rolling her hips obscenely.
 
-[アル]「んああっ！　うっああぁ！　激、しいっ！」
+[Al]"nAaah! Uuaah! So-, hard!"
 
-[ヴェルナ/vrn0086]「ほら……イキたいならイケばいい。私にキミがイクところを見せてくれ」
+[Verna/vrn0086]"Hey... if you want to cum, you can go ahead.\nShow me what it's like when you cum."
 
 ;;SEグチュグチュ音
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-　慣れていないせいか実にぎこちない。ただ、それでも――
+　It's feels really awkward, maybe because I'm not\nused to it. But, even still―
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100 wt=0
 
 @se f=愛液1
 
-[ヴェルナ/vrn0087]「ああっ！　そう……そうだ！　それだ！　んんん！　まんこが強く押しつけられる。クリトリスが潰されてしまいそうだ」
+[Verna/vrn0087]"Aaah! Yes... yes! That's it! Nnnn!\nMy pussy is being squished. It's feels like my clitoris\nwill be crushed."
 
-　ヴェルナは心地良さそうに喘いでくれた。
+　Verna gasped from the pleasure.
 
 @se f=愛液1
 
-　ヴェルナの喘ぎに後押しされるように、熱いものがこみ上げてくる。
+　As if bolstered by Verna's gasps, hot liquid welled up.
 
-[ヴェルナ/vrn0088]「その感覚に身を任せろ。私も……あっあっ……イクっ！　イクから……さぁ……一緒……あああ……一緒に！」
+[Verna/vrn0088]"Entrust your body to that feeling.\nI'm gonna... Ahah... cum, too! I'll come... so...\ntogeth-... Aaah... together!"
 
-[アル]「んっ、うぅ、あっ、うぁっ……あっ、あぁああっ！」
+[Al]"Nnh, uuh, ah, ua-... Ah, AaAah-!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-　絶頂感に全身が包み込まれる。
+　My whole body is wrapped in the feeling of climax.
 
 ;;SEブシュッという潮吹き音
 ;;絶頂エフェクト
 @fin se=潮吹き bg=ev05b
 
-[アル]「は……あはぁあああ！」
+[Al]"Hah... AhaaAaah!"
 
 @se f=愛液1
 
-　秘部から愛液をブシュウウッと飛ばし、絶頂に至った。
+　Love juice shot out from my secret place with a squirt,\nas I hit climax.
 
-[ヴェルナ/vrn0089]「イッく！　ああ……イクイクっ……イクぅううう！　あっあっ……んはぁあああ……」
+[Verna/vrn0089]"Cumming! Aah... I'm- I'm-... cumming!\nAh- Ah-... nHaAaah..."
 
-　同時にヴェルナも達する。
-
-@se f=愛液1
-
-　響き渡る愉悦の声。耳にしているだけで、なんだかとても心地良かった。
-
-[アル]「はぁ……はぁ……はぁ……ぁああ……」
-
-[ヴェルナ/vrn0090]「ふふ……最高だった。はぁああ……本当に気持ち良かったよ……」
+　At the same time Verna also reached climax.
 
 @se f=愛液1
 
-[アル]「はぁあああ……」
+　Her pleasured voice reverberated.\nJust hearing it somehow gave me a wonderful sensation.
 
-[ヴェルナ/vrn0091]「んふううう……」
+[Al]"Haa... haa. haa... aAah..."
+
+[Verna/vrn0090]"Fufu... that was the best. haaa...\nThat really felt great..."
+
+@se f=愛液1
+
+[Al]"Haaa..."
+
+[Verna/vrn0091]"nnFuhuuh..."
 
 @fade type=out t=1000 wt=1
 @rps
