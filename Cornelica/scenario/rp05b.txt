@@ -8,94 +8,94 @@
 @se f=淫唇を開く音
 @bgf bg=ev05 t=1000
 
-[ヴェルナ/vrn0092]「ふふ……君も懲りないな……それとも、また女の身体でしたくなったのかな？」
+[Verna/vrn0092]"Fufu... You don't learn do you...\nOr, did you want to do it with a woman's body again?"
 
 ;;CG05a
 @bgf bg=ev05a t=500
 
-[アル]「んあっ！」
+[Al]"nha-!"
 
-[ヴェルナ/vrn0093]「んふうう……」
+[Verna/vrn0093]"nFufu..."
 
 @se f=愛液1
 
-　秘部と秘部でキスをする。
+　Our secret places kiss.
 
 @se f=愛液1
 @qk
 
-[アル]「ぅあ……あああぁっ……！」
+[Al]"Uwa... Aaaah...!"
 
-　触れ合うだけで身体中が蕩けそうな程気持ちがいい。
+　Just from them touching my insides feel so good it seems\nlike they'll melt.
 
-[ヴェルナ/vrn0094]「凄い反応だな……だが……本番はここからだぞ？」
+[Verna/vrn0094]"What a great reaction...\nBut... the real thing starts now, you know?"
 
 ;;SEグチュグチュ音
 @se f=愛液1
 
-[アル]「んっ、ああ！？　うっ、ああぁあ……！」
+[Al]"nnh, Aah!? Uuh, AaaAh...!"
 
-[ヴェルナ/vrn0095]「はふう……んっふあ……くふうっ……。どうだ？　感じるだろ？」
+[Verna/vrn0095]"Haafuu... nnfua... kufuu...\nHow's that? You're feeling it, right?"
 
-[ヴェルナ/vrn0096]「ふふ……とても気持ちよさそうだな……だが、キミだけ気持ち良くなるなよ。私のことも……んんんっ……しっかり感じさせてくれ……腰を振ってな」
+[Verna/vrn0096]"Fufu... Looks like you're really loving it...\nBut, don't just get off on your own. For me, too...\nnnnh... make me feel it properly... move your hips."
 
-[アル]「ぅ……んんっ！」
+[Al]"O-... kay!"
 
-　喘ぎつつ、頷くと共に、アルも腰をくねらせ始める。
+　Panting, with a nod, Al began to wiggle her(?) hips too.
 
 ;;SEグチュグチュ音
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-[ヴェルナ/vrn0097]「んああっ！　それ……ああっ！　それ……いいぞ！　気持ちいい！　あっあっあっ……こんなの……私……簡単にイッてしまいそうだ」
+[Verna/vrn0097]"nnhaaa! That's-... Aaah! That's... good! It feels good!\nAh- ah- ah... With this... it seems... I'll cum easily."
 
 @se f=愛液1
 
-[アル]「ぅうっ……！　あぁあっ……！」
+[Al]"Uu...! AaAh...!"
 
-　余裕などない。
+　I can't find a place to respond.
 
-[ヴェルナ/vrn0098]「ふふ、いいだろう……さぁ、イクぞ！」
+[Verna/vrn0098]"Fufu, that's fine... Now, here we go!"
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ pitch=150
 
-[アル]「……っ！　あっ、うぁっ！　あぁあああ……！」
+[Al]"... -! Ah, uha! AaAaaah...!"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0099]「イク……イク……イクっ……」
+[Verna/vrn0099]"I'm... gonna... cum..."
 
 ;;SEグチュグチュ音
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-　無我夢中で腰を振り合った。
+ Feverishly, our hips swayed meeting each other.
 
 ;;SE■ブシュッという潮を吹く音
 ;;絶頂エフェクト
 @fin se=潮吹き bg=ev05b
 
-[ヴェルナ/vrn0100]「ッくぅうう！」
+[Verna/vrn0100]" -Cumming!"
 
-[アル]「………………っ！　ぅっ……くぅ……っ！」
-
-@se f=愛液1
-
-　二人同時に絶頂至る。
-
-[ヴェルナ/vrn0101]「あっは……んはぁあああ……」
-
-[ヴェルナ/vrn0102]「はぁっはぁっ……んはぁあああ……」
+[Al]"......... -! Cum-... ing...!"
 
 @se f=愛液1
 
-[アル]「ぅ……うううう……」
+　We arrived at climax at the same time.
+
+[Verna/vrn0101]"Aaha... nhaAaah..."
+
+[Verna/vrn0102]"Haahaa... nHaaaAah..."
 
 @se f=愛液1
 
-　グショグショになった秘部と秘部を密着させたまま、二人揃って歓喜の吐息を響かせた。
+[Al]"uh... Uuuuh..."
+
+@se f=愛液1
+
+　With our soaking secret places locked together,\nwe both let out a delighted sigh.
 
 @fade type=out t=1000 wt=1
 @rps
