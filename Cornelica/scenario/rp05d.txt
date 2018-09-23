@@ -8,81 +8,81 @@
 @se f=愛液1
 @bgf bg=ev05c t=1000
 
-[ヴェルナ/vrn0142]「ふふ……またここに来るとはな……またしたくなったのかな？」
+[Verna/vrn0142]"Fufu... To think you'd come here again...\nYou wanted to do it again, huh?"
 
-[アル]「ぅっ、ぁ……あぁ……」
-
-@se f=愛液1
-
-[ヴェルナ/vrn0143]「ふうっふうっふぅうう……」
-
-[ヴェルナ/vrn0144]「相変わらず逞しいペニスだ。欲しくて堪らなくなる」
+[Al]"uuh, ah... Aah..."
 
 @se f=愛液1
 
-[ヴェルナ/vrn0145]「ふふふ……では、行くぞ♪」
+[Verna/vrn0143]"Haaahaahaaaahfu..."
+
+[Verna/vrn0144]"Your penis is as rigid as ever.\nIt makes me want it so bad I can't bear it."
+
+@se f=愛液1
+
+[Verna/vrn0145]"Fufufu... Now, here we go. ♪"
 
 ;;SE挿入音
 ;;CG5d
 @se f=挿入音
 @bgf bg=ev05d t=500
 
-[ヴェルナ/vrn0146]「あっは……んはぁああ……あっあっ……深い。んんんっ……ペニス……奥まで届いているぞ」
+[Verna/vrn0146]"Aaaha... nhaaa... ah- ah- So deep.\nnnnnh... Your penis... is reaching my deepest part."
 
 @se f=愛液1
 
-[アル]「……っ！？　あぁっ、あぁあああ！」
+[Al]"... -!? Aaah, AaAaaah!"
 
-[ヴェルナ/vrn0147]「いい反応だな……。ふふ、だが、挿入だけで満足などするなよ。本番はここからだ」
+[Verna/vrn0147]"That's a nice reaction...\nFufu, But, don't be satisfied with just insertion.\nThe real thing starts now."
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[ヴェルナ/vrn0148]「くふぅう！　あっふあ……んふうう……あっあっあっ……はふぅうう……」
+[Verna/vrn0148]"Kufuu! Ahfuua... nfuuu... Ah- ah- ah... hafuuu..."
 
-[ヴェルナ/vrn0149]「ペニス……気持ち良さそうだな。私の動きに合わせて膣中で……激しく震えているのが分かるぞ」
+[Verna/vrn0149]"Seems like... your penis is feeling good.\nI feel it trembling violently in my vagina...\nmatching my movements."
 
-[ヴェルナ/vrn0150]「それに……腰を打ち付けるたび……んっく……あんん！　大きくなっている。亀頭が膨らんでいる！　あっあっあっ！」
+[Verna/vrn0150]"And... every time our hips hit... nnku... Aahn!\nIt gets bigger. The tip is bulging! Ah- ah- ah!"
 
-[ヴェルナ/vrn0151]「もう……んんんっ……すぐにでも……射精したい。あんん……精液……だ、出したいっていってるみたいだぞ」
+[Verna/vrn0151]"It... nnh... already wants to... ejaculate as soon\nas possible. ahn... It's ike... it's saying it wants\nto let out it's semen."
 
 @se f=愛液1
 
-[アル]「うぅぅうう！　も、もぅ……！」
+[Al]"Uuuuh! I'm-, already...!"
 
-[ヴェルナ/vrn0152]「そうか……ならば来い！　構わないから私の膣中に……注ぎ込め！」
+[Verna/vrn0152]"I see... then, come!\nI don't mind, so inside my vagina... pour it in!"
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[ヴェルナ/vrn0153]「あんっあんっあんっあんっ……あんんん！」
+[Verna/vrn0153]"Ah- ah- ahn-... Aaahahaa!"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0154]「来い！　ああ……来いっ！！」
+[Verna/vrn0154]"Come! Aah... Come!!"
 
-[アル]「ぁあああっ！！」
+[Al]"aAaah!!"
 
 ;;SE射精音
 ;;射精エフェクト
 @fin bg=ev05e se=射精音
 
-[ヴェルナ/vrn0155]「あっあっあっ……んっはぁあああ……」
+[Verna/vrn0155]"Ah- ah- ah... nhaAaaaah..."
 
-[ヴェルナ/vrn0156]「来てる……ほぉおお！　出てるぅ」
+[Verna/vrn0156]"It's coming... Haaooh! It's coming out."
 
 @se f=愛液1
 
-[アル]「あっ、ぅううう……」
+[Al]"Ah, uuuh..."
 
-[ヴェルナ/vrn0157]「んふふ……いい。とても……いいぞ。脳髄まで蕩けてしまいそうな程だ……」
+[Verna/vrn0157]"nfufu... Good. Really... good.\nSo good it seems like it will take over my mind..."
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-[ヴェルナ/vrn0158]「しかし、まだだ。もっとだ！　もっと……射精してくれ！　注ぎ込んでくれ！」
+[Verna/vrn0158]"However, we're not done yet.\nMore! Ejaculate... more for me! Pour it in me!"
 
 ;;SEピストン音
 
@@ -91,19 +91,19 @@
 ;;CG5e
 @fin bg=ev05f se=射精音
 
-[ヴェルナ/vrn0159]「ああ……また来た！　また……」
+[Verna/vrn0159]"Aah... It came again! Again..."
 
-[ヴェルナ/vrn0160]「い……イクっ！　イクぅううう！」
+[Verna/vrn0160]"Cu-... Cumming! I'm cumming!"
 
-[ヴェルナ/vrn0161]「んっは……はふぁあああ！」
+[Verna/vrn0161]"nHah... Hafuaaah!"
 
 @se f=愛液1
 
-[アル]「……っ！　ぅ、あぁっっ！」
+[Al]"...-! u, Aaah!"
 
-[ヴェルナ/vrn0162]「あっは……はぁっはぁっはぁっ……」
+[Verna/vrn0162]"AaHa... Haahaahaah..."
 
-[ヴェルナ/vrn0163]「最高。やはり……最高だったぞ」
+[Verna/vrn0163]"The best. That was... just the best."
 
 @fade type=out t=1000 wt=1
 @rps
