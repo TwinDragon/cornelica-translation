@@ -14,166 +14,166 @@
 
 @se f=衣擦れの音1
 
-[アル]「…………？」
+[Al]"......?"
 
-[ヴェルナ/vrn0103]「ようやく意識を取り戻したか。それにしてもギリギリだったな」
+[Verna/vrn0103]"You've regained consciousness at last.\nBut even still, that was close."
 
-[アル]「え……？」
+[Al]"Eh..?"
 
-[ヴェルナ/vrn0104]「キミとのエッチが待ちきれなくてな。もう始めてしまおうと思っていたんだよ」
+[Verna/vrn0104]"I could hardly wait to have sex with you.\nI was thinking I should just start already, you know."
 
-[アル]「……え！？　あっ……えぇ！？」
+[Al]"... Huh!? Ah... Eeh!?"
 
 @move f=ev05 x=0 y=0 w=100 h=100 opa=255 t=600 wt=1
 
 @se f=「ドクンッ」という心音
 @qk
 
-[ヴェルナ/vrn0105]「どうした？　そんなに驚いて……女体化なら一度経験してるだろう？」
+[Verna/vrn0105]"What's wrong?\nTo be that surprised... at becoming a female,\nyou've experienced it already, right?"
 
-[アル]「で、でも……これ……」
+[Al]"B-, but... this..."
 
-[ヴェルナ/vrn0106]「ふふ、改良した女体化装置の新機能だ。単純な女体化ではなく、ふたなり状態に変えることができるんだよ」
+[Verna/vrn0106]"Fufu, it's a new function of the improved\nfeminization device. Not just a simple feminization,\nbut you're able to change to a futanari body, you know."
 
-[アル]「……？」
+[Al]"...?"
 
-[ヴェルナ/vrn0107]「男と女……両方の快感を味わうことができるんだ。なかなか興味深いだろ？」
+[Verna/vrn0107]"Man and woman... to the be able to experience the pleasure\nof both. Quite interesting, isn't it?"
 
-[アル]「えっと……？」
+[Al]"Umm...?"
 
-[ヴェルナ/vrn0108]「ふふ、この状況に困惑しているようだな。だが、体は期待しているみたいだぞ？」
+[Verna/vrn0108]"Fufu, you look confused by this situtation.\nBut, it seems your body is anticipating it, right?"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0109]「ペニスが素晴らしいほどに膨張しているぞ。まだ何もしていないというのに、今にも射精しそうだな」
+[Verna/vrn0109]"Your penis is wonderfully erect.\nEven though I haven't done anything yet,\nit's like it could ejaculate already."
 
-[アル]「あっ……やっ！」
+[Al]"Ah... No-!"
 
-[ヴェルナ/vrn0110]「ふふ……そう恥ずかしがるな。この状況で興奮するなという方がおかしいのだからな。実際、私は興奮している」
+[Verna/vrn0110]"Fufu... Don't be so embarrassed.\nIt would be strange not to be aroused in this situation.\nIn fact, I'm turned on, too."
 
-[ヴェルナ/vrn0111]「ほら、分かるか？　私のまんこがグショグショに濡れているのが……」
+[Verna/vrn0111]"See, can you tell? My pussy is soaking wet, though..."
 
 ;;SEグチュグチュ音
 @se f=愛液1
 
-[ヴェルナ/vrn0112]「んっふ……はふっ……んふうっ……あっあっ……はぁああああ……」
+[Verna/vrn0112]"nnf... hafuu... nfuu... ah- ah... haaaa..."
 
-[ヴェルナ/vrn0113]「興奮しすぎているせいでまんこ……いつも以上に敏感になってしまっている様だ。んっふ……あっふぅうう……」
-
-@se f=愛液1
-
-[ヴェルナ/vrn0114]「少し腰を振っただけで、声が漏れてしまう程だぞ。疼きも……あっは……んはぁああ……凄いことになっている」
-
-[ヴェルナ/vrn0115]「ジンジンする……。早くペニスが欲しいとまんこが訴えているみたいだ」
-
-[アル]「うぅう……」
+[Verna/vrn0113]"Because I'm so aroused, my pussy... seems to have gotten\neven more sensitive than usual. nnfu... aahfuu..."
 
 @se f=愛液1
 
-[ヴェルナ/vrn0116]「ふふ……では、始めるぞ。キミのふたなりペニス……たっぷり味わわせてもらう」
+[Verna/vrn0114]"So much that just by moving my hips a bit,\nmy voice leaks out.\nIt's... aaha... nhaAaah... throbbing quite a bit too."
+
+[Verna/vrn0115]"It's almost painful...\nMy pussy seems to be begging that it wants a penis\nright away."
+
+[Al]"Uuuuh..."
+
+@se f=愛液1
+
+[Verna/vrn0116]"Fufu... Now then, let's start.\nAllow to fully savor your futanari penis."
 
 ;;CG05d
 @se f=挿入音
 @bgf bg=ev05d t=500
 
-[ヴェルナ/vrn0117]「んっ、ふぅ……んふ、あっ……あっあっ……はぁああああ……」
+[Verna/vrn0117]"nnnh, fuh... nnfu, Ah-... ah- ah-... HaaAaaah..."
 
-[ヴェルナ/vrn0118]「ああ……来ている。ペニスが奥まで……はっふ……んっ、ふっ、はぁあああ……」
+[Verna/vrn0118]"Aah... It's coming.\nYour penis came all the way in.... hafu... nh, fu, haaa..."
 
-[ヴェルナ/vrn0119]「なかなか……大きいぞ。私の中が……んっ……ペニスの形に変えられていくみたいだ」
-
-@se f=愛液1
-
-[ヴェルナ/vrn0120]「ふうう……この感覚……すぐにでもイキそうなくらい、気持ちがいい♪」
-
-[アル]「んはぁっ、あぁっ……！」
-
-[ヴェルナ/vrn0121]「んっ……私の膣中でビクビクペニスが震えているのが分かるぞ。すぐにでも出したいと訴えて来ているみたいだ」
+[Verna/vrn0119]"It's... pretty big. My insides... nh...\nfeel like their changing to the shape of your penis."
 
 @se f=愛液1
 
-[ヴェルナ/vrn0122]「だが、少し……ああっ……少しだけ我慢だ。射精するのは……んっふ……はふうう……ふうっふうっふぅうう……もう少し……気持ち良くなってからだぞ」
+[Verna/vrn0120]"fuu... This sensation... feels so good, it seems I'll cum\nsoon. ♪"
+
+[Al]"nhaah, Aaah...!"
+
+[Verna/vrn0121]"nh-... I can feel your twitching penis trembling in my\nvagina. It's like it's come begging that it wants to cum\nas soon as possible."
+
+@se f=愛液1
+
+[Verna/vrn0122]"But, for a bit... Aaah... endure for a bit.\nEjaculating is-... nnfu... hafuu... fuuhfuu...\na little longer... and you'll feel better, you know."
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[ヴェルナ/vrn0123]「あっあっあっあっ……んぁあああ！」
+[Verna/vrn0123]"Aha- Ah- ah-... naAaaAah!"
 
-[アル]「うっ、あっ……あぁっ！　ああああっ！？」
+[Al]"Uuh, Ah... Aah! Aaaaah!?"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0124]「ふっ、くうう！　気持ち良すぎて……んっ、あぁっ……喘ぎを抑えられない……みたいだな……？」
+[Verna/vrn0124]"Fu, kuu! It feels so good... nh, Aah... that you can't\nsupress... your gasps, huh...?"
 
-[ヴェルナ/vrn0125]「私も……んぅっ……腰を……んふうう……振るたびに大きくなるペニスが……あんん！　い……いい！　いいぞ！　最高に気持ちがいい！」
+[Verna/vrn0125]"Me, too... ahn... every... nffuu... time I move my hips,\nyour penis getting bigger... Aahn! is g-... good!\nIt's good! It feels the best!"
 
-[ヴェルナ/vrn0126]「あっは……んはぁああ……出して欲しい。精液を沢山流し込んで欲しいと思ってしまう」
+[Verna/vrn0126]"Aaaha... nhaah... I want you to cum. I'm thinking\nI want you to pour lots of your semen into me."
 
-[ヴェルナ/vrn0127]「あっふ……んふうう！　あんっあんっ……あんんんっ！」
+[Verna/vrn0127]"Affu... nffuuu! Ahn- ahn-... Aaaahmm!"
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[アル]「はぁああ！　あっあっあっ！」
+[Al]"Haaah! Ah- ah- ah-!"
 
-[ヴェルナ/vrn0128]「んっふぅうう！　あふんっ！ ふうっふうっ……んふうううう！」
+[Verna/vrn0128]"nffuuuh! Ahfun! Fuufuu... nfuuuhu!"
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG05e
 @fin bg=ev05e se=射精音
 
-[ヴェルナ/vrn0129]「あううう！　来た……精液……熱いのきたっ！　んっく……あふううう！」
+[Verna/vrn0129]"Ahuuu! It's here... your semen...\nyour hot stuff came! nnkuu... affuuu!"
 
-[ヴェルナ/vrn0130]「染みる。まんこに熱いの……き……気持ちいい！　あっあっ……はぁあああ……」
+[Verna/vrn0130]"It's permeating. Your hot stuff in my pussy... fe-...\nfeels good! Ah- ah... haaaaa..."
 
-[ヴェルナ/vrn0131]「これ……イクっ！　膣中出しで……イクっ！　んっく……あんんんんっ！」
+[Verna/vrn0131]"This is... I'll cum! \nFrom my vagina being cummed inside... I'll cum!\nnnku... Ahnnnn!"
 
 @se f=愛液1
 
-[アル]「あああ…………あぁ……うぅ……あぁ……」
+[Al]"Aaah...... Aah... uuh... Ah..."
 
-[ヴェルナ/vrn0132]「んっ……んはぁああ……最高に……んふうう……キミのペニスで感じている！　あっは……んはぁああ……」
+[Verna/vrn0132]"Nh... nhaaah... I'm feeling... your penis to the fullest!\nAhha... nhaaaa..."
 
-[ヴェルナ/vrn0133]「だが、まだだ。もっとだ。んふうう……もっと流し込んでくれ。もっと精液を……私のまんこに！」
+[Verna/vrn0133]"But, not yet. More. nffuu... Pour in more.\nMore of your semen... into my pussy!"
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-[アル]「あっぐぅ！？　だっ……あぅうあ！？」
+[Al]"Ahguh!? I-... Ahuaah!?"
 
 @se f=愛液1
 
-[ヴェルナ/vrn0134]「んふうう……またすぐ……あっあっ……だ……出して……射精してしまいそうになって……しまうか？」
+[Verna/vrn0134]"nfuu... Are you... ah- ah... go-... gonna cum...\ngoing to ejaculate... again, soon?"
 
-[ヴェルナ/vrn0135]「私は……んっ、ふうう……構わないぞ。いや、寧ろ……出して欲しいと思っている。だから……ああ……だからぁあ！」
+[Verna/vrn0135]"I... nnh, fuu... I don't mind. No, rather...\nI'm thinking I want you to cum. So-... Aah,,, Soooo-!"
 
-[ヴェルナ/vrn0136]「出してくれ……んんん！　流し込んでくれ！　キミの……おふぅうう……せ……精液を……ビュルビュルってぇえ！」
+[Verna/vrn0136]"Let it out... nnnh! Pour it in!\nYour... ohfuuu... se-...semen... spurt it iiin!
 
 @se f=愛液1
 
-[アル]「ううう！　出る！　おっおっおっ！　また……出る！　出るぅうう！」
+[Al]"Uuh! Cumming! Oh- oh- oh!\nI'm cumming.... again! Cummingggg!"
 
 ;;SE射精音
 ;;CG05f
 @fin bg=ev05f se=射精音
 
-[ヴェルナ/vrn0137]「んっは……来たっ！　来たぁああ！　また……あああ……い……イクっ！　私も……これ……またっ！　あっあっあっ――」
+[Verna/vrn0137]"nnha... It's here! It caaame!\nGonna... Aaah... c-... cum, again!\nMe, too... this... again! Ah- ah- ahhhh-"
 
-[ヴェルナ/vrn0138]「んぁああああっ！！」
+[Verna/vrn0138]"NnhaaAaaAh!!"
 
-[ヴェルナ/vrn0139]「はぁっはぁっはぁっ……」
+[Verna/vrn0139]"Haa haaa haaa haaAah..."
 
 @se f=愛液1
 
-[アル]「ぁぅ……ぅぅ……ぁぁ……」
+[Al]"Auh... uuh... aah..."
 
-[ヴェルナ/vrn0140]「はぁああ……おまんこ……精液でタプタプだ……んふふ、最高だったぞ♪」
+[Verna/vrn0140]"Haaah... My pussy... dripping with semen... nfufu, That was the best. ♪"
 
-[ヴェルナ/vrn0141]「はぁああああ……」
+[Verna/vrn0141]"HaaAaaah..."
 
 @fade type=out t=1000 wt=1
 @rps
