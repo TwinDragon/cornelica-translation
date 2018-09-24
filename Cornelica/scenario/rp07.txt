@@ -6,84 +6,84 @@
 
 @bgf bg=ev07 t=1000 wt=1
 
-[アル]「あ……あ？」
+[Al]"Ah... Ah?"
 
-[白良/hkr0001]「ふふ……目が覚めたみたいですね」
+[Hakura/hkr0001]"Fufufu... It seems you're awake."
 
-[白良/hkr0002]「くすくす……今までのような『白良さん』という呼び方は、他人行儀ですので……。ですから私のことは……ママと呼んで下さい」
+[Hakura/hkr0002]"Ehehe... What you've been calling me up to now,\n'Hakura-san', is too unfamiliar...\n So, please... call me 'Mama'."
 
-[アル]「……マ……マ？」
+[Al]"...Ma-... ma?"
 
-[白良/hkr0003]「ふふ、そうですよ」
+[Hakura/hkr0003]"Fufu, that's right."
 
-[白良/hkr0004]「貴方はただ、ママに身をゆだねてくれればいいんです。ママに甘えてくれる、いい子でいてくれれば」
+[Hakura/hkr0004]"You can entrust yourself to Mama. Mama will spoil you,\nif you're a good boy."
 
-[白良/hkr0005]「……大丈夫、とっても気持ち良くなれます……。今よりも、もっともっと……だから、ね？」
+[Hakura/hkr0005]"It's all right, I'll make you feel very good...\nEven better than now, more and more... so, okay?"
 
-[アル]「ぁ……う……」
+[Al]"ah... Uh..."
 
-[白良/hkr0006]「ふふ……ママは大好きですよ。そういう、いい子にはご褒美を上げます」
+[Hakura/hkr0006]"Fufu... Mama loooves you, you know.\nThat said, I'll give my good boy a reward."
 
-[白良/hkr0007]「……これがご褒美ですよ」
+[Hakura/hkr0007]"...This is your reward."
 
 ;;CG07a
 @se f=愛液1 pitch=80
 @bgv f=パイズリ・手コキ３ pitch=50
 @bgf bg=ev07a t=500 wt=0
 
-[アル]「ふ……ぁ……」
+[Al]"Fuh... ah..."
 
-[白良/hkr0008]「ふふふ……どうですか？　こうやって、おっぱいでおちんちんをシコシコと扱かれるのは。気持ちいいですか？　凄く……感じてしまいますか？」
+[Hakura/hkr0008]"Fufufu... How is it? Having your penis rubbed and squeezed\nby my boobs, like this. Does it feel good?\nAre you... getting an amazing feeling?"
 
 @se f=締め付ける pitch=120
 @se f=愛液1 pitch=80
 @qk
 
-[白良/hkr0009]「ギュッておっぱいで締められながら、ゆっくりゆっくり擦られる……。おちんちんがおっぱいの中に溶けてしまいそうでしょう？」
+[Hakura/hkr0009]"While tightly squeezed in my boobs, being rubbed slowly...\nYour penis feels like it will melt between my boobs,\nright?"
 
-[白良/hkr0010]「貴方の頭の中も、だんだんと『きもちいい』でいっぱいになっていっているようで何よりです」
+[Hakura/hkr0010]"The inside of your head too, is gradually being filled\nwith 'It feels good' more than anything else."
 
 @se f=愛液1 pitch=80
 
-[アル]「い…………いい……よぉ……」
+[Al]"It-...... 's goo-...d..."
 
-[白良/hkr0011]「うふふ、全身がビクビク震えてて、とっても可愛いです。それにおちんちんも、おっぱいの中で跳ね回ってる。気持ちいいって全身で訴えているみたい……」
+[Hakura/hkr0011]"Ufufu, The way your whole body is trembling is very cute.\nAnd your penis, is twitching between my boobs.\nIt's like your whole body is telling me it likes it..."
 
 @se f=愛液1
 
-[白良/hkr0012]「こんな反応されたら……ママ堪らないです……。はぁっ、ふぅっ……ふふ、興奮してしまいます」
+[Hakura/hkr0012]"When I get this reaction... Mama can't get enough...\nHaah, fhuu... Fufu, It gets her aroused."
 
-[白良/hkr0013]「身体がどんどん熱くなってきて……。はふぅ……疼いてきちゃいます」
+[Hakura/hkr0013]"My body is starting to get hot... hafuu...\nIt's throbbing."
 
-[白良/hkr0014]「ふふふ。これからは何にも心配することなんてないんですよ……。大丈夫、怖いことなんて何もなくなりますからね」
+[Hakura/hkr0014]"Fufufu. You don't need to worry about anything\nfrom now on... It'll be alright, beacuse all the scary\nthings will go away, okay."
 
-[白良/hkr0015]「何にも怖がらなくていいんです。だからママに全部ゆだねて……素直に、気持ちよくなってくれれば、だんだん……『いい子』になっていきますからね」
+[Hakura/hkr0015]"There's nothing to fear. So leave everything to Mama...\nIf you're obedient, you'll feel good, more and more...\nbecause you'll be a 'good boy', okay."
 
-[白良/hkr0016]「だから……してほしいこと、素直に言ってくれていいんですよ」
+[Hakura/hkr0016]"So... you can tell me honestly, what you want me to do."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @qk
 
-[アル]「……ぅ……ぁ……」
+[Al]"... uh... ah..."
 
-[白良/hkr0017]「ふふふ……大丈夫です。声が出なくなっても……私なら貴方の心を覗くことができます。」
+[Hakura/hkr0017]"Fufufu... It's alright. Even if your won't come out...\nI can see what's in your heart."
 
-[白良/hkr0017a]「貴方には、もう声も必要ないのです……わたくしだけが、貴方の『声』をわかってあげられればよいのですから」
+[Hakura/hkr0017a]"You don't need your voice anymore... Because you can\nlet me be the only one who comprehends your 'voice'."
 
-[白良/hkr0018]「貴方が、このおっぱいにもっときつく締めつけられたいこともわかっています。おちんちんが潰れちゃいそうなくらい強く……おっぱいで、あやしてあげます」
+[Hakura/hkr0018]"I can even tell that you want to be squeezed tighter in\nmy boobs. So tightly that it feels like your penis will\nbe crushed... with my boobs, I'll pacify it."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[アル]「あっ……あっ……！」
+[Al]"Aah... Ah...!"
 
-[白良/hkr0019]「……膨らんでるの分かります……。ママのおっぱいの中でおちんちんが……。先っぽ……パンパンに……」
+[Hakura/hkr0019]"... I feel it bulging...\nYour penis between Mama's boobs...\nThe tip... at it biggest..."
 
-[白良/hkr0020]「……それに、凄く熱くなっています……火傷してしまいそう……貴方の熱気……ふふ……」
+[Hakura/hkr0020]"... And, it's getting incredibly hot... like it'll burn...\nfrom your enthusiasm... Fufu..."
 
 @se f=愛液1
 
@@ -91,47 +91,47 @@
 @bgv f=パイズリ・手コキ２ pitch=50
 @flash t=300 wt=0
 
-[白良/hkr0021]「ふふふ……グチュグチュってエッチな音、聞こえてきましたね。おちんちんからヌルヌルした汁が溢れてます」
+[Hakura/hkr0021]"Fufufu... I can hear a squelchy perverted sound.\nSome slimy liquid is leaking out of your penis."
 
 @se f=愛液1
 
-[白良/hkr0022]「こうしたら……どうですか？　ヌルヌルでさっきまでよりも……もっと早く擦って上げられますよ」
+[Hakura/hkr0022]"If I do it this way... how is it?\nIt's more slippery than before... so I can rub it faster."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[白良/hkr0023]「……我慢なんて、しなくていいんですよ？」
+[Hakura/hkr0023]"... There's no need, to hold back, you know?"
 
 @se f=愛液1
 
-[アル]「…………あ……や……」
+[Al]"..... Ah... N-..."
 
-[白良/hkr0024]「……可愛い子。心配することなんか何もありませんよ」
+[Hakura/hkr0024]"... Such a cute boy. There's nothing to worry about."
 
-[白良/hkr0024a]「おっぱいオムツにお漏らしなんて、『いつもの』こと……大丈夫ですから、お漏らししたってママは貴方を悪い子だなんて思いませんよ」
-
-@se f=愛液1
-
-[アル]「………ぇ……？」
-
-[白良/hkr0025]「ふふ……どうしました？　何か不思議なことでもありましたか？　『アルちゃん』はママがお腹を痛めて生んだ『子』だったでしょう？」
-
-[白良/hkr0026]「ママにくっついてないと泣いちゃうくらい寂しがり屋で、おっぱいオムツが大好きな、わたくしの子……そう、だったでしょう？……『アルちゃん』？」
+[Hakura/hkr0024a]"Leaking in my boob diaper, is a 'usual' thing...\nSo it's alright, Mama won't think you're a bad boy\nif you leak, you know."
 
 @se f=愛液1
 
-[アル]「………ぁ……マ……マ……？」
+[Al]"...... eh...?"
 
-[白良/hkr0027]「はい♪　ママはここにいますよ。だから……安心してママのおっぱいにピュッピュって沢山お漏らしして下さい♪」
+[Hakura/hkr0025]"Fufu... What is it? Was there something strange?\n'Al-chan' is a 'child' that was born from Mama's\nstomach, right?"
 
-[白良/hkr0028]「そしたら、その頭の中のモヤモヤも、すっきりと消えてなくってしまいますからねぇ♪」
+[Hakura/hkr0026]"My boy that get so lonely he'll cry when he's not\nwith his Mama, and loves boob diapers...\nIsn't that right? ... 'Al-chan'?"
+
+@se f=愛液1
+
+[Al]"... ah... Ma-... ma...?"
+
+[Hakura/hkr0027]"Yes. ♪\nMama's right here. So... calm down and leak lots\nof spurts in Mama's boobs please. ♪"
+
+[Hakura/hkr0028]"And then, completely erase that uneasy feeling from\nyour mind, okay. ♪"
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ picth=150
 
-[白良/hkr0029]「来て……さぁ……出して♪」
+[Hakura/hkr0029]"Come... now... let it out.♪"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -149,23 +149,23 @@
 
 @se f=愛液1 pitch=80
 
-[白良/hkr0030]「………………はい、よくできました♪」
+[Hakura/hkr0030]"...... Haah, You did well. ♪"
 
-[アル]「あっあぅあぁあ……うぅああああ……」
-
-@se f=愛液1
-
-[白良/hkr0031]「あはぁ……ああ……凄い量。私のおっぱい……ぐちょぐちょです♪」
-
-[アル]「ああぁ………ママ………ママぁ……」
+[Al]"Ahahahaaah... Uwaaah..."
 
 @se f=愛液1
 
-[白良/hkr0032]「はい♪　……気持ち良くピュッピュできましたね。　ほら、残ったおしっこも全部出せるように、ママのおっぱいでいい子いい子してあげます」
+[Hakura/hkr0031]"Ahaa... Aah... So much. My boobs... are all wet. ♪"
+
+[Al]"Aaaah... Mama... Mamaaa..."
 
 @se f=愛液1
 
-[白良/hkr0033]「ほら……こんな風に♪」
+[Hakura/hkr0032]"Yes. ♪ ... You felt good and spurted out.\nNow, to get what's left of your pee out, I'll give you the\ngood boy treatment with Mama's boobs."
+
+@se f=愛液1
+
+[Hakura/hkr0033]"See... like this. ♪"
 
 ;;SEグチュグチュ音
 ;;CG07c
@@ -178,17 +178,17 @@
 @bgf bg=ev07c t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[アル]「はひっ！　あひいいっ！　あっあっあぁああ！」
+[Al]"Hahi! Ahii! Ahahahaaah!"
 
 @se f=愛液1
 
-[白良/hkr0034]「んふふ……あぁ……可愛い……はぁ……はぁ……可愛いですよ。ママのアルちゃん♪」
+[Hakura/hkr0034]"nfufu... Aah... So cute... Haah... Haah...\nHe's so cute. Mama's Al-chan. ♪"
 
-[白良/hkr0035]「……いっぱい出して下さい。またピュッピュっておっぱいに、沢山……沢山お漏らしして下さい♪」
+[Hakura/hkr0035]"...Let out a lot, please. Spurt lots in my boobs, again...\nLeak a lot please. ♪"
 
 @se f=愛液1
 
-[白良/hkr0036]「ほら、こうやって……おっぱいで……ぎゅうううっ！」
+[Hakura/hkr0036]"Here, like this... with my boobs... squeeeeze!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -202,15 +202,15 @@
 @se f=愛液1 pitch=50
 @se f=挿入音 pitch=50
 
-[白良/hkr0037]「あぁ………元気なお漏らしです。……でも、まだほんの少し『残って』いるみたいですね」
+[Hakura/hkr0037]"Aaah... An energetic leak...\nBut, it seems only a bit still 'remains'."
 
-[アル]「…ぁ………リリ……ィ……？」
+[Al]"... ah...... Lil-... y...?"
 
 @se f=愛液1
 
-[白良/hkr0038]「んふふ…………大丈夫です。大丈夫ですよ。アルちゃんは余計なことは全部『お漏らし』して、ママのおっぱいに甘えるだけのいい子になりますから」
+[Hakura/hkr0038]"nfufu... It's all right. It's alright, you know.\nBecause you'll 'leak' everything unnecessary, and become\na good boy spoiled by Mama's boobs."
 
-[白良/hkr0039]「ですので……もっとですよ。もっとです。もっとママにアルのお漏らしを下さい♪」
+[Hakura/hkr0039]"So then... more. More.\nLeak more of Al's stuff onto Mama please. ♪"
 
 ;;SEグチュグチュ音
 ;;CG07e
@@ -223,34 +223,34 @@
 @bgf bg=ev07e t=500 wt=0
 @bgv f=パイズリ・手コキ２ picth=100
 
-[アル]「ぅぎぃ……や……やぁ……」
+[Al]"ugi n-... N-... ooo..."
 
 @se f=愛液1
 
-[白良/hkr0040]「駄目です。あんまり悪い子だと、ママ怒ってしまいますよ。……ですから、頑張って。ママの為にアルちゃんも頑張って下さい♪」
+[Hakura/hkr0040]"That's no good. If you're such a bad boy,\nMama will get angry... So, do your best. Please do your\nbest for Mama, Al-chan. ♪"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[白良/hkr0041]「ほら、んっんっんっ！　まだビクビク震えてるおちんちんを……こうやって上下に……いい子……いい子……あっは……んはぁああ……」
+[Hakura/hkr0041]"Here, nh nh nh! I'll rub your still trembling penis...\nUp and down like this... good boy.. good boy...\naha... nhaaaa..."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[白良/hkr0042]「ふふ、もっと下さい……もっと、ビュッビュって……。がんばれ♪　がんばれ♪」
+[Hakura/hkr0042]"Fufu, more please... spurt, more... Do your best. ♪\nDo your best. ♪"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[アル]「ぁぁあ……あぁあ……出る！……出るぅうう！」
+[Al]"aaAh... Aaah... It's-!... Cummming!"
 
-[白良/hkr0043]「出して……ママに！　さぁっ！」
+[Hakura/hkr0043]"Let it out... on Mama! Come on!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -265,41 +265,41 @@
 @se f=愛液1 pitch=50
 @se f=挿入音 pitch=50
 
-[白良/hkr0044]「あっあっ……はぁあああ……」
+[Hakura/hkr0044]"Ah ah... Haaaah..."
 
 @se f=愛液1
 
-[白良/hkr0045]「…………あぁ……これで、完全に『いい子』になってくれましたね……」
+[Hakura/hkr0045]"...... Aah... With this, you've completely become\na 'good boy' for me..."
 
-[アル]「ぁっあっ……ぁはぁああああ……」
-
-@se f=愛液1
-
-[白良/hkr0046]「全身をブルブル震わせて……ふふ、とっても可愛いですよ」
-
-[アル]「ぁぅぁ…ぁマ……ぅ…………」
-
-[白良/hkr0047]「ええ、分かってます。もうおねむなんですよね。ママのおっぱいに包まれて、ねんねしましょうね」
+[Al]"ah Ah... Ahaaaaah..."
 
 @se f=愛液1
 
-[アル]「ぅん……マぁぁ……」
+[Hakura/hkr0046]"Your whole body is vibrating... Fufu, So very cute."
+
+[Al]"Aua... -ama... uh......"
+
+[Hakura/hkr0047]"Yes, I know. You're already sleepy, right.\nCovered in Mama's boobs, let's go beddy bye, okay."
+
+@se f=愛液1
+
+[Al]"ya... Maa-..."
 
 ;;CG07g
 @se f=尿
 @bgf bg=ev07g t=500
 
-[白良/hkr0048]「あらあら、ほんとうに『お漏らし』もしちゃって……ふふ……ちゃんと全部出せるように、おっぱいで支えておいてあげますからね……」
+[Hakura/hkr0048]"Oh my, you really did 'leak'... Fufu...\nTo get everything out properly, I'll support you with\nmy boobs, okay..."
 
-[アル]「……………………」
+[Al]"..........."
 
-[アル]「すぅ……すぅ……すぅ……」
+[Al]"Zzz... zzz... zzz..."
 
-[白良/hkr0049]「うふふ……可愛い寝顔♪　抱き締めたくなってしまいます」
+[Hakura/hkr0049]"Ufufu... Such a cute sleeping face. ♪\nMakes me want to hug him."
 
-[白良/hkr0050]「アルちゃん……♪　これからずっとずっと……ママと一緒ですよ♪」
+[Hakura/hkr0050]"Al-chan...♪\nFrom now on... you're with Mama forever and ever. ♪"
 
-[白良/hkr0051]「んふふふ♪」
+[Hakura/hkr0051]"nFufufufu ♪"
 
 @fade type=out t=1000 wt=1
 @rps
