@@ -2,23 +2,23 @@
 
 @move_f f=白良@微笑 in=c t=150
 
-[Shirao]"In recent years, Succubi have ceased acting through dreams,\nand because they started attacking in the flesh,\nthey've become officially recognized beings."
+[Hakura]"In recent years, Succubi have ceased acting through dreams,\nand because they started attacking in the flesh,\nthey've become officially recognized beings."
 
 @bs f=白良@通常 t=150
 
-[Shirao]"As the scope of their activities expanded, they were able\nto acquire more food, but at the same time, they began\nto be recognized as a threat and driven away." 
+[Hakura]"As the scope of their activities expanded, they were able\nto acquire more food, but at the same time, they began\nto be recognized as a threat and driven away." 
 
 @bs f=白良@焦り t=150
 
-[Shirao]"As a race, Succubi do not naturally excel at fighting.\nIf we continue to exist as a threat to humans like this,\nsooner or later our numbers will decline."
+[Hakura]"As a race, Succubi do not naturally excel at fighting.\nIf we continue to exist as a threat to humans like this,\nsooner or later our numbers will decline."
 
 @bs f=白良@哀しみ t=150
 
-[Shirao]"That future leads to extinction or sexual slavery...\nIn your 'other world', it seems there are succubi who have\nbecome like that."
+[Hakura]"That future leads to extinction or sexual slavery...\nIn your 'other world', it seems there are succubi who have\nbecome like that."
 
 @bs f=白良@微笑 t=150
 
-[Shirao]"In the end, we, and humans are different races,\nand we must make a compromise somewhere and struggle\nto seek out a way to coexist together."
+[Hakura]"In the end, we, and humans are different races,\nand we must make a compromise somewhere and struggle\nto seek out a way to coexist together."
 
 @move_f f=白良@ out=c t=150
 
