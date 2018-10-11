@@ -6,62 +6,62 @@
 
 @se f=衣擦れの音1
 
-[シスター１/sya0001]「んふう……すうっすうっ……んはぁああ……おちんちん……凄くいい香りがします。匂いを嗅いでいるだけで、のぼせてしまいそうです……♪」
+[Sister 1/sya0001]"Hmfu... *sniff sniff* ... nhaaa...\nYour penis... has a really nice scent.\nJust from smelling it I could get aroused... ♪"
 
-[シスター２/syb0001]「お尻の穴の匂いも最高です。スンッスンッ……嗅いでいるとそれだけでまんこが熱くなってしまいます」
+[Sister 2/syb0001]"Your asshole's smell is great too. *sniff sniff* ...\nWhile just smelling it my pussy is getting hot."
 
-[シスター３/syc0001]「んふふ……どうですか？　こうやって前後を挟まれる気分は？　私達の愛……感じますか？」
+[Sister 3/syc0001]"nfufu... How is this? Being sandwiched from the front\nand back? Can you feel it... our love?"
 
-[アル]「あ……愛……？」
+[Al]"L-... Love...?"
 
-[シスター３/syc0002]「そう。これは愛を貴方に教える為に必要な行為なんです」
+[Sister 3/syc0002]"Yes. This is necessary in order to teach you love."
 
-[シスター１/sya0002]「だから、初対面だとか、元々の知り合いだとか、そんなことはなんの関係もないのです」
+[Sister 1/sya0002]"So, whether it's your first meeting, or you're\nalready acquainted, that has nothing to do with this."
 
-[シスター２/syb0002]「愛さえあれば何をしても構わない。だから……こんなことだってできます」
+[Sister 2/syb0002]"If you have love, anything is fine.\nSo... you can do these kinds of things."
 
 @se f=衣擦れの音1
 @qk
 
-　お尻にスリスリと顔を擦りつけてくる。
+　She rubs her face against my butt.
 
 @se f=愛液1
 
-[シスター１/sya0003]「うふふ♪　お尻だけじゃないですよ。ほら……この、おちんちんにも愛を教えてあげます。こうやって……ちゅっ、キスをしてあげますね」
+[Sister 1/sya0003]"Ufufu ♪ Not only your butt.\nHere... I'll, teach your penis love too.\nLike this... chu, I'll kiss it."
 
-[シスター１/sya0004]「んっちゅ……ちゅっちゅっ……ふちゅっ……んちゅううっ……ちゅっちゅっ……むちゅうう」
+[Sister 1/sya0004]"nnchu... chu-chu... fuchu... nchuu.. chu-chu... muchuu"
 
 @se f=愛液1
 @bgv f=fera_sya1
 @flash t=300 wt=0
 
-　肉先に密着する口唇の柔らかさに、全身をビクッと震わせる。
+　My whole body twitches in response to the softness of her\nlips on my fleshy tip.
 
-[シスター３/syc0003]「あら……キスされるたび、腰がヒクヒク震えてますよ」
+[Sister 3/syc0003]"Oh... He's shaking his hips with every kiss."
 
-[シスター１/sya0005]「ふふ♪　貴方のおちんちん……ビクビクッて跳ね回って可愛い……次はあったかい口の中で癒してあげますからね」
-
-@se f=愛液1
-
-[シスター１/sya0006]「……んっちゅろ……れろっ……んちゅれろっ……れろっれろ……ちゅれろろろぉおおっ」
+[Sister 1/sya0005]"Fufu ♪ Your penis... jumping around is cute...\nNext I'll soothe it inside my warm mouth."
 
 @se f=愛液1
 
-　舌を肉先に絡めてきた。ペニスを舐め回してくる。
+[Sister 1/sya0006]"nnslurp... *lick*... nnchulick... *licky lick* ...\nchusluuurp"
 
-[アル]「うぅあぁう！？……これ……だめ……！　……ぁああっ！」
+@se f=愛液1
 
-[シスター１/sya0007]「うふふ、少し舐めただけですのに、おちんちん……もっと大きくなって来た。すぐにでも射精したいっていってるみたいです」
+　The first wrapped my fleshy tip in her tounge.\nThen she started licking around my penis.
 
-[シスター１/sya0008]「その願い……叶えて差し上げますね」
+[Al]"Uwaah!? ... This... No...! ... Aaah!"
 
-[シスター２/syb0003]「私も頑張らせていただきます」
+[Sister 1/sya0007]"Ufufu, just from a little licking, your penis...\nhas gotten bigger. It's like it saying it wants\nto ejaculate as fast as it can."
 
-[シスター３/syc0004]「私もうかうかしてられませんね」
+[Sister 1/sya0008]"That wish... I'll grant it."
 
-[アル]「うぅぅ…………な、何……？」
+[Sister 2/syb0003]"I'll do my best, too."
 
-[シスター１/sya0009]「うふふ♪　……こうするんですよ」
+[Sister 3/syc0004]"I have too as well, right."
+
+[Al]"Uuuh...... Wh-, What...?"
+
+[Sister 1/sya0009]"Ufufu ♪ ... I'm doing this, you know."
 
 @se f=愛液1
 
@@ -69,149 +69,149 @@
 @bgf bg=ev12a t=500 wt=0
 @bgv f=fera_sya2
 
-[シスター１/sya0010]「はむっ……んっちゅむ……ちゅもっ……んっも……ちゅもぉお……」
+[Sister 1/sya0010]"Haamu... nnchumu... chumo... nnmuh... chumuuh..."
 
 @se f=愛液1
 
-　肉棒が咥えられた。
+　My cock was enveloped.
 
-[シスター２/syb0004]「ふちゅっ……ちゅっちゅっちゅっ……んちゅっ……ちゅずるるるぅ」
-
-@se f=愛液1
-
-　肛門を舌で舐め回させる。
-
-[シスター３/syc0005]「はっちゅ……むちゅっ……んっちゅろ……れちゅろ……んちゅれろぉお……」
+[Sister 2/syb0004]"Fuchu... chuuchuuchu... nchu... chusuck"
 
 @se f=愛液1
 
-　口腔に舌が挿し込まれた。
+　The second is licking around my anus with her tongue.
 
-[シスター１/sya0011]「ろうれしゅか？　こうやっておひんひんを咥えられりゅのは……ちゅっろ……んじゅ……ちゅぶろぉ……きもひいいれふか？」
+[Sister 3/syc0005]"Hahchu... muchu... nnchu... rachu... nchulick..."
 
-[シスター１/sya0012]「こうひゃっへ……ちゅろろ……んじゅぼ……ちゅぶっ……にゅちゅるぅ……。お口ろらかれ、めちゃめちゃにかき混ぜるろ……感じるれしょう？」
+@se f=愛液1
 
-[シスター２/syb0005]「ふふ♪　お尻も、愛があれば汚さなんか感じません……ちゅれろ……にゅじゅっ……ちゅぼっちゅぼっちゅぼぉ」
+　The third thrust her tongue into my mouth.
+
+[Sister 1/sya0011]"Ah you haffy? Habing youw penis sucked like this...\nchulurp... nnsuck... chulurup... doeth it feel good?"
+
+[Sister 1/sya0012]"Like thith... chulick... nnshlurp... chubu... nichuru...\nBeing all mixthed up in my mouth... do you feel ith?"
+
+[Sister 2/syb0005]"Fufu ♪\nYour butt too, with love it doesn't seem dirty at all...\nchulick... nislurp... chubochubochubo"
 
 @se f=愛液1
 @qk
 
-[アル]「ひぁっ……だ、だめぇえ……！」
+[Al]"Hyaa... N-, noooo...!"
 
-[シスター３/syc0006]「駄目なんて悲しいことはいわないで下さい。ほら……楽しみましょう。んっちゅ……ちゅるる……んじゅるるるぅ」
+[Sister 3/syc0006]"'No' is it, please don't say sad things.\nCome... let's enjoy it. nnchu... chururu... nnsluuurp"
 
 @se f=愛液1
 
-　舌に舌を絡ませながら、口内をねっとりとかき混ぜてきた。
+　Entwining our tongues, she stickily stirred the inside of\nmy mouth.
 
-[シスター１/sya0013]「あふうう……おくひの中れ……おちんちんがもっと大きく……。んふふ……しょんらに気持ちがいいんれふか？」
+[Sister 1/sya0013]"Afuu... In my mouf... youw penith ith gething biggew...\nnfufu... Doeth it feel that good?"
 
-[シスター１/sya0014]「れも……まだれす。こりぇくらいれまんじょくしないでくだしゃいね……もっろ……もっと激しくしへあげましゅから」
+[Sister 1/sya0014]"Buht... noth yet. Pleathe thon't geth off from\nthith muth... I'll do it muth... much more intenthly."
 
 @se f=愛液1
 @bgv f=fera_sya3
 @flash wt=0
 
-[シスター１/sya0015]「んっじゅぼ！　じゅぼっじゅぼっじゅぼっじゅぼっじゅぼっ！」
+[Sister 1/sya0015]"Nn*Suck*! *Suck suck suck suck suck*!"
 
-[アル]「ひゅぶっ、ひ、あぅううううっ！！」
-
-@se f=愛液1
-
-　激しく頭を振ってくる。口腔全体を使ってペニスを扱き上げてきた。
+[Al]"Haabuu, hy, aaaauuh!!"
 
 @se f=愛液1
 
-[シスター１/sya0016]「ふっじゅ……むじゅっ……ちゅずるるるるるぅ」
-
-[シスター２/syb0006]「んじゅうっ！　ちゅっずる……ずじゅるぅ……ちゅっちゅっ……むちゅるるぅ」
+　The first instensely moves her head.\nShe used all of her mouth to suck my penis.
 
 @se f=愛液1
 
-　負けじと肛門にも刺激を加えてくる。
+[Sister 1/sya0016]"Fushlurp... mujuu... chuzhlurururp"
 
-[シスター３/syc0007]「はちゅ……んちゅるるぅ」
-
-[シスター１/sya0017]「おひんひん……しゅごくビクビクしてましゅ……。いいれしゅよ……らひたいなららひてくらしゃい……ちゅっずる……んじゅるるるぅ」
-
-[シスター２/syb0007]「さぁ……沢山ビュッビュってして下さい。ちゅうずろ……じゅずろろろぉ」
-
-[シスター３/syc0008]「我慢しないで。素直になって……ちゅっ……ふちゅっ……むちゅううっ」
+[Sister 2/syb0006]"nnjuu! chuzuru... zujuru... chu-chu... muchururu"
 
 @se f=愛液1
 
-　濃厚過ぎる愛撫に逆らうことなどできない。
+　Not to be outdone the second increases her stimulation of my anus.
+
+[Sister 3/syc0007]"Hahchu... chururu"
+
+[Sister 1/sya0017]"Your penis... ith twitting so muth...\nIth fhine... ith you wanna cum you cah cum...\nchuzuru... nnshlurup"
+
+[Sister 2/syb0007]"Now... shoot out a lot please. chuzuru... slururup"
+
+[Sister 3/syc0008]"Don't hold back. Be honest... chu... fuchu.. muchuuu"
+
+@se f=愛液1
+
+　Their caresses are too much for me to resist.
 
 ;;CG12b
 @fin bg=ev12b se=射精音
 
-[シスター１/sya0018]「んふううう……んっんっ……むんんんんんっ」
+[Sister 1/sya0018]"Nfuuu... nhnh... mhuunnn"
 
 @se f=愛液1
 
-[シスター２/syb0008]「ちゅるるるるぅ」
+[Sister 2/syb0008]" *Sluuurp* "
 
-[シスター３/syc0009]「あふうううっ」
+[Sister 3/syc0009]"Ahfuuuhuh"
 
-[シスター１/sya0019]「れへる……んじゅるる……しぇーえき……おいひい……ふっちゅろ……んちゅろろろぉ」
-
-@se f=愛液1
-
-[アル]「あっ…あ、ぁっ……あぁあああっ……！？」
-
-[シスター１/sya0020]「んふふ……れんぶ……のんれあげまひゅかられ……」
-
-[シスター１/sya0021]「んっじゅ……んごっきゅ……ごきゅっごきゅっごきゅっ……んっんっんっ……んはぁあああ」
+[Sister 1/sya0019]"I'b haffy... nnslurp... your shemehn... delithous...\nfuchuro... churoro"
 
 @se f=愛液1
 
-　射精する肉棒を吸われる快感に、ただ悲鳴を上げることしかできなかった。
+[Al]"Ah... ah, ah-... Aaaaah...!?"
 
-[シスター２/syb0009]「ああ……美味しそう」
+[Sister 1/sya0020]"Nfufu... All ofh it... I'll drinkth it, okay..."
 
-[シスター３/syc0010]「私も……飲みたいです」
-
-[シスター１/sya0022]「おひんひん……まらビクビクしへ……いいれふよ……♪　まら……射精しへ♪」
-
-[シスター１/sya0023]「んじゅるるるぅ」
+[Sister 1/sya0021]"nngulp... nngulp... *gulp gulp gulp* ... nh nh nh... nhaaaah"
 
 @se f=愛液1
 
-[シスター２/syb0010]「さぁ、ビュッビュして下さい……ちゅぶっ……んじゅるるるぅ」
+　From the pleasure of having my ejaculating cock sucked,\nI could only scream.
 
-[シスター３/syc0011]「んっちゅろ……むちゅろぉ……」
+[Sister 2/syb0009]"Aah... Looks tasty."
+
+[Sister 3/syc0010]"Me too... I want to taste."
+
+[Sister 1/sya0022]"Your penith... ith thtill thwithing... ith fhine...♪\nEthachulathe again. ♪"
+
+[Sister 1/sya0023]"nnshlurururup"
 
 @se f=愛液1
 
-　射精の上に重なる射精感――劣情のままに再び精液を噴出させる。
+[Sister 2/syb0010]"Now, shoot please... chubu... nnslurp"
+
+[Sister 3/syc0011]"nnchuro... muchuro..."
+
+@se f=愛液1
+
+　Feeling like the ejaculations overlap ――\nI spurt semen out again from the lust.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG12c
 @fin se=射精音 bg=ev12c
 
-[シスター１/sya0024]「あぶうう！　んっぐ……ふぎゅううっ」
+[Sister 1/sya0024]"Abuu! nngu... fugyuuu"
 
 @se f=愛液1
 
-[シスター２/syb0011]「ああ……また出てる」
+[Sister 2/syb0011]"Aah... It's coming again."
 
-[シスター３/syc0012]「凄い量です♪」
+[Sister 3/syc0012]"So much. ♪"
 
-[シスター１/sya0025]「はふぅう……おいひい……んんん……愛を……感じまひゅ……んぎゅっ！　ごきゅっごきゅっ……んぎゅううっ」
+[Sister 1/sya0025]"Hafuu... delithous... nnnh... I feel... the love...ngyu!\n*gulp gulp*... ngyuu"
 
 @se f=愛液1
 
-[アル]（う、ぁあぅ……ま、また吸ってる……ぼく、のを………………）
+[Al](Uh, aaauh... sh-, she's sucking again... my, cock......)
 
-[シスター１/sya0026]「はぁああ……しあわへぇ……」
+[Sister 1/sya0026]"Haaah... This is bliss..."
 
-[アル]（これ…………もう……すごくて……）
+[Al](This... so... incredible...)
 
 ;;ホワイトアウト
 @fin se=射精音 bg=white
 
-　強烈過ぎる快感。頭の中が真っ白になりそうな程の気持ちよさの中に、意識を手放した……
+　It's too much. My mind goes blank from how good it feels,\nand I pass out...
 
 @fade type=out t=1000 wt=1
 @rps
