@@ -11,11 +11,11 @@
 
 @se f=淫唇を開く音
 
-[アルネ/arn0027]「それじゃあ……またおちんぽブラシくんを使うっす」
+[Arne/arn0027]"Well then... 's We'll use Dick Brush-kun again."
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0028]「というワケで……スイッチオンッ！」
+[Arne/arn0028]"And so... switch on!"
 
 @se f=Switch1
 @flash t=300
@@ -26,40 +26,40 @@
 @bgf bg=ev06a t=500 wt=0
 @bgv f=パイズリ・手コキ１ pitch=100
 
-[アル]「ああっ！　うひぁあああっ！」
+[Al]"Aaah! Uhyaaaah!"
 
-[アルネ/arn0029]「ん～、スイッチを入れた瞬間からこの反応。う～ん、我ながら凄いモノを開発してしまったッスねぇ」
+[Arne/arn0029]"Hmm~ This reaction as soon it it's switched on.\nYep~, I've developed something 's great, huh."
 
-[アルネ/arn0030]「とはいえ、これまだレベル１ッス。因みにおちんぽブラシくんはレベル１～１０までの１０段階仕様となってるッスよ」
+[Arne/arn0030]"I say that but, 's still level 1. By the way,\nDick Brush-kun now has 10 levels 's from 1~10."
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0031]「というワケでレベル……一気に５ッス！」
+[Arne/arn0031]"With that, the level's... suddenly 5!"
 
 ;;SE■振動音
 @se f=吸引音1 pitch=100
 @se f=パイズリ・手コキ２ pitch=50
 @bgv f=パイズリ・手コキ１ pitch=120
 
-[アル]「あふあっ！　あふうううう！」
+[Al]"Afuaaah! Ahfuuuuuh!"
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0032]「おお……敏感な反応！　必死に身悶えして……凄く堪らないッス」
+[Arne/arn0032]"Ooh... a sensitive response!\nWrithing desperately... 's really unbearable."
 
-[アルネ/arn0033]「んふふ♪　まだまだッスよ！　もう、これでもかってくらいちんぽゴシゴシ掻きむしってあげるッス！」
-
-@se f=パイズリ・手コキ２ pitch=50
-
-[アル]「ひっ！？　ぁぁああっ！？　ぅっ、ぐぅうううっ」
-
-[アルネ/arn0034]「もう、ちんぽ。先走り汁で、ぐちゃぐちゃッスね。ヌチュヌチュってすごい音がしてるッスよ」
-
-[アルネ/arn0035]「もう、射精ちゃいそうッスか？　射精ちゃいそうッスよね？」
+[Arne/arn0033]"nfufu ♪\n's just starting! I'll grind and rub your dick more,\nlike 's no tomorrow!"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-[アルネ/arn0036]「なら……その前に……んふふ♪　いくッスよ……レベル……一気に１０ッス！」
+[Al]"Hii!? AaaAaah!? uh, guuuuuh."
+
+[Arne/arn0034]"Already, your dick. 's dripping with pre-cum.\n's making an amazing squelch squelch sound, you know."
+
+[Arne/arn0035]"You 's gonna cum, already? 's You're gonna cum, right?"
+
+@se f=パイズリ・手コキ２ pitch=50
+
+[Arne/arn0036]"Then... before that... nfufu ♪\nHere comes... the level's... suddenly 10!"
 
 ;;SE■振動音
 @se f=吸引音1 pitch=150
@@ -68,9 +68,9 @@
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ１ pitch=150 wt=0
 
-[アル]「……あ゛っ……ぅ゛っ…………ぅああ！？」
+[Al]"... A-h... u-h... uwAah!?"
 
-[アルネ/arn0037]「出すッス！　さぁ！　さぁっ！！」
+[Arne/arn0037]"'s Shoot! Now! Come on!!"
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -78,21 +78,21 @@
 @bgv
 @fin bg=ev06b se=射精音
 
-[アルネ/arn0038]「あはぁああ……出た。出たっす。精液……ビュッビュって沢山……噴水みたいッス……」
+[Arne/arn0038]"Ahahahah... It came. 's cum.\nSemen... lots spurting... 's like a fountain..."
 
-[アルネ/arn0039]「お漏らしみたいに精液を撒き散らして……はぁああ……スゴイ。凄いっす……だらしないアヘ顔で……なんかあーしまで興奮しちゃうッス」
+[Arne/arn0039]"Semen sprayed like you're peeing... Haaah...\nAmazing. 's amazing... with that sloppy ahegao...\nSomehow 's even getting me aroused."
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0040]「んっ……ふぅ、んぅっ……」
+[Arne/arn0040]"nnnh... fuuh, nnunh..."
 
-[アルネ/arn0041]「ふふ、気持ち良かったッスか？」
+[Arne/arn0041]"Fufu, 'dit feel good?"
 
 @se f=愛液1
 
-[アル]「……ぁっ……ぁぅぁ……」
+[Al]"... ah... auah..."
 
-[アルネ/arn0042]「もう、失神寸前って感じッスね……でも、本番はここからッスよ」
+[Arne/arn0042]"You 's on the verge of fainting already, right...\nBut, the main thing starts now."
 
 ;;CG06c
 @se f=愛液1 pitch=50
@@ -100,15 +100,15 @@
 
 @bgf bg=ev06c t=500
 
-[アルネ/arn0043]「お次は……ぶるぶるオナホくんッス！」
+[Arne/arn0043]"What's next's... Quivery Onahole-kun!"
 
-[アルネ/arn0044]「ふふ……想像もできないほどの快感を教えてあげるッスよ」
+[Arne/arn0044]"Fufu... I'll teach you pleasure 's you can't even imagine."
 
-[アル]「ぃっ……ぁっ……ひっ……ぅぁ……」
+[Al]"N-... o... hi-... uah..."
 
-[アルネ/arn0045]「ブルブル震えて……快感が怖いッスか……？　それだけおちんぽブラシくんで感じてくれたってことッスね」
+[Arne/arn0045]"Quivering and trembling... 's the pleasure scary...?\nThat's just what you felt from Dick Brush-kun, huh."
 
-[アルネ/arn0046]「ふふ。貴重なデータありがとうッス。お礼に、最高の快楽を刻んでやるッス」
+[Arne/arn0046]"Fufu. 's thank you for the valuable data.\nAs thanks, 's I'll carve the greatest pleasure into you."
 
 ;;SE■挿入音
 ;;■CG06d
@@ -121,18 +121,18 @@
 @bgv f=パイズリ・手コキ２ pitch=50
 @qk
 
-[アル]「ぃっ……ぎっ、ぁっぁっ……ぅっ……っぁ……ぐっぁ……！」
+[Al]"n-... gy-, ah- ah-... uh-... -ah... guah...!"
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0047]「挿入ってくッスよ。オナホにちんぽが……んふふ♪　ズブズブって挿入っていくたびに……ちんぽがビクンッビクンッて跳ねてるッス♪」
+[Arne/arn0047]"'s going in. Your dick in the onahole... nfufu ♪\nEach time it slides in... your dick's twitching and\njumping. ♪"
 
 @se f=愛液1
 @se f=パイズリ・手コキ１ pitch=150
 
-[アルネ/arn0048]「中のヌルヌルの感触……なかなかよさそうッスね。表面にツブツブを配置してみたんすが、効果は抜群っぽいッス」
+[Arne/arn0048]"The slippery feel inside... seems like 's feeling good,\nhuh. I tried arranging the bumps on the surface but,\nseems the result's outstanding."
 
-[アルネ/arn0049]「それにしてもすごい悶えっぷりッスね……本当に気持ちよさそうッス。でも、まだッスよ。大事なのはここからッス！　スイッチ――オンっ！！」
+[Arne/arn0049]"But also, 's agonizing you greatly, huh...\nReally looks like it feels good. But, 's still not done.\nWhere the great part begins 's here! Switch―― On!!"
 
 ;;SE■振動音
 @se f=吸引音1 pitch=100
@@ -142,20 +142,20 @@
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=80
 
-[アルネ/arn0050]「あはは！　……体中がガクガクって震えてるッス！　どうッスか？　これなら気絶してる余裕もないッスよね？」
+[Arne/arn0050]"Ahaha! ... Your body's shuddering all over! How's it?\sIf 's this, you can't even afford to faint, right?"
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0051]「んふふ♪　ただ震えるだけじゃないッスよ！　震えながらギュッギュッておちんぽを締めつける機能も付けてみたッスよ」
+[Arne/arn0051]"nfufu ♪\n's not just vibrating, you know! While quivering,\n's also using it's squeezing function on your dick."
 
-[アルネ/arn0052]「おちんぽを焦らすように責め立てるこの機能……もう堪らないッスよね？」
+[Arne/arn0052]"This function is to tease your dick torturously...\n's unbearable already, right?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=50
 
-[アル]「ぎぃっ……ぁっ……ひっ……ぅぁ……っ！！」
+[Al]"Ngh... o... Nh-... uo...!!"
 
-[アルネ/arn0053]「ちんぽの震えがもうえげつないッス……さっき射精したばっかりなのに……また射精そうなんスね。んふふふ」
+[Arne/arn0053]"Your dick's trembling is vulgar already...\nEven though it just came a bit ago... seems 's gonna cum\nagain. nfufufu"
 
 @se f=パイズリ・手コキ１ pitch=150
 @se f=愛液1 pitch=50
@@ -163,11 +163,11 @@
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-[アルネ/arn0054]「いいッスよ。射精して……はぁっはぁっはぁっ……射精してくださいッス。あーしに……んふうう……精液出すところをまた見せて欲しいっす」
+[Arne/arn0054]"'s fine. Cum... Haahaahaah... 's please cum. For me...\nnfuuh... I want you to let me see what 's like when you\nshoot semen again."
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0055]「さぁ……はぁああ……はぁああ……はぁあああ……さぁあああっ！」
+[Arne/arn0055]"Come... Haaah... Haaaah... Haaaaah... Come ooon!"
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -177,11 +177,11 @@
 @se f=愛液1 pitch=50
 @se f=挿入音 pitch=50
 
-[アルネ/arn0056]「ああ……出た！　出たっす！　精液……沢山……ビュルルルッて……。ぶるぶるオナホくんから溢れる程の量……」
+[Arne/arn0056]"Aaah... It came! 's cum. Semen... lots of it... spurting...\nSo much that it's overflowing out of Quivery Onahole-kun..."
 
 @se f=愛液1 pitch=50
 
-[アルネ/arn0057]「堪らないッス。はぁああ……あーしのあそこも見てるだけでグチョ濡れッス。最高……はぁはぁ……最高の光景ッス」
+[Arne/arn0057]"'s I can't get enough. Haaah...\nMy spot's soaking wet, just from watching.\nThe best... Haahaah... This's the best spectacle."
 
 @fade type=out t=1000
 @rps
