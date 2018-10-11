@@ -8,68 +8,68 @@
 @se f=衣擦れの音1
 
 ;;CG12
-[シスター１/sya0028]「はぁああ……相変わらずいい匂いです。おまんこがジンジンしちゃう匂い」
+[Sister 1/sya0028]"Haaaah... It smells as good as ever.\nThis smell makes my pussy ache."
 
 @se f=愛液1
 
-[シスター２/syb0013]「お尻も……肛門がクパックパッて動いているのが可愛いです」
+[Sister 2/syb0013]"Your butt too... your anus puckering is cute."
 
-[シスター３/syc0014]「唇も……艶々していて美味しそう」
+[Sister 3/syc0014]"Your lips too... they's glossy and tasty looking."
 
 @se f=衣擦れの音1
 @qk
 
-　シスター達に拘束される。身動きが取れない。
+　I'm bound by the sisters. I can't move a muscle.
 
-[シスター１/sya0029]「んふふ……それじゃあいただきますね♪」
+[Sister 1/sya0029]"Nfufu... Now them, time to dig in. ♪"
 
 ;;CG12a
 @bgf bg=ev12a t=500 wt=0
 @se f=愛液1
 @bgv f=fera_sya1
 
-[シスター１/sya0030]「んじゅっぼぉ……」
+[Sister 1/sya0030]"nnshlurp..."
 
-[シスター２/syb0014]「ちゅっろ……んちゅれろぉ……」
+[Sister 2/syb0014]"churo... nchulick..."
 
-[シスター３/syc0015]「ふちゅううっ」
-
-@se f=愛液1
-
-　肉棒が咥えられ、肛門を吸われる。その上キスまで……。
-
-[シスター１/sya0031]「おひんひん……やっぱり硬くて熱くて……美味しい……」
-
-[シスター１/sya0032]「んっじゅぼ……ちゅっぼ！　んじゅっぼ！　じゅぼっじゅぼっじゅぼっじゅぼっ……ちゅぼぉおおおっ！」
-
-[シスター２/syb0015]「お尻の味も最高です。……癖になりそう。ちゅっぶろ……んじゅっぼ！　ちゅっろ……んちゅれろぉ！」
-
-@se f=パイズリ・手コキ２ pitch=50
-
-[アル]「ぅっ、ぁあああ……っ！」
-
-[シスター３/syc0016]「おちんちんとお尻を弄られて感じる姿……可愛いです。んっちゅ……くちゅっ！　ちゅれろっ！　ちゅろろろろぉ」
+[Sister 3/syc0015]"ffuuchuu"
 
 @se f=愛液1
-@se f=パイズリ・手コキ２ pitch=50
 
-　濃厚過ぎる愛撫に、肉体はあっという間に限界まで押し上げられる。
+　My cock is enveloped, and anus is being sucked.\nOn top of that I'm even being kissed...
 
-[シスター３/syc0017]「構わないですよ。さぁ、出して……ふちゅろ……ちゅる……んじゅるるるぅ」
+[Sister 1/sya0031]"Your penith... ith tho hard, hot... and delithious..."
 
-[シスター２/syb0016]「遠慮無く飲ませてあげて下さい。ちゅるる……ふちゅううっ」
+[Sister 1/sya0032]"nnsuck... suck! nnsuck! *suck suck suck suck*... chushuck!"
 
-[シスター１/sya0033]「だひて……。わらひの口まんこにたくひゃん……ビュルビュルしてくだしゃい♪」
-
-@se f=パイズリ・手コキ２ pitch=50
-
-[シスター１/sya0034]「ちゅっぶろ！　んじゅっぼ！　ちゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼっ――じゅぶろろろぉ！」
-
-[アル]「ぅっ！　あっ、ふぁあああっ！」
+[Sister 2/syb0015]"Your butt tastes great too... It's addicting.\nchuburo... nnsuck! chuuro... chulick!"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-　肉悦が弾けた。
+[Al]"Uuh, aaaaaah...!"
+
+[Sister 3/syc0016]"How you look with your penis and butt being\nteased... so cute. nnchu... kuchu! chulick! churororo"
+
+@se f=愛液1
+@se f=パイズリ・手コキ２ pitch=50
+
+　In their excessive caresses, my flesh is soon pushed past\nit's limit.
+
+[Sister 3/syc0017]"We don't mind, you know.\nNow, cum... fuchuro... churu... nnslururup"
+
+[Sister 2/syb0016]"Without holding back, please let us drink it.\nchururu... fuchuuu"
+
+[Sister 1/sya0033]"Cumh... Pleathe thoot lotth... in my mouth puthhy. ♪"
+
+@se f=パイズリ・手コキ２ pitch=50
+
+[Sister 1/sya0034]"Chluck! nnsuck! suck! *suck suck suck suck――suuuuuuck*!"
+
+[Al]"Uuh! Aah, fuaaah!"
+
+@se f=パイズリ・手コキ２ pitch=50
+
+　My fleshy pleasure burst.
 
 ;;SE射精音
 ;;射精エフェクト
@@ -78,28 +78,28 @@
 
 @se f=愛液1
 
-[シスター１/sya0035]「ぶふっ！　んぶうう！　ぶっぶっ……んっぶうううっ！」
+[Sister 1/sya0035]"Bufuu! nbuuu! Bu- bu-... nnnbuuuu!"
 
 @se f=愛液1
 
-[シスター２/syb0017]「あむううっ！　ちゅっぼ……ちゅるるるるぅ」
+[Sister 2/syb0017]"Amhuuu! *suck*... churururu"
 
-[シスター３/syc0018]「んっんっんっ……むふうううっ」
+[Sister 3/syc0018]"nh-nh-nh... mmhfuuuu"
 
-　シスターの口内に白濁液を流し込みながら、全身を歓喜に打ち震わせる。
+　While pouring thick cloudy liquid in the sisters mouth,\nmy whole body shook in delight.
 
-[シスター１/sya0036]「はふうう……んっぎゅ……ごきゅっごきゅっ……んぎゅうううっ」
+[Sister 1/sya0036]"Hahfuuuh... nnguuh... gulp gulp... nngyuuh"
 
-[シスター１/sya0037]「はぁああ……精液……とっても……美味しいでしゅぅ♪」
+[Sister 1/sya0037]"Haaah... your semen... is so... delicious. ♪"
 
-[シスター３/syc0019]「んふふ……幸せですか？」
+[Sister 3/syc0019]"Nfufu... Are you happy?"
 
-[アル]「ふぁ……ふぁいぃいい……」
+[Al]"Fuaah... fuaaiiih..."
 
 ;;ホワイトアウト
 @fin bg=white se=射精音
 
-　何も考えられぬまま、ただひたすら性感に溺れ続けるのだった……。
+　Not thinking of anything, I just continued to drown\nin the sexual feelings...
 
 @fade type=out t=1000 wt=1
 @rps
