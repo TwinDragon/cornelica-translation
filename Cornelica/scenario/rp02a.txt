@@ -26,7 +26,7 @@
 
 [Teacher/kos0004]"That's why I'll take your freedom until I finish the lesson"
 
-[Al]"Huh, ah..."
+[Al]"Huh, oh..."
 
 [Teacher/kos0005]"Well then, let's start today's lesson. \nToday's lesson is how you can touch the dick \nand efficiently make a man come"
 
@@ -40,15 +40,15 @@
 
 [Student C/stc0001]"It's more cute than I thought, but I do not dislike it."
 
- Suddenly everybody was staring at his dick.
+ Suddenly everybody was staring at his penis
 
 [Teacher/kos0007]"Well then, let's jerk it of and try to make it \nejaculate quickly. Is there anyone who would like to try?
 
 [Student A/sta0002]"Oh! Sensei! I want to do it"
 
-[Teacher/kos0008]"That's nice. Then do it quickly"
+[Teacher/kos0008]"Very good. Then do it quickly"
 
-[Student A/sta0003]"Understood"
+[Student A/sta0003]"O~okay!"
 
 @se f=淫唇を開く音
 
@@ -63,11 +63,11 @@
 
 [Student A/sta0004]"Ah……. Awesome! \nJust a little touch and he trembled wildly"
 
-[Teacher/kos0009]"It looks like a pretty sensitive dick"
+[Teacher/kos0009]"It looks like a pretty sensitive penis"
 
 @se f=愛液1
 
-[Student A/sta0005]"It's twitching... it's might be somewhat cute"
+[Student A/sta0005]"It's twitching... is it lovely?"
 
 　Instinctively he began to beg
 
@@ -75,7 +75,7 @@
 
 [Student A/sta0006]"Uhm... well... how can I do?"
 
-[Teacher/kos0010]"How can you give a dick pleasure...\nI taught in class a while back. Try to remember that"
+[Teacher/kos0010]"How can you give a penis pleasure...\nI taught in class a while back. Try to remember that"
 
 [Student A/sta0007]"Class...oh, that's right. \nCertainly, it was okay to just treat it like this, right?"
 
@@ -83,17 +83,17 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-　The finger start to move. \nWhile holding tightly the erected dick, \nshe start moving the hand up and down.
+　The finger start to move. \nWhile holding tightly the erected penis, \nshe start moving the hand up and down.
 
 @se f=愛液1
 
  It was just a little stroke. However, \nhis body nervous due to the situations \nbecome more sensitive than usual.
 
- A throbbing stimulation runs according to the movement \nof the hand, unintentionally releasing the scream of delight
+ A throbbing sensation runs according to the movement \nof the hand, unintentionally releasing scream of delight
 
 @se f=愛液1
 
-[Student B/stb0002]"Amazing... it seems to be really pleasant"
+[Student B/stb0002]"Amazing... it seems really pleasant"
 
 [Student C/stc0002]"I feel it. It's lovely"
 
@@ -101,7 +101,7 @@
 
 @se f=愛液1
 
-[Student A/sta0008]"The dick... it's scary. Er... this way? Is this okay?"
+[Student A/sta0008]"The penis... I'm nervous. \nEr... this way? Is this okay?"
 
 @se f=パイズリ・手コキ２ pitch=50
 
@@ -125,11 +125,11 @@
 　Without minding at all she cover the palm in pre-cum, \nthen she start rubbing it against all the dick
  An obscene tone echoed through the classroom
 
-[Student A/sta0011]"This... the tip quickly bulges. \nGlans... is filling. I feel like he is comming already"
+[Student A/sta0011]"Look... the tip quickly bulges. \nGlans... is filling. I feel like he's comming already"
 
 [Teacher/kos0012]"I agree. So, squeeze it tightly"
 
-[Student A/sta0012]"Understood. Er... is that it? \nDoing this...it's sloppy... a lot...uhnnnn!"
+[Student A/sta0012]"Okay. Er... is that it? \nDoing this...it's sloppy... a lot...uhnnnn!"
 ;;「分かりました。えっと……こうかな？ こうやって……ぐっちゅぐっちゅ……んっふ……んっんっんっんっんっ！」
 
 @se f=パイズリ・手コキ２ pitch=50
@@ -160,7 +160,7 @@
 
 [Student A/sta0015]"Oh ... it's amazing. This... a tremendous amount. \nHaaa... so much... so much semen comes out"
 
-[Student A/sta0016]"Haha...my hand... it's slopped in semen... \nIt seems unpleasant..."
+[Student A/sta0016]"Haha...my hand... it's slopped in semen... \nIt very amazing..."
 
 [Student C/stc0003]"It smell... great"
 
@@ -195,10 +195,10 @@
 ;;CG02c
 @bgf bg=ev02c t=500
 
-[Student B/stb0008]"Uhm... mmmm"
+[Student B/stb0008]"Um... mummum"
 ;;「うっも……もむううっ」
 
-　She got caught in his cock
+　She tuck in his cock
 
 @se f=愛液1
 
@@ -207,12 +207,12 @@
 [Student B/stb0009]"Nff... I has worryed touching your dick... aahaaah... \nbut this is... sexy. And a bit... bitter"
 ;;「んふうう……くひの中れちんぽがビクビクしてりゅ……んはぁああ……これ……せーえきくしゃい。それにちょっと……苦い」
 
-[Student B/stb0010]"But... this bitterness is unbearable. \nAaahh... more... more... more... \nLet's taste it... Hummhuu"
+[Student B/stb0010]"But... this bitterness is irresistible. \nAaahh... more... more... more... \nLet's taste it... Hummhuu"
 ;;「れも……この苦味が堪らない……。はふうう……もっと……もっともっと……味わわしぇてもらうかりゃな……んふふふ」
 
 @se f=愛液1
 
-　While staying on the top of Al aggressivly, \nthe students laughed while she caught the dick \nstrongly cover with cum on her lips.
+　While staying on the top of Al aggressivly, \nthe students laughed while she tuck in the dick \nstrongly cover with cum on her lips.
 
 ;;CG02d
 @bgv f=fera_stb2
@@ -224,12 +224,12 @@
 
 @se f=愛液1
 
-　She start swinging the face forward and backward, \nshe used the oral cavity to treat his dick
+　She start swinging the face forward and backward, \nusing the oral cavity to treat his dick
 
 [Student B/stb0012]"It's like this... \nit's how dealt with by the dick, isn't it?"
 
 ;;Need Review
-[Teacher/kos0016]"Yeah, but it's useless to just treat it. \nBecause it's much pain doing in the mouth, \nジュルジュルと吸引するのも忘れてはいけません"
+[Teacher/kos0016]"That's right. But, it's no good just squeezing it only. \nBecause it is much trouble of doing it with the mouth, \ndon't forget to suck and breath"
 ;;「そうです。でも、ただ扱くだけでは駄目ですよ。折角口でしているのでうから、ジュルジュルと吸引するのも忘れてはいけません」
 
 ;;Need Review
