@@ -10,19 +10,19 @@
 @se f=衣擦れの音1
 ;;チャーム100%時
 
-[ユスティーナ/yst0001]「んふふ……どうしたの？　そんなにぼ～っとしちゃって。今自分がどんな状況かわかってるのかしら」
+[Justina/yst0001]"nfufu... What is it? Spacing out like that.\nI wonder if you understand the situation you're in."
 
-[アル]「……ぁ……ぅ……？」
+[Al]"... ah... uh...?"
 
 @se f=愛液1
 
-[ユスティーナ/yst0002]「お尻……肛門まで見えてるでしょ？　ぱっくり口だって開けちゃってる。おちんぽ欲しい、欲しいっていってるみたいでしょ？」
+[Justina/yst0002]"My butt... you can even see my anus, right?\nIt's gaping it's mouth open, too. It's like it's saying,\n'I want dick, I want it', right?"
 
-[ユスティーナ/yst0003]「今からアル君のおちんぽがここでいじめられちゃうんだよ？　逃げなくていいの？」
+[Justina/yst0003]"Al's dick is about to be bullied by this, you know?\nShouldn't you be escaping?"
 
 @se f=淫唇を開く音
 
-[ユスティーナ/yst0004]「ほ～ら、だんだん近づいてきて……」
+[Justina/yst0004]"See~, it's getting closer and closer..."
 
 ;;SE■グチュッという音
 ;;■CG08a
@@ -30,49 +30,49 @@
 @se f=愛液1
 @bgf bg=ev08a t=500
 
-[ユスティーナ/yst0005]「んっふ……はふんんっ……」
+[Justina/yst0005]"nnhfhu... haahnn..."
 
 @se f=愛液1
 
-[ユスティーナ/yst0006]「ほら、挟まれちゃった。お尻のワレメでおちんぽをギュッて…………どう？　気持ちいいかしら？」
+[Justina/yst0006]"Look, it got caught. It's squeezed by my butt crack...\nHow is it? Maybe it feels good?"
 
-[アル]「ぅ……ぅん……」
+[Al]"y-... yeah..."
 
-[ユスティーナ/yst0007]「そっかそっか……。でも、これくらいで満足しちゃ駄目よ。ほら、こんなことだってしてあげるんだから♪」
+[Justina/yst0007]"I see, I see... But, don't be sated by this much.\nHere, since I'll do this too. ♪"
 
 ;;SE■グチュグチュ音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[ユスティーナ/yst0008]「お尻……振られるのはどんな気分？　上下にくねくねって……んんん……お尻のワレメでおちんぽをシコシコ扱かれる気分はどうかなぁ？　あっあっあっ……」
+[Justina/yst0008]"My butt... How's it feel when I shake it? Wiggling up and\ndown... nnnh... How does it feel having your dick serviced\nby my butt crack rubbing it? Aaha-ahh..."
 
-[ユスティーナ/yst0009]「ワレメがおちんぽに吸い付いてるみたいで……気持ちいいでしょ？」
+[Justina/yst0009]"It's like my crack is sucking on your dick...\nIt feels good, right?"
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0010]「んっふ……はふんんっ！　んっふ……あふうう！　ふうっふうっふうっ……。」
+[Justina/yst0010]"nnnhfu... hafunh! nnfu... ahfuh! fuuhfuhfuhn..."
 
-[ユスティーナ/yst0011]「ふふ……本当に気持ち良さそう。お尻の間でおちんぽがビクビクッて……はぁ……はぁ……震えてるのが分かるわ」
+[Justina/yst0011]"Fufu... Seems like it really feels good.\nI can tell your dick is... haah... haah... twitching between\nmy butt cheeks."
 
 @se f=愛液1
 
-[ユスティーナ/yst0012]「先っぽからのお汁も凄い量ね。私がこうやって……んっんっ……お尻を振るたびにおちんぽからグチュッグチュって音が聞こえる。凄くイヤらしいわ」
+[Justina/yst0012]"There's an incredible amount of juice coming from your tip\ntoo, huh. Every time I... nh- nh-... shake my butt like\nthis I can hear a squelch sound. It's so indecent."
 
-[ユスティーナ/yst0013]「だから……もっと聞かせて。もっとあなたのエッチな音を……。ほら……ほら♪」
+[Justina/yst0013]"So... let me hear more. More of your lewd sounds...\nHere... come on. ♪"
 
 ;;SE■グチュグチュ音
 @se f=パイズリ・手コキ１ pitch=75
 
-[アル]「ああ…………駄……目……」
+[Al]"Aaah...... N-... o..."
 
-[ユスティーナ/yst0014]「駄目？　まだチャームが弱いのかしら。……まぁでも…………一度出させちゃえば……」
+[Justina/yst0014]"No? Maybe the charm is still weak.\n... But, well...... if I make you cum once..."
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[ユスティーナ/yst0015]「ほら、我慢なんかする必要ないわよ。私のお尻にキミのザーメンをビュルビュルって射精して♪」
+[Justina/yst0015]"Here, no need to hold back.\nSpurt your semen onto my butt, ejaculate. ♪"
 
-[ユスティーナ/yst0016]「先走り汁でぐっちょぐっちょになったお尻を、ザーメンでもっともっとグチャグチャにしてちょうだい。さぁ……ダシテ♪」
+[Justina/yst0016]"Drench my butt that's become wet from pre-cum,\nwith your semen, would you. Now... c-u-m. ♪"
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -81,25 +81,25 @@
 @bgv
 @fin bg=ev08b se=射精音
 
-[ユスティーナ/yst0017]「あふんんんっ……」
+[Justina/yst0017]"Ahfuuuhnnnh..."
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0018]「あっは……んはぁあああ……。出てる。ビュルビュルってザーメン沢山……。熱いのが……私のお尻にかかる」
+[Justina/yst0018]"Aaaha... nhaaaahaaah... It's coming out.\nLots of semen spurting... Hot stuff is... going onto my\nbutt."
 
-[ユスティーナ/yst0019]「んっふ……はふ……いいっ…………なかなか良い精液じゃない♪」
+[Justina/yst0019]"nnhfu... hafu... It's good...\nYour semen is quite nice isn't it. ♪"
 
-[ユスティーナ/yst0020]「はぁ……はぁ……はぁ……」
+[Justina/yst0020]"Aaah... Haah... Haahn..."
 
 @se f=愛液1
 
-[ユスティーナ/yst0021]「お尻……ザーメンでグチョグチョね。こんなに出すなんて……よっぽど気持ちがよかったのね」
+[Justina/yst0021]"My butt... it's soaked in semen, huh.\nCumming like that... it must have felt very good, huh."
 
-[アル]「…………」
+[Al]"......"
 
-[ユスティーナ/yst0022]「ふふ、顔がさっきよりも蕩けちゃってるわよ♪　……ほんとに、可愛くて、純情で……そして愚かね♪」
+[Justina/yst0022]"Fufu, Your face has gotten slacker that before. ♪\n... It's really, cute, naive... and dumb-looking, huh. ♪"
 
-[ユスティーナ/yst0023]「ご褒美にもっともっと感じさせてあげる。もっと気持ち良くして、私なしじゃ生きられない体にしてあげる」
+[Justina/yst0023]"As a reward, I let you feel it much more.\nI'll make you feel good, so your body won't be able to\nsurvive without me."
 
 @se f=パイズリ・手コキ１ pitch=75
 
@@ -108,21 +108,21 @@
 @bgf bg=ev08c t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[ユスティーナ/yst0024]「んふうう……。ほら、またこうやって……おちんぽグッチュグッチュ扱いてあげると、射精したばっかりのおちんぽにはすっごく刺激的でしょ？」
+[Justina/yst0024]"nhfuu... Here, when I service... your dick like this again,\nyou just came but it's very stimulating to your dick,\nright?"
 
-[ユスティーナ/yst0025]「お尻がたわむくらいの勢いで擦ってあげる。さっきまでよりきつくおちんぽ締めてあげる」
+[Justina/yst0025]"I'll rub with enough force to twist my butt.\nI'll squeeze your dick even tighter than before."
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0026]「精液……枯れるまで搾り取ってあげる。ほら……ほら……ほらっ！」
+[Justina/yst0026]"I'll... exract your semen until you wither.\nHere... come... onnn!"
 
 @se f=締め付ける
 
-[ユスティーナ/yst0027]「ほら、　こうやって……んんん！　強くおちんぽ締められたり……」
+[Justina/yst0027]"Come, like this... nnh! Squeezing your dick strongly..."
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0028]「それとも……こうやってグッチュグッチュって激しく擦られる方が気持ちいいかしら？」
+[Justina/yst0028]"Or... maybe rubbing it instensely with the wetness\nlike this feels better?"
 
 @se f=挿入音
 @flash t=500
@@ -136,29 +136,29 @@
 
 ;;SE■射精音
 ;;射精エフェクト
-[ユスティーナ/yst0029]「んっは……はふあっ！　んくううう！」
+[Justina/yst0029]"Nnnha... haafuah! nhkuuuh!"
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0030]「ふふふふっ……勢い余ってお尻に入っちゃった♪」
+[Justina/yst0030]"Fufufu... It slipped into my butt from the momentum. ♪"
 
-[ユスティーナ/yst0031]「サキュバスのお尻は気持ちいいでしょう？　それこそ止まらなくなるくらいに♪」
+[Justina/yst0031]"A succubus' butt feels great, right?\nSurely that's enough that you can't stop it. ♪"
 
 @fin bg=ev08d se=射精音
 
-[アル]「ぁ…………ぉ…………」
+[Al]"ah...... oh......"
 
 @se f=パイズリ・手コキ１ pitch=75
 
-[ユスティーナ/yst0032]「あぁ……この一気に精を吸い上げる感覚…………あはぁああ……」
+[Justina/yst0032]"Aah... this sensation of immediately sucking up cum...\nAhaaAah..."
 
-[ユスティーナ/yst0033]「んんっ……はぁん……まだ出続けているわね。　じゃあ、このまま枯れるまで、ず～っとお尻で咥えこんであげる♪」
+[Justina/yst0033]"nnnh... Haahn... You can keep cumming, huh.\nThen, like this until you wither, I'll engulf you in\nmy butt until then. ♪"
 
 @fade type=out t=1000 wt=1
 
 ;;暗転
 
-[ユスティーナ/yst0034]「朝から晩まで、何日も……ず～っとね♪」
+[Justina/yst0034]"From morning to night, for however many days...\nuntil then, kay. ♪"
 
 @rps
 @fade type=in t=1000 wt=1
