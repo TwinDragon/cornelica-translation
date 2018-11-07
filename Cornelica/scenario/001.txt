@@ -1,4 +1,4 @@
-﻿;;■01
+;;■01
 
 @bg f=black
 @fade type=in t=20 wt=1
@@ -6,20 +6,17 @@
 @bgm f=s-001
 
 @mes_win back=1 pos=1
-;;Need Review
-\CL\A \{Sex demon\}, the -Succubus- is,
+\CL\ \{Sex demons\}, the -Succubi- are,
 
-\CL\a \{fantastical\} being that lives by \{sucking\} human \{semen\}.
+\CL\ \{fantastical\} beings that live by \{drinking\}\nthe \{life energy\} of humans.
 
-\CL\It is said that \{somewhere\} in this \{world\}, 
-
-\CL\is a \{world\} where \{Sex demons\} live...
+\CL\ It is said that \{somewhere\} within this \{world\},
+\CL\ there is a \{living society\} of \{sex demons\}...
 
 @mes_win back=0 pos=2
 
 @fade type=out t=20 wt=1
 @rps
-
 
 
 
