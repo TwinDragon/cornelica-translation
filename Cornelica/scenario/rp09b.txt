@@ -8,47 +8,48 @@
 @bgf bg=ev09a t=1000 wt=0
 @bgv f=パイズリ・手コキ１ pitch=50 wt=0
 
-[ロザリー/lzr0048]「アル……きもちいい……？」
+[Rosalie/lzr0048]"Al... you feel good...?"
 
-　お酒を飲んだロザリーは、顔が赤くなり、普段とは別人のように饒舌になっている。
+　Rosalie had been drinking, her face was red, and as if\nshe were a different person, was more talkative.
 
 @se f=パイズリ・手コキ１ pitch=150 wt=0
 
-[ロザリー/lzr0049]「ほら……もっとおっぱいに甘えていいよ……♪　だから……もっと楽しませて」
+;; This line has a bit that isn't voiced.
+[Rosalie/lzr0049]"Here... You can keep being spoiled by my boobs... ♪\nSo... let me enjoy this more."
 
 ;;SE■ピストン音
 ;;CG09b
 @bgf bg=ev09b t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50 wt=0
 
-[ロザリー/lzr0050]「どう？　こうやって……グチュッグチュって擦られるの……いい？」
+[Rosalie/lzr0050]"So? Is being... rubbed like this... good?"
 
 @se f=パイズリ・手コキ１ pitch=150 wt=0
 
-[アル]「あっ、ぁああ……あっあっあっ」
+[Al]"Ah-, aaAah... Ah- ah- ah-"
 
-[ロザリー/lzr0051]「あっ……んんん……アルくん気持ち良さそう。おまんこでちんぽ擦られるの……簡単にイッちゃいそうなくらい……」
+[Rosalie/lzr0051]"Ah... nnhnh...\nYou look pleased. Like you'll cum easily from... having\nyour dick rubbed by my pussy..."
 
 @se f=パイズリ・手コキ１ pitch=150 wt=0
 
-[ロザリー/lzr0052]「いいよ……出して……ほら……ぎゅ～っ」
+[Rosalie/lzr0052]"It's fine... Let it out... Here... squeeeze~"
 
 ;;SE■射精音
 ;;射精エフェクト
 ;;CG09e
 @fin se=射精音 bg=ev09e
 
-[ロザリー/lzr0053]「はふぁああ……来た。んんんっ……。精液また……あっあっ……んんん……あったかいのが……いい」
+[Rosalie/lzr0053]"Hafuaaaah... It came. nnnh...\nSemen again... ah- ah-... nnh... the warmth is... good."
 
 @se f=パイズリ・手コキ１ pitch=150 wt=0
 
-[ロザリー/lzr0054]「はぁっはぁっはぁ……」
+[Rosalie/lzr0054]"Haahaahaaa..."
 
-[ロザリー/lzr0055]「……ん……眠い」
+[Rosalie/lzr0055]"... hmm... Tired."
 
-[ロザリー/lzr0056]「アル……？　寝ちゃった？」
+[Rosalie/lzr0056]"Al...? Fell asleep?\n... Then... sweet dreams..."
 
-[ロザリー/lzr0057]「じゃあ……おやすみ……」
+;; This was a voice line that repeated the end of the previous one.
 
 @fade type=out t=500 wt=1
 ;;暗転
