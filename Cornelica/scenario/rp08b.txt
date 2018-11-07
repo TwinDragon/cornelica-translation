@@ -11,40 +11,40 @@
 ;;SE■グチュグチュ音
 @se f=愛液1
 
-[アル]「……ぁああ！　これ……なんで、いきなり！」
+[Al]"... aAaah! This... why, all of a sudden!"
 
-[ユスティーナ/yst0035]「んんふぅ……サキュバスの誘いに軽々しくついていっちゃだめよ？　こわ～いお姉さんにたっぷり搾られちゃうかも♪」
+[Justina/yst0035]"nnfu... You shouldn't accept a succubus's invitation\nso lightly, you know?\nYou might get wrung out by a scary~ lady. ♪"
 
-[ユスティーナ/yst0036]「ほら……こんな風にっ！」
+[Justina/yst0036]"See... like this-!"
 
 @se f=締め付ける
 
-[ユスティーナ/yst0037]「どう？　お尻でギュッて締められながら、おちんぽをグチュッグチュって擦られるのは……気持ちいいでしょ？」
+[Justina/yst0037]"How is it? Your dick being rubbed sloppily,\nwhile squeezed in my butt... feels good, right?"
 
 @se f=パイズリ・手コキ１ pitch=100
 
-[ユスティーナ/yst0038]「これ……はぁああ……どんどん……私がお尻を振るたびにどんどんおちんちんが大きくなってるわ……」
+[Justina/yst0038]"This is... Haaaah... getting... Every time move my hips,\nyour penis is getting bigger and bigger..."
 
 @se f=パイズリ・手コキ１ pitch=125
 
-[ユスティーナ/yst0039]「出して……ほら……んっんっんっ……私にキミのザーメンの熱を感じさせてちょうだい♪」
+[Justina/yst0039]"Cum... Come on... nh- nh- nh...\nLet me feel the heat of your semen in me, would you. ♪"
 
 ;;SE■射精音
 ;;射精エフェクト
 @bgv
 @fin bg=ev08b se=射精音
 
-[ユスティーナ/yst0040]「んふううっ……あっあっ……はぁあああ……んふぅうう……」
+[Justina/yst0040]"nffuu... ah- ah-... Haaaah... nghfuuuh..."
 
 @se f=パイズリ・手コキ１ pitch=100
 
-[ユスティーナ/yst0041]「はぁ……はぁ……はぁ……凄い量……お尻……ザーメンでぐっちょぐちょね」
+[Justina/yst0041]"Haah... haah... haah...\nSo much... my butt... is dripping with semen, huh."
 
 @se f=愛液1
 
-[ユスティーナ/yst0042]「んふふ…………この熱と臭い……凄くいいわ……」
+[Justina/yst0042]"nfufu... This heat and smelll... is really nice..."
 
-[ユスティーナ/yst0043]「沢山出してくれてありがとうね♪」
+[Justina/yst0043]"Thanks for cumming lots for me. ♪"
 
 ;;暗転
 @fade type=out t=1000 wt=1
