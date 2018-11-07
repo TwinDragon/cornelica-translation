@@ -7,26 +7,26 @@
 
 @se f=衣擦れの音1
 
-[アル]「……っ！？」
+[Al]"...-!?"
 
-[リリィ/rry0116]「アルの、おちんちんビクビクしてる……」
+[Lily/rry0116]"Al, your penis is twitching..."
 
 @se f=締め付ける
 @qk
 
-[アル]「…………っ？」
+[Al]"......?"
 
-[リリィ/rry0117]「……ねぇ……ママともう一度勝負するみたいだけど……」
+[Lily/rry0117]"... Hey... it seems like you're going to challenge\nMama again but..."
 
-[リリィ/rry0118]「本当は帰るためとかじゃなくて……また、ママとエッチしたいからそんな勝負受けたんでしょ……？」
+[Lily/rry0118]"It's not actually so that you can go home...\nYou accepted because you want to have sex with Mama again,\nright...?"
 
-[アル]「え…………？」
+[Al]"Huh......?"
 
-[リリィ/rry0119]「嘘……本当はこうやってママにおちんちんシコシコ弄られたいんだ……」
+[Lily/rry0119]"Liar...\nYou really want Mama to tease your penis like this..."
 
 @se f=愛液1
 
-[アル]「えっ、あっ！？」
+[Al]"Hu-, Ah!?"
 
 ;;CG16a
 @bgf bg=ev16a t=500 wt=0
@@ -34,21 +34,21 @@
 
 @se f=愛液1
 
-　足の指で器用にズボンを脱がし、肉茎を挟み込んでくる。もちろん、ただ挟むだけではなく、シコシコと扱くような行為まで……。
+　With her toes she dextrously undid my zipper, and held\nmy cock between her feet.\nOf course, she also began to stroke it...
 
 @se f=愛液1
 
-[リリィ/rry0120]「……おちんちん……すっごく震えてる。ビクッビクッて……それに、足が火傷しちゃいそうなくらい熱くなってる……」
+[Lily/rry0120]"... Your penis... is trembling so much.\nIt's going 'twitch twitch'... and, it's getting so hot that\nmy feet feel like they'll burn..."
 
-[リリィ/rry0121]「まだ、ちょっとしか弄ってないのに……ママとのエッチ……思い出しちゃってるんでしょ……？」
+[Lily/rry0121]"Even though I've only teased it a little...\nYou're remembering... having sex with Mama, arent you...?"
 
-[アル]「ぇ……？　ヴァネッサさんのことを思い出してなんか……」
+[Al]"eh...? I couldn't be thinking of Vanessa-san while-..."
 
 @se f=愛液1
 
-[リリィ/rry0122]「嘘だもん……！　だってママとエッチしてた時、アル……すっごくデレデレしてたっ、本当は、ママのこと……好きになっちゃったんでしょ！」
+[Lily/rry0122]"You lie...!\nBecause when you had sex with Mama, you... looked lovestruck,\nyou actually fell... in love with Mama, didn't you!"
 
-[リリィ/rry0123]「ママにまた、いっぱい絞り取られたいって……たくさん気持ち良くしてもらいたいって、そう思っちゃったんでしょっ？　ほら、ほらっ！」
+[Lily/rry0123]"You thought 'I want to be squeezed by Vanessa-san again'...\n'I want to feel good more', didn't you? See, see!"
 
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=70
@@ -57,15 +57,15 @@
 @flash t=1000 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-　肉棒の先端から汁が溢れ出し、リリィの足に絡みつく。グチュグチュという淫靡な音色が響き始めた。
+　Liquid flowed from the tip of my meat pole, clinging\nto Lily's feet. Obscene squelches began to resound.
 
-[リリィ/rry0124]「ふっ、んっ、もう、先っぽからももう汁が出てる……ママの話されて興奮してるんだっ」
+[Lily/rry0124]"Fuuh, nh, Already, liquid's coming from the tip...\nTalking about Mama is getting you turned on."
 
-[アル]「ちっ、が……！」
+[Al]"That's-, wro-...!"
 
 @se f=愛液1
 
-[リリィ/rry0125]「むぅうっ……！　ほらっ！　んっ…んっ…！　んぅ……っ！　私だって……私だって……アルをいっぱい興奮させられるんだからぁ……！」
+[Lily/rry0125]"Grrrr...! See! nh-... nh-...! nuh...!\nBecause I... even I... can make Al plenty excited...!"
 
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=70
@@ -74,9 +74,9 @@
 @flash t=1000 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-　グッチュグッチュグッチュという音色が大きくなっていく。それに比例するように射精衝動もわき上がって来る。抗いがたいほど強烈な快感だった。
+　The squelch squelch sound got louder.\nAlso, the impulse to ejaculate rose proportionally.\nThe pleasure was so strong that it was painful to resist.
 
-[リリィ/rry0126]「ほら！　ほらっ！　出して……！　はぁっはぁっはぁっはぁっはぁっ！　ふっ…んっ…ぅ……っ！」
+[Lily/rry0126]"Come! Come on! Let it out...!\nHaahaahaahahah! Fuh... nh... uh...-!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -84,17 +84,17 @@
 
 @fin bg=ev16b se=射精音
 
-[リリィ/rry0127]「んっ……！　……はぁあああ……」
+[Lily/rry0127]"Nnnh...! ... HaaAaah..."
 
 @se f=愛液1
 
-　白濁液が溢れ出す。リリィの足を精液でグチャグチャのドロドロに濡らした。
+　White cloudy fluid overflowed.\nLily's feet were covered wetly with semen.
 
-[リリィ/rry0128]「はぁ……はぁ……沢山出たね……私の足……ドロドロ……それに凄く熱い……」
+[Lily/rry0128]"Hah... haah... Lots came out...\nMy feet... are covered... and it's incredibly hot..."
 
 @se f=愛液1
 
-[リリィ/rry0129]「でも……こんな程度じゃまだまだだよ。もっと……もっと搾り出してあげるんだから！　ママよりも沢山搾るんだから！」
+[Lily/rry0129]"But... this isn't enough yet.\nMore... I'll squeeze out more from you!\nBecause I'll wring out even more than Mama!"
 
 ;;SEグチュグチュ音
 ;;CG16c
@@ -105,64 +105,64 @@
 @bgf bg=ev16c t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
-　休む間など与えないとばかりに、再び足が動き出す。萎えることなく勃起し続ける肉槍をまたしても扱き始めてきた。
+　Just before I had time to rest, she once again began moving\nher feet. Not giving my fleshy rod a chance to wither,\nshe again began to stroke it.
 
 @se f=愛液1
 
-[アル]「ま、って！　……っ、ぁっ！？　少し……まっ、って……！」
+[Al]"Wa- it! ... -, ah-!? Wa- it... a bit...!"
 
-[リリィ/rry0130]「いやっ！　ママとだって連続でしてたもんっ！　だから……絶対やめないんだから！」
+[Lily/rry0130]"Noo! You even kept on with Mama! So...\nSo I definitely won't stop!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　グッチュグッチュグッチュ――という淫靡な音色が響く程の勢いで肉棒を繰り返し扱いてくる。
+　The obscene squelch squelch sound echoed from the force of\nher repetetive strokes.
 
-[リリィ/rry0131]「んっ……！　こう？　これいいの？　んっふ……くふうう……ふうっふうっ……んふううっ」
+[Lily/rry0131]"Nh...! Like this? Is this good? nnhfuh...\nkhfuuh... fuufuuh... nfuuh"
 
 @se f=愛液1
 
-[アル]「あっ！　くっ……ぃ……っ！？」
+[Al]"Ah! -um... cu-...!?"
 
-[リリィ/rry0132]「また、射精そうなのっ……？　いいよっ、ほらっ！　出して……！　私にアルの精液をぶっかけて……！」
-
-@se f=愛液1 pitch=70
-@se f=パイズリ・手コキ２ pitch=150
-@se f=締め付ける pitch=150
-@flash t=1000 wt=0
-
-[リリィ/rry0133]「んっんっんっんっんっ！」
-
-　更にリリィは激しく足でペニスを扱いてきた。
+[Lily/rry0132]"Gonna, cum again...? Go on, come! Cum...!\nSplash your semen all over me...!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　快感が弾け、視界が白に染まり――
+[Lily/rry0133]"Nh- nh- nh- nhuh!"
+
+　Lily once again roughly stroked my penis.
+
+@se f=愛液1 pitch=70
+@se f=パイズリ・手コキ２ pitch=150
+@se f=締め付ける pitch=150
+@flash t=1000 wt=0
+
+　The pleasure burst, and my vision went white――
 
 ;;CG16d
 @se f=射精音
 @fin bg=ev16d se=射精音
 
-[アル]「……ぁっ……ぅ、ぁぁぁ……」
+[Al]"... ah... uh, aaah..."
 
 @se f=愛液1 pitch=70
 
-　一回目よりも大量の精液を撃ち放った。
+　An even larger amount of semen than the first time shot out.
 
-[リリィ/rry0134]「凄い量……ああ……熱い……。んっふ……はふぅうう……」
+[Lily/rry0134]"Soo much... Aah... it's hot... nnfu... hafuuuh..."
 
-　白濁液を嫌がることなく受け止めてくれる。
+　She accepted the white sticky fluid willingly.
 
 @se f=愛液1 pitch=70
 
-　強くペニスを足で挟み、圧迫しながら……。
+　She strongly held my penis with her feet while squeezing...
 
-　そんな彼女に対し、まるで失禁でもしているかのような勢いで、アルはひたすら精液を撃ち放ち続けた。
+　For this girl, with momentum as if he'd lost the ability\nto hold it in, Al fervently kept shooting semen.
 
 @fade type=out t=1000 wt=1
 @rps
