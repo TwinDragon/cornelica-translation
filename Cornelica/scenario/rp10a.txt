@@ -8,115 +8,115 @@
 
 @bgf bg=ev10 t=1000 wt=1
 
-　裸にされてしまった。その上拘束まで……。
+　I'm stripped down. Moreover, restrained even...
 
-[ヴラスタＡ/abt0001]「……危険な武器……発見できず」
+[Vlasta A/abt0001]"... Dangerous weapons... Not found."
 
-[ヴラスタＢ/bbt0001]「……武器はないが危険性ゼロとは判断できません。身体能力で城の者に害を与える可能性もあります」
+[Vlasta B/bbt0001]"... No weapons but cannot judge that there is zero risk.\nThere remains a possibility that he may cause harm to\ncastle residents with physical strength."
 
-[ヴラスタＡ/abt0002]「……これより無力化を開始します」
+[Vlasta A/abt0002]"... Now beginning neutralization."
 
 @se f=淫唇を開く音
 
-　ペニスにヴラスタの掌が触れる。
+　I feel the Vlasta's palm on my penis.
 
-[ヴラスタＡ/abt0003]「……陰茎に接触」
+[Vlasta A/abt0003]"... Penis contacted."
 
 @se f=締め付ける
 @qk
 
-[アル]「やだ……踏まないで……！」
+[Al]"Nooo... don't step on me...!"
 
-[ヴラスタＡ/abt0004]「却下。これは貴方を無力化するために必要な行為です」
+[Vlasta A/abt0004]"Denied. This is a necessary action to neutralize you."
 
-[ヴラスタＢ/bbt0002]「雄は射精の際、多量の体力を消費します。精液を数回、十数回、数十回と絞り取り、対象を無力化致します」
+[Vlasta B/bbt0002]"When males ejaculate, much strength is expended.\nSqueezing out ejaculations several, ten, or tens of times,\nwill neutralize the target."
 
-[ヴラスタＡ/abt0005]「刺激を加えます……。掌で陰嚢を刺激し、陰茎を扱く……」
+[Vlasta A/abt0005]"Applying stimulation...\nStimulating the scrotum by palm, and stroking the penis..."
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-　触れてくるだけではない。ゆっくりと、ねっとりと、掌を巧みに扱い刺激し始めて来た。
+　She did not only make contact. She slowly, carefully,\nstarted stimulating, handling her palm skillfully.
 
-[ヴラスタＢ/bbt0003]「我慢は無駄な行為です。貴方は陰茎を勃起させればいい」
+[Vlasta B/bbt0003]"Enduring is a futile act.\nYou should let your penis stand erect."
 
-[ヴラスタＡ/abt0006]「……肉先を指で刺激します」
+[Vlasta A/abt0006]"... Stimulating the fleshy tip with a finger."
 
 @se f=パイズリ・手コキ２ pitch=150
 
-[ヴラスタＢ/bbt0004]「陰茎の発熱を確認。更に膨張も――」
+[Vlasta B/bbt0004]"Temperature rise in penis confirmed. Swelling, also――"
 
 ;;CG10a
 @bgf bg=ev10a t=500 wt=1
 
-[ヴラスタＡ/abt0007]「確認しました。肉茎が動悸し、陰嚢より熱源が上昇。精液と想定……。これを搾り出します」
+[Vlasta A/abt0007]"Confirmed.\nFlesh stalk throbbing, heat source rising from scrotum.\nAssumed to be semen... Squeezing it out."
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=75
 
-　淡々と自身が取る行動を口にしつつ、肉棒を扱き始めて来た。
+　While indifferently narrating their own actions,\nshe began to wring out my cock.
 
-[ヴラスタＡ/abt0008]「……搾精を続行。根元から先端まで、陰茎を上下に刺激します。刺激は強すぎず、弱すぎず……。締めつけすぎない程度に握り……優しく……」
+[Vlasta A/abt0008]"... Continuing extraction. From base to tip, stimulating\nthe penis up and down. Stimulation isn't too strong or\ntoo weak... Grasping without crushing... gently..."
 
 @se f=愛液1
 
-　しなやかな指でシコッシコッとペニスを上下に擦られると、それだけで全身がビクビクと震えてしまう。
+　Just having my penis rubbed thoroughly up and down by her\nsupple fingers caused my whole body to twitch and tremble.
 
-[ヴラスタＢ/bbt0005]「刺激に合わせて腰の痙攣を確認しました。同様に陰茎も痙攣――」
+[Vlasta B/bbt0005]"Confirmed hips convulsing to match stimulation.\nSimilarly, the penis is also convulsing――"
 
-[ヴラスタＡ/abt0009]「性感の証拠と推察。射精感の上昇も確認。更なる愛撫を続けます」
+[Vlasta A/abt0009]"Conjectured as evidence of pleasure.\nAlso confirmed feeling of ejaculation rising.\n Continuing further caresses."
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ pitch=150
 
-[ヴラスタＢ/bbt0006]「……肉棒の先端、尿道口より体液の分泌を確認。尿道球腺液――カウパー汁と推察」
+[Vlasta B/bbt0006]"... At the tip of the cock, confirmed secretion of bodily\nfluids from the urethral opening.\nUrethral gland fluid―― assumed to be Cowper's fluid." 「……肉棒の先端、尿道口より体液の分泌を確認。尿道球腺液――カウパー汁と推察」
 
-[ヴラスタＢ/bbt0007]「過去のデータより……男を昂奮させるのであれば……これより、尿道球腺液をちんぽ汁と呼称します」
+[Vlasta B/bbt0007]"From past data... occurs when men are aroused...\nFrom here on, urethral gland fluid will be called\ndick liquid."
 
 @se f=愛液1
 
-　淡々としつつも露骨な言葉を口にしてくる。そのギャップに更に興奮が高まっていくのを感じた。
+　They remained indifferent while speaking explicit words.\nI felt that gap further increased my arousal.
 
-[ヴラスタＡ/abt0010]「ペニスの更なる肥大化を確認。……ちんぽ汁呼称で興奮している模様。更に畳みかける」
+[Vlasta A/abt0010]"Further hypertrophy of the penis confirmed.\n... Pattern suggest further arousal due to designation\ndick liquid. More information to follow."
 
-[ヴラスタＡ/abt0011]「ヌルヌルした感触……行為続行。粘液塗れの手でペニスを扱く……」
+[Vlasta A/abt0011]"Feeling became slippery... act continues.\nStroking penis with hand wet from viscous fluid."
 
 @se f=パイズリ・手コキ２ pitch=150
 
-　グッチュグッチュという下品な音色が響いてしまうことも厭わない。肉棒全体を先走り汁でヌルヌルに濡らしてきた。
+　They gave no pause even as a vulgar squelching sound\nreverberated.\nMy whole cock was coated in pre-cum.
 
-[ヴラスタＡ/abt0012]「ペニスを扱きつつ……いや、呼称変更。より興奮を高めるため、ちんぽと発声」
+[Vlasta A/abt0012]"While wringing the penis... No, changing designation.\nTo raise arousal, now calling it a dick."
 
-[ヴラスタＡ/abt0013]「ちんぽを扱く……。扱きつつ、上目遣いでターゲットを確認。ターゲットを視認しつつ、擬音を発声します」
+[Vlasta A/abt0013]"Wringing dick... While wringing, checking the target by eye.\nWhile viewing the target, speaking onomatopoeia."
 
 ;;SEグチュグチュ音
 @flash t=300 wt=0
 @se f=パイズリ・手コキ２ pitch=150
 @bgv f=パイズリ・手コキ３ pitch=100
 
-[ヴラスタＡ/abt0014]「ぐっちゅぐっちゅ……ちんぽをぐっちゅぐっちゅ……。どうですか？　気持ちが良いですか？」
+[Vlasta A/abt0014]"Squelch squelch... squelch squelching the dick...\nHow is it? Does it feel good?"
 
-　自分の口でグッチュグッチュなどと発音する。本来ならばあり得ないことだ。しかし、そんなところに劣情が刺激される。
-
-@se f=パイズリ・手コキ２ pitch=150
-
-[ヴラスタＢ/bbt0008]「ちんぽの更なる発熱を確認。また、肥大化も確認。亀頭……搾精開始時より膨張。ちんぽ汁が白濁化してきました」
-
-[ヴラスタＢ/bbt0009]「射精が近いものと推察。要確認」
-
-[ヴラスタＢ/bbt0010]「精液……精液をビュルビュル射精しそうなのですか？」
-
-[アル]「うぅ……そ、そんなの……わからない……」
+　She pronounced squelch squelch with her own mouth.\nNormally it would be unthinkable.\nHowever, it stimulated my carnal desire.
 
 @se f=パイズリ・手コキ２ pitch=150
 
-[ヴラスタＡ/abt0015]「ターゲットの言葉、真偽確認を開始。よりちんぽを扱く……ぐちゅぐちゅ……しこしこ……」
+[Vlasta B/bbt0008]"Further rise in dick temperature confirmed. Hypertrophy\nalso confirmed. Glans... expanded since extraction started.\nDick liquid has turned white and cloudy."
 
-[ヴラスタＢ/bbt0011]「射精……直前と推察。器具の準備を開始」
+[Vlasta B/bbt0009]"Conjectured ejaculation is close. Confirm amount."
 
-[ヴラスタＡ/abt0016]「精液は淫魔にとっての食事。無駄にはできません。故に――」
+[Vlasta B/bbt0010]"Semen...\nDoes it feel like you will spurt ejaculating semen?"
+
+[Al]"Uuh... Th-, that's... don't know..."
+
+@se f=パイズリ・手コキ２ pitch=150
+
+[Vlasta A/abt0015]"Target's words, start authenticity check.\nWring penis more... squelch squelch... rub rub..."
+
+[Vlasta B/bbt0011]"Ejaculation... conjectured to be very soon.\nBegin preparing equipment."
+
+[Vlasta A/abt0016]"Semen is food to sex demons. It cannot go to waste.\nConsequently――"
 
 ;;器具装着音
 ;;CG10b
@@ -125,34 +125,34 @@
 @se f=パイズリ・手コキ２ pitch=150
 @bgf bg=ev10b t=500
 
-　肉棒に器具が取り付けられる。器具の内部が肉棒にグジュッと吸い付いてくるのを感じた。
+　A device is put on my cock.\nI felt the inside of the suction onto my cock with a small\nwhumpf.
 
-[ヴラスタＢ/bbt0012]「搾精用バキューム器です。これにより貴方の精液を吸引します」
+[Vlasta B/bbt0012]"This is the vaccum for extraction.\nThis will now suck in your semen."
 
-[ヴラスタＢ/bbt0013]「起動」
+[Vlasta B/bbt0013]"Activating."
 
-　慈悲などない。
+　They show no compassion.
 
 ;;SE吸引音
 @se f=吸引音1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=110
 
-　ヴラスタの持つ機械により、ペニスが激しく吸われる。
+　My penis is sucked intensely by the machine the Vlasta holds.
 
-[ヴラスタＢ/bbt0014]「ちんぽ吸引を開始します。バキューム器内部の人口襞で締めつけつつ、亀頭を吸う。精液を最後の一滴まで吸い出します」
+[Vlasta B/bbt0014]"Beginning dick suction.\nWhile folds inside the vaccum entrance squeeze, sucking on\nthe glans. Sucking out semen to the last drop."
 
 @se f=愛液1
 
-[ヴラスタＢ/bbt0015]「多少バキューム器よりちんぽ汁漏れを確認……失態。吸引力を引き上げます」
+[Vlasta B/bbt0015]"Confirmed some dick liquid leaking from vaccum... error.\nIncreasing suction power."
 
 @se f=吸引音1 pitch=125
 
-　言葉と共に吸引力を上げて来る。
+　Along with her words the sucking increased.
 
-[ヴラスタＡ/abt0017]「……ターゲットを興奮させるため、口調を変更すべきと判断致しました。過去のデータよりパターンを算出。口調を変更いたします。」
+[Vlasta A/abt0017]"... To arouse target, a change in tone has been proposed.\nCalculating pattern from past data.\nChanging tone."
 
-[ヴラスタＢ/bbt0016]「出せ。射精しろ。精液をドクドク流し込め。ほら、こうやってシコシコもしてやる。だから……出せ。ドビュドビュと撃ち放て」
+[Vlasta B/bbt0016]"Cum. Ejaculate. Gush your semen inside.\nHere, I'll rub it like this. So... cum.\nShoot it out with a splurt splurt."
 
 @se f=愛液1
 
@@ -160,13 +160,13 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-　ジュッボジュッボと吸引しつつ肉棒を扱いてくる。
+　She wrung my cock while it was being loudly suctioned.
 
-[ヴラスタＢ/bbt0017]「出せ」
+[Vlasta B/bbt0017]"Cum."
 
 @se f=愛液1
 
-　抗えるはずがなかった。肉悦が爆発し――
+　There was now way I could have resisted.\nThe pleasure exploded――
 
 ;;SE射精音
 ;;射精エフェクト
@@ -174,37 +174,37 @@
 @bgv
 @fin bg=ev10c se=射精音
 
-[ヴラスタＡ/abt0018]「射精……確認」
+[Vlasta A/abt0018]"Ejaculation... confirmed."
 
-　白濁液を撃ち放った。
+　White cloudy liquid flew out.
 
 @se f=パイズリ・手コキ１ pitch=150
 
-[ヴラスタＡ/abt0019]「ドクドクと肉茎が痙攣しています。尿道口から精液が噴出している、バキューム器に多量の精液が流れ込んで来ます」
+[Vlasta A/abt0019]"Flesh stalk is convulsing with a gush.\nSemen is squirting from the urethral opening, a large amount\nof semen is pouring into the vaccum receptacle."
 
-[アル]「あぁあああ……」
+[Al]"AaaAaah..."
 
 @se f=パイズリ・手コキ１ pitch=150
 @flash t=300
 
-　強すぎる性感で意識が飛びそうになる。
+　The pleasure is so strong I feel like my consciousness\nmight escape me.
 
-[ヴラスタＢ/bbt0018]「射精に同調してターゲットのエナジー低下を確認。が、まだ許容レベルです。危険度低下とは言い難い。故に……搾精続行します」
+[Vlasta B/bbt0018]"Confirmed target's energy declined with ejaculation.\nRemains above allowable levels. Difficult to say degree of\nrisk has declined. Consequently... continuing extraction."
 
-　だが、許してはもらえない。
+　But, I am not excused.
 
 ;;SE吸引音
 @se f=吸引音1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=110
 
-　休む間など与えないとでもいうように、より強く肉槍を吸い上げてきた。
+　Without giving me even a moments break,\nthey sucked more strongly.
 
-[ヴラスタＢ/bbt0019]「さぁ、出せ……もっと……もっとだ」
+[Vlasta B/bbt0019]"Now, cum... More... some more."
 
 @se f=パイズリ・手コキ２ pitch=150
 
-　絶頂感に絶頂感が重なり――
+　The feeling of climax redoubles――
 
 ;;SE射精音
 ;;射精エフェクト
@@ -212,39 +212,39 @@
 @fin bg=ev10d se=射精音
 
 ;;CG10d
-[アル]「うぅっ、あぁぁあああ！」
+[Al]"Uuuh-, AaaaAaah!"
 
-　射精しながら射精することとなった。
+　I started to ejaculate while ejaculating.
 
-[ヴラスタＡ/abt0020]「射精第二陣……確認」
+[Vlasta A/abt0020]"Ejaculation second stage... confirmed."
 
-[ヴラスタＢ/bbt0020]「射精量……第一陣の二倍。痙攣度も増幅。ドクドク……」
+[Vlasta B/bbt0020]"Ejaculation amount... double the first.\nConvulsions also amplified. Gush gush..."
 
-[ヴラスタＡ/abt0021]「更なるエナジー低下を確認。……問題ないレベルと判断」
+[Vlasta A/abt0021]"Further energy decline confirmed.\n... Determined at non-problematic level."
 
-[ヴラスタＢ/bbt0021]「搾精、続行します……」
+[Vlasta B/bbt0021]"Exraction, continuing..."
 
 ;;吸引音
 @se f=吸引音1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=110
 
-　また吸われる。ひたすら吸い出される。
+　I'm being sucked again. They would intently drain me dry.
 
-[ヴラスタＢ/bbt0022]「…………………………」
+[Vlasta B/bbt0022]"................"
 
-[ヴラスタＢ/bbt0023]「バキュームタンク……許容量、限界……」
+[Vlasta B/bbt0023]"Vaccum tank... allowable amount, at limit..."
 
 @bgv
 @se f=パイズリ・手コキ１ pitch=150
 
-[アル]「あっあっ……もう……」
+[Al]"Ah-ah-... Can't..."
 
-[ヴラスタＡ/abt0022]「事実と判断。射精停止を確認」
+[Vlasta A/abt0022]"Determined truth.\nConfirmed ejaculation suspended."
 
-[アル]「無理……もう……しん……じゃう……」
+[Al]"Can't... go on... I'll... die..."
 
-　脱力感の中で、意識を手放す……。
+　Feeling weak, I lose my grip on consciousness...
 
 @fade type=out t=250
 @rps
