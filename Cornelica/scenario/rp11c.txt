@@ -1,75 +1,77 @@
 ;;■ECG11C
 ;;■空き家
 
+;; This scene seems to be an unused leftover with no sfx, effects, or bgm, but it has voice lines so I TL'd it anyway.
+
 ;;CG11b
-[アル]「って……え！？」
+[Al]"uh... Huh!?"
 
-[不良サキュバス/fsc0084]「ん？　ああ……はぁっはぁっはぁっ……んっは……はふぅうう……ようやく……うくうう……目が覚めたみたいだな」
+[Succubus Delinquent/fsc0084]"Hm? Aah... Haa-haa-haah... nnha... hafuuh...\nSeems you've... ukuuh... finally awoken, huh."
 
-[アル]「覚めたみたいって……え？　なに……これ……なにっ！？」
+[Al]"Awoken... huh? What... this is... What!?"
 
-[不良サキュバス/fsc0085]「何って……んっは……あふぁああ……あんっあんっあんっ……セックス。んふう……セックスに決まってるだろ？」
+[Succubus Delinquent/fsc0085]"What, you say... nnha... afuaAah... ahn-ahn-ahn... it's sex.\nnfuuh... It's obviously sex, right?"
 
-[不良サキュバス/fsc0086]「うあっ！　このちんぽ……思ったよりもずっといい」
+[Succubus Delinquent/fsc0086]"Uah! This dick... so much better than I thought."
 
-[アル]「セックスって……それは……え？」
+[Al]"Sex... that's... huh?"
 
-[不良サキュバス/fsc0087]「セックスを知らないのか？　こうやって……ちんぽをまんこに挿入れて……ジュブッジュブッて腰を振り合うことだよ」
+[Succubus Delinquent/fsc0087]"You don't no what sex is?\nLike this... you put the dick in the pussy... and swing\nyour hips together, you know."
 
-[アル]「それは知ってますよ。知ってますけど……僕がいいたいのはそういうことじゃなくて……どうしてこんなことに！？」
+[Al]"I know that.\nI know but... that's not what I want to ask...\nWhy is this happening!?"
 
-[不良サキュバス/fsc0088]「そんなの決まってるだろ。お前がここに寝てたからだよ」
+[Succubus Delinquent/fsc0088]"That's obvious right. Because you were sleeping here."
 
-[不良サキュバス/fsc0089]「目の前にご馳走が落ちてたら、誰だって食べたくなるだろ」
+[Succubus Delinquent/fsc0089]"If a feast fell right in front of you, anyone would want\nto eat it right."
 
-[アル]「食べたくって……僕は……食べ物なんかじゃ！」
+[Al]"Want to eat... I'm... not some kinda food!"
 
-[不良サキュバス/fsc0090]「いいや……お前はあたしのエサだ。だから諦めろ……ほら……いくぞ！」
+[Succubus Delinquent/fsc0090]"No... you're my food. So give up... come... here we go!"
 
 ;;SE■ピストン音
-[不良サキュバス/fsc0091]「もっとだ！　んっは……はふあっ！　んっく……あっあっあっあっあっ！」
+[Succubus Delinquent/fsc0091]"More! nnha... hafuah! nnkuh... ah-ah-ah-ah-ah!"
 
-[不良サキュバス/fsc0092]「もっと激しく腰を振ってやる。もっときつくまんこで締めつけてやる！」
+[Succubus Delinquent/fsc0092]"I'll sway my hips more intensely.\nSqueeze my pussy tighter!"
 
-[不良サキュバス/fsc0093]「どうだ？　襞の一枚一枚でちんぽを締めつけられる気分は……。ぎゅううって……はぁっはぁっはぁっ……きつく搾られる気分は……」
+[Succubus Delinquent/fsc0093]"How is it? Your dick being squeezed by each of my folds...\nThe feel of... haa-haa-haah... being tightly held..."
 
-[不良サキュバス/fsc0094]「射精したくなってくるだろ？　あたしに膣中出ししたくなってくるだろ？」
+[Succubus Delinquent/fsc0094]"Makes you want to ejaculate, right?\nYou want to come inside my vagina, right?" 「射精したくなってくるだろ？
 
-[アル]「そんな……そんなことは……」
+[Al]"That... that's..."
 
-[不良サキュバス/fsc0095]「否定なんかしても無駄だぞ。お前は射精したがってる。ザーメンをお漏らしするみたいにぶちまけたいって思ってる」
+[Succubus Delinquent/fsc0095]"Even denying it is pointless. You want to ejaculate.\nYou're thinking, 'I want to blow out semen like I'm peeing.'"
 
-[不良サキュバス/fsc0096]「その証拠に……んくうっ……あふあっ！　んふうう……どんどん……ああっ……どんどん大きくなってるぞ」
+[Succubus Delinquent/fsc0096]"As proof... nkuuh... afuah! nfuuh...\nYou're-... Aah... you're getting bigger and bigger."
 
-[不良サキュバス/fsc0097]「あたしの膣中で……ちんぽ……どんどん膨れあがらせてる。これ……もう……んんんっ……出したくて出したくて仕方ないって感じだ」
+[Succubus Delinquent/fsc0097]"Inside my vagina... your dick... is swelling more and more.\nThis... is already... nnnh... that\n'wanna cum, wanna cum, can't be helped,' feel."
 
-[不良サキュバス/fsc0098]「遠慮なんかする必要ないぞ。あたしも……そろそろ……ズンズンってちんぽで子宮突かれるの気持ち良くて……もう……ああ……もうっ！」
+[Succubus Delinquent/fsc0098]"No need to hold back, ya know.\nI'm about... at that... throbbing uterus being poked by a\ndick feels so good I... can't... Aah... can't!"
 
-[不良サキュバス/fsc0099]「い……く……んくうう！　イクから……だからお前も早く……はぁああ……精液ぶちまけ……」
+[Succubus Delinquent/fsc0099]"Cu-... mm-... ing! I'll cum... so you too, hurry...\nhaaAah.. and blow your load-..."
 
-[アル]「あああ！　駄目！　我慢できないっ！！」
+[Al]"Aaah! Can't! I can't endure!!"
 
-[不良サキュバス/fsc0100]「さぁ、来いっ！　今までよりももっときつく締めてやる。ちんぽを搾ってやる！　だから……さぁ、出せ！　射精しろ！」
+[Succubus Delinquent/fsc0100]"Then, come! I'll squeeze even more than ever.\nI'll hold your dick tight! So... now, cum! Ejaculate!"
 
-[アル]「これ……なんか……流れ込んで来る！！　魔力？　サキュバスの？　駄目……ああなんか……気持ちいいの強くなって……出る！　出るううう！」
+[Al]"This... something's... flowing up!! Magic? A succubus's?\nNo... aah somehow... good feeling getting stronger... coming!\nComing!"
 
 ;;SE■射精音
 ;;射精エフェクト
 ;;CG11c
-[不良サキュバス/fsc0101]「うっは……んはぁああ！　あっあっ……はぁああああ！」
+[Succubus Delinquent/fsc0101]"Uuha... nhaaAah! Ah-ah-... haaAaaah!"
 
-[不良サキュバス/fsc0102]「出てる。すげぇ量だ！　んくう……熱い。あたしの身体に精液……染み込んで来る。あふっ……んっふぅうう……」
+[Succubus Delinquent/fsc0102]"It's coming out. So much! nkuh... Hot.\nSemen's soaking... into my body. afuh... nnfuuuh..."
 
-[不良サキュバス/fsc0103]「ザーメン熱すぎて……肌が火傷しちまいそうだ。でも、それが最高に気持ちいい。んんっ……イクっ！　あたしも……もうっ……」
+[Succubus Delinquent/fsc0103]"Your semen's so hot... feels like my skin will burn.\nBut, that feels the best. nnh-...\nCumming! I am too... can't..."
 
-[不良サキュバス/fsc0104]「あっあっ……んぁああああっ！」
+[Succubus Delinquent/fsc0104]"Ah-ah-... nhaAaaaaah!"
 
-[アル]（イッてる。サキュバスが……。なんか……全部が吸われていく気がする。これ……駄目……僕……ああ……無理……もう……）
+[Al](She's coming. The succubus is...\nI somehow... feel everything's being sucked away.\nThis... no... I... Aah... can't... anymore...)
 
-[アル]「あ……う……くぅうう……」
+[Al]"Ah... uh... kuuuh..."
 ;;暗転
 
-[不良サキュバス/fsc0105]「はぁ……はぁ……ん？　気絶しちまったか。はぁ、ふふ、お前、なかなか美味かったよ。機会があったらまた……な♪」
+[Succubus Delinquent/fsc0105]"Haah... haah... hm? Fainted, huh.\nHaah, fufu, You, were pretty tasty.\nIf we get the chance, again... yeah. ♪"
 
-[アル]「…………………………」
+[Al]"............"
 
