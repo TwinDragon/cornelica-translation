@@ -7,100 +7,100 @@
 ;;CG10
 @bgf bg=ev10 t=1000
 
-[城のヴラスタ/sbt0001]「侵入者の精液……すべて吸い出す。抵抗力……削ぎ落とす」
+[Castle Vlasta/sbt0001]"Intruder's semen... suck it all out.\nChip away... resistance."
 
-[アル]「うぅぅ……」
+[Al]"Uuuh..."
 
-[城のヴラスタ/sbt0002]「拒否権はない……作業開始……」
+[Castle Vlasta/sbt0002]"You cannot refuse...\nBegin operation..."
 
 @se f=淫唇を開く音
 
-[城のヴラスタ/sbt0003]「陰茎を刺激してまずは勃起させる」
+[Castle Vlasta/sbt0003]"Stimulate the penis and make it erect first."
 
 @se f=愛液1
 @qk
 
-[アル]「うぅっ……ぐぅううっ」
+[Al]"Uugh... Guuuh" 「うぅっ……ぐぅううっ」
 
-[城のヴラスタ/sbt0004]「表情を検索……『我慢』……刺激に対する抵抗の意志あり――無意味。抵抗など不可能」
+[Castle Vlasta/sbt0004]"Retrieving facial expression... 'Enduring'...\nIntent to resist stimulation present―― pointless.\nAny such resistance is not possible."
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[城のヴラスタ/sbt0005]「陰嚢を指で捏ねくり回す。揉むように……愛撫。平行して肉茎への刺激も実行。指でシコシコ……扱く」
+[Castle Vlasta/sbt0005]"Knead the scrotum with fingers. To rub... caress.\nSimultaneously execute flesh stalk stimulation.\nRub with fingers... stroke."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[城のヴラスタ/sbt0006]「亀頭部分を指先で刺激。尿道口を抉る様に擦り上げる」
+[Castle Vlasta/sbt0006]"Stimulate glans portion with fingertips.\nRub as if scooping from the urethral opening."
 
 @se f=愛液1
 
-[アル]「あっ、ぁぁあっ！」
+[Al]"Ah-, aaAh-!"
 
 ;;CG10a
 @bgf bg=ev10a t=500
 @se f=愛液1
 
-[城のヴラスタ/sbt0007]「ペニスの勃起を確認。亀頭部……膨張。肉茎……律動している。……脈動が伝わってくる」
+[Castle Vlasta/sbt0007]"Penis erection confirmed. Glans part... expanding.\nFlesh stalk... pulsing. ... Pulsation transmitting."
 
-[城のヴラスタ/sbt0008]「相当な快楽を受けていることを視認。愛撫……効果あり。刺激の継続を決定」
+[Castle Vlasta/sbt0008]"Visually recognised as receiving considerable pleasure.\nCaress... effect present. Continuation of stimulus decided."
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[城のヴラスタ/sbt0009]「肉茎を握る。手淫開始……シコシコ……先程までよりも大きく扱く。肉茎を擦り上げ、陰嚢を捏ねくり回す」
+[Castle Vlasta/sbt0009]"Grasping flesh stalk. Starting handjob... rub rub...\nbigger strokes than previously.\nRubbing flesh stalk, kneading scrotum."
 
-[アル]「それっ……駄目！　あぁっ……ぁああ！」
+[Al]"That's-... no! Aah-... Aaah!"
 
 @qk
 
-[城のヴラスタ/sbt0010]「耐える必要などない。射精したいのならばしろ。ザーメンを私の手にぶっかけろ」
+[Castle Vlasta/sbt0010]"No need for any endurance.\nIf you want to ejaculate, do so.\nCover my hand in semen."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[城のヴラスタ/sbt0011]「ほら、早く出せ。こうやって指でカリ首も刺激してやる。指先でカリをなぞるように刺激されるのは気持ちがいいだろ？」
+[Castle Vlasta/sbt0011]"Here, cum quickly. Like this, I'll stimulate the glans edge\nwith my fingers. It feels good to have the edge stimulated\nwith fingertips right?"
 
 @se f=愛液1
 @qk
 
-[アル]「ぅぅうっ……ぐぅ、ぅうっ」
+[Al]"uuuUh... Guh-, uuuh"
 
-[城のヴラスタ/sbt0012]「我慢など無駄。貴様は感じている。その証拠に……尿道球腺液――我慢汁の分泌を確認。量、濃度……共に濃厚」
+[Castle Vlasta/sbt0012]"Enduring is futile. You're feeling it.\nAs proof of that... urethral gland fluid―― pre-cum secretion\nconfirmed. Amount, density... both thick."
 
 ;;SE■グチュグチュ音
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[城のヴラスタ/sbt0013]「指に絡みついてくる。手淫に合わせてグチュグチュという音色が響いている。この音色……興奮するのだろう？」
+[Castle Vlasta/sbt0013]"It's sticking to my fingers. A squelch squelch sound is\nresounding matching the handjob.\nThis sound... aroused, aren't you?"
 
 @se f=愛液1
 
-[城のヴラスタ/sbt0014]「陰嚢より精液が溢れ出し始めている」
+[Castle Vlasta/sbt0014]"Semen has begun flowing from the scrotum."
 
 @se f=愛液1
 
-[城のヴラスタ/sbt0015]「この雄汁を搾り出す。貴様を射精させる。更にシュコシュコちんぽを扱く。ちんぽ全体を我慢汁塗れに変える」
+[Castle Vlasta/sbt0015]"Squeezing out male juice. Making you ejaculate.\nFurther schlick stroking dick.\nThe whole dick is becoming wet with pre-cum."
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=85
 @qk
 
-[アル]「あぁあっ！　は……激しいぃっ！　これ……無理！」
+[Al]"Aaah! In-... intenseeeee-! This... can't!"
 
-[城のヴラスタ/sbt0018]「扱くごとにちんぽが膨張している。出したいのだろ？　射精したいのだろ？」
+[Castle Vlasta/sbt0018]"Every stroke your dick expands. You want to let it out,\nright? Want to ejaculate, right?"
 
 @se f=愛液1
 
-[城のヴラスタ/sbt0021]「我慢汁の量が増し、白く濁り始めている。同時に粘り気も増幅。貴様の身体が射精を訴えていることは間違いない。出そう？」
+[Castle Vlasta/sbt0021]"Pre-cum amount increased, becoming white and cloudy.\nStickiness simultaneously amplified. There is no mistaking\nthat your body is pleading to ejaculate. Gonna cum?"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[城のヴラスタ/sbt0022]「いいだろう。射精を許可する」
+[Castle Vlasta/sbt0022]"All right. I permit you to ejaculate."
 
 ;;SEバキューム器が吸い付く音
 ;;CG10b
@@ -112,58 +112,58 @@
 @se f=挿入音
 @bgf bg=ev10b t=1000
 
-[城のヴラスタ/sbt0023]「精液を吸引する」
+[Castle Vlasta/sbt0023]"Sucking up semen."
 
 ;;SE■吸引音
-[アル]「ぅぁっ！　これ……これぇえ！　ぁあああ！！」
+[Al]"uah! This... thissss! aaAAAh!!"
 
 ;;SE■射精音
 ;;射精エフェクト
 @fin se=射精音 bg=ev10c
 
-[城のヴラスタ/sbt0024]「……んっ」
+[Castle Vlasta/sbt0024]"... nh-"
 
 @se f=愛液1
 
-[城のヴラスタ/sbt0025]「ちんぽの脈動を確認。射精……確認」
+[Castle Vlasta/sbt0025]"Dick pulsation confirmed.\nEjaculation... confirmed."
 
-[城のヴラスタ/sbt0026]「搾精バキュームから溢れ出している。この量……想定の１．２倍。計算ソフトの修正を後で具申するべきか……」
+[Castle Vlasta/sbt0026]"Overflowing from extraction vaccum.\nThis amount... 1.2 times assumed. Guess we should suggest\ncorrection of the calculation software later..."
 
-[アル]「あっあっ……あぁ、あああ……」
+[Al]"Ah-ah-... Aah, Aaaaah..."
 
-[城のヴラスタ/sbt0027]「……ターゲットの脱力を確認」
+[Castle Vlasta/sbt0027]"... Target weakness confirmed."
 
-[アル]「う……ぅうう……」
+[Al]"uh... uuuuh..."
 
-[城のヴラスタ/sbt0028]「……かなりの体力低下を確認。だが……計算によるとまだ抵抗力は残っていると推察」
+[Castle Vlasta/sbt0028]"Confirmed considerable decline in strenghth.\nHowever... according to calculations, ability to resist\nremains."
 
-[城のヴラスタ/sbt0029]「更なる搾精が必要と判断」
+[Castle Vlasta/sbt0029]"Further extraction determined necessary."
 
 @se f=愛液1
 
-[アル]「……や……駄目！　……もう……無理っ」
+[Al]"... St-... No! ... I'm... can't-"
 
-[城のヴラスタ/sbt0030]「却下」
+[Castle Vlasta/sbt0030]"Denied."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[城のヴラスタ/sbt0031]「これより、ちんぽに対してバキュームによる搾精を実行する」
+[Castle Vlasta/sbt0031]"Starting now, executing extraction from dick via vaccum."
 
 ;;SE■グチュグチュ音
 @se f=吸引音1
 @bgv f=パイズリ・手コキ２ pitch=150
 @flash t=300 wt=0
 
-[アル]「ぅうっ……またっ……またぁ……！！」
+[Al]"Uuugh-... Again-... againnn...!!"
 
 ;;暗転
 @bgv
 @fin se=射精音 bg=black
 
-　その後もひたすら精液を搾られ続けた。
+　Even after that they single-mindedly kept extracting semen.
 
-　抵抗する気力を根こそぎ奪われ、その後……サキュバス達の性奴隷として一生を過ごした……
+　Thoroughly deprived of the will to resist, afterwards...\nI spent the rest of my life as a sex slave of the Succubi...
 
 @fade type=out t=20 wt=1
 @rps

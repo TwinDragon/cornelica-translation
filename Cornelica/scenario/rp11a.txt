@@ -11,29 +11,29 @@
 @bgf bg=ev11 t=1000 wt=0
 @qk
 
-[不良サキュバス/fsc0001]「はぁ……はぁ……はぁ……」
+[Succubus Delinquent/fsc0001]"Haah... Haah... Haaah..."
 
-[不良サキュバス/fsc0002]「お前……可愛い顔の割りにはなかなかいいちんぽじゃないか。ますますあたし好みだ」
+[Succubus Delinquent/fsc0002]"You... despite your cute face you got a pretty nice dick,\nhuh. You're more and more to my tastes."
 
 @se f=淫唇を開く音
 
-[不良サキュバス/fsc0003]「このマンコが……お前のチンポを貪りたくて、啜りたくて、堪らなくなってくる」
+[Succubus Delinquent/fsc0003]"This pussy... wants to devour and slurp up your dick,\n it's getting unbearable."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0004]「その証拠にほら、グショグショになってるの……分かるだろ？」
+[Succubus Delinquent/fsc0004]"As proof see, it's getting soaked... you can tell, right?"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0005]「まだなんにもしてないってのに、まん汁がダラダラ溢れ出してる。襞もちんぽが欲しい、欲しいってうねうねしてるだろ？」
+[Succubus Delinquent/fsc0005]"We haven't done anything yet but, puss juice is \ndribbling out.\nMy folds are clenching in anticipation too, right?"
 
 @se f=愛液1 pitch=75
 
-[アル]「…………」
+[Al]"......"
 
-[不良サキュバス/fsc0006]「挿入れたいだろ？　ちんぽ突っ込みたいだろ？　なぁ……なぁ！」
+[Succubus Delinquent/fsc0006]"You want to put it in, right?\nWannna thrust your dick, right? Right... right!"
 
-[不良サキュバス/fsc0007]「だ・か・ら……いただきま～す♪」
+[Succubus Delinquent/fsc0007]"So- the-n... Thanks for the meal～♪"
 
 ;;SE■挿入音
 
@@ -42,117 +42,117 @@
 ;;CG11a
 @bgf bg=ev11a t=1000 wt=1
 
-[不良サキュバス/fsc0008]「んはっ！　くっ、ふっ……はぁぁぁ……」
+[Succubus Delinquent/fsc0008]"Nhhah! Kuh, fuh... haaaah..."
 
 @se f=愛液1 pitch=75
 
-[不良サキュバス/fsc0009]「んふううう……。どうだ。挿入ったぞ。……まんこに……あふぁああ……気持ち……いいだろ？」
+[Succubus Delinquent/fsc0009]"nfhuuuh... How is it. It's in.\n... My pussy... ahfuaaah... feels... good, right?"
 
-[不良サキュバス/fsc0010]「ほら、こんな風にまんこでちんぽをぎゅううって締めつけられたらどうだ？出るか？出るだろ？」
+[Succubus Delinquent/fsc0010]"Hey, how is it when your dick is tightly squeeezed by\nmy pussy like this? Gonna cum? You'll come, right?"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[アル]「くぅっ……あっあっ……あっ！」
+[Al]"Kuuh... Ah-ah-... ah-!"
 
-[不良サキュバス/fsc0011]「ほら、　すげえ気持ちいいだろ？　こうやってちんぽ食い千切られそうな位まんこで締められる気分……最高だろ？」
-
-@se f=愛液1
-
-[不良サキュバス/fsc0012]「お前のちんぽ……あたしの膣中で滅茶苦茶震えてるぞ。ビクンビクンって激しくさぁ」
-
-[不良サキュバス/fsc0013]「それに……んふう……はぁっはぁっはぁっ……亀頭もすげぇ膨らんでる。早く射精したい。まんこを孕ませたいっていってるみたいだぞ」
+[Succubus Delinquent/fsc0011]"See, feels amazingly good, right?\nBeing squeezed by a pussy that feels like it'll gnaw your\ndick off like this... It's the best, right?"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0014]「ほら、こんな風に腰を振られても……まだ我慢できるか？」
+[Succubus Delinquent/fsc0012]"Your dick... is inside my vagina trembling absurdly.\nTwitch twitch, sooo violently."
+
+[Succubus Delinquent/fsc0013]"And... nfuh... Haa-haa-haaah... your glans is expanding\nso much. It wants to ejaculate quick.\nLike it's saying it wants to impregnate my pussy."
+
+@se f=愛液1
+
+[Succubus Delinquent/fsc0014]"Here, even when I wiggle my hips like this... can you still\nendure?"
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50 wt=0
 
-[不良サキュバス/fsc0015]「ただ腰を振るだけじゃねぇぞ。襞の一枚一枚でちんぽを扱いてやるからな。ほら……んんんっ……どうだ？　カリ首ををまんこの入り口でキュッてされる気分は！」
+[Succubus Delinquent/fsc0015]"I'm not just shaking my hips, ya know. I'm using each bit\nof my walls to stroke your dick. See... nnnh-... how is it?\nYour glans edge being held in by my entrance!"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0016]「ククっ！　あたしの膣中でまたちんぽがビクンッて跳ねたぞ。それに……亀頭もどんどん大きく……。ああ……そろそろ出そうだなぁ」
+[Succubus Delinquent/fsc0016]"Heheh! In my vagina your penis is jerking around.\nAnd... the glans is getting bigger and bigger...\nAah... seems your about to cum, right."
 
-[不良サキュバス/fsc0017]「この調子で射精しろ。お前の精液を残らず吸い尽くしてやる」
+[Succubus Delinquent/fsc0017]"Just ejaculate like this.\nI'll give my all to suck up your semen without leaving any."
 
 @se f=パイズリ・手コキ１ pitch=150
 
-[不良サキュバス/fsc0018]「ふふ……ほら……出しちまえよ。あたしのまんこにちんぽミルクをぶちまけろ！　ほらっ！　ほらっ！　ほらぁああ！」
+[Succubus Delinquent/fsc0018]"Fufu... Come... just cum. Blow your dick milk into my pussy!\nCome! Come! Come on!"
 
 ;;SEピストン音
 ;;CG11b
 @bgv
 @fin bg=ev11b se=射精音
 
-[不良サキュバス/fsc0019]「んふ……んふふふふ！　　あたしのまんこ……すげぇだろ？　サキュバスの子宮はなぁ、精液を逃がさないようにジュルジュル吸えるんだぜ？たまんないだろ？」
+[Succubus Delinquent/fsc0019]"Nhfu... nhfufufufu! My pussy... amazing right?\nA succubi's womb right, slurps up semen so it doesn't get\nout ya know? Unbearable, right?"
 
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける
 @bgv f=パイズリ・手コキ２ pitch=75 wt=0
 
-[不良サキュバス/fsc0020]「あっあっあっ……んはぁああ……んふふ……まんこ全体でちんぽを締めつけられる気分は……最高だろ？」
+[Succubus Delinquent/fsc0020]"Ah-ah-ah-... nhaaaah... nfufu...\nYour dick being squeezed with my whole pussy... feels the\nbest, right?"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0021]「ほら、まだ出てるぜ。ちんぽがビクビクしながら射精してるのが分かるぞ。あふっ……んふううっ……ふうっふうっ……ふぅうう……」
+[Succubus Delinquent/fsc0021]"Look, it still coming out.\nI feel your dick ejaculating while it twitches.\n Ahfuh... nfuuuh-... fuu-fuuh- fuuuh...."
 
 @se f=愛液1
 
-　射精後の敏感になった陰茎を、サキュバスの膣壁は容赦なく吸い付いてくる。
+　Mercilessly the succubus' vaginal walls cling to my still\nsensitive from ejaculating penis.
 
 @se f=パイズリ・手コキ１ pitch=150
 
-[不良サキュバス/fsc0022]「これで終わりとおもうか？　まだまだ搾り出してやるから、最期の一滴まで出し尽くしなぁ！」
+[Succubus Delinquent/fsc0022]"Did you think we'd stop here? I can still squeeze it out so,\nI'll give my all to the last drop, ya know!"
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=80 wt=0
 
-[アル]「ぁ……や、やだ…やめ……」
+[Al]"ah... N-, no... sto-..."
 
-[不良サキュバス/fsc0023]「何をいっても無駄だっての。身体は正直だからな。そのことを教えてやる。さぁ、これでどうだ？」
+[Succubus Delinquent/fsc0023]"No matter what you say, it's no good.\nSince your body's honest, ya know. I'll prove that to you.\nNow, how about this?"
 
-[不良サキュバス/fsc0024]「こんな風に腰をグリグリって押しつけられると、亀頭に子宮口が吸い付いてくるだろう？このままお前が干からびるまで離してやらないからな！」
+[Succubus Delinquent/fsc0024]"When I grind my hips into you like this, my uterus sucks\non your glans, right? Like this I won't let you go 'til\nyou're dry!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[不良サキュバス/fsc0025]「さぁ、また震えてきたぞ、出せ！　出せぇええっ！」
+[Succubus Delinquent/fsc0025]"Now, it's trembling again, cum! Cuuum!"
 
 ;;SE射精音
 ;;CG11c
 @fin bg=ev11c se=射精音
 
-[不良サキュバス/fsc0026]「あふぁぁあああっ！」
+[Succubus Delinquent/fsc0026]"AhfuaaAaah!"
 
 @se f=パイズリ・手コキ２ pitch=60
 
-[不良サキュバス/fsc0027]「んふうう……はぁっはぁっはぁっ……2回目なのに……すげぇ量だな。あたしの下半身……ちんぽミルクでグチョグチョだ」
+[Succubus Delinquent/fsc0027]"Nfuuh... haa-haa-haaah...\nEven though it's the second time... so much, huh.\nMy lower body... is dripping with dick milk."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0028]「……まだまだ生きてるな。たっぷりと楽しませてもらうぜ」
+[Succubus Delinquent/fsc0028]"... You're still alive, yeah. Let me enjoy myself lots."
 
 ;;SEピストン音
 ;;CG11d
 @bgf bg=ev11d t=1000 wt=0
 @bgv f=パイズリ・手コキ２ pitch=80 wt=0
 
-[アル]「くひいぃ！　ぅっ…………あああ……っ」
+[Al]"Kuhiih! u-... Aaah..."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0029]「んはぁあ！　あっあっあっあっ……ふはぁああ！」
+[Succubus Delinquent/fsc0029]"nhaaah! Ah-ah-ah-ah-... fuhaaAah!"
 
-[不良サキュバス/fsc0030]「おらおらっ！　もっとだ！　もっと出せ！　射精しろ！　あたしの子宮をお前の汁でいっぱいに満たせ！」
+[Succubus Delinquent/fsc0030]"Oy, oy! More! Cum more! Ejaculate!\nFill up my womb with your fluid!"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0031]「んくうう！　さぁ、来いっ！　あっあっあっ！」
+[Succubus Delinquent/fsc0031]"nkuuh! Now, come! Ah-ah-ah!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -160,66 +160,66 @@
 @bgv
 @fin bg=ev11e se=射精音
 
-[不良サキュバス/fsc0032]「あっはぁああ……来た！　来てる！　出てる！　んくうう！　これ……すっげ……まんこ……熱い！　熱くて……あたしも……い……イクッ！」
+[Succubus Delinquent/fsc0032]"AaahaaAah... It came! Coming! Cumming! nkuuh!\nThis... is amazing... my pussy... is hot!\nSo hot... me, too... cu-... cumming-!"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0033]「あっは……んは……はふぁあああ！」
+[Succubus Delinquent/fsc0033]"Aaaha... nhah... hafuaAaaah!"
 
-[不良サキュバス/fsc0034]「あっあっあっあっ……はぁああああ……」
+[Succubus Delinquent/fsc0034]"Ah-ah-ah-ah-... haAaaah..."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0035]「ああ……だいぶ吸っちまったからなぁ。……随分げっそりしたもんだ。もう言葉も話せねぇか？」
+[Succubus Delinquent/fsc0035]"Aah... I've sucked quite a bit, huh.\n... You're getting pretty haggard.\nCan't even speak a word anymore, huh?"
 
-[不良サキュバス/fsc0036]「でも……まだだぞ。もっと射精してもらうからなぁ」
+[Succubus Delinquent/fsc0036]"But... I'm not done yet.\n'Cuz you'll ejaculate more for me, yeah."
 
 @se f=パイズリ・手コキ２ pitch=60
 
-[不良サキュバス/fsc0037]「んんんっ」
+[Succubus Delinquent/fsc0037]"Nnnh-"
 
 ;;SE射精音
 ;;射精エフェクト
 @fin bg=ev11e se=射精音
 
-[不良サキュバス/fsc0038]「あふううう！　出てる。ドビュドビュ来てる！　ああ……いいっ！　最高！」
+[Succubus Delinquent/fsc0038]"Ahfuuuh! Cumming!\nIt's splurting out! Aah... great! The best!"
 
 @se f=愛液1
 
-[不良サキュバス/fsc0039]「でも……まだ足りねぇ。だから……出せよ。射精しろ！」
+[Succubus Delinquent/fsc0039]"But... still ain't enough. So... cum. Ejaculate!"
 
 ;;SE射精音
 @fin bg=ev11e se=射精音
 
-[アル]「ぅぁあああ……」
+[Al]"uaAaah..."
 
-[不良サキュバス/fsc0040]「あっは……んはぁああ！」
-
-;;SE射精音
-;;射精エフェクト
-@fin bg=ev11e se=射精音
-
-[アル]「うぐうう！」
-
-@se f=愛液1
-
-[不良サキュバス/fsc0041]「ああ……最高ぅ！」
+[Succubus Delinquent/fsc0040]"Aaha... nhaaAaah!"
 
 ;;SE射精音
 ;;射精エフェクト
 @fin bg=ev11e se=射精音
 
-[アル]「ふわぁああああ……」
+[Al]"Ughuuh!" 「うぐうう！」
 
 @se f=愛液1
 
-[不良サキュバス/fsc0042]「また……ふうう……イクっ！　ああ……これ……これだよぉ♪」
+[Succubus Delinquent/fsc0041]"Aah... The beeest!"
+
+;;SE射精音
+;;射精エフェクト
+@fin bg=ev11e se=射精音
+
+[Al]"FuwaAaaaah..."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0043]「あっはぁあああ！」
+[Succubus Delinquent/fsc0042]"Again... fuuh... cumming! Aaah...\nThis... this is it. ♪"
 
-[アル]（すごく……き……もち……良さそう……。でも……もう……僕……駄目……）
+@se f=愛液1
+
+[Succubus Delinquent/fsc0043]"AahaaAaaah!"
+
+[Al](Feels... incr-... edibly... good...\nBut... I... can't... anymo-...)
 
 @fade type=out t=1000 wt=1
 @bgm_save
@@ -238,33 +238,33 @@
 @fade type=in t=1000 wt=1
 
 
-[不良サキュバス/fsc0044]「ああ……このちんぽ！　ホントすげぇ！　いつまでも……ああ……ずっと……楽しんでいられる！」
+[Succubus Delinquent/fsc0044]"Aah... This dick! Really amazing!\nI can enjoy it... Aah... always... forever and ever!"
 
 @se f=愛液1
 
-[アル]「………………」
+[Al]"........."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0045]「ホントいい拾いモノした。もう……ほんっとあたし……幸せものだぁあ！」
+[Succubus Delinquent/fsc0045]"I really picked up something good.\nGeez... I'm really... so blessssed!"
 
-[アル]「………………」
-
-@se f=愛液1
-
-[不良サキュバス/fsc0046]「だけど……まだまだ満足できないからな！　あたしがいいっていうまで、しっかり楽しませてくれよ！」
+[Al]"........."
 
 @se f=愛液1
 
-[不良サキュバス/fsc0047]「あっあっあっあっあっ！」
+[Succubus Delinquent/fsc0046]"But... I'm still not sated yet, ya know!\nProperly entertain me, until I say so!"
 
-[アル]「…………………………」
+@se f=愛液1
 
-[アル]「………………」
+[Succubus Delinquent/fsc0047]"Ah-ah-ah-ah-ah!"
+
+[Al]"............"
+
+[Al]"........."
 
 @fade type=out t=100 wt=1
 
-[アル]「……」
+[Al]"..."
 
 @rps
 @fade type=in t=1000 wt=1
