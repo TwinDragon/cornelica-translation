@@ -7,22 +7,22 @@
 @bgf bg=ev13 t=1000
 
 ;;CG13
-[メイ－α/mia0026]「ちゅっろ……んちゅれろっ……ちゅれろ……れろっれろっ……んれろぉお……」
+[Mei α/mia0026]"churo... nhchulick... chulick... lick lick... nhliiick..."
 
 @flash t=300 wt=0
 @bgv f=fera_mia1
 
-　問答無用で押し倒されてしまった。
+　Questions being futile, I was pushed down.
 
 @se f=愛液1
 
-　のし掛かられ、肉棒を舐り回されてしまう。
+　She got on top of me, and started licking around my cock.
 
 @se f=愛液1
 
-[アル]「や……やめっ！　あっ、ぅう！」
+[Al]"St-... Stop! Ah-, uunh!"
 
-[メイ－α/mia0027]「やら……れろろ……ちゅれろぉ……んふうう……回復……まだ足りない。だから……」
+[Mei α/mia0027]"No... licky... chulick... nhfuuh...\nYou haven't recovered enough. So..."
 
 ;;CG13a
 @se f=愛液1 pitch=60
@@ -34,32 +34,32 @@
 @flash t=300 wt=0
 @bgv f=fera_mia2
 
-[メイ－α/mia0028]「はっも……んじゅっぼ！　じゅっぼ！　ちゅぼっ！　じゅっぼじゅっぼっ――んじゅぼぉ!」
+[Mei α/mia0028]"hahmmgh... nhsuck! suck! shuck! suck suck―― nhsuuuck!"
 
-[アル]「ぁあああ！」
+[Al]"aAaah!"
 
-　肉棒を咥えられ、肛門指を挿入される。
+　She engulfed my cock, and inserted a finger in my anus.
 
-　もちろんただ突き込んで来るだけではなく、前立腺を指先で押し込むように刺激してきた。
+　Of course she didn't just thrust it, she pushed her\nfinger tip in to stimulate my prostate.
 
-[アル]「ひいいい！？　や、やだ！　こんな……！　ぁああっ、うぅう！」
+[Al]"Eee!? N-, no! This ...! aAaah, uuuh!"
 
 @se f=愛液1 pitch=80
 
-[メイ－α/mia0029]「らひたいのなら……らひへいい……いっぱい……射精ひえ……んっじゅろ……ちゅずろ……じゅろろろろぉ！」
+[Mei α/mia0029]"Ifh ya wanna cum... go ahead... ehaculeh... lotsh...\nnnhslurp... chuzlurp... sluuuurp!"
 
-[アル]「ぃいっ！　ひいいいいい！」
+[Al]"Ee-! Eeeeungh!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　肛門を突きながら頬を窄めて吸引して来る。自分のすべてが吸い出されそうな程の啜り上げ――悲鳴を上げて悶えることしかできない。
+　While thrusting my anus she squeezed her cheeks and sucked.\nWith her sucking as if she'd suck all of me in――\nI could only scream and writhe in agony.
 
 @se f=愛液1 pitch=80
 
-[メイ－α/mia0030]「んじゅっ……ちゅずろ……んじゅろ……ちゅずろろろろぉ！」
+[Mei α/mia0030]"nhslurp... chuzlurp... nhshlurp... chuzluuuuurp!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -67,18 +67,18 @@
 @bgv
 @fin bg=ev13d se=射精音
 
-[メイ－α/mia0031]「むっふ……んふうう！」
+[Mei α/mia0031]"mmgfh nhfuuh!"
 
-[アル]「あっ、あぁっ……！」
+[Al]"Ah-, Aah...!"
 
-　視界が白く染まる程の肉悦にのたうちながら、多量の白濁液を口内に流し込んだ。
+　While my vision went white from the assault of pleasure,\na large amount of cloudy white liquid poured into her mouth.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0032]「しゅごい……量……れも……まら……」
+[Mei α/mia0032]"So... much... but... nah enouhuh..."
 
 ;;CG13c
 @bgf bg=ev13c t=1000 wt=0
@@ -89,25 +89,25 @@
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0033]「じゅる……むじゅるっ！　ちゅずるるるぅ！　んっんっ……ふじゅぅう！」
+[Mei α/mia0033]"slurp... mghslurp! chuzluuurp! nmh-nh... fhshlup!"
 
-[メイ－α/mia0034]「んじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼっ――じゅぼぉおおっ！」
-
-@se f=愛液1 pitch=70
-
-[アル]「ひっ！？　あぁっ、あぁ……！」
-
-　まだ飲み足りないとばかりに肉棒を啜ってくる。口腔全体を使って扱き上げて来る。
-
-　射精衝動の上に射精衝動が重なる。抗うことなどできはしない。
+[Mei α/mia0034]"nhsuck! suck suck suck suck―― suuuuuuuck!"
 
 @se f=愛液1 pitch=70
 
-[メイ－α/mia0035]「じゅるるるる……まら……もっろ……へいひ……しゃへい……しぼりとりゅ……もじゅううっ！」
+[Al]"Eee!? Aaah, Aah...!"
+
+　Still not having had quite enough to drink, she begins\nsucking my cock.\nShe sucks using her whole oral cavity.
+
+　My impulses to ejaculate overlap.\nThere is no way I can resist.
 
 @se f=愛液1 pitch=70
 
-[アル]「やぁ……！　これ……駄目ぇ！　あぁああああ！」
+[Mei α/mia0035]"shluuuurp... Still... more... shemen...\nEjaculate... squeeze out... mghshlup!"
+
+@se f=愛液1 pitch=70
+
+[Al]"Noo...! This... doon't! AaAaaaah!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -115,27 +115,27 @@
 @bgv
 @fin bg=ev13d se=射精音
 
-[メイ－α/mia0036]「むっむっ……もぶうううっ」
+[Mei α/mia0036]"mgh-mggh... mghhfhuuh."
 
 @se f=愛液1 pitch=70
 
-　吸われるがままに再び白濁液を解き放った。
+　While being sucked I released the cloudy white fluid again.
 
-[アル]「ぁ……あぅうう……」
+[Al]"ah... Auuuh..."
 
-　意識が飛びそうになるほどの肉悦にのたうつ。
-
-@se f=愛液1 pitch=70
-
-[メイ－α/mia0037]「まら……もっろ……もじゅるるるぅ！」
-
-　だが、まだ満足してくれない。更に吸い立ててくる。
+　The pleasure was enough to feel my consciousness fading.
 
 @se f=愛液1 pitch=70
 
-[アル]「ひい！？　やだ！　もう！　やっ、ひっひっ……ひぁああ！」
+[Mei α/mia0037]"Still... more... mghshluuurp!"
 
-　悲鳴が室内に虚しく響く……。
+　But, she still wasn't sated. She began her sucking anew.
+
+@se f=愛液1 pitch=70
+
+[Al]"Eee!? No! Stop! Alread- eeee-ee-... eeeaaah!"
+
+　My screams resound around the room fruitlessly...
 ;;暗転
 
 ;;CG13e
@@ -146,11 +146,11 @@
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0038]「じゅっる……じゅちゅるるるぅ……。まら……もっろ……もっろ……ちゅろろ……んじゅろろろぉ」
+[Mei α/mia0038]"slurp... schluuuurp... Still... more... more...\nchuroro... nhshluuurp."
 
-[アル]「はっ、ぁあ……あひぁああ……もう…………」
+[Al]"Ha-, aAh... AhiaAaah... Can't......"
 
-　どうしようもないほど強烈な性感――永遠に続く快楽地獄だった……。
+　The feeling so strong it left me helpless――\nThat hell of pleasure continued for an eternity...
 
 @fade type=out t=1000 wt=1
 @rps

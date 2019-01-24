@@ -6,37 +6,37 @@
 @se f=衣擦れの音1
 @bgf bg=ev14 t=1000
 
-[ヴァネッサ/vns0001]「くくく……なかなか良いちんぽを持っているではないか」
+[Vanessa/vns0001]"Kukuku... Thou hast quite the nice dick, do you not."
+;; Nay, Hast
+[Vanessa/vns0002]"Seems thou art feeling confused are we.\nThou hast gone erect while bewildered as to the reason why...\ncouldst thou say?"
+;; Royal "We", since she uses an archaic noble pronoun.
+[Vanessa/vns0003]"However, there's no reason to be so puzzled.\nWe are a succubus... making males erect with just Our touch\nis an easy task."
 
-[ヴァネッサ/vns0002]「戸惑っておるようじゃな。勃起してしまった理由が分からず困惑……といったところかのぅ？」
+[Al]"... B-, but, ... the contest...?"
+;; She uses an archaic "you" in your, so "thine", but she clarifies genitals, figured clarifying thine as your would also be fine.
+[Vanessa/vns0004]"'Tis simple. Starting now, We will aggress thine\ngenitals... that is, your dick. Henceforth, Al...\nthou shall aggress Our genitals... my pussy."
 
-[ヴァネッサ/vns0003]「しかし、そんなに惑うような理由ではないぞ。妾はサキュバス……触れるだけで雄を勃起させるなどわけはない」
+[Vanessa/vns0005]"Then, they who makest the other cum first wins...\nNay. 'Twould be too much to Our favor."
 
-[アル]「……で、でも、……勝負は……？」
+[Vanessa/vns0006]"The contest details are a simplicity.\nAl... satisfy Us before thou reach thy limit."
 
-[ヴァネッサ/vns0004]「簡単なことじゃ。これより妾は主の性器……つまりちんぽを攻める。じゃからアル……主は我が性器……まんこを攻めよ」
+[Al]"Limit...?"
 
-[ヴァネッサ/vns0005]「じゃが、先にイかせた方が勝ち……ではない。それだと妾に有利すぎるからな」
+[Vanessa/vns0007]"Thou shouldst not... cum any more than I.\nTherefore, until 'Please spare me.'―― until thou begst my\nforgiveness."
 
-[ヴァネッサ/vns0006]「勝負内容は単純じゃ。アル……貴様が限界を迎える前に妾を満足させよ」
+[Vanessa/vns0008]"Before then, if you are able to satisfy us, 'tis thy win.\nIf not, 'tis Our win. Thou understandst the rules, yes?"
 
-[アル]「限界……？」
+[Al]"......"
 
-[ヴァネッサ/vns0007]「主がもう……これ以上射精できない。だから許して下さい――と妾に謝罪するまでじゃ」
-
-[ヴァネッサ/vns0008]「そうなるまでに妾を主が満足させることができたら主の勝ち。できなければ妾の勝ちじゃ。ルールは分かったな？」
-
-[アル]「…………」
-
-　目の前で蠢く肉襞を見つめる。
+　I stare at the wriggly flesh folds before my eyes.
 
 @se f=愛液1
 
-　ピンク色のヒダヒダ。表面は既に愛液で濡れている。呼吸するように開閉を繰り返す膣口――そこからは甘酸っぱい匂いが漂っていた。
+　Her pink folds. The surface is already moistened by\nlove juices. The vaginal opening winks as if breathing――\na sour-sweet smell wafts from it.
 
-[ヴァネッサ/vns0009]「さぁ、ルール説明は終わりじゃ。覚悟は良いな」
+[Vanessa/vns0009]"Now, the rule explanation is ended.\nThou art prepared, yes."
 
-[ヴァネッサ/vns0010]「では……始めるとしよう」
+[Vanessa/vns0010]"Then... let us begin."
 
 ;;SE挿入音
 @se f=挿入音
@@ -45,73 +45,73 @@
 @bgf bg=ev14a t=500 wt=0
 @bgv f=パイズリ・手コキ１ pitch=120
 
-　蠢くヴァネッサの尻尾にペニスが呑み込まれた。
+　Vanessa's squirming tail swallowed up my penis.
 
-　尻尾の中はまるで膣の様にうねっている。ヒダヒダも当然のように存在していた。その一枚一枚で、ギュッと肉槍を締めてくる。
-
-@se f=締め付ける
-@se f=パイズリ・手コキ２ pitch=150
-
-[ヴァネッサ/vns0011]「ふふ……気分はどうじゃ？　まるでおまんこにちんぽを挿入れたような快感じゃろ？」
-
-[ヴァネッサ/vns0012]「完成されたサキュバスは身体のすべてで雄を喜ばせることができる。当然尻尾でもな」
-
-@se f=愛液1
-
-[ヴァネッサ/vns0013]「どうじゃ？　尻尾の中のヒダヒダ……その一枚一枚にちんぽを締めつけられる感覚は……。下手なまんこなどより余程心地いいであろう？」
-
-@se f=愛液1
-
-　まだ挿入れただけだ。それなのに射精してしまいそうな程心地いい。
+　The inside of her tail writhes as if it were a vagina.\nIt even had folds like it was natural.\nWith each and every one, it tightly squeezed my flesh pole.
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[ヴァネッサ/vns0014]「ちんぽがビクビク震えておるぞ。もしや、もう出してしまいそうなのか？　これではあまりにつまらぬぞ」
+[Vanessa/vns0011]"Fufu... How feelst it?\nIt's completely as if thy dick has entered a pussy, nay?"
 
-　出そうなのは事実だ。しかし、これは勝負。まだ射精するわけにはいかない。
-
-[ヴァネッサ/vns0015]「んっ？　ほう妾のまんこにキスか。じゃが、その程度では何も感じはせぬぞ」
+[Vanessa/vns0012]"All of a full-grown succubus's body is capable\nof pleasing males.\nOf course, even the tail."
 
 @se f=愛液1
 
-　次は、舌を秘部に這わせた。
-
-[ヴァネッサ/vns0016]「ふむ……んっ……んふふ……舌が動いておる。我がまんこをぺろぺろ舐め回しておるようじゃな。しかし、余りに動きが拙すぎるぞ」
+[Vanessa/vns0013]"How is it? The folds in Our tail... the sensation of each\nand every one squeezing thy dick...\n'Tis much better than a clumsy pussy, nay?"
 
 @se f=愛液1
 
-[ヴァネッサ/vns0017]「まったく……つまらぬ愛撫じゃな。よいか、性器への愛撫はこのように行うものじゃ」
+　It had yet only been inserted.\nDespite that it felt good enough that I might ejaculate.
+
+@se f=締め付ける
+@se f=パイズリ・手コキ２ pitch=150
+
+[Vanessa/vns0014]"Thy dick is twitching.\nCouldst it be, thou wiltst cum already?\n'Twould be much too boring from just this."
+
+　It was true I felt I could cum.\nHowever, this was a contest. I could not ejaculate yet.
+
+[Vanessa/vns0015]"Hm? Oh, thou art kissing Our pussy, huh.\nBut, that much won't make Us feel a thing."
+
+@se f=愛液1
+
+　Next, I snaked my tongue into her secret place.
+
+[Vanessa/vns0016]"Hmm... nh... nfufu... Moving thy tongue.\nSeems thou intend to lick around Our pussy.\nHowever, thy excessive movements are too awkward."
+
+@se f=愛液1
+
+[Vanessa/vns0017]"Honestly... thy caresses are dull.\nHere then, caresses to genitals should be done like this."
 
 ;;SEピストン音
 ;;CG14b
 @bgf bg=ev14b t=500
 @bgv f=パイズリ・手コキ２ pitch=50
 
-　尻尾が動く。上下に肉棒を扱いてきた。
+　Her tail moves. Up and down, it serviced my cock.
 
 @se f=愛液1
 
-[ヴァネッサ/vns0018]「どうじゃ？　こうやってちんぽをジュボジュボ擦り上げられる気分は……。最高であろう？」
+[Vanessa/vns0018]"How is it? The feeling of thy dick being rubbed like this...\n'Tis the best, no?"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-　一回擦られるだけで、肉棒が溶けてしまいそうな程の快感を覚える。この愉悦――抗えない。嬌声を上げることしかできない。
+　Just from being rubbed once, I felt a sensation such that\nmy cock could melt. This pleasure―― I can't resist.\nI could only raise a moan.
 
-[ヴァネッサ/vns0019]「気持ち良さそうじゃなぁ。しかし、妾への愛撫が疎かになっておるぞ」
-
-@se f=愛液1
-
-[アル]「……あああ……ぅぅ……」
-
-[ヴァネッサ/vns0020]「ちんぽへの刺激が強すぎて舌を動かす余裕さえないといったところか……。何もできずにもがく姿……嫌いではないぞ」
-
-[ヴァネッサ/vns0021]「じゃが……幾ら許容を超える快楽を刻まれているとはいえ、ジタバタもがかれるというのは迷惑じゃな」
+[Vanessa/vns0019]"Seemst it feels good.\nHowever, thou art neglecting thy caresses toward Us."
 
 @se f=愛液1
 
-[ヴァネッサ/vns0022]「……ふむ、ここはちと、拘束させてもらうとするかのう」
+[Al]"... Aaaah... uuh..."
+
+[Vanessa/vns0020]"Could it be said, that Our stimulation of thy dick is too\nstrong to afford thou movement of thy tongue...\nThy helpless struggling appearance... We do not dislike it."
+
+[Vanessa/vns0021]"But... although We are etching enough pleasure into thou to\nsurpass thy tolerance, that thou canst even struggle is\nan annoyance."
+
+@se f=愛液1
+
+[Vanessa/vns0022]"... Hmm, taking this into account, We suppose We shall\nrestrain thou."
 
 ;;SE魔法発動音
 ;;魔法発動エフェクト
@@ -122,29 +122,29 @@
 @se f=締め付ける
 @qk
 
-　手足の自由が奪われてしまう。
+　My hands and feet are deprived of their freedom.
 
-[ヴァネッサ/vns0023]「拘束魔法じゃ。これでジタバタ動けまい」
+[Vanessa/vns0023]"'Tis restraint magic.\nWith this, thou cannot move to struggle."
 
-[ヴァネッサ/vns0024]「さぁ、これで邪魔はなくなった。もっともっと強い快感を刻んでやろう」
+[Vanessa/vns0024]"Now, the hindrance is gone.\nWe'll etch thou with even greater pleasure."
 
 ;;SEピストン音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-　言葉と共に更に大きく尻尾を蠢かしてきた。締めつけもよりきついものに……。
+　Along with her words, her squirming tail's strokes grew\nagain larger. Despite the squeezing being even tighter...
 
 @se f=愛液1
 
-[ヴァネッサ/vns0025]「このまま精液を絞り取ってやる。さぁ、出せ。出すのじゃ。精液を……ザーメンをビュルビュル撃ち放て」
+[Vanessa/vns0025]"Like this We'll squeeze out thine semen.\nNow, cum. Let it out. Thine semen... spurt out your semen."
 
-　耐えなければならない――それは分かっている。しかし、意思だけではどうにもならない。それ程まで強烈な愉悦だった。
+　I have to endure―― I know that.\nHowever, intent alone will get me nowhere.\nThe pleasure was so strong.
 
 @se f=愛液1
 
-　肉棒がどうしようもないほどに肥大化してしまう。
+　My cock was getting hopelessly engorged.
 
-[ヴァネッサ/vns0026]「ちんぽ……熱いぞ。尻尾が火傷してしまいそうじゃ。もう限界じゃろ？　我慢せず……妾にザーメンを飲ませよ」
+[Vanessa/vns0026]"Thy dick... 'tis hot. It feels like Our tail might burn.\nThou art at thy limt, no? Don't endure... let Us\ndrink thine semen."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
@@ -157,19 +157,19 @@
 @bgv
 @fin bg=ev14d se=射精音
 
-　肉先から多量の白濁液を噴出させる。
+　A large amount of white cloudy fluid ejects from my\nfleshy tip.
 
-[ヴァネッサ/vns0027]「はぁああ……ふふ、出ておるぞ。流れ込んで来る。妾の中に主のザーメンが……」
-
-@se f=愛液1
-
-[ヴァネッサ/vns0028]「これは……ああ……熱い。それに濃厚じゃ。このザーメン良いぞ。ああ……これはよい雄汁じゃ！んっんっ……んふううう」
-
-　凄い……そんなことしか考えられなくなってしまうほどの肉悦だった。
+[Vanessa/vns0027]"Haaaah... fufu, 'Tis coming out.\nPouring in. Inside Us, thine semen is..."
 
 @se f=愛液1
 
-[ヴァネッサ/vns0029]「ふふ、気持ちが良さそうじゃのう。じゃが、まだじゃぞ。もっと……もっとじゃ！」
+[Vanessa/vns0028]"This is... Aah... hot. And so rich. This semen is great.\nAah... This is good male soup! nh-nh... nhfuuh"
+
+　Amazing... that was the only thing I could think due to\nthe pleasure.
+
+@se f=愛液1
+
+[Vanessa/vns0029]"Fufu, Seemst thou feelst good.\nBut, We are not yet done. More... more!"
 
 ;;SE吸引音
 @se f=締め付ける
@@ -179,30 +179,30 @@
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ１ pitch=150
 
-　疑問に答える様に肉棒を尻尾が吸ってくる。もっと精液を出せと命じるように……。
+　To quell any questions her tail began to suck my cock.\nAs if ordering me to cum more...
 
 @se f=愛液1
 
-[ヴァネッサ/vns0030]「最後の一滴まで吸い出してやる。さぁ、出せ！　出すのじゃ！！」
+[Vanessa/vns0030]"We'll suck it out to the last drop.\nNow, cum! Let it out!!"
 
-　まだ射精している。だというのに、またしても絶頂感が……。
+　I was still ejaculating.\nDespite that, I again felt a climax-...
 
 @se f=愛液1
 
-[ヴァネッサ/vns0031]「射精しながら射精するのじゃ！」
+[Vanessa/vns0031]"Ejaculate whilst ejaculating!"
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG07e1
 @fin bg=ev14e se=射精音
 
-　ビュッビュッビュッと溢れ出る。白濁液が大量に……。
+　It overflows with a splurt splurt.\nA large amount of the cloudy white liquid into-...
 
-[ヴァネッサ/vns0032]「おお……来た……。来たぞ」
+[Vanessa/vns0032]"Oooh... It came... It's come."
 
 @se f=愛液1
 
-[ヴァネッサ/vns0033]「ふううう！　一回目に勝るとも劣らぬ量と濃さじゃな。この調子でまだだ……射精せよ！　妾に精液を飲ませるのじゃ！」
+[Vanessa/vns0033]"Fuuuh! Even compared to the first time, 'tis not at loss\nin amount or thickness. 'Tis still in this condition...\nEjaculate! Let us drink thine semen!"
 
 ;;SE吸引音
 ;;SE射精音
@@ -210,20 +210,20 @@
 ;;CG07e2
 @fin bg=ev14e2 se=射精音
 
-　条件反射の様に撃ち放つ。
+　Like a conditioned reflex it shoots out.
 
 @se f=愛液1
 
-[ヴァネッサ/vns0034]「はぁああ……熱い。熱いぞ……しかし、まだまだ！　さぁ、来るのじゃ！」
+[Vanessa/vns0034]"HaaAah... Hot. 'Tis hot...\nHowever, We are not done yet! Now, here comes!"
 
 ;;SE吸引音
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[ヴァネッサ/vns0035]「そら、もっと吸ってやるのじゃ！」
+[Vanessa/vns0035]"Here, We'll suck more!"
 
-　再びの締めつけ。
+　She squeezes again.
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
@@ -234,25 +234,25 @@
 ;;CG07e3
 @fin bg=ev14e3 se=射精音
 
-　射精を止めることなどできない。
+　I can't stop my ejaculation.
 
 @se f=愛液1
 
-[ヴァネッサ/vns0036]「あっふ……んふうう……ふうっふうっ……んふうううっ」
+[Vanessa/vns0036]"Ahfuh... nhfuuh... fuu-fuuh... nhfuuuuh"
 
-[ヴァネッサ/vns0037]「くふぅう……はぁ……妾の中……タプタプじゃ。どうじゃ……こんなに射精した気分は……。最高であろう？」
+[Vanessa/vns0037]"Khfuuh... haah... Our insides... art engorged.\nHow is it... the feeling of ejaculating this much....\n'Tis the best, no?"
 
 @se f=愛液1
 
-[アル]「あぅうう……」
+[Al]"Auuuh..."
 
-[ヴァネッサ/vns0038]「返事をする気力も無いか。それでいいのか？　妾に勝つのではなかったのか？」
+[Vanessa/vns0038]"No energy to even respond.\nArt thou fine with that?\nWere not thou going to defeat Us?"
 
-[アル]「か……つ……」
+[Al]"I... will..."
 
 @fade type=out t=1000 wt=1
 
-[アル]（……でも……もう…………）
+[Al](... But... I was already......)
 
 ;;暗転
 ;;シーン終了

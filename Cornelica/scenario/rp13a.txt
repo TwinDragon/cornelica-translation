@@ -5,59 +5,59 @@
 @bgm f=h-004 pitch=150
 @bgf bg=ev13 t=1000
 
-[メイ－α/mia0001]「……んっちゅ……ちゅろっ。んちゅろっ……ちゅれろっ……れろっれろっ……んれろぉ」
+[Mei α/mia0001]"... nnhchu... churo-. nhchulick... chulick...\nlick lick... nhlick"
 
 @flash t=300 wt=0
 @bgv f=fera_mia1
 
-　魔法屋の床に押し倒されてしまった。いや、それどころじゃない。
+　She pushed me onto the magic shop's floor.\nBut that's not all she did.
 
 @se f=愛液1
 
-　顔の上にのし掛かられた上、ペニスを舐め回されてしまう。
+　She leaned over, above my head, and started swirling\nher tongue around my penis.
 
 @se f=愛液1
 
-[アル]「ぇ……えっ！？　……な……何！？」
+[Al]"Eh... Huh!? ... Wh-... What!?"
 
-[メイ－α/mia0002]「私のエネルギー源はサキュバスと同じく精気。だから……精液、絞り取る」
+[Mei α/mia0002]"My energy source is life's essence, the same as a succubus.\nTherefore... I'm squeezing out semen."
 
 @se f=締め付ける
 @qk
 
-[アル]「えっ、……え！？　……や、やめっ！」
+[Al]"Hu-, ... Huh!? ... St-, stop!"
 
 @se f=愛液1
 
-[メイ－α/mia0003]「やら、やめない……ふっちゅろ……れちゅろぉ……ふっちゅ……ふうっふうっ…………さっき、なんでもするといった」
+[Mei α/mia0003]"Noh, I won't stop... fuhchuro... sulick... fuhchu...\nfuuhfuh... Earlier, you said you'd do anything."
 
-[アル]「それは……その……」
+[Al]"That was... uhm..."
 
-[メイ－α/mia0004]「……続ける」
+[Mei α/mia0004]"... Continuing."
 
 @se f=パイズリ・手コキ２ pitch=50
 
-[メイ－α/mia0005]「くちゅろっ……んっちゅろ……れちゅろぉ……れろっれろっ……んれろぉ……」
+[Mei α/mia0005]"kuchuro... nhchuro... sulick... lick lick... nhlick..."
 
 @se f=愛液1
 
-　再び舌を蠢かせてくる。
+　She began waggling her tongue again.
 
-　アイスでも食べるみたいに亀頭を舐め回しつつ、カリ首を舌先でなぞるように刺激してきた。
+　She licked around my glans as if she was eating ice cream,\ntracing the tip of her tounge around it's edge.
 
-[メイ－α/mia0006]「れっろ……くっちゅ……んじゅるるるぅ」
+[Mei α/mia0006]"liiick... kuhchu... nhsluuuurp"
 
 @se f=愛液1
 
-　肉茎に口唇を押しつけて吸い立ててくるなどという行為まで……。
+　She even did things like pushing her lips against the\nflesh stalk and sucking on it...
 
-[アル]「あぅうっ！　これっ、ひぃっ！　ああ……！」
+[Al]"Auuh! This-, eek! Aaah...!"
 
-[メイ－α/mia0007]「ペニスの発熱を確認。亀頭も肥大化した……射精が近いと推察。次のフェーズに移る」
+[Mei α/mia0007]"Penis heating up confirmed. Glans is also enlarged...\nNearing ejaculation conjectured. Moving to next phase."
 
-[アル]「ぇ……？　次……？」
+[Al]"Eh...? Next...?"
 
-[メイ－α/mia0008]「……こうする」
+[Mei α/mia0008]"... Doing this."
 
 ;;SE挿入音
 ;;CG13a
@@ -67,41 +67,41 @@
 
 @se f=パイズリ・手コキ２ pitch=150
 
-[アル]「ひっ！？　ぅぁああ……！」
+[Al]"Eeek?! uaaAaah...!"
 
-[メイ－α/mia0009]「もっじゅ……んじゅううっ……」
+[Mei α/mia0009]"mohju... nhjuuh..."
 
 @flash t=300 wt=0
 @bgv f=fera_mia2
 
 @se f=パイズリ・手コキ２ pitch=150
 
-　肉棒を咥え込んで来る。それと共に肛門に指を挿入して来た。
+　She slurped in my flesh stalk. Along with that, she inserted\na finger into my anus.
 
-[メイ－α/mia0010]「じぇんりつしぇんを刺激し……ふっじゅ……んじゅるるるぅ……多量のしぇーえきをしゃしぇーしゃしぇる……」
-
-[メイ－α/mia0011]「もじゅっぼ！　じゅっずぼ！　じゅぼっじゅぼっじゅぼぉおお！」
+[Mei α/mia0010]"Viff fiff shelf-play shtyle shtimulation... fuhslurp...\nnhshluuurp... you can ejaculate lotsh of sh- shemen...." 
+;; above line is garbled as heck, so I'm not sure about it. 「じぇんりつしぇんを刺激し……ふっじゅ……んじゅるるるぅ……多量のしぇーえきをしゃしぇーしゃしぇる……」
+[Mei α/mia0011]"mmhshlurp! shluzurp! shlurp shlurp shlurrrrp!"
 
 @se f=愛液1 pitch=80
 
-　ペニスを咥えたままこれからの行為を説明した上で、頭を振ってくる。
+　In addition to explaining her next actions while she\nstill held my penis in her mouth, she bobbed her head.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　口腔全体を使ってペニスを扱きつつ、肛門を指で弄り回してきた。前立腺を指先で撫で回してくる。
+　She used her whole mouth cavity to suck my penis,\nwhile using her finger to fiddle with my anus.\nHer fingertip stroked my prostate.
 
-　精液が押し出されるような感覚に身悶える。
+　The feeling of semen welling up overwhelmed me.
 
-[メイ－α/mia0012]「ふじゅっぼ！　ちゅずるっ！　んじゅるるるぅ！！」
+[Mei α/mia0012]"fhsuck! chuzlurp! nhsluuuurp!!"
 
 @se f=愛液1 pitch=80
 
-　射精を後押しするように、頬を窄めてより激しく肉棒を啜って来た。
+　As if to boost my ejaculation, she contracted her cheeks\nand sucked on my cock more intensely.
 
-[アル]「っひぐぅ！　むり……！　むりぃっ！」
+[Al]"eeguh! Can't...! Cannn't!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -109,37 +109,37 @@
 @bgv
 @fin bg=ev13d se=射精音
 
-[メイ－α/mia0013]「もぶ……ぶむっ！　もっもっ……んぶううううっ」
+[Mei α/mia0013]"Mmgh... hmmuh! Muhmmgh... nmhuuuh."
 
-　射精が始まる。抗えない愉悦に流されるがままに、メイ－αの口内に白濁液を流し込んだ。
-
-@se f=愛液1 pitch=70
-@se f=パイズリ・手コキ２ pitch=150
-@se f=締め付ける pitch=150
-@flash t=1000 wt=0
-
-[メイ－α/mia0014]「んっぎゅ……ごきゅっ！　んごきゅっ！　ごきゅっ……ごきゅううっ……んっんっ……むふうう」
-
-　口内射精にメイ－αはまったく動じない。それどころか嚥下を始める。喉を上下させ、白濁液をゴキュゴキュと飲み干し始めた。
-
-　時には――
+　I began ejaculating. Swept up in unthinkable pleasure,\nmy thick white fluid spilled into Mei α's mouth.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0015]「ちゅっず……んじゅるるるぅ……」
+[Mei α/mia0014]"nmguh... gulp! nhgulp! gulp... guuulp... nh-nh... mmhfaaah."
 
-　更なる精液を求めるように吸引行為まで行ってくる。
+　Mei α didn't flinch from the mouth ejaculation.\nRather, she began to swallow it down. Moving her throat up\nand down she started drinking the cloudy white fluid.
+
+　At times――
+
+@se f=愛液1 pitch=70
+@se f=パイズリ・手コキ２ pitch=150
+@se f=締め付ける pitch=150
+@flash t=1000 wt=0
+
+[Mei α/mia0015]"chuzlurp... nhshluuurp..."
+
+　She sucked as if seeking more semen.
 
 @se f=愛液1 pitch=80
 
-　強烈な精飲に対し、ひたすら悶えることしかできることはなかった。
+　I couldn't do anything to oppose her drinking, only writhe\nin agony.
 
-　意識を保ち続けることも辛くなる。
+　Staying conscious became painful.
 
-[メイ－α/mia0016]「まだ……もっと……もっろ……」
+[Mei α/mia0016]"Still... more... moah..."
 
 @se f=愛液1 pitch=80
 
@@ -152,30 +152,30 @@
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0017]「ふっじゅる……ちゅずる……じゅちゅるるいるぅ……んっんっ……むふううっ」
+[Mei α/mia0017]"fuhsklurp... chuzlrp... sluchuruuurp... nh-nh... mmhfuuh."
 
 @se f=愛液1 pitch=70
 
-[アル]「ひっ！？　あっ、あぁぁああぁっ……！」
+[Al]"Eek!? Ah-, AaaAaah...!"
 
-　射精したばかりの肉棒に対し、口淫を行ってくる。頭を前後に振り、口唇で肉茎を扱き上げてきた。
+　She began fellating my cock which had just ejaculated.\nRocking her head back and forth, she sucked my flesh stalk\nwith her oral cavity.
 
 @se f=愛液1 pitch=70
 
-[メイ－α/mia0018]「じゅっぼ……ちゅずっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――じゅぼぉおお！」
+[Mei α/mia0018]"suck... chuzuck! suck suck suuuck suuuck―― suuuuuck!"
 
-　必死に少し休ませてくれと訴えるが、メイ－αには通じない。口周りから唾液や精液が零れ落ちることも厭わず、激しく頭を振り続けてくる。
+　My desperation for a short break did not reach her.\nWithout paying mind to the saliva and semen spilling from\naround her mouth, she continued to bob her head roughly.
 
-[アル]「ひぃっ！？　だ、だ……めっ！　それ……！　やだ！　ぅううっ！」
+[Al]"Eee!? D- Do-... n't! That...! No! uuunh!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0019]「んじゅる……ちゅずずずずずぅうう！」
+[Mei α/mia0019]"nhshlurp... chuzzzhluuurp!"
 
-[アル]「あ、ぁあああ……！」
+[Al]"A-, aAaah...!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -183,31 +183,31 @@
 @bgv
 @fin bg=ev13d se=射精音
 
-[メイ－α/mia0020]「んっんっ……むふううううっ……」
+[Mei α/mia0020]"nnh-nh... nmhfaaah..."
 
-　メイの口腔に一度目の射精時よりもより多量の精液を流し込む。
-
-@se f=愛液1 pitch=70
-@se f=パイズリ・手コキ２ pitch=150
-@se f=締め付ける pitch=150
-@flash t=1000 wt=0
-
-[メイ－α/mia0021]「ふむうう！　むっむっ……んごっきゅ……ごきゅっごきゅっ……んぐっんぐっ……んっんっ……んふううううっ　ちゅっず……むじゅるるるぅ」
-
-[アル]「ぁ、あぁあっ……！　またっ、……ぃっ……！　くひっ！　ひぃいい！」
+　Even more than the first time, a larger amount of semen\npoured into Mei's oral cavity.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　再びの吸引――何もできぬまま、ただただ身悶えた。
+[Mei α/mia0021]"mmfuuh! mmmh-mmgh nhgulp... gulp gulp... ngh-ngh...\nnh-nh... nhfuuuh chuzu... mmhshluuurp"
 
-　意識が飛びそうになる。
+[Al]"ah, Aaah...! Again, n-...! Kuhe...! Eeee!"
 
-　だが、やはり休んでいる暇などなかった。
+@se f=愛液1 pitch=70
+@se f=パイズリ・手コキ２ pitch=150
+@se f=締め付ける pitch=150
+@flash t=1000 wt=0
 
-[メイ－α/mia0022]「まだ……もっと……んじゅっ……ちゅっぼ！　むじゅぼっ！　じゅぼぉお！」
+　Sucking again―― Unable to do anything, I just groaned.
+
+　My consciousness seemed like it would fade.
+
+　But, I didn't get any such reprieve.
+
+[Mei α/mia0022]"Still... more... nhslurp... shuck! mghsuck! suuuck!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -215,30 +215,30 @@
 @flash t=1000 wt=0
 @bgv f=fera_mia3
 
-　再び口淫が始まる。
+　She began fellating me again.
 
-[アル]「ひぃぎっ！？　も、もうっ！　助け、あっあっ……ぁあああ！」
+[Al]"Eeguh!? I'm, already! Help-, ah-ah-... aaAAh!"
 
-　快感の上に重なる快感――心地よさが恐ろしい。
+　The pleasure mounted―― It felt terrifyingly good.
 
 @se f=愛液1 pitch=70
 
-　しかし、抵抗はできない。できることは、許しを請うことだけだった。
+　However, I could not resist.\nAll I could do, was ask to be spared.
 
-　だが――
+　But――
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-[メイ－α/mia0023]「んじゅるるるぅ」
+[Mei α/mia0023]"nnhshluuuuurp"
 
 @fade type=out t=1000 wt=1
 @bgm
 @rps
 
-　願いは届かない……。
+　My request did not reach her...
 
 @bgm f=h-004 pitch=150
 @ev f=black
@@ -255,25 +255,25 @@
 @flash t=1000 wt=0
 @bgv f=fera_mia3
 
-[メイ－α/mia0024]「じゅっぼ……じゅずっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――じゅぶるるるぅ」
+[Mei α/mia0024]"suck... shlusuck! suck suck suck suck――shluuurp"
 
 @se f=愛液1 pitch=70
 
-[アル]「あ……ぁあああ……あ、ぁぁあ」
+[Al]"Ah... aAaaah... Ah, aaAh"
 
-　何度射精したか分からない。どれだけの精液を絞り取られたのか……まるで分からない。
+　I don't know how many times I'd ejaculated.\nHow much semen she'd squeezed out...\nI had no idea.
 
-　それなのに、まだ終わらない。まだ、吸われる。
-
-@se f=愛液1 pitch=70
-
-[メイ－α/mia0025]「じゅっちゅる……んじゅるるるぅ」
-
-[アル]「ぃ……ぁっ、……ぁぁああぁあっ」
+　Despite that, she still wasn't done.\nI was still, being sucked.
 
 @se f=愛液1 pitch=70
 
-　イキ地獄のような状況――できることは悶えることだけだった……。
+[Mei α/mia0025]"shlchurp... nhshlurrrrrp"
+
+[Al]"n-... o-, ... aaaAAAaah."
+
+@se f=愛液1 pitch=70
+
+　In a cumming hell like situation――\nAll I could do was writhing in agony...
 
 @fade type=out t=1000 wt=1
 @rps

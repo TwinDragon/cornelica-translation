@@ -8,25 +8,25 @@
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=50
 
-[ヴァネッサ/vns0079]「どうじゃ？　こうやってちんぽをまん汁塗れのまんこで擦り上げられる気分は？」
+[Vanessa/vns0079]"How is it? The feeling of having thy dick rubbed with\na pussy soaking with puss juice like this?"
 
 @se f=愛液1 pitch=50
 
-　のし掛かったヴァネッサが淫らに腰をくねらせてくる。グッチュグッチュと肉花弁で勃起棒を幾度も擦ってきた。
+　Mounting me, Vanessa wriggled her hips indecently.\nShe rubbed her fleshy petals against my erection\nagain and again.
 
 @se f=愛液1 pitch=50
 
-　アルも腰をくねらせ、ヴァネッサの秘部に自分からも強くペニスを押しつけた。
+　Al also wriggled his hips, even willingly pushing his penis\nstrongly against Vanessa's secret place.
 
-[ヴァネッサ/vns0080]「んふうう……先程あんなに射精したというのに、元気なペニスじゃな」
+[Vanessa/vns0080]"nhfuuuh...\nDespite that thou hadst ejaculated so much before,\nsuch an energetic penis."
 
-[ヴァネッサ/vns0081]「ビクビク震えておる。挿入れたくて挿入れたくて堪らないといった感じじゃな」
+[Vanessa/vns0081]"'Tis twitching. Like 'tis saying it wants to be inserted\nso badly it's unbearable."
 
 @se f=愛液1 pitch=50
 
-　拒絶しなければならない――心の奥底に僅かに残った理性ではそれを認識している。
+　I have to refuse―― The last bit of sense remaining in\nthe depths of my heart recognizes that.
 
-　しかし、本能はヴァネッサを求めてしまう。そして、その本能に抗うことができない
+　However, my instincts were calling for Vanessa.\nAnd, I could not resist those instincts.
 
 ;;SE挿入音
 ;;CG15a
@@ -35,29 +35,29 @@
 
 @bgf bg=ev15a t=500
 
-[ヴァネッサ/vns0082]「んっは……はふあっ……くふぅうう……」
+[Vanessa/vns0082]"nnhha... hafuaah... khfuuuh..."
 
 @se f=愛液1 pitch=50
 
-　咥え込まれていく。肉壺にペニスが……。
+　She takes it in. My penis into her fleshy hole...
 
-[ヴァネッサ/vns0083]「あっは……んはぁああ……はぁっはぁっ……あふぁあああ……」
+[Vanessa/vns0083]"Aaha... nhhaaAah... haa-haah... ahfuaAaah..."
 
-[ヴァネッサ/vns0084]「小僧……はぁああ……貴様も気持ちがいいであろう」
+[Vanessa/vns0084]"Boy... haAah... you are feeling good too, yes."
 
-[ヴァネッサ/vns0085]「まんこにちんぽの熱気が広がる。んふうう……やはり……ああ……やはりこれじゃな。最高に気持ちがいいぞ」
+[Vanessa/vns0085]"The heat of your dick is spreading in my pussy. nhfuuuh...\nThis... Aah... this is it. This feels the best."
 
 @se f=愛液1 pitch=50
 
-　ペニスでも気持ちがいいと訴える様に、肉茎を激しく打ち震わせた。
+　As if even my penis was pleading that it felt good,\nit's flesh stalk shook violently.
 
-[ヴァネッサ/vns0086]「あっはぁああ……妾の中でちんぽが跳ね回っておる……んっんっんっ……」
+[Vanessa/vns0086]"AahhaaAah...\nInside Us your dick is jerking around... nh-nh-nh..."
 
-[ヴァネッサ/vns0087]「出したい……すぐにでも射精したいと……あふぅう……訴えておるようじゃな」
+[Vanessa/vns0087]"It wants to cum... to ejaculate right away... ahfuhu...\nis what it seemst to complain."
 
-[アル]「は……ひ…………出……あぁ」
+[Al]"Ye-... -es....... cu-... Aah"
 
-[ヴァネッサ/vns0088]「はぁああ…………そろそろ、射精させてやろうか。　ほれ……んんっ」
+[Vanessa/vns0088]"HaaAaah......\nWe suppose 'tis about time, that We make you cum.\nHere goes... nnh"
 
 ;;SEピストン音
 
@@ -65,32 +65,32 @@
 @bgv f=パイズリ・手コキ２ pitch=50
 @flash t=500 wt=0
 
-　ヴァネッサが腰を振り始める。
+　Vanessa starts swaying her hips.
 
 @se f=愛液1 pitch=50
 
-　ヒダヒダでペニスを強く締めつけながら、腰を淫らにくねらせ、尻を打ち付けてきた。パンパンパンッという音色が響く程の勢いで……。
+　As her folds strongly squeeze me, and her hips\nwiggle indecently, her butt smacks into me.\nThe force is enough to resound a 'smack, smack, smack' sound...
 
-[ヴァネッサ/vns0089]「こうして襞をキュッキュッと締めつけ、子宮口で亀頭を吸ってやれば瞬く間に射精するじゃろうな」
+[Vanessa/vns0089]"Tightly squeezing with my folds like this, sucking on your\nglans with my cervix you'll ejaculate in a flash, yes."
 
 @se f=愛液1 pitch=50
 
-　刻まれるピストンに対してできることは、ただ首を縦に振って頷くことだけだった。
+　The only thing I could do in response to her\npinning pistoning, was raise my head to nod.
 
-[ヴァネッサ/vns0090]「亀頭が膨らんでおるな。あっふ……はふぅうう……もう……あああ……もう……そろそろ出そうじゃ」
+[Vanessa/vns0090]"Your glans is expanding. Ahhfuh... hafuuuh...\nSeems... Aaah... you're... about to cum already."
 
 @se f=締め付ける pitch=75
 @se f=愛液1 pitch=50
 
-　ヴァネッサの秘部がキュウウウッとより収縮する。ペニス全体を搾り上げてきた。
+　Vanessa's secret place contracts tighter.\nIt rubs the whole of my penis.
 
-[アル]「ぁぁ……ぁぁああああ！」
+[Al]"aah... aaAAAah!"
 
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　強烈な締めつけに快感が爆発する。
+　My climax explodes forth from the strong squeezing.
 
 ;;SE射精音
 ;;射精エフェクト
@@ -98,194 +98,194 @@
 @bgv
 @fin bg=ev15b se=射精音
 
-[ヴァネッサ/vns0091]「あっは……んは……はふぁあああ……」
+[Vanessa/vns0091]"Aahha... nhha... hafuaAaah..."
 
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　流し込む。白濁液を……。
+　I pour it in. The white cloudy fluid...
 
-　いや、精液だけじゃない。
+　No, not just semen.
 
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　全身から力が抜けていくのを感じた。
+　I felt my entire body losing strength.
 
-　それは決して射精後の脱力感ではない。なんというか、まるで命そのものが抜けていくような、そんな気が……。
+　That is definitely not the feeling of weakness after\nejaculation. Somehow, it's completely like my life itself\nis slipping away, that kind of feeling...
 
-[ヴァネッサ/vns0092]「あふうう……スゴイ量じゃ……。妾の子宮が一瞬で満たされて行くのが分かるぞ。じゃが……んっふ……くふうう……」
+[Vanessa/vns0092]"Ahfuuh... An amazing amount...\nWe can tell Our womb will be sated in one moment.\nBut... nnhfuh... khfuuuh..."
 
-[ヴァネッサ/vns0093]「ふふ……やはり良いちんぽじゃ。もっと、もっと出せ。さぁ、もっと……あはぁああ……妾のまんこに……」
+[Vanessa/vns0093]"Fufufu... Your dick is good after all.\nMore, cum more. Now, more... AhhaaAah... into Our pussy..."
 
 @se f=パイズリ・手コキ２ pitch=50
 @se f=愛液1 pitch=50
 
-　休む間をヴァネッサは与えてくれない。言葉と共に膣中をうねらせる。射精し続けるペニスを強く締めつけて来る。もっと出せというように……。
+　Vanessa doesn't give me time to rest. Along with her words,\nher insides undulate. She strongly squeezes my\nstill ejaculating penis. As if to say 'cum more'...
 
-[アル]「ひっ！　これ……僕…………しゃ……せい……しながら……出るっ！　出ちゃうぅ」
+[Al]"Eee! This... I'm... while... ejacu-... lating... cumming! Gonna cuuumm."
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG15c
 @fin bg=ev15c se=射精音
 
-[ヴァネッサ/vns0094]「あはぁああ！　んっは……はふぁあああああ……」
+[Vanessa/vns0094]"AhhaaAah! nnhha... hafuaAaaaah..."
 
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　絞り取られるがままに肉壺に白濁液を流し込んだ。
+　While being squeezed out, the cloudy white liquid poured\ninto her fleshy hole.
 
-　また、何かが抜けてく。最高に気持ちいい。だというのに、なんだか恐怖が膨れ上がって来る。
+　Again, something was lost.\nIt felt the greatest.\nDespite that, fear somehow swelled up.
 
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　縋るような、救いを求めるような視線をヴァネッサへと向けた。
+　As if I was dependent on her, I pointed a look which begged\nfor salvation at Vanessa.
 
-[ヴァネッサ/vns0095]「んふうう……本当に良い。良質の精液じゃ……あはぁああ……」
+[Vanessa/vns0095]"nhfuuuh...\nTruly good. 'Tis excellent semen...\nahhaaAah..."
 
-　ヴァネッサはこちらを見て笑っているのに、まるで気にしていないように腰を振っている。幸せそうに。笑みを浮かべて――
+　Although Vanessa looked down at me smiling, she was swaying\nher hips as if totally unconcerned.\nLooking happy. With a smile on her face――
 
 ;;SEピストン音
 @se f=愛液1 pitch=50
 @bgv f=パイズリ・手コキ２ pitch=75
 @flash t=500 wt=0
 
-[ヴァネッサ/vns0096]「もっとじゃ……んんんっ……もっと出せ。出し尽くすのじゃ。あっは……あっ、んんっ、あぁっ！」
+[Vanessa/vns0096]"More... nnnh... Cum more. Let it all out.\nAhha... ah-, nnh-, Aah-!"
 
 @se f=締め付ける pitch=50
 @se f=愛液1 pitch=50
 
-　腰を振ってくる。もっと射精しろと命じるように、きつくペニスを圧迫し、絞り、吸引してくる。
+　She swayed her hips.\nAs if ordering me to ejaculate more, she tightly pressured,\nsqueezed, and sucked on my penis.
 
 @se f=愛液1 pitch=50
 
-　ピストン比例するように強くなっていく快感。それと同時に恐怖を覚える。射精をしてはならないと本能が訴えてくる。
+　As if proportional to her pistoning, the feeling of climax\ngrew. At the same time I felt fear.\nMy instinct told me that I should not ejaculate.
 
-　だが、抗うことなどできるわけがなく――
+　But, there was no way I could resist――
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG15d
 @fin bg=ev15d se=射精音
 
-[ヴァネッサ/vns0097]「くふうううううっ」
+[Vanessa/vns0097]"Khfuuuuuh-"
 
 @se f=愛液1 pitch=50
 @bgv f=パイズリ・手コキ２ pitch=75
 @flash t=500 wt=0
 
-　またしても白濁液を流し込んだ。
+　Cloudy white liquid poured once again.
 
-[ヴァネッサ/vns0098]「はぁああ……出ておる。まんこにザーメンが……あっは……ふはぁあああ……」
+[Vanessa/vns0098]"HaaAah...\n'Tis coming out. Semen into Our pussy...\nAahha... fuhaaAaah..."
 
-[ヴァネッサ/vns0099]「熱いぞ。実に美味い……。じゃが……まだじゃ。まだ足りぬ。もっと……もっとじゃ」
-
-@se f=愛液1 pitch=50
-
-　更に自分の中の大切なものが――命としかいえないようなものが搾り取られてしまう。
-
-　怖い。怖い……。
-
-　怖い怖い怖い怖い怖い……。
-
-　もう……
-
-[アル]「……もう……無理……」
+[Vanessa/vns0099]"It's hot. Truly delicious...\nBut... not yet. 'Tis not yet enough. More... more."
 
 @se f=愛液1 pitch=50
 
-[ヴァネッサ/vns0100]「……………ん？　無理とな？　だから、どうしたというのじゃ？」
+　Something important within me was furthermore――\nsomething I felt I could only call life was being sucked\nout of me.
 
-[ヴァネッサ/vns0101]「ふむ……貴様はサキュバスを、なにか都合のいい生き物として見ておらんか？」
+　Scary. It's scary...
+
+　Scary scary scary scary scary...
+
+　Anymore...
+
+[Al]"... Can't... anymore..."
 
 @se f=愛液1 pitch=50
 
-　恐怖と共に、後悔も沸々と湧き上がってくる。自分は、どこかで間違ってしまったのだろうか。
+[Vanessa/vns0100]"...... Mh? 'Can't', you say?\nSo, are you saying there's something wrong?"
 
-[ヴァネッサ/vns0102]「未熟な冒険者の中には、たまにそのような者がおる。少し体を重ねたからといって無様なほどに気を許す輩が」
+[Vanessa/vns0101]"Hmm... Do you see succubi, as some convenient creatures?"
 
-[ヴァネッサ/vns0103]「こちらも、わざわざフランカ区という安全地帯を用意してやっておるというのにのぅ……」
+@se f=愛液1 pitch=50
 
-[ヴァネッサ/vns0104]「そこ以外の場所でサキュバスの誘惑に乗るということがどういうことか、わかっておらんかった様じゃ」
+　Along with the fear, regret also boiled up, simmering.\nI wondered, that I had made a mistake somewhere myself.
 
-[ヴァネッサ/vns0105]「いいか、コレは交尾でもなければ奴隷にするための調教でもない。…………ただの食事でしかないのじゃ」
+[Vanessa/vns0102]"Inexperienced adventurers are sometimes like that.\nThose who will forgive another anything because they\nslept with each other a little."
 
-　目の前のサキュバスは、性交が始まってからは自分のことなど食料としてしか見ていなかった。
+[Vanessa/vns0103]"This one too, even though I went to the trouble of preparing\nthe Franca District as a safe zone..."
 
-　そう理解してしまうと、もう目の前の生き物が化け物にしか見えない。見えない……はずなのに……
+[Vanessa/vns0104]"What happens when you're taken in by a succubus' temptation\nanywhere else, it seems you didn't understand that."
+
+[Vanessa/vns0105]"You see, this is neither mating nor training to make you\ninto a slave.\n...... This is just a meal."
+
+　The succubus before me, has only seen me as food since\nsexual intercourse started.
+
+　With that understood, the only thing I could see the being\nbefore me as was now a monster.\nIt should have been... the only thing I could see her as...
 
 ;;SEピストン音
 @se f=愛液1 pitch=50
 @bgv f=パイズリ・手コキ２ pitch=75
 @flash t=500 wt=0
 
-[アル]「……だめ……これ……ぁ……ぁぁぁぁ……」
+[Al]"... No... this... ah... aaaah..."
 
-　腰がより蠢く。ペニスを食い千切らんばかりに膣壁が圧迫してくる。
-
-@se f=愛液1 pitch=50
-
-　射精してはならない。次に出したら今度こそ――そんな確信を抱く。
-
-　必死に首を横に振り、駄目だ駄目だと口にした。
+　Her hips squirm harder.\nThe vaginal walls squeeze just to chew my penis to bits.
 
 @se f=愛液1 pitch=50
 
-[アル]「許して……お願いします。助け…………」
+　I cannot ejaculate.\nSurely, if I cum again―― He embraced that conviction.
 
-　許しを繰り返し請い願う。
-
-[ヴァネッサ/vns0106]「……………………」
+　He desperately swung his neck side to side,\nand said 'No, no.'
 
 @se f=愛液1 pitch=50
 
-　アルに言葉を返すほどの興味がなくなったヴァネッサは、淡々と行為を続けている。
+[Al]"Spare me... please. Help......"
 
-　もはやこの場にいる者は2人ではない。一人のサキュバスと、1匹の哀れな獲物だけなのだ。
+　He repeatedly begged to be pardoned.
 
-[ヴァネッサ/vns0107]「ん、んんんっ」
+[Vanessa/vns0106]"........."
 
 @se f=愛液1 pitch=50
 
-　キュウウッと肉壺が締まる。
+　Vanessa, having lost interest in replying to Al with words,\nindifferently continued her actions.
 
-　そして――
+　No longer were there two people in this place.\nJust a single succubus and one of her hapless prey.
+;; もはやこの場にいる者は2人ではない。一人(people counter)のサキュバスと、1匹(animal counter)の哀れな獲物だけなのだ。
+[Vanessa/vns0107]"nh, nnnh-"
+
+@se f=愛液1 pitch=50
+
+　Her fleshy hole tightly locks up.
+
+　And then――
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG15e
 @fin bg=ev15e se=射精音
 
-[ヴァネッサ/vns0108]「……はぁああ……あっあっ……ぁああああ……」
+[Vanessa/vns0108]"... HaaAah... Ah-ah-... aAaaah..."
 
 @se f=愛液1 pitch=50
 
-　射精が始まった。
+　He started to ejaculate.
 
-[ヴァネッサ/vns0109]「んふうううう……」
+[Vanessa/vns0109]"Nhfuuuuh..."
 
-　ヒクヒクとヴァネッサは肢体を震わせる。
+　Vanessa's limbs quivered and twitched.
 
 @se f=愛液1 pitch=50
 
-　愉悦を味わう艶やかな姿。
+　She took on the glow of one reveling in pleasure.
 
-　だが――
+　But――
 
-[アル]「………………」
+[Al]"........."
 
-　その姿をアルはもう、見てはいない。
+　That glowing appearance, Al would never see.
 
-[アル]「………………」
+[Al]"........."
 
-　アルの命は、もう……燃え尽きていた。
+　Al's life had, already... burned out.
 
-[ヴァネッサ/vns0110]「……………………ふぅ。もう少し骨があれば、奴隷にしてやったかもしれんな」
+[Vanessa/vns0110]"............ Phew.\nHad he a bit more talent, We may have made him into a slave."
 
 ;;暗転
 
