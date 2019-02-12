@@ -10,30 +10,30 @@
 
 @move f=元娼婦サキュバス@ x=350 y=50 opa=255 t=200 wt=1
 
-[Succubus]"Haha～"
+[Succubus]"Sigh～......"
 
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[Succubus]"...hmm? What did a boy do in this place?"
+[Succubus]"...Hm?\nWhat's a boy doing in this kind of place?"
 
 @bs f=アル@笑顔 t=200
 
-[Succubus]"You heard a voice since it seems not to be energetic? \nIt's kind of you. Well, it doesn't matter what I say..."
-;;Need Review
+[Succubus]"I seemed unhappy, so you called out to me? Aren't you kind.\nWell, telling you won't change anything, though..."
+
 @bs f=アル@困り t=200
 
-[Succubus]"...Here originally was a brothel. Instead of paying \nextra magical power, we'll suppress the erosion of the charm \nmaking it a special case in Franca Ward"
-[Succubus]"It's easier for customers to enter here"
+[Succubus]"... This place, was originally a brothel. Since in exchange\nfor extra magical power charm's infringment is restrained,\nit was allowed as a special case in Franca Ward."
+[Succubus]"This way customers could enter more easily."
 
-[Succubus]"I want succubus and sex, but I don't want \npeople to become slaves. People said that they \nwanted to fuck succubuses, but..."
+[Succubus]"It was popular with people who wanted to have sex with\nsuccubi, but not be enslaved, and people that wanted to\ntop succubi for example, but..."
 
-[Succubus]"Recently there are few men. \nSuccubuses got out of control"
+[Succubus]"Recently there aren't many men.\nThe succubi have carelessly gotten out of control."
 
 @bs f=アル@焦り t=200 op=焦り x=-350 y=50 t=600
 
-[Succubus]"Well, it's too cruel to hold sucking on Succubus..."
+[Succubus]"Well, being forcibly extracted from by a succubus is \na terrible thing too, right..."
 
-[Succubus]"Thank you for listening me bitching. \nIf you do not mind, why do not you try sex with me \njust by using magical power?"
+[Succubus]"Thanks for listening to my grumbling.\nIf you'd like, with only magical power consumed, you could\ntry having sex with me?"
 
 @bs f=アル@焦り_頬 t=200
 
@@ -44,7 +44,7 @@
 @if eval=s(47)==1 ok=jump:*scene001 bad=jump:*next001
 *scene001
 
-[Lily]"Muuu... well, if safe, I will leave decision to Al. \nWhat do you wanna do?"
+[Lily]"Grr... Well, if it's safe, I'll leave the decision\nto you, Al, but...\nAl, what'll you do?"
 
 ;;========================================================
 *next001
