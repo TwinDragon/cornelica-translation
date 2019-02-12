@@ -4,9 +4,9 @@
 
 @move_f f=メイ@通常 in=c t=250 wt=1
 
-[Vlasta-α]"Do you buy something?"
+[Mei α]"Buying, something?"
 
-@select s1=Shopping/*code01 s2=Speak/*code02
+@select s1=Shopping/*code01 s2=Talk/*code02
 ;;----------------------------------------------------------------
 ;;買い物
 *code01
@@ -25,7 +25,7 @@
 
 @bs f=メイ@笑み t=200
 
-[Vlasta-α]"I was saved by energy. I'd also like to talk"
+[Mei α]"Your energy, helped. Again, want to rely on you."
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs
@@ -37,16 +37,16 @@
 
 @bs f=メイ@微笑 t=200
 
-[Vlasta-α]"Hey...come here for a moment..."
+[Mei α]"Hey... over here a moment..."
 
-@select s1=What's_the_matter?/*code03 s2=Refuse/*code04
+@select s1=What_is_it?/*code03 s2=I'll_pass./*code04
 ;;----------------------------------------------------------------
 ;;What's_the_matter?
 *code03
 
 @bs f=メイ@笑み t=200
 
-[Vlasta-α]"I... want to ask again..."
+[Mei α]"Want to... rely on you again."
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs
@@ -58,7 +58,7 @@
 *code04
 
 @bs f=メイ@困惑 t=200
-[Vlasta-α]"Regrettably..."
+[Mei α]"Regrettable..."
 
 @move_f f=メイ@ face=0 out=c t=150 wt=1
 @bs
