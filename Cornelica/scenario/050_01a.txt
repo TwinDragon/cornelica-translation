@@ -9,7 +9,7 @@
 @move f=アル@普通 x=-350 y=50 w=100 h=100 opa=255 t=600 wt=0
 @move f=メイ@怒り x=350 y=50 w=100 h=100 opa=255 t=600 wt=1
 
-[Vlasta-α]"Long time no see"
+[Mei α]"It's been awhile."
 
 ;;主人公：驚き
 @huki b=1
@@ -21,8 +21,8 @@
 
 @bs f=メイ@怒り x=350 y=50 t=400 wt=1
 
-[Vlasta-α]"...I had you accompany me before... blaster"
-;;Need Review
+[Mei α]"... I am the, vlasta who had accompanied you... before."
+
 ;;主人公：喜ぶ
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=0 w=100 h=100 t=160 wt=1
@@ -50,7 +50,7 @@
 
 @bs f=メイ@怒り x=350 y=50 t=400 wt=1
 
-[Vlasta-α]"There is no use for leaving it. \nInevitability... so you do not have to worry"
+[Mei α]"Leaving me there, couldn't be helped.\nInevitabile... so, do not worry."
 
 ;;主人公：考える
 @bs f=アル@焦り x=-350 y=50 t=400 wt=1
@@ -63,7 +63,7 @@
 ;;"However,..."
 ;;"Can_I_not_apologize_for_anything?"
 
-@select s1="However,..."/*st01a s2="Can_I_not_apologize_for_anything?"/*st01b
+@select s1=But.../*st01a s2=Can't_I_make_it_up_to_you_in_anyway?/*st01b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st01a
 *st01b
@@ -75,16 +75,16 @@
 @huki b=8 id=2
 @bs f=メイ@焦り x=350 y=50 t=300 wt=1
 
-[Vlasta-α]"...Apology..."
+[Mei α]"...Make it up..."
 
 @huki b=8 id=2
 @bs f=メイ@困惑 x=350 y=50 t=600 wt=1
 
-[Vlasta-α]"..."
+[Mei α]"..."
 
 @bs f=メイ@怒り x=350 y=50 t=300 wt=1
 
-[Vlasta-α]"If it is ok... I want you to help the energy recovery"
+[Mei α]"If you could... I'd like you to help me recover energy."
 
 ;;主人公：疑問符
 @huki b=2
@@ -94,7 +94,7 @@
 @huki b=8 id=2
 @bs f=メイ@焦り x=350 y=50 t=300 wt=1
 
-[Vlasta-α]"Damage on the other day, \nenergy has not yet recovered"
+[Mei α]"From the damage the other day, my energy has not\nrecovered fully."
 
 ;;主人公：哀しい顔
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
@@ -105,7 +105,7 @@
 @huki b=2 id=2
 @bs f=メイ@通常 x=350 y=50 t=600 wt=1
 
-[Vlasta-α]"...No good?"
+[Mei α]"... Won't you?"
 
 ;;主人公：首を振る
 @bs f=アル@屈辱 op=焦り x=-350 y=50 t=400 wt=1
@@ -121,7 +121,7 @@
 ;;"Good!"
 ;;"I'll_do_anything!"
 
-@select s1="Good!"/*st02a s2="I'll_do_anything!"/*st02b
+@select s1=Sure!/*st02a s2=I'll_do_anything!/*st02b
 ;;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *st02a
 *st02b
@@ -134,7 +134,7 @@
 
 @bs f=メイ@微笑 x=350 y=50 t=400 wt=1
 
-[Vlasta-α]"...Thank you. Well then"
+[Mei α]"... Thank you. Then-"
 
 @bs f=メイ@通常 x=350 y=50 t=400 wt=1
 
