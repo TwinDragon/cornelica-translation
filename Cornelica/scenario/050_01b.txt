@@ -21,7 +21,7 @@
 @huki b=2 id=2
 @bs f=メイ@微笑 x=350 y=50 t=300 wt=1
 
-[Vlasta-α]"Much energy was replenished."
+[Mei α]"Much energy was replenished."
 
 ;;主人公：赤面（困惑）
 @bs f=アル@困り_頬 x=-350 y=50 t=600 wt=1
@@ -33,7 +33,7 @@
 
 @bs f=メイ@笑み x=350 y=50 t=300 wt=1
 
-[Vlasta-α]"If you can, I would like to rely on you again."
+[Mei α]"If you can, I would like to rely on you again."
 
 ;;主人公：赤面（困惑）
 @bs f=アル@驚き_頬 op=ビックリ x=-350 y=50 t=600 wt=1
