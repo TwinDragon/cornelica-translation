@@ -1,12 +1,12 @@
 ;;■ECG11C
 ;;■酒場：曲芸師
 
-@select s1=Please/*code001 s2=Refuse/*code002
+@select s1=Yes,_please./*code001 s2=I'll_pass./*code002
 ;;========================================================
 ;;お願いする Please
 *code001
 
-[Irina]"Yes. I know it. So please, come here"
+[Irina]"Alright. Certainly. Then, this way please."
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=イリーナ@淫靡 face=0 out=c t=150 wt=1
 @bs
@@ -21,7 +21,7 @@
 
 
 @bs f=イリーナ@通常 t=200
-[Irina]"Oh dear, that would be nice. You're prudence"
+[Irina]"Well, that's fine too, right. Prudent, aren't you."
 @move_f f=アル@焦り face=0 out=c t=150 wt=0
 @move_f f=イリーナ@通常 face=0 out=c t=150 wt=1
 @bs
