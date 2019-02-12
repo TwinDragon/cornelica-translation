@@ -6,29 +6,29 @@
 ;;■CG01
 @bgf bg=ev17 t=1000
 
-[リリィ/rry0149]「あっは……んはぁああ……あっあっあっ……」
+[Lily/rry0149]"Ahha... nhaaAah... Ah-ah-ah..."
 
 @se f=愛液1
 
-　リリィが締めつけて来る。強く強く、膣壁全体でペニスを……。
+　Lily start to squeeze.\nVery strongly, with the entirety of her vaginal walls\naround my penis...
 
 @se f=愛液1
 
-[リリィ/rry0150]「んっ、ふうぅ……どう……？　気持ちいい……？」
+[Lily/rry0150]"nnh, fuuh... How is it...? Feel good...?"
 
-[アル]「ぅ……うん……」
+[Al]"Y-... Yeah..."
 
-[リリィ/rry0151]「えへへ♪　それじゃあ、もっとエッチを楽しも♪」
-
-@se f=愛液1
-
-[アル]「でも……明日……元の世界に……戻る……のに……疲れが……の、残っちゃうよ……」
-
-[リリィ/rry0152]「ふふ……それなら大丈夫だって。門を潜るだけなんだから……ちょっとくらい……疲れてたって問題ないよ♪」
+[Lily/rry0151]"Ehehe ♪\nThen, let's enjoy some more sex. ♪"
 
 @se f=愛液1
 
-[リリィ/rry0153]「だからね……もっと……んふうう……もっと激しくするね？」
+[Al]"But... tomorrow... we have to go back... to my... world...\nwe'll still... be t-, tired..."
+
+[Lily/rry0152]"Fufu... If that's all it's fine.\nSince we just have to dive through the gate...\nbeing a bit... tired isn't a problem. ♪"
+
+@se f=愛液1
+
+[Lily/rry0153]"So, you know... harder... nhfuuh...\nlet's do it harder, okay?"
 
 ;;SEピストン音
 ;;CG17a
@@ -38,186 +38,185 @@
 
 @se f=愛液1 pitch=50
 
-[リリィ/rry0154]「んっ、あはぁっ、……あっ、ふぅ……んんんっ！」
+[Lily/rry0154]"nnh, ahaaah, ... ah, fuu... nnnnh!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-　リリィが激しく腰を振る。嬉しそうな表情を浮かべながら、根元から肉先までをヒダヒダの一枚一枚で淫靡に締めつけつつ、擦り上げてきた。
+　Lily intensely shakes her hips. While she makes a delighted\nexpression, from my base to my tip each and every one\nof her folds obscenely squeeze and rub me.
 
-[リリィ/rry0155]「膣中ですごく震えてる……んっ、まんこでギュッギュッて締められながら……おちんちん……ちんぽ……ジュコジュコ扱かれるの……あんん……好き？」
-
-@se f=愛液1
-
-[アル]「ああ……ぅっああぁ……っ！」
-
-[リリィ/rry0156]「んふふふ♪　本当に気持ち……あっあっ……良さそうだね。私が腰を振るたび……あっふ……んふうう……膣中で……ちんぽが膨らんで来てるのが分かる」
+[Lily/rry0155]"You're quivering so much inside me... nnh\nWhile you're tightly squeezed by my pussy... your penis...\ndick... being stroked... ahnnh... do you like it?"
 
 @se f=愛液1
 
-[リリィ/rry0157]「ビクビクッて震えも凄い……これ……んふうぅう……はぁ……はぁ……はぁ……すぐ射精したいって……ちんぽがいってるみたいだよ」
+[Al]"Aah... uuAaah...!"
 
-[リリィ/rry0158]「出したいの？　私の子宮に種付けしたいの？」
+[Lily/rry0156]"nfufufu ♪ Seems like it really-... ah-ah... feels good.\nEvery time I sway my hips... ahfuh... nhfuuh... inside me...\nI feel your dick bulge more."
+
+@se f=愛液1
+
+[Lily/rry0157]"Its twitch twitching is amazing too...\nThis... nhfuuuh... haah... haah... haah... is like your\ndick is... saying it wants to cum soon."
+
+[Lily/rry0158]"You wanna cum?\nWant to plant your seed in my womb?"
 
 @se f=パイズリ・手コキ２ pitch=50
 
-　上下に振るだけじゃない。時には円を描くような動きで腰をくねらせてくる。
+　 She doesn't just sway up and down.\nSometimes she wriggles her hips as if drawing a circle.
 
-[リリィ/rry0159]「うふふ♪　……あっ、ふうぅ……遠慮しないで、いっぱい出してね♪　ほら……もっと……もっと激しく腰を振ってあげる」
+[Lily/rry0159]"Ufufu ♪\n...Ah, fuuh... Don't hold back, let out lots, okay. ♪\nHere... I'll... shake my hips even harder for you."
 
-[リリィ/rry0160]「こうやって……きつくちんぽをまんこで……あっ、んぅ……締めてあげるね♪」
-
-@se f=愛液1
-
-　更に腰の動きが大きなものに変わる。
-
-　膣口付近はきつく、それでいて膣道は柔らかく、肉茎を包み込んできた。子宮口で繰り返し亀頭にキスをしてくる。
+[Lily/rry0160]"Like this... I can tightly squeeze... ah, nuh... your penis\nwith my pussy. ♪"
 
 @se f=愛液1
 
-　射精してくれと身体で求めるみたいに、肉先を激しく啜ってきた。
+　The movements of her hips get even bigger.
 
-　強烈な性感が爆発する。
+　Near the entrance is tight, but her vaginal tract\nis still soft as it envelops my stalk.\nHer uterus repeatedly kisses my glans.
+
+@se f=愛液1
+
+　Like it was demanding I ejaculate, it intensely sucked\nat my fleshy tip.
+
+　A strong climax explodes forth.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG17b
 @fin bg=ev17b se=射精音
 
-[リリィ/rry0161]「あっは……んはぁあああ……あっあっあっ！」
+[Lily/rry0161]"Ahha... nhhaaAaah... Ah-ah-ah!"
 
-[リリィ/rry0162]「出てる……んくううう……来てる……。熱い汁……ビュルビュルって……んっは……あはぁあああ……いい……これ……いい……」
-
-@se f=愛液1
-
-　意識が飛んでしまいそうな程の強烈な性感に全身を打ち震わせながら、肉壺から溢れ出る程多量の白濁液を注ぎ込んだ。
-
-[リリィ/rry0163]「はっふ……んふううううっ……」
+[Lily/rry0162]"It's cumming... nhkhuuuh... coming...\nHot fluid... spurting... nnhha... ahaaAaah...\nGood... this is... good..."
 
 @se f=愛液1
 
-　全身から力が抜ける。
+　While my whole body quivers from the climax that might rob\nmy consciousness, I poured out so much cloudy white fluid\nthat it overflowed from her flesh hole.
 
-　このまま眠ってしまいそうなほど、強烈な虚脱感だった。
+[Lily/rry0163]"Hahfuh... nhfuuuuh..."
 
-[リリィ/rry0164]「アル……気持ち良かった……？」
+@se f=愛液1
 
-[アル]「うん……」
+　My whole body loses it's strength.
 
-[リリィ/rry0165]「だよね。こんなに出しちゃぅ……はぁ……はぁ……くらいだもんね」
+　The lethargy was such that I could've fallen asleep.
 
-[リリィ/rry0166]「だけど……まだ満足しないでね。私……もっともっと……アルで気持ち良くなりたいから」
+[Lily/rry0164]"Al... did it feel good...?"
 
-[アル]「あ……う……うん……頑張る」
+[Al]"Yeah..."
 
-[リリィ/rry0167]「アル……ふふ……大好きだよ♪」
+[Lily/rry0165]"I'd bet.\nSo good... haah... haah... that you came this much, right."
 
-[アル]「僕も……好き……」
+[Lily/rry0166]"But... don't be sated yet, okay.\n'Cuz... I want to... feel good with Al more and more."
 
-[リリィ/rry0168]「嬉しい」
+[Al]"Ah... O-... okay... I'll do my best."
 
-[リリィ/rry0169]「それじゃあ……今度は恋人同士みたいにチューしながらしようね♪」
+[Lily/rry0167]"Al... fufu... I love you. ♪"
+
+[Al]"I love-... you, too..."
+
+[Lily/rry0168]"I'm glad."
+
+[Lily/rry0169]"Now then...\nThis time, as lovers, let's do it while kissing, okay. ♪"
 
 @se f=愛液1
 
 ;;CG17c
 @bgf bg=ev17c t=1000
 
-[リリィ/rry0170]「ふっちゅ……んちゅうう……」
+[Lily/rry0170]"fuhchu... nhchuu..."
 
-　唇に唇が重ねられた。
+　Our lips meet.
 
-　いや、ただ重ねてくるだけじゃない。
+　No, they don't just meet.
 
-[リリィ/rry0171]「ちゅっろ……んちゅろっ……ふっちゅ……んちゅるるるぅ」
+[Lily/rry0171]"chu-ro... nhchuro... fuhchu... nhchlurrrp"
 
 @se f=愛液1
 
-　当然のようにリリィは口内に舌を挿し込んできた。
+　As a matter of course, Lily thrusts her tongue into my mouth.
 
-　その上で――
+　Along with that――
 
 ;;SEピストン音
 @bgv f=パイズリ・手コキ２ pitch=65 wt=0
 
-[リリィ/rry0172]「はっちゅろ……んちゅうっ……ふっは……んはぁああ……あっあっ……ふちゅっ……ちゅろろ……んれっろ……れちゅろぉおお……」
+[Lily/rry0172]"Hahchuro... nhchuuh... fuhha... nhhaaAah... ah-ah...\nfuchuh... churoro... nhliiick... li-chu-iiick..."
 
-　腰を振ってくる。
+　She sways her hips.
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-　舌に舌を絡め、時には頬を窄めて唾液を啜りながら、腰を先程まで以上に激しくくねらせてきた。
+　While our tongues entwine and she sometimes contracts\nher cheeks to suck at my saliva, she wriggles her hips\nmore intensely than before.
 
 @se f=愛液1
 
-　唇と膣で繋がり合う。強く身体を密着させながら――全身が一つに溶け合い、混ざり合っているような気冴えする程濃厚な繋がりだった。
+　Our lips and hips join together. While our bodies strongly\nadhered to one another―― our whole bodies melting into one,\nthe deep connection felt as if we blended together. 
+;;唇と膣で繋がり合う。強く身体を密着させながら――全身が一つに溶け合い、混ざり合っているような気冴えする程濃厚な繋がりだった。
+[Lily/rry0173]"Ahfuuh... chu-ro... nhfuuh...\nYour dick... is getting ewen... bigger than befowa...\nhahfuuh..."
 
-[リリィ/rry0173]「あふうう……ちゅっろ……ふちゅろぉ……んふうう……ちんぽ……しゃっきまれより……大きくなってりゅ……はふうう……」
+[Lily/rry0174]"Coulw it be... ahain? You'we gonna cwum ahain?\nfuhchu... churo... khchuroh... nhsluuuurp"
 
-[リリィ/rry0174]「もひかひて……まら？　まらしゃしぇいしひゃいしょうなの？　ふっちゅ……ちゅる……くちゅるっ……んじゅるるるぅ」
+[Lily/rry0175]"... Go ahead... nhfuuh...\nCwum if you... wanna cwum... chuburo... fujyu! chuzluuurp..."
 
-[リリィ/rry0175]「……いいよ……。んふうう……らひたいなら……らひて……ちゅぶるっ……ふじゅっ！　ちゅずるるるぅ……」
-
-[リリィ/rry0176]「わらひも……あふうう！　い……イキしょう……もう……いっひゃいしょう……。らから……ちゅぶろぉ……ふちゅうう……ら……から……いっひょに……」
+[Lily/rry0176]"Mwe too...ahfuuh! G-... gonna cum... I'm... gonna cwum...\nSho... chuburoo... fuchuu... Sh-... ho... togevwer..."
 
 ;;SEピストン音
 @bgv f=パイズリ・手コキ２ pitch=75 wt=0
 
-　愉悦に後押しされるように、リリィの動きに合わせてアルも腰を振った。リリィの膣奥を激しく叩く。
+　As if spurred on by the pleasure, Al also swayed his hips\nto match Lily's movements.\nHe roughly hit against the back of Lily's vagina.
 
-[リリィ/rry0177]「しょれ！　はぁああ！　しょれぇぇえ！」
+[Lily/rry0177]"That! HaaAah! Thaaat!"
 
-[リリィ/rry0178]「はっふ……むっちゅぼ……ちゅぼっ！　くちゅるろぉおお！　むっふ……んふううううう！」
-
-[リリィ/rry0179]「い……く……わらひ……もう！　もぉおおおおおおお！！」
+[Lily/rry0178]"Haahfu... muhchusuck... chusuck!\nkhchururoooo! muhfu... nhfuuuuuh!"
+[Lily/rry0179]"I-... 'm... gonna... cum! Gonna cu-ooooooh!!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 
-[アル]「あっ、……うぁあ……もうっ！」
+[Al]"Ah-, ... uaAh... I'm-!"
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG17d
 @fin bg=ev17d se=射精音
 
-[リリィ/rry0180]「あっは……んは……はぁああああ……あっあっ……ふくうううう！」
+[Lily/rry0180]"Ahha... nhha... haaAaaah... ah-ah-... fukhuuuuh!"
 
 @se f=愛液1
 
-　流し込む。再びリリィの膣中に……。
+　It pours in. Inside Lily's vagina once again...
 
-[リリィ/rry0181]「い……イッてる！　私も……ああんん！　いってる……精液……いいっ！　あっあっ……んぁあああああっ！」
+[Lily/rry0181]"Cu-... cumming! Me too... aahnnh!\nCumming... semen... good! ah-ah... nhaAaaaah!"
 
-　ドクッドクッドクッと痙攣するペニス――その動きに合わせるようにリリィも肢体を小刻みに痙攣させた。
-
-@se f=愛液1
-
-[リリィ/rry0182]「あっは……んはぁあああ……」
-
-　心地良い脱力感にうっとりと吐息を吐く。
-
-[リリィ/rry0183]「アル……」
-
-[アル]「……？」
+　My penis convulses with strong jerks―― As if matching those\nmovements, Lily's limbs also make quick short twitches.
 
 @se f=愛液1
 
-　肉悦に溺れながら互いを見つめ――
+[Lily/rry0182]"Ahha... nhhaaAaah..."
 
-[リリィ/rry0184]「んっちゅ……」
+　Bound by a feeling of pleasured weakness, I breath out a sigh.
 
-[リリィ/rry0185]「アル……その……あの……」
+[Lily/rry0183]"Al..."
 
-[リリィ/rry0186]「……好きだよ。大好き♪」
+[Al]"...?"
 
-[リリィ/rry0187]「だから……これからもよろしくね……」
+@se f=愛液1
+
+　While drowning in pleasure we gaze at eachother――
+
+[Lily/rry0184]"nnhchu..."
+
+[Lily/rry0185]"Al... umm... uh..."
+
+[Lily/rry0186]"... Love you. I love you lots. ♪"
+
+[Lily/rry0187]"So... take care of me from now on, okay..."
 
 @se f=愛液1
 @fade type=out t=1000 wt=1
 
-　全身を汗で濡らし、幾度も肩で息をしながら、二人はそっと互いの身体を抱き締めるのだった……。
+　Their whole bodies slick with sweat, breathing heavily,\nthe two gently embraced eachother's bodies...
 ;;ホワイトアウト
 
 @rps
