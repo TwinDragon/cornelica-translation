@@ -12,15 +12,15 @@
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
 
-[Irina]"Oh, you came again. Did you not forget my chest?"
+[Irina]"Oh, you've come again.\nYou couldn't forget my breasts?"
 
 @bs f=アル@焦り op=焦り x=-350 y=50 t=600
 
 @bs f=イリーナ@淫靡 t=200
 
-[Irina]"Fufu...If you stare at them...a that point everyone knows"
+[Irina]"Fufu... If you stare at them that much, anyone would realize."
 
-[Irina]"Just to be sure I will ask... How would you like to do?"
+[Irina]"I'm just asking as a precaution but... Would you like for me to do it?"
 
 ;;========================================================
 ;;　リリィ一緒

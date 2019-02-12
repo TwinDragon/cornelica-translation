@@ -7,23 +7,23 @@
 ;;CG19c
 @bgf bg=ev19 t=1000 wt=1
 
-[娼婦サキュバス/ssc0015]「私の舌……とても長いでしょう？　これでも、人気の娼婦だったのよ？」
+[Succubus Prostitute/ssc0015]"My tongue... it's really long, right?\nEven with this, I was a popular prostitute, you know?"
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0016]「それでは早速……たっぷりご奉仕させていただきますね」
+[Succubus Prostitute/ssc0016]"Now then right away... I'll begin servicing you plenty."
 
 ;;CG19c
 @bgv f=fera_ssc1
 @bgf bg=ev19a t=1000 wt=0
 
-[娼婦サキュバス/ssc0017]「んっちゅ……ちゅれろぉ……」
+[Succubus Prostitute/ssc0017]"nnhchu... chuliick..."
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0018]「ろうれすか？　こうやっれ……おちんぽの先を舌れぺろぺろされるのは……気持ちいいれふか？」
+[Succubus Prostitute/ssc0018]"Hou ish it?\nHaving the tip... of your dick licked by my thongue\nlike this... Doesh it feel good?"
 
-[娼婦サキュバス/ssc0019]「んちゅっれろ……れろっちゅ……ちゅれろ……れろっれろっ……ちゅろろろろぉ」
+[Succubus Prostitute/ssc0019]"nhchu-lick... lickchu... chulick...\nlick-lick... chuliiiiick"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -31,17 +31,17 @@
 @flash t=1000 wt=1
 @bgv f=fera_ssc2
 
-[娼婦サキュバス/ssc0020]「んふ……んれろぉおお……気持ちよさそうれしゅね……」
+[Succubus Prostitute/ssc0020]"mhfuh... nhliiick... Feelsh good, righht..."
 
-[娼婦サキュバス/ssc0021]「少し先っぽをぺろぺろしたらけらというのに……おちんぽ……もうこんなに大きくなってましゅ。亀頭がパンパンれしゅよ……」
+[Succubus Prostitute/ssc0021]"Ewen thouhh I only licked the tip a bit... your dick...\nis already getting thish bigh.\nThe glans ish sho full..."
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0022]「出したい……精液をビュルビュル漏らして、私の顔や口をドロドロにしたいっていってるみたいに見えましゅ」
+[Succubus Prostitute/ssc0022]"It wants to cum...\nLooksh like it'sh saying it wants to spurt semen and leak\nall over my fashe and mouth getting them all shticky."
 
-[娼婦サキュバス/ssc0023]「……れも、もう少し待ってくらしゃいね」
+[Succubus Prostitute/ssc0023]"... But, waiy a little longer pleashe."
 
-[娼婦サキュバス/ssc0024]「もっと感じさせてあげましゅ……。ほら、こんな風に……私の長い舌でちんぽを……」
+[Succubus Prostitute/ssc0024]"I'll make you feelh more...\nHere, in this way... with my long tongue around your dick..."
 
 ;;SE■グチュグチュ音
 ;;CG19d
@@ -50,46 +50,46 @@
 @se f=締め付ける pitch=150
 @bgv f=fera_ssc3
 
-[娼婦サキュバス/ssc0025]「ギュッて……締めつけてあげましゅ」
+[Succubus Prostitute/ssc0025]"I'll tightly... squeeze it for you."
 
-[娼婦サキュバス/ssc0026]「ただただ絡みつけられるらけれはないれしゅよ。ほら……こんな風に……んっじゅぞ！　ちゅっぞ……んっじゅず……ぐちゅっぶ……ちゅぶっちゅぶっちゅぶぅ！」
-
-@se f=愛液1 pitch=70
-
-[娼婦サキュバス/ssc0027]「舌全部を使って……おちんぽを……んふうう……扱いてあげましゅ……。ちゅろろ……んじゅろぉ」
-
-[娼婦サキュバス/ssc0028]「根元から先っぽまで……わたひの唾液でぐしょぐしょにしてあげましゅね……んじゅるるるぅ」
+[Succubus Prostitute/ssc0026]"I'm not juth gonna wrap it up, you knowh.\nSee... this way... nnhszlurp!\nchuzlurp... nnhzlurp... guhshuck... shuckshuckshuuuck!"
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0029]「ろうれしゅ？　さっきまれより……ちゅっぶろ……んじゅろぉ……気持ちいいれしょぉ？」
+[Succubus Prostitute/ssc0027]"Ushing my whole tongueh... I'll shervish... nhfuuuh...\nyour dick... chulick... nhslurp"
 
-[娼婦サキュバス/ssc0030]「射精しちゃいそうれしゅか？　ビュルビュルしちゃいましゅか？」
+[Succubus Prostitute/ssc0028]"From bashe to tip... you'w shoaked in my saliva right...\nnhshluuurp"
 
-[アル]「ぅ…………」
+@se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0031]「……いいれしゅよ。らいひてくらはい。ほら……こうやって……ぎゅううって舌でおちんぽ締めつけてあげますから……んじゅっぶ……ちゅぶれろぉ」
+[Succubus Prostitute/ssc0029]"Howh ish it? Feels ewen better... chu-blo... nhslurp...\nthan before, right?"
+
+[Succubus Prostitute/ssc0030]"Are you gonna ehaculate? Gonna shpurt it out?"
+
+[Al]"uh......"
+
+[Succubus Prostitute/ssc0031]"... Go ahead. Pleashe cumh. Here... like thish...\nI'll tightly squeezhe your dick wihh my tongueh...\nnhshuck... chubulick"
 
 ;;SE■射精音
 ;;射精エフェクト
 ;;CG19e
 @fin bg=ev19b se=射精音
 
-[娼婦サキュバス/ssc0032]「はふあっ！　んふうううう」
+[Succubus Prostitute/ssc0032]"Hafuah! nhfuuuuuh"
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0033]「でてましゅ……ビュルビュルって……ああ……熱いのがかかる……んっは……はふぁあああ……」
+[Succubus Prostitute/ssc0033]"Ish coming outh... spurting... aah...\nThe heat'sh coming... nnhah... hafuaAaah..."
 
-[アル]「くふううう……」
+[Al]"khfuuuuh..."
 
-[娼婦サキュバス/ssc0034]「はぁっはぁっはぁ……私の顔……ぐちょぐちょです……。ああ……精液……熱い……」
+[Succubus Prostitute/ssc0034]"Haah-haah-haah... My face... is soaked...\nAah... Semen... hot..."
 
 @se f=愛液1 pitch=70
 
-[娼婦サキュバス/ssc0035]「んちゅろっ……れちゅろっ……んっじゅ……ちゅずる……。んじゅるるるぅ……んっんっんっ……はふぅうう……」
+[Succubus Prostitute/ssc0035]"nhchulick... lichuick... nnhsuc-... chuzlurp...\nnhsluuurp... nh-nh-nh...
 
-[娼婦サキュバス/ssc0036]「あはぁああ……美味しい。お客様の精液……最高ですぅ……あっあっ……んはぁあああ……」
+[Succubus Prostitute/ssc0036]"AhhaaAah... Delicioush. Sir's semen... is the best... ah-ah... nhhaaAaah..."
 
 @fade type=out t=1000 wt=1
 @rps

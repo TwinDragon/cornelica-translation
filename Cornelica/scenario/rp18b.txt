@@ -10,17 +10,17 @@
 
 ;;SEグチュグチュ音
 
-　ベッドの上で、イリーナにペニスを扱かれながら身悶える。ビクッビクッと肢体を震わせ、歓喜の悲鳴を響かせる。
+　On top of the bed, I'm overwhelmed as Irina strokes my penis.\nMy limbs twitch, quivering, and I let out a pleasured scream.
 
 @se f=愛液1 pitch=70
 
-[イリーナ/irn0042]「ちんぽの先から汁がドロドロ出ています。もうちんぽ汁でヌルヌル……扱くたびにグッチュグッチュって音が響いて……とってもエッチですね」
+[Irina/irn0042]"Fluid is glopping from the tip of your dick.\nI'm already slick with dick juice... each time I stroke\nit makes a lewd squelch sound... it's very lewd."
 
 @se f=愛液1 pitch=70
 
-[イリーナ/irn0043]「……すぐに射精してしまいそうな程昂ぶっているのが分かりますよ。亀頭がパンパンなのがわかります。それに凄くビクビク震えていますよ」
+[Irina/irn0043]"... I can tell you're worked up enough to come soon.\nYour glans is fully engorged. And you're twitching so much."
 
-[イリーナ/irn0044]「でも、もう少しだけ我慢して下さいね。もっともっと……感じさせてあげますから」
+[Irina/irn0044]"But, hold on just a bit longer, please.\nSince, I'll... make you feel it even more."
 
 @se f=愛液1 pitch=70
 
@@ -30,19 +30,19 @@
 @bgf bg=ev18b t=1000 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[イリーナ/irn0045]「んっちゅ……くちゅっ…………んっ……れちゅろぉ」
+[Irina/irn0045]"nnhchu... khchu...... nnh... li-chu-ck"
 
 @se f=愛液1 pitch=70
 
-　乳房を波打たせ、扱き続ける。
+　Her breasts undulate, continuing to stroke me.
 
-[イリーナ/irn0046]「……んっ……はぁあ……れちゅ……」
+[Irina/irn0046]"... nnh... haaAh... li-chu..."
 
 @se f=愛液1 pitch=70
 
-　胸の中でもみくちゃにされる。胸の動きに合わせて響くグチュグチュという淫靡な音色により興奮が煽られる。
+　I'm being scrambled in her chest.\nThe indecent squelches matching the movements of her chest,\ninstigate my arousal more.
 
-[イリーナ/irn0047]「いいですよ…………。出したいのならば出してください。ビュルビュルと沢山……中に……だして」
+[Irina/irn0047]"Go ahead...... Please cum if you want to.\nSpurt lots... between them... cum."
 
 ;;SE射精音
 ;;射精エフェクト
@@ -51,36 +51,36 @@
 
 @se f=愛液1 pitch=70
 
-　責め立てられるがままに白濁液を撃ち放った。
+　Being urged as I am, I release my cloudy white fluid.
 
-[イリーナ/irn0048]「あっふ……んふうううっ……あっあっ……はぁああああ……」
-
-@se f=愛液1 pitch=70
-
-　射精を受け、幸せそうにイリーナはうっとりと瞳を細めつつ、ビクッビクッと肢体を震わせる。
-
-[イリーナ/irn0049]「凄い量……ザーメン……とっても熱いです。んっは……はふっ……んふううっ……」
-
-[イリーナ/irn0050]「はぁ……はぁ……はぁ……かけられるだけで、私まで感じてしまいました。お客様も……気持ちよかったですか？」
-
-[アル]「……ふぁあああ……」
+[Irina/irn0048]"Aahfuh... nhfuuuh... ah-ah... haaAaaah..."
 
 @se f=愛液1 pitch=70
 
-　前回同様、天にも昇るような快感に、問いかけに返事をする余裕などない。
+　Accepting my ejaculation, while the happy-looking Irina's\neyelids droop, entranced, her limbs twitch.
 
-[イリーナ/irn0051]「さて、それでは夢見心地のあなたにもう一度聞きましょう。」
+[Irina/irn0049]"So much... your semen... is very hot.\nnnhha... hafuh... nhfuuh..."
 
-[イリーナ/irn0052]「もしもこのまま私に全てを預けてしまえるというなら、あなたがこれまで感じたことない様な快感を刻み込んであげますが、いかがいたしますか？」
+[Irina/irn0050]"Haah... haah... haah...\nJust from getting squirted on, even I felt it.\nSir... did you feel good, too?"
+
+[Al]"... fuaAaah..."
+
+@se f=愛液1 pitch=70
+
+　The same as last time, feeling pleasure as if ascending\nto heaven, I can't afford a response to her question.
+
+[Irina/irn0051]"Now, then, with your head in the clouds,\nI'll ask once again."
+
+[Irina/irn0052]"If you stay like this and entrust everything to me,\nI'll etch you with pleasure the likes of which you've never\nfelt before, would you like that?"
 
 ;;ここでやめる
 ;;おねだりする
-@select s1=ここでやめる/*code001 s2=おねだりする/*code002
+@select s1=Stop_here./*code001 s2=Beg./*code002
 ;;========================================================
 ;;ここでやめる
 *code001
 
-[イリーナ/irn0053]「おや……賢明な判断です。　何事もほどほどが長生きの秘訣ですからね」
+[Irina/irn0053]"My... a wise decision.\nEverything in moderation, is the secret to a long life,\nafter all."
 
 ;;暗転
 
@@ -92,9 +92,9 @@
 
 @se f=愛液1 pitch=70
 
-[イリーナ/irn0054]「フフ……フフフフ……それもあなたの判断です。　私も尊重しますよ。　……尊重しますので、もっともっと……感じさせてあげますね♪」
+[Irina/irn0054]"Fufu... Fufufufu... That too, is your decision.\nI will respect it. ...I'll respect it so, I'll make you\nfeel it... more and more, alright. ♪"
 
-　その言葉と共に――
+　Along with those words――
 
 ;;SEグチュグチュ音
 ;;CG18d
@@ -105,18 +105,18 @@
 @se f=締め付ける pitch=150
 @bgf bg=ev18d t=1000 wt=1
 
-　イリーナは自身の胸を変化させた。
+　Irina altered her own breasts.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　ただでさえ大きかった胸が膨らむ様に更に大きくなり、ペニスを強く圧迫してくる。
+　As her already large breasts expand to become even larger,\nmy penis is strongly squished.
 
-[イリーナ/irn0055]「フフ……私も長く生きていますので、こういった特殊な技法も習得しています。こんなこと、見るのは初めてでしょう？」
+[Irina/irn0055]"Fufu... Since I've been living so long, I've learned special\ntechniques like this. It's your first time seeing something\nlike this, right?"
 
-[イリーナ/irn0056]「いかがですか？　こうやって……巨大な乳房で、強く強く、グッチュグッチュとちんぽを擦られる気分は？」
+[Irina/irn0056]"How is it? Like this... the feeling of being rubbed\nmore, and more, strongly by my massive breasts?"
 
 ;;SEグチュグチュ音
 @se f=愛液1 pitch=70
@@ -126,67 +126,67 @@
 
 @bgv f=パイズリ・手コキ３ pitch=100 wt=1
 
-[アル]「あっは……んはぁあ！　い……ひぃいい！！」
+[Al]"Aahha... nhhaaAh! G-... hoood!!"
 
-[イリーナ/irn0057]「んふふ……本当に気持ち良さそうですね。ちんぽからまた汁が出てきました。ザーメンと我慢汁でグッチョグチョです」
+[Irina/irn0057]"nfufu... Seems it really feels good, right.\nFluid came out of your dick again. It's dripping with\nsemen and pre-cum."
 
-[イリーナ/irn0058]「すぐまた射精したいっていってるみたいですよ」
+[Irina/irn0058]"It's like it's saying it wants to cum again right away."
 
-[アル]「はっ……ぁ……が…………」
+[Al]"Ye-... ah... but......"
 
-[イリーナ/irn0059]「フフ……でも、あまりに強い乳圧で出せないでしょう？。　ですので、滑りと感度が良くなるように、こんなことだってして差し上げます」
+[Irina/irn0059]"... But, you can't let it out with so much pressure,\nright? So then, to increase the slipperiness and sensitivity,\nI'll do this for you."
 
 ;;CG18e
 @se f=愛液1 pitch=70
 @bgf bg=ev18e t=1000
 
-[イリーナ/irn0060]「ん……くちゅ……れろ……ぉ……」
+[Irina/irn0060]"nh... khcgu... lick... oh..."
 
 @se f=愛液1 pitch=70
 
-　胸の谷間に唾液を流し込んできた。ぬるぬるとした感触が強くなり、今までとは違った刺激が襲い掛かってくる。
+　She drools into her cleavage.\nThe slimy sensation grew, and a sensation different from\never before assaulted me.
 
-[イリーナ/irn0061]「ん……フフ、サキュバスの唾液はとってもキくでしょう？　ほら、ちんぽもこんなにびくびくと腫れ上がって、熱い……♪」
+[Irina/irn0061]"nh... Fufu, A succubi's saliva is very effective, right?\nSee, your dick has twitched and swollen up this much too,\nit's hot... ♪"
 
-　ペニスが今まで見たこともない位に腫れ上がるが、強い快感で恐怖すら流されてしまう。
-
-@se f=愛液1 pitch=70
-@se f=パイズリ・手コキ２ pitch=150
-@se f=締め付ける pitch=150
-@flash t=1000 wt=1
-
-　そんなに様子に気をよくしたイリーナも、さらに唾液を流し込みつつ、胸を弾ませてくる。
-
-　胸の中で肉棒がもみくちゃにされる度、唾液の効果で異常なほどの快感と熱さが高まり続けている。
-
-[イリーナ/irn0062]「んっ……ふっ……ふっ……くちゅ……んふ……♪」
-
-[イリーナ/irn0063]「んふうう……♪　そうです。その快感に身を任せて下さい。　さぁ、そろそろです。　ビュルビュル……んっ……して下さい♪」
-
-[アル]「は……ひ……が……ぁぁあ！」
+　My penis swells even more than I'd ever seen but,\nthe strong pleasure sweeps away even my fear.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　強烈な快感に身を任せる。
+　Also paying close attention to his state Irina,\nwhile pouring in more saliva, started bouncing her chest.
+
+　My cock being scrambled in her chest, the abnormal pleasure\nand heat resulting from the saliva continued to rise.
+
+[Irina/irn0062]"nnh... fuh... fuuh... khchu... nhfuh... ♪"
+
+[Irina/irn0063]"nhfuuuh... ♪\nThat's it. Please leave your body to that pleasure.\nNow, it's about time. Please... nnh... spurt it. ♪"
+
+[Al]"Ye-... es... I... aaAh!"
+
+@se f=愛液1 pitch=70
+@se f=パイズリ・手コキ２ pitch=150
+@se f=締め付ける pitch=150
+@flash t=1000 wt=1
+
+　I entrust my body to the incredible pleasure.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG18f
 @fin bg=ev18f se=射精音
 
-[イリーナ/irn0064]「はっふ……ふうううっ……あっ……はぁああああ……」
+[Irina/irn0064]"Hahfu... fuuuuh... ah-... haaAaaah..."
 
-[イリーナ/irn0065]「ああ……熱い。ザーメン……とっても熱くて…………んんんっ……気持ち……いいっ……あっは……んはぁああ……」
+[Irina/irn0065]"Aah... Hot. Semen... so hot...... nnnh... feels... good...\nahha... nhhaaAah..."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　谷間からビュルビュル溢れ出る白濁液――そんなものに塗れながらうっとりと微笑んでくれるイリーナの姿は、とても淫靡で、美しく……恐ろしい物だった。
+　Cloudy white liquid spurts overflowing from her cleavage――\nWhile wet with it, Irina's appearance, an entranced smile\nwas something very indecent, beautiful... and terrifying.
 
 ;;暗転
 @fade type=out t=1000 wt=1
@@ -199,13 +199,13 @@
 
 ;;画面急に戻る
 
-[イリーナ/irn0066]「無理矢理気絶から復帰させました。　私の魔力を流し込みましたので、所謂チャームの影響が著しく進行するかと思いますが……かまいませんね」
+[Irina/irn0066]"I forcibly returned you from fainting.\nBecause I poured in my magic, the influence of my charm will\nprogress significantly but... you don't mind, right."
 
-[イリーナ/irn0067]「なぜなら、あなたは淫魔の誘いに乗ってしまった。……それも、すべてを差し出すと言って」
+[Irina/irn0067]"Because, you took a sex demon's temptation.\n... And also, said you'd offer me everything."
 
-[イリーナ/irn0068]「サキュバスも悪魔の一種。　ですので、約束は絶対です。　……さぁ、それでは続けさせて頂きますね」
+[Irina/irn0068]"Succubi are also a type of demon.\nTherefore, a promise is absolute.\n... Now, with that I shall continue."
 
-　イリーナは精液濡れのままのペニスをすりつぶすように扱きあげてきた。
+　Irina, as if to pulverise my semen-soaked as is penis,\nstarted stroking.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -213,25 +213,25 @@
 @flash t=1000 wt=0
 @bgv f=パイズリ・手コキ２
 
-[イリーナ/irn0069]「さぁ、もっと……もっとです。先程は『ほんの少し』しか射精していませんでしたからね、次はもっと出させてあげましょう」
+[Irina/irn0069]"Now, more... more.\nSince you only ejaculated 'just a little' before,\nnext I'll make you let out more."
 
-　一目でもわかる、まさに夥しいと言える量の白濁液を撃ち放った。
-
-@se f=愛液1 pitch=70
-
-[アル]「……や、やだ……ぁ……ぁ」
-
-[イリーナ/irn0070]「フフ、遠慮しなくて良いのですよ？　あなたも期待しているのでしょう？　だってこんなにちんぽがはれ上がっているのですから」
+　With one glance I know, I'd shot what could only be called\nan incredible amount of white cloudy fluid.
 
 @se f=愛液1 pitch=70
 
-[イリーナ/irn0071]「……さて、限界が近いようですね。　それでは数えてあげましょう」
+[Al]"... N-, no... ah... ah."
 
-[イリーナ/irn0071a]「あなたの、これまで生きてきて一番の、そしてこれから毎日のように続くであろう快感です。３……２……1……」
+[Irina/irn0070]"Fufu, You shouldn't hold back, you know?\nYou're anticipating it too, right?\nI mean, since your dick is getting this swollen."
 
 @se f=愛液1 pitch=70
 
-[イリーナ/irn0072]「……０」
+[Irina/irn0071]"... Now, seems you're close to your limit.\nThen, I'll count for you."
+
+[Irina/irn0071a]"This is your, living up to now greatest, and will last\nas if it's your everyday from now on, pleasure.\n3... 2... 1..."
+
+@se f=愛液1 pitch=70
+
+[Irina/irn0072]"... 0."
 
 ;;SE射精音
 ;;射精エフェクト
@@ -240,14 +240,14 @@
 
 @se f=愛液1 pitch=70
 
-　先程の何倍もの精液が吹き上がる。
+　Many times more semen than before blasts out.
 
-[イリーナ/irn0073]「フフ、そのどろどろでぐちゃぐちゃの顔はいつ見ても飽きませんね。　それでは、明日からはあなたの新しい人生が始まりますので、今はゆっくりと休んでください」
+[Irina/irn0073]"Fufu, That muddled, sloppy face, no matter how many times\nI see it I'll never get tired of it. Now then, since your\nnew life starts tomorrow, please rest easy for now."
 
 @fade type=out t=1000 wt=1
 ;;暗転
 
-[イリーナ/irn0074]「……おやすみなさい♪」
+[Irina/irn0074]"... Sweet dreams. ♪"
 
 @variables id=108 val=1 type=0 calc=0
 @jump target=*end01

@@ -13,27 +13,27 @@
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0001]「んふ♪せっかくだから、娼館で働いてたときの口調でやってあげる」
+[Succubus Prostitute/ssc0001]"nfu ♪\nSince I went through the trouble, I'll do it like I did\nwhen I was working in the brothel."
 
-[娼婦サキュバス/ssc0002]「ふふ……それでは……いきますね」
+[Succubus Prostitute/ssc0002]"Fufu... Now then... Here I go."
 
 ;;CG19d
 @bgv f=パイズリ・手コキ３ pitch=50
 @bgf bg=ev19d t=1000 wt=0
 
-[娼婦サキュバス/ssc0003]「んふふ……どうですか？　こうやっておっぱいでおちんぽを挟まれる気分は……。気持ちいいですか？」
+[Succubus Prostitute/ssc0003]"nfufu... How is it?\nHaving your dick sandwiched by my boobs like this...\nDoes it feel good?"
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0004]「おちんぽもビクついてます。すぐに出したいっていってるみたい。本当にお客様……感じてくれているんですね」
+[Succubus Prostitute/ssc0004]"Your dick is jittery too.\nLike it's saying it wants to cum quick.\nYou're really... feeling it aren't you, sir."
 
-[娼婦サキュバス/ssc0005]「でも、まだですよ。本当に気持ちがいいのはここから……ほら……こんなことだってしてあげます」
+[Succubus Prostitute/ssc0005]"But, there's more. What really feels good is coming up...\nSee... I'll do this for you."
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0006]「こうやっておっぱいを互い違いに動かして……おちんぽをゴシゴシっ……ゴシゴシって……」
+[Succubus Prostitute/ssc0006]"Moving my boobs in different directions from each other\nlike this... rubbing your dick like this... rub rub..."
 
-[娼婦サキュバス/ssc0007]「それにほら……んふうっ……ふれろぉ……」
+[Succubus Prostitute/ssc0007]"And look... nhfuuh... fuhlick..."
 
 ;;SE■グチュグチュ音
 @se f=愛液1 pitch=70
@@ -42,47 +42,47 @@
 @flash t=1000 wt=0
 @bgv f=パイズリ・手コキ３ pitch=75
 
-[娼婦サキュバス/ssc0008]「唾液でおちんぽと谷間をグチョグチョにもしちゃいます。ほら、どうですか？　聞こえますでしょ？」
+[Succubus Prostitute/ssc0008]"I'm getting your dick and my cleavage soaked in saliva.\nSee, how is it?\nYou can hear it, right?"
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0009]「おっぱいを動かすたびに、グジュッグジュッていう音が……」
+[Succubus Prostitute/ssc0009]"The squelch sound every time I move my boobs..."
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0010]「我慢できませんか？　精液ビュルビュルしちゃいそうですか？　でしたら構いませんよ。出して……射精して下さい」
+[Succubus Prostitute/ssc0010]"You can't hold it in? Are you going to spurt your semen?\nIf so, I don't mind. Cum... please ejaculate."
 
-[娼婦サキュバス/ssc0011]「私のおっぱいにザーメンをビュルビュルと沢山ぶっかけて下さい」
+[Succubus Prostitute/ssc0011]"Spurt lots of semen and cover my boobs, please."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-[アル]「………………ぁあああっ」
+[Al]"......... aAaagh"
 
 ;;SE■射精音
 ;;射精エフェクト
 ;;CG19e
 @fin bg=ev19e se=射精音
 
-[娼婦サキュバス/ssc0012]「あっふ……んはっ……あふぁああああ……」
+[Succubus Prostitute/ssc0012]"Ahfuh... nhhah... ahfuaAaaah..."
 
 @se f=愛液1
 
-[娼婦サキュバス/ssc0013]「出てます。お客様のザーメンが……。おちんぽがドクッドクッて震えてる。あっつい。すっごく熱いです。あふうう……」
+[Succubus Prostitute/ssc0013]"It's coming out. Sir's semen is...\nYour dick's jerking.\nIt's hot. Incredibly hot. ahfuuuh..."
 
-[アル]「あっあっ……はぁあああ……」
+[Al]"ah-ah... haAaah..."
 
-[娼婦サキュバス/ssc0014]「もっと……もっと出してください。ああ……もっと……」
+[Succubus Prostitute/ssc0014]"More... cum more please. Aah... More..."
 
-[娼婦サキュバス/ssc0014a]「お客様が選んだのは『朝まで搾精コース』ですからね。私の身体を余すところなくちんぽ汁でグショグショにして下さい！　んっふ……あふぅうう！」
+[Succubus Prostitute/ssc0014a]"Since you chose the 'Until morning extraction course', Sir.\nLeave none of my body unsodden with your dick juice please!\nnnhfuh... ahfuuuuh!"
 
 ;;暗転
 @fade type=out t=1000 wt=1
 @rps
 
-　吸精でテンションが上がったのか、身に覚えのないコースで散々搾られてしまった……
+　Perhaps because of the raised tension from the absorption,\nmy body had no memory of being mercilessly extracted from\nin the course...
 
 @fade type=in t=1000 wt=1
 

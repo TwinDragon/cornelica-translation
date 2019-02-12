@@ -10,11 +10,10 @@
 @move f=イリーナ@ x=350 y=50 opa=255 t=200 wt=1
 @move f=アル@ x=-350 y=50 opa=255 t=200 wt=1
 
-[Irina]"Well then, I am always waiting for you"
+[Irina]"Well then, I'll be waiting for you anytime, sir."
 @bs f=イリーナ@淫靡 t=200
 
-;;Need Review
-[Irina]"Fufu... come again, Nomination ♪"
+[Irina]"Fufu... I'd love to have, another appointment. ♪"
 @move_f f=アル@屈辱 face=0 out=c t=150 wt=0
 @move_f f=イリーナ@淫靡 face=0 out=c t=150 wt=1
 @bs
