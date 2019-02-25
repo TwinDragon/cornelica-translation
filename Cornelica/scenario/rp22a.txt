@@ -11,23 +11,23 @@
 @bgf bg=ev22 t=1000 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[貴族サキュバス/kzs0001]「んっふ……はふうう……。どうですか？　気持ちいいですか？」
+[Succubus Noble/kzs0001]"nnhfuh... hafuuuh... How is it? Does it feel good?"
 
 @se f=愛液1
 
-　サキュバスが肉棒を扱きながら乳房を押しつけてくる。
+　While the succubus strokes my cock her breast presses\ninto me.
 
-　掌でペニスを擦られる感触と、胸の柔らかさにビクビクッとアルは全身を震わせながら、歓喜の声を漏らした。
+　With the sensation of her palm rubbing his penis, and the\nsoftness of her chest, as Al's whole body trembled and\ntwitched, delighted moans leaked out.
 
-[貴族サキュバス/kzs0002]「本当に気持ち良さそう。でも、わたくしのことも気持ち良くして下さいね。もっとおっぱいを吸って下さい」
+[Succubus Noble/kzs0002]"Seems to really feel good.\nBut, please make me feel good, too.\nSuck harder on my boob, please."
 
 @se f=愛液1
 
-　命じられるがままに乳首を吸い立て、吸引に合わせて溢れ出す母乳が口内に広がる。蕩けるような甘みがとても美味しい。
+　As I'm commanded, I suck on her nipple, matching my sucking,\nbreast milk flows out and spreads into my mouth.\nIts sweetness is very delicious as if meant to enrapture me.
 
-[貴族サキュバス/kzs0003]「んふうう……いいですわ。おっぱいも、とっても気持ちいい。」
+[Succubus Noble/kzs0003]"nhfuuuh... That's good. My boob, feels very good too."
 
-[貴族サキュバス/kzs0004]「ふふ……いい子にはご褒美をあげます」
+[Succubus Noble/kzs0004]"Fufu... I'll give this good boy a reward."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -39,13 +39,13 @@
 
 @se f=愛液1
 
-　微笑みながら、先走り汁で掌がグチョグチョになってしまうことも厭わず、更に激しく肉棒を擦って来た。
+　Smiling, paying no mind to the pre-cum soaking her palm,\nshe started to rub my cock more intensely.
 
-[アル]「…………あっあっ！　で……ちゃう……」
+[Al]"...... Ah-ah! I'll... cum..."
 
-[貴族サキュバス/kzs0005]「いいですわよ。ほら、出しなさい。ビュルビュルって……ドクドクって精液を出すのです」
+[Succubus Noble/kzs0005]"That's fine.\nHere, let it out. Spurt... gush out your semen."
 
-[貴族サキュバス/kzs0006]「わたくしももっとおっぱい出してあげますから。だから……貴方も……さぁ、射精して！」
+[Succubus Noble/kzs0006]"I'll give you more from my boobs, too.\nSo... you too... now, cum!"
 
 ;;SE射精音
 ;;射精エフェクト
@@ -53,15 +53,15 @@
 @bgv
 @fin bg=ev22a se=射精音
 
-[貴族サキュバス/kzs0007]「んっふ…………くふんんっ……んっんっ……はふぅうう……」
+[Succubus Noble/kzs0007]"nnhfuh... kufunnnh... nh-nh... hahfuuuh..."
 
 @se f=愛液1
 
-　搾られるがままに白濁液を撃ち放つ。同時にビュッビュッと勢いよく母乳が溢れ出た。
+　As I'm squeezed I release my cloudy white fluid.\nAt the same time, hot breast milk flowed freely,\n squirting out.
 
-[貴族サキュバス/kzs0008]「はふぅ……あっふ……んふ……はぁあああ……はぁ……はぁ……はぁ……ふふ、そういってもらえると、わたくしも嬉しいですわ」
+[Succubus Noble/kzs0008]"Hahfuuh... ahhfuh... nhfuh... haaAaah...\nhaah... haah... haah...\nFufu, When you cum like that for me, I'm happy too."
 
-[貴族サキュバス/kzs0009]「でも、まだ満足しないで下さいね。ほら、もっと……もっとです。もっと精をわたくしに……」
+[Succubus Noble/kzs0009]"But, please don't be sated just yet.\nCome, more... more. More life energy, give it to me..."
 
 ;;SEグチュグチュ音
 ;;CG22b
@@ -72,26 +72,26 @@
 @bgf bg=ev22b t=1000 wt=0
 @bgv f=パイズリ・手コキ３ pitch=75
 
-　白濁に塗れた手で更に肉棒を扱き上げて来る。
+　She once again starts to stroke my cock with her\ncloudy white stained hand.
 
-[アル]「……あぁああ！　それ……だ……めっ！」
+[Al]"... AaAah! That... do-... -n't!"
 
-[貴族サキュバス/kzs0010]「何が駄目ですの？　気持ちいいのでしょう？」
+[Succubus Noble/kzs0010]"Don't what? It feels good, right?"
 
-[貴族サキュバス/kzs0011]「構いませんわよ。出したいのならば出しなさい。私が全て、受け止めてあげます」
+[Succubus Noble/kzs0011]"I do not mind. Cum if you want to cum.\nI will, accept everything for you."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　頷き、無我夢中で乳房を吸う。
+　I nod, losing myself in sucking her breast.
 
-[貴族サキュバス/kzs0012]「はぁああ……いいですわ。いいですわよ」
+[Succubus Noble/kzs0012]"HaaAah... It's good. That's good."
 
-[貴族サキュバス/kzs0013]「さぁ、またわたくしに精を……」
+[Succubus Noble/kzs0013]"Now, give me your life energy again..."
 
-　敏感になっている肉棒に加えられる新たな快感。抗えるはずなどなく――
+　My now sensitive cock registers the pleasure anew.\nThere's no way I could resist――
 
 ;;SE射精音
 ;;射精エフェクト
@@ -103,38 +103,38 @@
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　再び白濁液を解き放った。
+　I unleashed the cloudy white fluid again.
 
-[貴族サキュバス/kzs0014]「ああ……すっごい。とっても……はぁああ……熱いですわ。んっふ……はふぅう……」
+[Succubus Noble/kzs0014]"Aah... Amaaazing.\nIt's... haaAah... so hot. nnhfuh... hafuuh..."
 
-[貴族サキュバス/kzs0015]「この熱さ……感じてるだけで気持ち良くなってしまいますわ」
-
-@se f=愛液1
-
-　微笑むサキュバスに縋るような視線を向ける。
-
-　全身が脱力していた。身体から大切なものが抜き取られてしまった様な気がする。
+[Succubus Noble/kzs0015]"This heat... just feeling it is getting me to feel good."
 
 @se f=愛液1
 
-　でも、心地いい。目蓋が重い……。
+　I point a dependent gaze at the smiling succubus.
 
-[貴族サキュバス/kzs0016]「起きているのも辛いという感じですわね。構いませんわよ。眠いのならば眠りなさい」
+　My whole body was weak.\nI felt as if an important thing had been stolen away from me.
+
+@se f=愛液1
+
+　But, it felt comfortable. My eyelids are heavy...
+
+[Succubus Noble/kzs0016]"Seems staying awake is hard.\nI do not mind. If you're sleepy then sleep."
 
 @se f=衣擦れの音1
 
-　微笑みながら優しく頭を撫でてくれる。
+　While smiling, she gently pats my head.
 
-[アル]「あぁぁ……ぁぁ……」
+[Al]"Aaah... aah..."
 
-　全身が優しさに包み込まれていく様な感覚の中で――
+　Feeling as if his whole body was wrapped in kindness――
 
 ;;暗転
 @fade type=out t=1000 wt=1
 
-[アル]「………………」
+[Al]"........."
 
-　アルは眠りに落ちるのだった。
+　Al was falling asleep.
 
 @rps
 @fade type=in t=1000 wt=1
