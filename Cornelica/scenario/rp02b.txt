@@ -2,7 +2,7 @@
 ;;道具屋でアルバイト
 
 ;;---------------------------------------------------------
-;;School: Second time
+;;学校：二回目
 
 @bgm f=h-005 pitch=90
 
@@ -10,47 +10,41 @@
 @bgf bg=ev02 t=1000
 @se f=締め付ける
 
- I was sitting on a desk naked
+　I'm put on the teacher's podium naked.
 
-[Teacher/kos0019]"Now, practice squeezing out the man's semen again"
+[Teacher/kos0019]"Now then, we're doing man's life energy extraction\npractice again."
 
-[Student A/sta0018]"All right! I am doing it!"
+[Student A/sta0018]"Alright! I'll do it~!"
 
 @se f=淫唇を開く音
 ;;CG02a
 @bgf bg=ev02a t=500
 
-[Student A/sta0019]"Er... this was it?"
+[Student A/sta0019]"Uhm... It was like this, right?"
 
 @se f=愛液1
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-　I was caught by the dick and my back shook
+　She grabs my penis, my hips jerk.
 
-;;Need Review
-[Student A/sta0020]"I'm nervous... eeehm how am I deal with this? \nDoing this...シコシコ……シコシコって"
-;;「ビクビクしてる……えっとこれを扱くのよね？　こうやって……シコシコ……シコシコって」
+[Student A/sta0020]"He's twitching... Uhm, I stroke this, right?\nLike this... rub rub... rub rub."
 
 ;;SEグチュグチュ音
 @se f=愛液1
 
-;;Need Review
-[Student A/sta0021]"Juice came out from the tip of the dick. \nグチュグチュって音...very sexy"
-;;「おちんちんの先から汁が出てきた。グチュグチュって音……すっごくエッチ」
+[Student A/sta0021]"Liquid is coming from the tip of his dick.\nThis squelch squelch sound... so lewd."
 
-[Al]"Ah...already...I'm already comming..."
+[Al]"Aah... Cumm-... cumming alreadyyy..."
 
-[Student A/sta0022]"It is good. Here... come ♪"
+[Student A/sta0022]"Good. Come on... cum. ♪"
 
 ;;SEグチュグチュ音
 @se f=パイズリ・手コキ２ pitch=50
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ３ pitch=120
 
-;;Need Review
-　グッチュグッチュグッチュ――\nThe dick was dealt with violently
-;;グッチュグッチュグッチュ――激しくペニスが扱き上げられた。
+　Squelch squelch squelch―― She raised the intensity of\nher strokes on my penis.
 
 @se f=パイズリ・手コキ２ pitch=50
 @qk
@@ -61,105 +55,88 @@
 @bgv
 @fin bg=ev02b se=射精音
 
-[Student A/sta0023]"Ah... it's amazing. Semen is comming out"
+[Student A/sta0023]"Ahha... Amazing. It's spurting out."
 
-[Student A/sta0024]"Aah... semen... it's hot..."
+[Student A/sta0024]"Aah... The semen... is hot..."
 
 @se f=愛液1
 
-　I was completely exhausted
+　The strength drains from my body, completely exhausted.
 
-　However, I didn't have time to rest.
+　Howerver, I don't have the luxury of rest.
 
-[Teacher/kos0020]"Come on, next"
+[Teacher/kos0020]"Well, next."
 
-[Student B/stb0020]"Yes! I'll go next!! Let's go!"
+[Student B/stb0020]"Right here~!\nNow then, I'm up! Here I go!"
 
 ;;CG02c
 @se f=愛液1
 @bgf bg=ev02c t=500 wt=0
 @bgv f=fera_stb1
 
-;;Need Review
-[Student B/stb0021]"はっむ……んむううっ"
-;;「はっむ……んむううっ」
+[Student B/stb0021]"Hahmh... nhmuuuh"
 
-[Al]"Aaah! Ahh!"
+[Al]"HaaAh! Ah-ah!"
 
-　The dick was quickly in her mouth
+　My penis is readily inhaled.
 
-[Student B/stb0022]"Even though it was ejaculated, \nthere is still a lot of strenght... \nFufu... I'll feel you good"
-;;「射精したのにまだまだがっちがち……。んふふ……あたひが気持ち良くしてあげりゅからね」
+[Student B/stb0022]"Even though you ejaculated, it's still so haaard...\nnfufu... Becaush I'm making you feelh good, right."
 
 ;;CG02d
 @bgv f=fera_stb2
 @bgf bg=ev02d t=500
 
-;;Need Review
-[Student B/stb0023]"んっじゅぼ……ちゅっぼ！　むじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――んじゅぼぉ！"
-;;「んっじゅぼ……ちゅっぼ！　むじゅっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――んじゅぼぉ！」
-;;Already seen some bit in rp02a
+[Student B/stb0023]"nnhsuck... chsuck! mhsuck! suck suck suck suck―― nhsuuuck!"
 
 @se f=愛液1
 
-　Her head start moving. \nShe start rubbing my dick with her lips
+　She moves her head.\nAnd starts rubbing my stalk with her lips.
 
-;;Need Review
-[Student B/stb0024]"ふじゅ……んっちゅろ……れちゅろぉ……れろっれろっ……んっじゅ……ちゅずるるるぅ"
-;;「ふじゅ……んっちゅろ……れちゅろぉ……れろっれろっ……んっじゅ……ちゅずるるるぅ」
+[Student B/stb0024]"fuhsuh... nnhchuro... li-chu-ck... lick lick...\nnnhsuh... chuzluuurp"
 
 @se f=愛液1
 
-　But she wasn't over yet. \nWhile rubbing her tongue and licking his dick, \nshe starts slurping the glans heavily"
+　It doesn't end with just stroking. She waggles her tongue\nand while licking around the fleshy tip, she sucks on\nthe glans intensely.
 
-[Al]"Again... I'm comming"
+[Al]"Gonna...... cum again."
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0025]"いひよ……らひて……。もっじゅ……んじゅっず！　ちゅずっ！　じゅろろろろぉ！"
-;;「いひよ……らひて……。もっじゅ……んじゅっず！　ちゅずっ！　じゅろろろろぉ！」
+[Student B/stb0025]"Goh ahhead... cum... mohsuh... nhzuuck! chuzu! suhlolololl"
 
-　A spark of pleasure scatters into my brain
+　The sparks of climax scatter through my brain.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG02e
 @fin bg=ev02e se=射精音
 
-[Student B/stb0026]"It is! What's going on?!"
+[Student B/stb0026]"nnhmuh! mu-muh... nhmooOoh!"
 
-　I unleash semen in her mouth
-
-@se f=愛液1
-
-;;Need Review
-[Student B/stb0027]"んっじゅ……ちゅずっ！　んじゅるるるっ！　んごっきゅ！　ごきゅっごきゅっ……んっふ……んんんんっ！"
-;;「んっじゅ……ちゅずっ！　んじゅるるるっ！　んごっきゅ！　ごきゅっごきゅっ……んっふ……んんんんっ！」
-
-　Although at first she was surprised by the creampie, \nbut for the first time, she start drinking
- She was aspirating the dick \ntrying to suck up till the last drop...
-;;口内射精に最初は驚いた様な素振りを見せたが、それは最初だけ、精飲を始める。最後の一滴まで吸い出そうとするように肉棒を吸引しながら……。
-
-;;Need Review
-[Student B/stb0028]"んっぐ……んんんんっ！"
-;;「んっぐ……んんんんっ！」
+　I unleash the white cloudy fluid in her mouth.
 
 @se f=愛液1
 
-　As it was being sucked, \nI continued to pour out semen
+[Student B/stb0027]"nnhsuh... chuzlurp! nhsuhlurrrp! nhgulp! gulp-gulp...\nnnhfuh... nnnnh!"
 
-[Teacher/kos0021]"Well, what's next?"
+　At first she showed surprise at the semen in her mouth, but\nonly at first, then she began drinking it.\nWhile she sucked my cock as if going until the last drop...
 
-[Al]"Er...what... again?"
+[Student B/stb0028]"nnhguh... nnnnh!"
 
-[Teacher/kos0022]"Of course"
+@se f=愛液1
+
+　As I was sucked, I only kept pouring out the cloudy\nwhite fluid.
+
+[Teacher/kos0021]"Now then, who's next?"
+
+[Al]"Huh... There's-... there's more?"
+
+[Teacher/kos0022]"Of course."
 
 ;;暗転
-[Al]"Aah...aaaaAAAHH!"
+[Al]"Ah-ah... aAaaah!"
 
-　My scream echos in the classroom
-;;教室中にひたすら悲鳴を響かせる。
+　Within the classroom, I only echoed my screams.
 
 @fade type=out t=1000
 @rps
