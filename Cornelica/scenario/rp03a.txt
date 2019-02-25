@@ -4,34 +4,34 @@
 ;;■CG03
 @bgf bg=ev03 t=1000
 
-[Verna/vrn0001]"It sounds like you woke up"
+[Verna/vrn0001]"Seems you've awoken."
 
-[Al]"Verna...-san?"
+[Al]"Verna-... -san?"
 
 @se f=締め付ける
 @qk
 
-　I was naked. Furthermore, limbs were also restrained
+　I had been stripped naked.\nMoreover, my limbs were restrained.
 
-[Verna/vrn0002]"Although it's bad, you was restrained. \nIt's because is no good to extracts while you put up resistance"
+[Verna/vrn0002]"If you could resist, the extraction wouldn't go as well.\nSo, sorry, but I've restrained you."
 
-[Verna/vrn0003]"It's useless to struggle. \nIt's impossible to escape from my restraint"
+[Verna/vrn0003]"No matter how you struggle, it's pointless.\nIt's impossible to escape from my specialty restraints."
 
-[Al]"Like this..."
+[Al]"No way..."
 
-[Verna/vrn0004]"You don't need to be very pessimistic. It's safe. \nI really want to study about the gates for different worlds"
+[Verna/vrn0004]"No need to be so down. It's alright.\nI really just want to study the gate to the other world."
 
-[Verna/vrn0005]"Well, I can understand the feeling that you feel horrible. \nHowever, in fact, this is necessary"
+[Verna/vrn0005]"Well, I can understand you thinking it's terrible.\nBut just so you know, this is necessary in practice."
 
-[Verna/vrn0006]"The purpose of this research is to send you \nto the original world. For that we need to know about you"
+[Verna/vrn0006]"The objective of this research is to send you back to\nyour own world.\nFor that end, I need to know much about you."
 
-[Verna/vrn0007]"That's why it's important to examinate you"
+[Verna/vrn0007]"Since that's the case, examining you is important."
 
-[Verna/vrn0008]"Semen is the source of life... \nit's a different energy from magical power. \nThat's why Succubus use it as staple food"
+[Verna/vrn0008]"What's called life energy is the source of life...\nIt's a separate energy from magic power. Actually, that's\nwhy succubi live with life energy as their staple food."
 
-[Verna/vrn0009]"And it's also a source of information to know a person. \nTherefore we need that semen of yours"
+[Verna/vrn0009]"And, it even provides information about the person.\nConsequently, your semen is necessary."
 
-[Verna/vrn0010]"...a remaining amount is going to be a snack for my part"
+[Verna/vrn0010]"... The leftovers will be a snack for me though."
 
 ;;スイッチオン
 ;;SE■うねうね音
@@ -42,13 +42,13 @@
 @se f=チャージ pitch=40
 @bgf bg=ev03a t=1000
 
-　Like a reaction to the words of Verna, \ntentacles emerge like worm.
+　As if in reply to Verna's words, a squriming tentacle\nwrithed into view.
 
-[Verna/vrn0011]"It's probably good to have that kind of assistance. \nWell, give it up."
+[Verna/vrn0011]"It's nice to have that much as an extra bonus, right.\nWell, you're resigning yourself, yes."
 
-[Verna/vrn0012]"This is my dick tentacle onahole\n'Shionku Onna-kun N.1'\ndeveloped by me"
+[Verna/vrn0012]"This is the onahole tentacle I developed to extract semen,\n'Tentahole-kun №1'."
 
-[Verna/vrn0013]"It feels like you're scared of his appearance. \nHowever, the pleasure that this gives is real. \nLet's have plenty of pleasure"
+[Verna/vrn0013]"You seem scared by how grotesque is looks at first glance.\nHowever, the pleasure this baby gives is genuine.\nI'll let you enjoy it plenty."
 
 @se f=淫唇を開く音
 @se f=愛液1 pitch=75
@@ -61,39 +61,37 @@
 ;;CG03b
 @se f=愛液1 pitch=50
 
-[Verna/vrn0014]"How is it? It feels good, isn't it? \nThe feeling that it can tighten the penis is the best?"
+[Verna/vrn0014]"How is it? Feels good, right?\nThe sensation of your penis being tightly squeezed is\nthe best, isn't it?"
 
 @se f=愛液1
 
-[Verna/vrn0015]"Pleats in the onahole...\neach one of them squeezes your penis. \nSucking while doing it..."
+[Verna/vrn0015]"The folds inside the onahole... each one squeezing\nyour penis. While it slurpily suctions..."
 
 @se f=愛液1 pitch=50
 
-[Verna/vrn0016]"Of course, just tightening and sucking isn't enoght"
+[Verna/vrn0016]"Of course, it doesn't stop with just squeezing."
 
 ;;SE■ピストン音
 @bgv f=パイズリ・手コキ１ pitch=80
 @qk
 
-[Al]"Wow! Ah-oh...!"
+[Al]"Uwaah! Aaauh...!"
 
-[Verna/vrn0017]"Naturally it does piston motion. \nTreats from the root to the tip of your dick. \nWhile playing the tone that encourages excitement"
+[Verna/vrn0017]"Naturally, it also does a pistoning motion.\nFrom base to tip of your dick, it leaves nothing unserviced.\nAll while making a sucking sound to stir up your arousal."
 
-;;Need review
-[Verna/vrn0018]"Is it a pleasant feeling that seems easy to get over? \nYou will want to ejaculate immediately, do not you? \nYou do not want to be burulburu, are not you?"
-;;ビュルビュルしたくて堪らないんじゃないか？ burulburu i'm missing it
+[Verna/vrn0018]"The pleasure makes it seem you'll cum easily, right?\nYou're wanting to ejaculate semen from your penis right away,\nright? Don't you want to spurt so much it's unbearable?"
 
 @se f=愛液1
 @se f=締め付ける
 @qk
 
-[Al]"Mmm... Faaa... Ugh... umh... mmm!"
+[Al]"Guh... fukuuh... uughuh... nnnghuuh...!"
 
-[Verna/vrn0019]"Hmm, do you endure it? \nIs it that you do not want to be forcibly forced?"
+[Verna/vrn0019]"Hmm, enduring huh.\nCould it be that you don't like having this done to you\nagainst your will?"
 
-[Verna/vrn0020]"You....your face is pretty, but this seems to be unexpected. \nFufu, I don't dislike such child. A sadistic. \nYou like getting teased"
+[Verna/vrn0020]"You... your face is cute but, you're unexpectedly obstinate.\nFufu, I don't hate a boy like that. It provokes my sadistic\nheart. It's making me want to bully you."
 
-[Verna/vrn0021]"Therefore...  let's give you more suction"
+[Verna/vrn0021]"So... I'll make the suction stronger and stronger."
 
 ;;SE■激しくなるピストン音
 
@@ -102,38 +100,38 @@
 @bgv f=パイズリ・手コキ１ pitch=120
 @qk
 
- Speed ​​rises. At the same time, \nthe suction is also stronger... 
+　The speed increases.\nAt the same time, the suction also gets stronger...
 
 @se f=愛液1 pitch=50
 
-[Verna/vrn0022]"How is it? How do you feel with the piston overcharge? \nHow about suction becoming stronger?"
+[Verna/vrn0022]"How is it?\nThe feeling of being suckily pistoned intensely?\nHow is the feeling of being slurpingly suctioned strongly?"
 
-[Verna/vrn0023]"Isn't this feeling the best? \nYou feel like you want to ejaculate quickly, have you?"
+[Verna/vrn0023]"It feels the greatest right?\nIt's making you feel that you want to ejaculate immediately,\nright?"
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける
 @qk
 
-[Al]"Huh... Huh...!"
+[Al]"Guuh... uuuh...!"
 
-[Verna/vrn0024]"It is useless to endure. \nBecause your dick... it's trembling so terribly. \nVigorously and violently..."
-
-@se f=愛液1 pitch=75
-
-[Verna/vrn0025]"No, it's not just trembling. \nIt's getting bigger too. The glans is filled. \nIt seems that it's about to explode now"
-
-[Verna/vrn0026]"The amount of pre-juice is also amazing. \nIt seems to leak it out somehow"
-
-[Verna/vrn0027]"I...I can see through onahara with magic. \nIn other words, I can see the changing the penis is taken"
+[Verna/vrn0024]"Even if you try to endure, it's futile.\nBecause regardless, your penis... is twitching so much.\nViolently twitch twitching..."
 
 @se f=愛液1 pitch=75
 
-[Verna/vrn0028]"While the glans is becoming red, \nthe blood vessels lifts the penis ...ah... \nThat way...just watching it makes me excited."
+[Verna/vrn0025]"Wait, not just twitching.\nIt's also getting larger. The glans is getting full up.\nLike it could explode any moment."
 
-[Verna/vrn0029]"Fufu, rough up to breath. \nSurely... it's getting wet"
+[Verna/vrn0026]"So much pre-cum too.\nIt's kind of like it's being peed out, even."
 
-[Verna/vrn0030]"If you get excited, you do better. \nA lot more. And... ejaculate. A lot of semen"
+[Verna/vrn0027]"You know, I... can see through the onahole with magic.\nBasically, I can comprehend the changes in your penis\nas if it were held in my hand."
+
+@se f=愛液1 pitch=75
+
+[Verna/vrn0028]"Just watching the spectacle... of your penis being\nraised by the blood vessels while they turn your glans red...\nAah... is getting me aroused."
+
+[Verna/vrn0029]"Fufu, Even my breaths are getting rough.\nSurely... I'm getting wet."
+
+[Verna/vrn0030]"If I'm getting aroused you should be too. More and more.\nAnd then... ejaculating. Lots of semen, yes."
 
 ;;SE■振動音
 @se f=愛液1 pitch=50
@@ -143,19 +141,19 @@
 @se f=吸引音1 pitch=75
 @bgv f=パイズリ・手コキ１ pitch=150
 
-[Al]"Wow! Wow ah!"
+[Al]"Uwaah! UwaaAah!"
 
-[Verna/vrn0031]"It's a rotor vibe I made. \nNipple... it's also pleasant to be stimulated?"
+[Verna/vrn0031]"These are rotor vibes I made.\nYour nipples... having them stimulated feels good too,\nright?"
 
 @se f=愛液1 pitch=50
 
-[Al]"This... don't do it! Stop it! Stop it!"
+[Al]"This... no! Stop! Stooop!"
 
-[Verna/vrn0032]"Why? It feels good...? Why do you want me to stop?"
+[Verna/vrn0032]"Why? It feels good right...? Why do you want it to stop?"
 
-[Al]"Why are you... so terrible, I will do it ...!"
+[Al]"Why... because, it's tingl-, -ing so much...!"
 
-[Verna/vrn0033]"…I see. It would be better. \nLet's strengthen the vibration more. \nTighten sucking up ..."
+[Verna/vrn0033]"... I see.\nThen more. I'll make the vibration stronger.\nAnd make the suction harsher..."
 
 @se f=吸引音1
 ;;SE■強くなる振動音
@@ -165,9 +163,9 @@
 ;;SE■強くなるピストン音
 @flash t=300
 
-[Verna/vrn0034]"Come on! Come on now! Ejaculate! Lot of semen, ejaculate!"
+[Verna/vrn0034]"There! Now you'll let it out! You'll ejaculate!\nLots of semen, ejaculate!"
 
-　I can't resist the intense stimulation
+　I'm unable to resist the powerful stimulation.
 
 ;;SE■射精音
 ;;射精エフェクト
@@ -176,9 +174,9 @@
 @bgv
 @fin bg=ev03d se=射精音
 
-　I shoot semen as it's being swept away by unbelievable delight
+　Swept away by the overwhelming pleasure, I release my semen.
 
-[Verna/vrn0035]"Fufu, you came... A lot more than expected, it's amazing"
+[Verna/vrn0035]"Fufu, it's coming out... more than I supposed, amazing."
 
 @se f=愛液1 pitch=110
 @se f=パイズリ・手コキ２ pitch=150
@@ -188,11 +186,11 @@
 @bgv f=パイズリ・手コキ１ pitch=130
 @flash t=300 wt=0
 
-　The suction turns into a strong one
+　The suction becomes stronger.
 
 @se f=愛液1
 
-[Verna/vrn0036]"However, I will let you continue still more? \nDid I mention it a little while ago? \nI said to squeeze to the last drop"
+[Verna/vrn0036]"But, could you let me keep going still?\nI said so earlier, right?\nThat I'll suck it out to the last drop."
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=150
@@ -205,7 +203,7 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
- I had came
+　I was made to ejaculate.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -218,7 +216,7 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
- My sperm was sucked
+　Then my semen was sucked up.
 
 @se f=愛液1 pitch=100
 @se f=パイズリ・手コキ２ pitch=150
@@ -231,11 +229,11 @@
 ;;射精エフェクト
 @fin bg=ev03d se=射精音
 
- I came on top of the other cum....
+　My climaxes overlapped each other...
 
 @se f=愛液1
 
-　I sinks in a chic hell that doesn't end... 
+　I was sinking into a hell of unending orgasm...
 
 @se f=愛液1 pitch=100
 @se f=パイズリ・手コキ２ pitch=150
@@ -259,9 +257,9 @@
 @fade type=in t=1000 wt=1
 ;;CG03d
 
-[Al]"Ah...ah...ah...aaah..."
+[Al]"Haah... haah... haah... haAaah..."
 
-[Verna/vrn0037]"It was the best... it was great."
+[Verna/vrn0037]"The best... that was the best."
 
 ;;SE引き抜き音
 ;;CG03e
@@ -269,13 +267,13 @@
 @se f=挿入音 pitch=50
 @bgf bg=ev03f t=1000
 
-[Verna/vrn0038]"Fufu... The onahole, it is full of semen. \nIf there is so much, research seems to be progressing"
+[Verna/vrn0038]"Fufu... The inside of the onahole, is full with semen.\nWith just this, it seems my research will progress too."
 
 @se f=愛液1 pitch=75
 
-[Al](I'd like... to say... something... \nbut... it would be... useless...)
+[Al](Seems... like... she's saying... something...\nBut I can't... anymore...)
 
-[Al]"........."
+[Al]"............"
 
 @fade type=out t=1000 wt=1
 @rps
