@@ -9,255 +9,253 @@
 @se f=締め付ける
 @bgf bg=ev04 t=1000
 
-[Kurra/krr0001]"Ahahah, don't be afraid ♪"
+[Clara/krr0001]"Ahhaha, Patheeetic~. ♪"
 
-[Gisele/jzl0001]"Unpresentable～"
+[Gisele/jzl0001]"How unsightly～"
 
-[Monica/mnk0001]"It's really a terrible situation. \nAnd yet... your penis is really hard. \nApparently you seem like a pervert"
+[Monica/mnk0001]"This is a really terrible situation.\nYet... your penis is getting so hard.\nSeems you're a pervert, aren't you."
 
 @se f=締め付ける
 @qk
 
- I'm trampled down by three people
+　I'm being stepped on by the three of them.
 
-　They are trampling down my face and rubbing my dick using they feet
+　They're grinding my flesh stalk, and stepping on my face.\nThey poke at me with their toes.
 
- It was indeed a shameful situation
+　It was truly a pitiful, unsightly situation.
 
-[Al]"Wow"
+[Al]"Uuugh"
 
 @se f=愛液1
 
-[Kurra/krr0002]"Is your penis getting harder? \nI see that the dick is moving with \nevery movement over the pants"
+[Clara/krr0002]"Despite that your dick is getting this hard?\nEven through your pants I can tell it's twitching."
 
-[Gisele/jzl0002]"Do you want to ejaculate?"
+[Gisele/jzl0002]"D'you wanna cum～?"
 
-[Monica/mnk0002]"Did you possibly let yourself caught on purpose to be like this?"
+[Monica/mnk0002]"Perhaps, you got caught on purpose wanting to have this\ndone to you?"
 
-[Kurra/krr0003]"Well, no matter what you say in such a situation, \nit's useless. Look, this is good, isn't it? Like this"
-「まぁ、こんな状況で何言っても無駄だっつ～の。ほら、これがいいんだろ？　こうされるのがさぁ」
+[Clara/krr0003]"Well, no matter what you say in this situation,\n it's useless~.\nHere, this is good, right? Having this done you, hmm."
 
 @se f=愛液1
 @se f=締め付ける
 @qk
 
-　She's stimulating the dick with the sole of the foot
- When the erected dick is squeezed a little, \nthe stimulus ran to such an extent \nthat the body trembled just by that
+　She grinds my crotch with the sole of her foot.\nJust by pressuring my erect cock a little, the stimulation\nran through me enough that my whole body shivered.
 
-[Gisele/jzl0003]"You felt it too much ~"
+[Gisele/jzl0003]"He felt it so much～."
 
-[Monica/mnk0003]"Oh dear... is penis... it's gotten bigger"
+[Monica/mnk0003]"My oh my, your penis... has gotten bigger."
 
-[Al]"Wrong! Isn't like that...aaAAAH!"
+[Al]"Wrong! That's wron-... aaAaah!"
 
 @se f=愛液1
 
-[Kurra/krr0004]"Well, you say that. But how can you say such thing? \nLook... I'll stimulated your dick directly this way"
+[Clara/krr0004]"Your stiiill~ saying that. But, with this can you say that?\nHere... even when I stimulate your dick directly\nlike this, hmm."
 
 @se f=愛液1
 ;;CG04a
 @bgf bg=ev04a t=500
 
-　I took off my trousers deftly with my fingers. \nImmidatly she trample down on my erect dick
+　With her toes she dextrously opened my pants.\nMy cock sprung up and she stepped on it directly.
 
 @se f=愛液1
 
-　Furthermore, another student pressed my penis \nwith her foot at the same time
+　Moreover, one of the other students pressured my phallus\nat the same time.
 
-[Kurra/krr0005]"Your dick is still hard. This... fufu, \nI'll handle directly doing this... with my feet... \nin this way... here, isn't it? You feel it?"
+[Clara/krr0005]"Your dick is rigid after all, huh...\nI'll... stroke this directly for you. With my feet...\nrub rub... See, good right? You feel it, right?"
 
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-[Al]"Ahnn! Ah, there"
+[Al]"Ahnnh! Ah-ah-, ah"
 
-[Gisele/jzl0004]"He's bashing like a girl~ It's cute~ \nShow me more cute face. Me too~ \nI'll also stimulate your dick~"
-
-@se f=愛液1
-
- I can only scream by the simultaneous grind of the two girls
-
-[Monica/mnk0004]"He felt too much. Forced to pant.. \nI'll give you something for that, pervert. \nHere, I'll grind his face"
-
-　The grinding on my face strengthens too. \nEven breathing was becoming difficult
-
-　And yet...
+[Gisele/jzl0004]"He's panting like a girl～. How cute～.\nShow me more of your cute side. Since I'll～ grind\nyour pee-pee too～."
 
 @se f=愛液1
 
-[Kurra/krr0006]"You really... you are a pervert. \nAs soon as your face got crushed, \nyour dick... become huge again"
+　Dominated by the two student girls at the same time,\nall I could was writh my body and scream.
 
-[Gisele/jzl0005]"It's not just just getting bigger. This sound... "
+[Monica/mnk0004]"You're so turned on. Panting from this against your will...\nI'll have to punish such a pervy-boy.\nHere, grind grind... grinding... your face."
+
+　The pressure against my face also gets stronger.\nEnough that it seems it could even inhibit my breathing.
+
+　Despite that――
+
+@se f=愛液1
+
+[Clara/krr0006]"You really are... a pervert, huh.\nThe moment your face was grinded on, your dick... got\nlarger again."
+
+[Gisele/jzl0005]"It's not just getting bigger. This sound..."
 
 ;;SEグチュグチュ音
 @flash t=300 wt=0
 @bgv f=パイズリ・手コキ２ pitch=75
 
-[Monica/mnk0005]"Good sloppy...hahah...it's sounds really lewd"
+[Monica/mnk0005]"Squelch squelch... HaaAah... Such a lewd sound, right."
 
 @se f=愛液1
 
-[Kurra/krr0007]"You are making too much for pre-cum. \nMy foot is becoming slippery"
+[Clara/krr0007]"You're letting out too much pre-cum, you know.\nMy foot got all slimy."
 
-[Gisele/jzl0006]"The pre-cum is pulling strings. \nBesides, is dick... it's become bigger. \nPerhaps~, want to come~?"
+[Gisele/jzl0006]"Your fluid is making ropes～.\nAnd, your pee-pee... it's twitching more, and got bigger.\nCould it be～, you wanna cum～?"
 
-[Al]"No! Not at all... it's different"
+[Al]"Wron-! That's noot-... You're wrooong."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[Kurra/krr0008]"Is this even? You see, how can you still say such a thing, \neven if you have made soo much mess?"
+[Clara/krr0008]"Even now? Look, even after you got me this wet,\nyou can still say that?"
 
-[Gisele/jzl0007]"Fufufu... heyhey, hey~"
+[Gisele/jzl0007]"nfufu... Lookylook, looook～."
 
 ;;SEグチュグチュ音
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
- Their foot attack the penis at the same time
+　Their feet attack my penis at the same time.
 
-　Not only they press it against the sole of the foot, \nbut they're trapping and rubbing my dick \nbetween the fingers of their feet
+　They don't just squeeze with their soles,\nthey dextrously pinch my stalk with their toes,\neven making a rubbing action to stroke my phallus...
 
 @se f=愛液1
 
-[Monica/mnk0006]"Ahah... the twitching of his penis is amazing. \nThe tip opens and closes as we pushes. \nDo you want to come? Do you want to ejaculate already?"
+[Monica/mnk0006]"Ah ha ha... your penis's convulsing is incredible.\nThe tip is winking open and closed.\nDo you want to cum? You want to ejaculate already?"
 
-[Al]"No! Ejaculation... Huh!
+[Al]"Nooo-! Like I'd ejac-... Auuuugh!"
 
-[Kurra/krr0009]"Ah, I see... you don't want to do so much? \nThen, we have to work harder"
+[Clara/krr0009]"I see, I see... you want to that badly, huh~.\nThen, we'd better do our best, huh."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[Gisele/jzl0008]"Good slopping sound~!"
+[Gisele/jzl0008]"Squelchy, squelchy, squelchy～!"
 
-[Monica/mnk0007]"Here, my feet... hihi, please taste plenty ♪"
+[Monica/mnk0007]"Here, my foot... nfufu, please taste your fill of it, K. ♪"
 
 @se f=愛液1
 
-　My penis and face are simultaneously pressed and rubbed up. \nIn situation like that even human dignity is denied. \nEven though, the body got exited. I will climb the limit
+　My penis and face are crushed and rubbed simultaneously.\nThe situation even degrades my dignity as a person.\nEven so, my body is getting excited. I'm reaching my limit.
 
-[Al]"I already... I'm coming..."
+[Al]"Go-, gonna... cuuum..."
 
-[Kurra/krr0010]"Good. Here, come. Let it out... give us the cum"
+[Clara/krr0010]"Fine. Come on, cum.\nSpurt it... spew out lots of dick juice."
 
-[Gisele/jzl0009]"Fufufu... show your semen of yours~ "
+[Gisele/jzl0009]"Fufufu... Show me your semen～."
 
-[Monica/mnk0008]"Now, come"
+[Monica/mnk0008]"Now, come."
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG04b
 @fin bg=ev04b se=射精音
 
-[Kurra/krr0011]"Ah...Hahah..."
+[Clara/krr0011]"Ah-ha... nhaaAaah..."
 
-[Gisele/jzl0010]"Uhm... copious... your sperm... it's shyne~"
+[Gisele/jzl0010]"nnnh... It's... jerking... and splurting～."
 
-[Monica/mnk0009]"Ahah... it's a great amount. It also smells like that. \nThis smell... I can't resist it. My body will get hot"
-
-@se f=愛液1
-
-　Shoot and shoot of cum came out. Thei feet were soiled with cum.
-
-[Al]"Huh... Ah..."
-
-[Kurra/krr0012]"So hot. You cum into our feet. \nAhhhhh... this... good ♪ \nJust feeling it hot, I'm getting horny"
-
-[Monica/mnk0010]"I can feel it by smell alone"
-
-[Gisele/jzl0011]"I~... I'm thinking~ I want you to do more~"
+[Monica/mnk0009]"Aah... An incredible amount.\nAnd very smelly. This smell... I can't get enough.\nIt's even, getting my body heated."
 
 @se f=愛液1
 
-[Kurra/krr0013]"That, I agree ♪"
+　The cloudy white liquid shoots out with a splurt.\nThe pressuring feet are messily stained with the male juice.
 
-[Monica/mnk0011]"Yes"
+[Al]"Haah... ah......"
 
-[Gisele/jzl0012]"Well then... let's do more~"
+[Clara/krr0012]"It's amazingly hot. My foot is soaked in semen.\nAhaaAah... This... is good. ♪\nJust by feeling it's heat, even I'm feeling good."
 
-[Al]"Do more? More... what!?"
+[Monica/mnk0010]"I too am feeling it, just from the smell."
+
+[Gisele/jzl0011]"I～, want... to be covered in more of this, I think～."
 
 @se f=愛液1
 
-[Kurra/krr0014]"I've got to have... This ♪"
+[Clara/krr0013]"I agree with that. ♪"
+
+[Monica/mnk0011]"Right."
+
+[Gisele/jzl0012]"Well then... we'll do it more～."
+
+[Al]"More? More... what!?"
+
+@se f=愛液1
+
+[Clara/krr0014]"Obvi... we'll do this. ♪"
 
 ;;SEグチュグチュ音
 ;;CG04b_1
 @bgf bg=ev04b_1 t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=100
 
- Their feet started moving again
+　They move their feet once again.
 
 @se f=愛液1
 
-[Gisele/jzl0013]"Rubbing your penis~ ♪"
+[Gisele/jzl0013]"Rub rub, your pee-pee～. ♪"
 
 @se f=締め付ける
 
-　They are rubbing my penis that just ejaculated. \nEven then again they are putting pressure on my face
+　They start rubbing my penis which only just ejaculated.\nYet again, my face is ground into.
 
-[Al]"This... stop it..."
+[Al]"This...... stop iiit."
 
 @se f=愛液1
 
-[Monica/mnk0012]"Stop it? What are you talking about? \nWe are trying to make you come. \nSo hey, do not hesitate to come plently"
+[Monica/mnk0012]"Stop? What idiotic things are you saying.\nWe're doing this to get you to cum, you know.\nSo come on, please spurt it out without holding back."
 
-[Kurra/krr0015]"Exactly. That's why... hey... look! Huhuhu"
+[Clara/krr0015]"Exactly. So... come... come on! nh-nh-nh"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[Gisele/jzl0014]「グッチュグッチュグッチュ！　おちんちんからビュルビュルして～」
+[Gisele/jzl0014]"Squelchy squelchy squelchy! Spurt from your penis～."
 
-　The pleasant feelings are pileing up. \nEjaculation urge swell up according to the movement of their toes. \nA strong enjoying cannot be suppressed
+　My climax mounts. Matching the movements of their toes,\nthe urge to ejaculate swells.\nThere is nothing I can do to restrain the intense pleasure.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG04c
 @fin bg=ev04c se=射精音
 
-[Kurra/krr0016]"Ah...ahahah"
+[Clara/krr0016]"Ah-ha... nhaaAaah"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[Gisele/jzl0015]"Here it comes~ ♪ It's... ah... warm~ ♪"
+[Gisele/jzl0015]"It's coming out～. ♪\nnh-nh... Aaah... So waaarm～. ♪"
 
-[Monica/mnk0013]"Haha... you're doing fine. \nJust watching... mmm... i feel horny... aah.. mmmh"
-
-@se f=締め付ける
-@se f=パイズリ・手コキ２ pitch=150
-@qk
-
- I come again \nThe three girls are watching my hot cum fascinated
-
-[Al]"Aaah...I... another... no more..." 
-
-[Monica/mnk0014]"What's wrong? What are you going on?"
-
-[Gisele/jzl0016]"That's right... fun is here~"
-
-[Kurra/krr0017]"More, more of your semen ... let's have fun ♪"
+[Monica/mnk0013]"HaaAah... Your dick's jerking.\nJust from watching it... hahfuuh... I'm feeling goood...\nahfuh... nhfuuuuh"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
 @qk
 
-[Al]"No! ...no more... I'm dying..."
+　As I ejaculate a second time―― the entranced-looking trio\nbreathe out passionate sighs.
 
-[Kurra/krr0018]"I do not hear your answer ♪"
+[Al]"Aaah... I... can't... anymooore..."
 
-[Monica/mnk0015]"Like that"
+[Monica/mnk0014]"Can't anymore? What are you saying."
 
-[Gisele/jzl0017]"I will make you feel good a lot ~"
+[Gisele/jzl0016]"Right, right... We're just starting to have fun～."
 
-[Al]"Ah... no... aaAAAH!"
+[Clara/krr0017]"More. Let us enjoy... more of your semen. ♪"
+
+@se f=締め付ける
+@se f=パイズリ・手コキ２ pitch=150
+@qk
+
+[Al]"Eek! ... Anymore than this... I'll die-..."
+
+[Clara/krr0018]"Just, so you, know~, we don't care how you respond. ♪"
+
+[Monica/mnk0015]"That's how it is."
+
+[Gisele/jzl0017]"We'll make you feel good alot, okay～."
+
+[Al]"Ah... No... aAAaah!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
@@ -268,8 +266,8 @@
 
 @fade type=out t=1000 wt=1
 
- And without spare time, \nI spent my entire life as a toy of those three
-;;scene end - game over
+　And so, never being saved, he spent the rest of his life\nas the three's toy.
+;;シーン終了ゲームオーバー
 
 @rps
 
