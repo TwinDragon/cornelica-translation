@@ -7,9 +7,9 @@
 @se f=締め付ける
 @qk
 
- I'm restrained naked
+　I'm restrained in the nude.
 
-[Verna/vrn0044]"Well, let's go"
+[Verna/vrn0044]"Right, here we go."
 
 ;;SE触手音
 ;;CG03a
@@ -20,7 +20,7 @@
 @se f=チャージ pitch=40
 @bgf bg=ev03a t=1000
 
-[Verna/vrn0045]"Let's squeeze out plenty of semen \nwith 'Shionku Onna-kun N.1'"
+[Verna/vrn0045]"I'll suck out plenty of semen with Tentahole-kun №1."
 
 @se f=愛液1 pitch=60
 @qk
@@ -37,28 +37,28 @@
 @se f=締め付ける pitch=60
 @se f=パイズリ・手コキ２ pitch=50
 
-[Al]"Waah! Aaah"
+[Al]"Kuah! nhaAah"
 
 @se f=愛液1
 
- My cock was caught by a tentacles
+　My cock is engulfed by the tentacle.
 
 @se f=愛液1 pitch=50
 @se f=締め付ける pitch=110
 
-[Verna/vrn0046]"Fufu, at the moment of insertion, the dick shook violently. \nNo, it's not only when inserted. I still tremble. \nWrapped around in the onahole"
+[Verna/vrn0046]"Fufu... During insertion, your penis trembled so much.\nNo, not just at insertion. It's trembling now, too.\nWith a twitch twitch, while wrapped in the onahole."
 
 @se f=愛液1 pitch=120
 @se f=パイズリ・手コキ２ pitch=50
 
-[Verna/vrn0047]"The amount of pre-juice is also amazing. \nWhat is it to feel so far just by inserting... \nPerhaps, were you expecting to be fucked by the onahole?"
+[Verna/vrn0047]"The amount of pre-cum is incredible too. To think you'd\nfeel it this much from just insertion... Perhaps,\nyou were even hoping to be violated with the onahole?"
 
 @se f=愛液1 pitch=50
 @qk
 
-[Al]"Such... such a thing..."
+[Al]"That's... that's, not..."
 
-[Verna/vrn0048]"Denial... I see. But still can we deny it? \nNow, even if the penis is deeply treated in Onahole..."
+[Verna/vrn0048]"Denial, huh... I see. But, with this can you still deny it?\nLike this, with your penis being serviced by the onahole,\ncan you..."
 
 ;;SE■ピストン音
 @se f=愛液1 pitch=50
@@ -66,19 +66,18 @@
 @bgv f=パイズリ・手コキ１
 @qk
 
-[Al]"Aaah...aaAAHH!"
+[Al]"Ah-ah... haaAaah!"
 
 @se f=締め付ける pitch=120
 @se f=パイズリ・手コキ２ pitch=50
 
- The tentacles start to move, treated the whole dick.
+　The tentacle moves. It services my whole cock.
 
 @se f=愛液1
 
-[Verna/vrn0049]"Fufu, as usual you still don't hesitate with a good voice. \nIt's a wonderful pant voice. \nEven I feel something strange somehow... Haha... Ha..."
+[Verna/vrn0049]"Fufu... You cry out in a nice voice as always.\nThose are wonderful gasps. It's even getting me into\na kind of weird mood... haah... haah... haah..."
 
-[Verna/vrn0050]"Such image... I want to see more. \nTherefore, I will do something like this"
-「そういう姿……もっと見たくなる。だからほら、こんなこともしてやろう」
+[Verna/vrn0050]"That appearance... I want to see more of it.\nSo here, I'll do this too."
 
 ;;SEバイブ音
 @se f=吸引音1
@@ -88,25 +87,25 @@
 @bgf bg=ev03c t=500 wt=0
 @bgv f=パイズリ・手コキ１ pitch=120
 
- The vibration is also added to the chest
+　Vibration is even applied to my chest.
 
 @se f=愛液1
 
-[Verna/vrn0051]"The nipple is also stimulated while the penis is tightened. \nIsn't the best feeling?"
+[Verna/vrn0051]"While your penis is squeezed, your nipples are being\nstimulated.\nIt's the best feeling, right?"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
 @qk
 
-[Al]"Ah...no! This... I'll come"
+[Al]"I'll... cum! This... gonna... cuuuum."
 
-　Even a small stimulus was sufficient. \nThe unbearable ejaculation feeling rises up
+　Just a bit more stimulation would be enough.\nThe feeling of climax rising up was overwhelming.
 
 @se f=愛液1
 
-[Verna/vrn0052]"Surely... fufufu, I can see that \nthe penis is getting bigger enough to ejaculate"
+[Verna/vrn0052]"Indeed...\nFufufu, I can tell your penis is so engorged it could\nejaculate any moment."
 
-[Verna/vrn0053]"I don't mind... haha...Haha... \nIf you want come, come. Come plenty in the onahole"
+[Verna/vrn0053]"I don't mind... haah... haah...\nYou should let it out if you want to.\nInside the onahole plenty of it."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=150
@@ -119,39 +118,38 @@
 @bgv
 @fin se=射精音 bg=ev03d
 
-[Al]"Fu~aaaaah!"
+[Al]"FuaAaaah!"
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
 
- As I was invited, I came plenty in the onahole
+　As I'm invited to, I release the cloudy white fluid.
 
 @se f=愛液1
 
-[Verna/vrn0054]"You are out well. It's a tremendous amount. \nFufu... it's an irresistible sight"
+[Verna/vrn0054]"You're letting it out well. There's so much.\nFufu... I can't get enough of this sight."
 
-[Al]"Ah... Fuaaaaa..."
+[Al]"Ah-ah... fuwaaAaaah..."
 
 @se f=愛液1 pitch=50
 @se f=パイズリ・手コキ２ pitch=50
 
- I just scream and scream, I can only do that
+　I scream in earnest, I can only writhe in agony.
 
 ;;CG03d
 @bgf bg=ev03d t=1000
 
-[Verna/vrn0055]"It's a really tremendous amount. \nIt's overflowing from onahole too. \nIt's enough for you to be served with it"
+[Verna/vrn0055]"It's really so much. It's overflowing from the onahole.\nEnough that if it was in a pussy, they'd get pregnant."
 
 @se f=愛液1 pitch=50
 
-[Al]"Aah...."
+[Al]"ah........."
 
 @se f=パイズリ・手コキ２ pitch=50
 
- I felt losing strength from the whole body
- I breathed heavily several times
+　While feeling the strength leave my body,\nI breathed heavily.
 
-[Verna/vrn0056]"Is there no way to reply? ... \nFufu, So that's pretty cute and attractive"
+[Verna/vrn0056]"I guess you could say you don't have the will to respond...\nFufu, That's a pretty cutely attractive thing about you."
 
 @se f=締め付ける
 @se f=パイズリ・手コキ２ pitch=50
@@ -164,22 +162,21 @@
 @se f=挿入音 pitch=50
 @bgf bg=ev03f t=1000
 
- Eventually the penis is pulled out
- At the moment of pulling out, \nthe glands is pulled and I remember \nthe pleasant feeling of being sweet and numb
+　Before long, my penis is released with a sucking noise.\nAt the moment of pulling out, my glans is yanked,\nand I feel a pleasure like a sweet numbing.
 
 @se f=愛液1
 
-[Verna/vrn0057]"Fufu, I gathered a good quality semen. This is thanks to you"
+[Verna/vrn0057]"Fufu, I've collected some good quality semen.\nThis is all thanks to you."
 
-;;[Verna/vrn0058]"Oh, and if you are troubled with money again, \nyou should come and I'll have a job ready for you anytime"
+[Verna/vrn0058]"Aah, by the way... if you're troubled for money again,\nyou should come by.\nI'll be sure to have a job ready for you anytime."
 
-[Al]"Wa...aah..."
+[Al]"Su-... suuure..."
 
 @fade type=out t=1000 wt=1
 
- I can not think of anything. \nI nodded unconsciously.
+　I was unable to think. Like that, I nodded unconsciously.
 
-[Verna/vrn0059]"Fufu, that's a good reply."
+[Verna/vrn0059]"Fufu, good answer."
 
 @rps
 @fade type=in t=1000 wt=1
