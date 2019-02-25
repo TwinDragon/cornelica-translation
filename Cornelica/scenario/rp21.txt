@@ -8,33 +8,33 @@
 @bgf bg=ev21 t=1000
 @se f=衣擦れの音1
 
-[アル]「……ぅ……ぁ……」
+[Al]"... ugh... ah..."
 
-　白良の魔法によって変えられてしまった姿で、歓喜の悲鳴を響かせる。
-
-@se f=愛液1 pitch=75
-
-[リリィ/rry0208]「ふふ……アル……本当に気持ち良いんだね。おまんこをちんぽに押しつけてるだけなのに……身体中ビクビク震えてる」
-
-[ヴァネッサ/vns0141]「改めてわしがチャームをかけてやったからのう。これまで以上に身体が敏感になっておるのじゃ」
-
-[白良/hkr0052]「ふふ♪　悶えてる姿……はぁ～～……とっても可愛いです」
-
-;;[イリーナ/irn0075]「これはなかなか興味深い趣向です。しかし、大丈夫なのですか？　これだけの数のサキュバスを相手にするなど……」
-
-;;[ヴェルナ/vrn0164]「それならば問題ない。魔力増強の魔法をかけてあるからな」
-
-;;[イリーナ/irn0076]「なるほど」
-
-[リリィ/rry0209]「んふふ……それじゃあアル。たっぷり搾り取ってあげるね。最後の一滴まで……」
+ As my postion is changed by Hakura's magic,\nI cry out in delight.
 
 @se f=愛液1 pitch=75
 
-[アル]「ああ……っ、ぅ、ああぁっ……」
+[Lily/rry0208]"Fufu... Al... it really feels good, right.\nI'm just pushing my pussy against your dick and yet...\nyou're trembling all over."
 
-[ヴァネッサ/vns0142]「ふふ、チャームの効果は抜群のようじゃな。じゃからほれ、リリィ、早くしてやれ」
+[Vanessa/vns0141]"'Tis because I've covered him in charm.\nHis body will be more sensitive than ever 'twas."
 
-[リリィ/rry0210]「うん。じゃあ……いくね」
+[Hakura/hkr0052]"Fufu ♪\nYour agonized appearance... Haah～～\n... It's very cute."
+
+;;[Irina/irn0075]"This is a pretty interesting idea.\nBut, will he be okay?\nHaving this many succubi as partners..." 「これはなかなか興味深い趣向です。しかし、大丈夫なのですか？　これだけの数のサキュバスを相手にするなど……」
+;; Seems like Verna got cut from this H-scene.
+;;[Verna/vrn0164]"That's not a problem.\nSince I applied magical power enhancement magic for him." 「それならば問題ない。魔力増強の魔法をかけてあるからな」
+
+;;[Irina/irn0076]"I see." 「なるほど」
+
+[Lily/rry0209]"nfufu... Well then, Al.\nWe'll squeeze you out, alright. Until the last drop..."
+
+@se f=愛液1 pitch=75
+
+[Al]"Aa... -h, uh, Aaah-..."
+
+[Vanessa/vns0142]"Fufu, Seems the charm's effect is excellent.\nSo come on, Lily, hurry and do it."
+
+[Lily/rry0210]"Okay. Then... here I go."
 
 ;;SE挿入音
 ;;CG21a
@@ -42,115 +42,115 @@
 @se f=挿入音 pitch=75
 @bgf bg=ev21a t=1000
 
-[リリィ/rry0211]「あっは……んはっ！　はふぁあああっ！」
+[Lily/rry0211]"Ahha... nhhah! HafuaAaah!"
 
 @se f=愛液1 pitch=75
 
-　呑み込まれていく。肉槍が蜜壺の中に……。
+　She swallows me up. My meat spear into her honey hole...
 
-[白良/hkr0053]「あはぁああ……挿入れただけで射精してしまいそうな程の悶えっぷりですね。ああ……可愛い。やっぱり可愛いです」
+[Hakura/hkr0053]"AhaaAah...\nHe's writhing like he'll ejaculate just from insertion.\nAah... Cute. He's so cute."
 
-[イリーナ/irn0077]「ちんぽがまんこの膣中でビクビク震えているのが分かる。んふうう……なんだか見ているだけで興奮してしまいます」
+[Irina/irn0077]"I can tell his dick is twitching inside her pussy.\nnhfuuh... Somehow just from watching, I'm getting aroused."
 
-;;[ヴェルナ/vrn0165]「はぁああ……私も、ちんぽの感触を思い出してしまうな」
+;;[Verna/vrn0165]"HaaAah... Me too, I'm remembering the sensation of his dick." 「はぁああ……私も、ちんぽの感触を思い出してしまうな」
 
-[ヴァネッサ/vns0143]「どうじゃリリィ……アルのショタちんぽは気持ちいいか？」
-
-[リリィ/rry0212]「うん。とっても……はぁあああ……とっても気持ちいいよ。みんなにもこの気持ちよさ……分けてあげるね♪」
+[Vanessa/vns0143]"How is it Lily... does Al's shota dick feel good?"
+;; lmao
+[Lily/rry0212]"Yeah. Very... haaAaah... it feels great. I'll share this pleasure... with everyone, too. ♪"
 
 ;;SE魔力発動音
 ;;魔力発動エフェクト
 @se f=Magic1
 @flash t=500
 
-[ヴァネッサ/vns0144]「んふっ……くふうううっ……」
+[Vanessa/vns0144]"nhfuh... kuhfuuuuh..."
 
-[イリーナ/irn0078]「はあっ……んっは……はふぁああ……」
+[Irina/irn0078]"Haah... nnhha... hafuaAah..."
 
-[白良/hkr0054]「これは……あああ……流れ込んで来ます。リリィさんが感じているちんぽの快感が……わたくし達の中に……あふんんっ」
+[Hakura/hkr0054]"This is... Aaah... it's flowing into us.\nThe pleasure from his dick that Lily-san is feeling is...\ninto us... ahfunnh"
 
-;;[ヴェルナ/vrn0166]「共感の魔法で感覚を共有したか……んふうう……これは……なかなかいいぞ」
+;;[Verna/vrn0166]"You shared the feeling with empathy magic, huh...\nnhfuuuh... This is... pretty good." 「共感の魔法で感覚を共有したか……んふうう……これは……なかなかいいぞ」
 
-　淫魔達が悶える。
+　The sex demons writhe.
 
-　いや、淫魔だけじゃない。
-
-@se f=愛液1 pitch=75
-
-　肉茎に絡みつく襞の枚数が増えたような気がした。より強く肉棒全体を締めつけられる。
+　No, not just them.
 
 @se f=愛液1 pitch=75
 
-　膨れ上がる性感に狂ったように悶えた。
+　I felt like the number of folds coiling around my\nfleshy stalk increased.\nMy whole cock is being squeezed more strongly.
 
-[リリィ/rry0213]「どう？　気持ちいいでしょ？　今ね……アルのちんぽは私のまんこだけじゃない……」
+@se f=愛液1 pitch=75
 
-[リリィ/rry0214]「ここにいるみんなのおまんこに挿入っているんだよ」
+　I writhed as if driven insane by the swelling pleasure.
+;;膨れ上がる性感に狂ったように悶えた。
+[Lily/rry0213]"How is it? Feels good, right?\nRight now... Your dick isn't just in my pussy, Al..."
 
-;;[ヴェルナ/vrn0167]「ちんぽの感覚を私達に共有させるだけではなく、アルに私達のまんこを共有させたのか……」
+[Lily/rry0214]"It's inserted in the pussy of everyone here."
 
-[ヴァネッサ/vns0145]「これは……はぁああ……なかなか良いアイディアじゃぞ。流石はわしの娘じゃ」
+;;[Verna/vrn0167]"So you're not just sharing the feel of his dick with us,\nyou shared our pussies with Al, huh..." 「ちんぽの感覚を私達に共有させるだけではなく、アルに私達のまんこを共有させたのか……」
 
-[リリィ/rry0215]「でしょ～♪」
+[Vanessa/vns0145]"This is... haaAah... quite the good idea.\nJust what I would expect of my daughter."
 
-[リリィ/rry0216]「そういうわけだからアル……みんなのおまんこ……たっぷり味わってね」
+[Lily/rry0215]"Right～. ♪"
+
+[Lily/rry0216]"Since that's how it is, Al...\nTaste everyone's pussies... plenty, alright."
 
 ;;SEピストン音
 @flash t=1000 wt=0
 @bgv f=パイズリ・手コキ２ pitch=50
 
-　楽しそうに微笑みながら、リリィが腰をくねらせ始める。強くペニスを締めつけながら、幾重にも重なるヒダヒダで肉茎を擦り上げてきた。
+　While smiling like she's having fun, Lily begins to wriggle her hips. As my penis is strongly squeezed, their many times over overlapping folds rub it.
+;; 楽しそうに微笑みながら、リリィが腰をくねらせ始める。強くペニスを締めつけながら、幾重にも重なるヒダヒダで肉茎を擦り上げてきた。
+@se f=愛液1 pitch=75
+
+　Just from a little movement I felt enough stimulation that\nI could ejaculate. The pleasure was too intense.\nAll I could do was let out my voice and writhe maddeningly. 
+;;少し動かれるだけで射精してしまいそうな程の昂ぶりを覚えてしまう。強烈過ぎる愉悦。声を上げ、悶え狂うことしかできない
+[Lily/rry0217]"nfufu... Al... you're gasping totally like a girl.\nIt's really cute."
+
+[Lily/rry0218]"You're twitching to match me... nnnh...\nWhen you show that side to me... even I feel good...\nahha.. nhaaAah..."
 
 @se f=愛液1 pitch=75
 
-　少し動かれるだけで射精してしまいそうな程の昂ぶりを覚えてしまう。強烈過ぎる愉悦。声を上げ、悶え狂うことしかできない
+　As Lily rhythmically sways her hips, a sensual voice leaks out.
 
-[リリィ/rry0217]「んふふ……アル……まるで女の子みたいに喘いでる。すっごく可愛いよ」
+[Vanessa/vns0146]"nhfuuh... Aah... Lily's pleasure is being transmitted.\nThe feel of his dick, too... fuhkuh... nhfuh! hafuuuh..."
 
-[リリィ/rry0218]「私に合わせてビクビクッて震える姿……んんんっ……そんな姿見せられると……私まで気持ち良くなっちゃうよ……あっは……んはぁああ……」
+[Hakura/hkr0055]"Aah... It's good.\nA cute boy's dick... my pussy feels like it could melt."
 
-@se f=愛液1 pitch=75
+[Irina/irn0079]"nhfuuuh... ah-ah... The inside of my vagina is throbbing\nlike it's being stirred up.\nThis sensation... Aah... it's good-..."
 
-　リリィがリズミカルに腰を振りつつ、嬌声を漏らす。
-
-[ヴァネッサ/vns0146]「んふうう……ああ……リリィの快感が伝わってくる。ちんぽの感触も……ふくっ……んふっ！　はふぅうう……」
-
-[白良/hkr0055]「ああ……いいですわ。可愛い男の子のちんぽ……まんこが蕩けてしまいそう」
-
-[イリーナ/irn0079]「んふうう……あっあっ……膣中をズンズンかき混ぜられているみたいです。この感触……ああ……いいっ……」
-
-;;[ヴェルナ/vrn0168]「あっは……んはぁああ……あっあっあっ……昂ぶる。ペニスで身体が熱くなる……ふうっふうっ……んふうううっ」
+;;[Verna/vrn0168]"Ahha... nhhaaAah... ah-ah-ah... I'm getting excited.\nMy body is heating up from your penis...\nfuuh-fuuh... nhfuuuh" 「あっは……んはぁああ……あっあっあっ……昂ぶる。ペニスで身体が熱くなる……ふうっふうっ……んふうううっ」
 
 @se f=愛液1 pitch=75
 
-　リリィの喘ぎに合わせる様に、淫魔達も身悶える。
+　As if to match Lily's pants, the other sex demons\nalso writhe.
 
-　淫魔達の昂ぶりがペニスに伝わってくる。
+　The excitement of the sex demons transmits to my penis.
 
 @se f=愛液1 pitch=75
 @se f=パイズリ・手コキ２ pitch=50
 
-　締めつけがきつくなる。愛液で肉棒がドロドロにされてしまう。熱いものが根元から先端に向かって膨れ上がって来るのを感じた。
+　The squeezing gets tighter.\nMy cock gets slick with love juices.\nI felt hot stuff welling up from my base toward my tip.
 
-[リリィ/rry0219]「ああ……ちんぽ……ビクビクッて私の膣中で震えてるよ。出したいって……射精したいって……ちんぽがいってる……」
+[Lily/rry0219]"Aah... Your dick... it's twitching inside me.\nIt's saying... I want to cum... I want to ejaculate..."
 
-[リリィ/rry0220]「いいよ……出して……。はっふ……くふううっ……射精して……。たくさん……ビュルビュルって私の膣中に……んんん……流し込んで……」
+[Lily/rry0220]"It's alright... Cum... Haffuh... kufuuh... Ejaculate...\nSpurt... lots inside me... nnnh... pour it in..."
 
-[リリィ/rry0221]「イクから……私もアルと一緒に……」
+[Lily/rry0221]"I'll cum... Me too, together with you, Al..."
 
-[ヴァネッサ/vns0147]「そうだぞ。ほら……早く出すのじゃ」
+[Vanessa/vns0147]"That's right. Come on... cum already."
 
-[イリーナ/irn0080]「んっふ……はふううっ……ふうっふうっ……んふうううっ」
+[Irina/irn0080]"nnhfuh... hafuuuh... fuuh-fuuh... nhfuuuuh"
 
-[白良/hkr0056]「欲しい。ショタザーメン欲しいです。ください。わたくしにザーメンの熱さを感じさせて……」
+[Hakura/hkr0056]"I want it. I want your shota semen.\nPlease. Let me feel the heat of your semen in me..."
 
-;;[ヴェルナ/vrn0169]「私達は感覚を共有している。だから……みんな一緒にイケるんだ。だからほら、早く出してくれ……もう……ああ……我慢……できない……」
+;;[Verna/vrn0169]"Were's sharing the sensation. So... everyone will cum\ntogether. So come on, cum quickly for us...\nWe... Aah... can't bear... it anymore..."
 
 @se f=愛液1 pitch=75
 
-　リリィだけじゃない。淫魔達全員が射精を求めてくる。より強くペニスを締めつけて来る。
+　It's not just Lily.\nAll of the sex demons are demanding I ejaculate.\nThey squeeze my penis more strongly.
 
-[アル]「ぁああああ！」
+[Al]"aAaaah!"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -158,21 +158,21 @@
 @flash t=500
 @qk
 
-　強烈な射精感――そんなものに後押しされるように、アルも腰を振った。突き上げる。リリィの子宮を本能のままに突く。
+　The intense feeling of ejaculation―― As if spurred on by it,\nAl also swung his hips. Thrusting.\nProdding Lily's uterus on instinct.
 
-[リリィ/rry0222]「ああっ！　いい！　それ……いいっ！」
+[Lily/rry0222]"Aah! Good! That's... good-!"
 
-[イリーナ/irn0081]「届いている！　子宮まで……ちんぽが来ているのが……分かります！」
+[Irina/irn0081]"It reaching!\nYour dick coming... up to my uterus... I feel it!"
 
-[白良/hkr0057]「あふうう！　あっあっあっあっあっ！」
+[Hakura/hkr0057]"Ahfuuh! Ah-ah-ah-ah-ah!"
 
-;;[ヴェルナ/vrn0170]「ペニス……どんどん大きく……。あはぁああ！　いい！　いいっ！」
+;;[Verna/vrn0170]"Your penis... is getting bigger and bi-... AhaaAah!\nGood! It's good!" 「ペニス……どんどん大きく……。あはぁああ！　いい！　いいっ！」
 
-[ヴァネッサ/vns0148]「んふうう！　さぁ、出すのじゃ！　沢山……ドビュドビュと！」
+[Vanessa/vns0148]"nhfuuh! Now, cum! Spurt... lots!"
 
 @se f=愛液1 pitch=75
 
-　自分のすべてが解けてしまうような快感。そんなものに包み込まれながら――
+　I feel pleasure like the entirety of my being will\ncome undone.\nWhile wrapped in that――
 
 ;;SE射精音
 ;;射精エフェクト
@@ -183,198 +183,198 @@
 
 @se f=愛液1 pitch=75
 
-[リリィ/rry0223]「はっひ！　来たっ！　来たぁああ！」
+[Lily/rry0223]"Hahie! It came! It caaame!"
 
-　白濁液を解き放った。
+　I unleash the white cloudy fluid.
 
 @se f=愛液1 pitch=75
 
-　ドビュッドビュッドビュッと蜜壺に濃厚過ぎる雄汁を流し込む。
+　I pour the my thick male juice splurting into her honey pot.
 
-[リリィ/rry0224]「子宮……熱い。精液……凄い……い……イクっ！　あっあっ……イク……膣中出しで……」
+[Lily/rry0224]"My womb... it's hot. Semen's... amazing...\nI'm c-... cumming! Ah-ah... Cumming... from being\ncreamed inside..."
 
-[リリィ/rry0225]「んっは……はふあっ！　くふぅううう！」
+[Lily/rry0225]"nnhha... hafuAh! kuhfuuuuh!"
 
 @fin bg=ev21b se=潮吹き
 
-　射精に合わせて条件反射の様にリリィも絶頂に至った。
+　Matching my ejaculation as if it's a conditioned reflex,\nLily also reaches climax.
 
-[イリーナ/irn0082]「ふううう！　い……イクッ……あっは……んはぁあああ……」
+[Irina/irn0082]"Fuuuh! Cu-... cumming... ahha... nhaaAaaah..."
 
-[白良/hkr0058]「ショタザーメン……子宮に広がる。あっは……熱い……あっあっ…………」
+[Hakura/hkr0058]"Shota semen... spreading in my womb.\nAahha... It's hot... ah-ah......"
 
-;;[ヴェルナ/vrn0171]「くふうう！　これは……染み込む……ザーメンがまんこに……い……いいっ！」
+;;[Verna/vrn0171]"Kuhfuuh! This is... semen... permeating through my pussy...\nit-... it's good!" 「くふうう！　これは……染み込む……ザーメンがまんこに……い……いいっ！」
 
-[ヴァネッサ/vns0149]「はぁあ……よいぞ。心地いい。精液……最高じゃ！　イク……ああ……イクっ！　イクぅっ！」
-
-@se f=愛液1 pitch=75
-
-　淫魔達も一斉に絶頂に至る。
-
-　全身を痙攣させながら、歓喜の表情を浮かべ、愉悦の悲鳴を響かせた。
+[Vanessa/vns0149]"HaaAh... 'Tis good. Wonderful. Semen... 'tis best!\nCum-... Aah... cumming! I'm cummiiing!"
 
 @se f=愛液1 pitch=75
 
-　強烈な快感が全身を駆け巡る。
+　The sex demons also reach climax all at once.
 
-　意識さえ飛んでしまいそうな程の愉悦だった。
+　As their whole bodies convulse, they make delighted\nexpressions, and scream from the pleasure.
 
 @se f=愛液1 pitch=75
 
-[リリィ/rry0226]「んふうう……ふうっふうっ……本当にアル……気持ち良さそうだね。でも……はぁああ……まだ……まだだよ」
+　The intense pleasure races through their whole bodies.
 
-[アル]「…………？」
+　It was pleasure that might even rob their sensability.
 
-[リリィ/rry0227]「そう……まだ私、満足できてない。だからね……もっと感じさせて……もっとちんぽを」
+@se f=愛液1 pitch=75
 
-[リリィ/rry0228]「んふふ……行くよ♪」
+[Lily/rry0226]"nhfuuuh... fuuh-fuuh... Really, Al... seems you feel good.\nBut... haaAah... it's not over... not yet."
+
+[Al]".........?"
+
+[Lily/rry0227]"Yes... I'm still, not satisfied.\nSo... let me feel more... more of your dick."
+
+[Lily/rry0228]"nfufu... Here goes. ♪"
 
 ;;SEピストン音
 ;;CG21c
 @bgf bg=ev21c t=1000 wt=0
 @bgv f=パイズリ・手コキ２ pitch=65
 
-　再び腰が動き出す。蜜壺でペニスを扱き始めてくる。
+　She moves her hips once again.\nStarting to stroke my penis with her honey pot.
 
 @se f=愛液1 pitch=75
 
-[リリィ/rry0229]「あっは……んはっ！　あふぁあああ！」
+[Lily/rry0229]"Ahha... nhhah! AfuaAaah!"
 
-[白良/hkr0059]「はふうう……ああ……いいですわ。その調子……んふうう！　その調子でもっとちんぽを激しく扱いてくださいっ！」
+[Hakura/hkr0059]"Hafuuh... Aah... That's good. Just like that... nhfuuuh!\nPlease stroke his dick harder like that!"
 
-[イリーナ/irn0083]「大きくなっています。ちんぽが膣中でどんどん……あっあっあっ……凄い……まんこが広げられていく……」
+[Irina/irn0083]"It's getting bigger. His dick inside me, bigger and-...\nah-ah-ah... Amazing... my pussy is being widened..."
 
-;;[ヴェルナ/vrn0172]「んふうう……快感の上に快感が重なるみたいだ。あああ……いいぞ。まただ……またすぐ……イッてしまいそうだ」
+;;[Verna/vrn0172]"nhfuuh... It's like the pleasure is overlapping.\nAaah... It's good. Again... soon I'll... cum again." 「んふうう……快感の上に快感が重なるみたいだ。あああ……いいぞ。まただ……またすぐ……イッてしまいそうだ」
 
-[ヴァネッサ/vns0150]「はふうう……これ……欲しくなる。少しリリィが腰を振っただけで……またザーメンが欲しくなってしまうぞ」
+[Vanessa/vns0150]"Hahfuuh... This... I'm wanting.\nJust from Lily swaying her hips a little... I'm wanting\nhis semen again."
 
 @se f=愛液1 pitch=65
 @se f=パイズリ・手コキ２ pitch=50
 
-　ピストンに会わせて淫魔達が喘ぐ。ギュウウウッとこれまで以上にきつくペニスを締めつけながら……。
+　Matching the pistoning, the sex demons pant.\nWhile my penis is tightly constricted even more\nthan before...
 
-[アル]「ぅ……ぁ゛……も……ぅ……ぁっ、ぐぅっ、僕……死んじゃ……っ！」
+[Al]"uh... agh....\nAny-... -more... ah-, guuuh, I'm gon-... -na die-...!"
 
-[リリィ/rry0230]「大丈夫。こんなことで死んだりはしないから……。だから……んっあっ……安心して快感に身を任せて」
+[Lily/rry0230]"It's alright. You won't be dying from this...\nSo... nnhah... don't worry and entrust your body\nto the pleasure."
 
-[リリィ/rry0231]「アルがしたいように……んぅ……していいんだよ。出したいのなら……はぁあ……出していいんだよ……」
+[Lily/rry0231]"You can do whatever... nhuh... you want, Al.\nIf you want to cum... haaAh... you should..."
 
-[リリィ/rry0232]「ううん……違う。出していいんじゃない……出して……射精して……はっふ……んふううう…………欲しいの……」
+[Lily/rry0232]"No... that's wrong. Not you should...\nCum... ejaculate... hahfuh... nhfuuuh...... I want you to..."
 
-[リリィ/rry0233]「私の膣中に……私達の膣中に……またザーメン沢山……ドビュドビュして！　ちんぽ汁をちょうだい！」
+[Lily/rry0233]"Inside me... inside us... spurt lots of your semen... again!\nGive us your dick juice!"
 
 ;;SEピストン音
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=85
 
-　射精を求めながら、腰の速度を上げてくる。より強く秘部を打ち付けてくる。
+　While demanding I ejaculate, she speeds up her hips.\nHitting her secret place into harder.
 
-[イリーナ/irn0084]「あっあっあっあっあっ！」
+[Irina/irn0084]"Ah-ah-ah-ah-ah!"
 
-[白良/hkr0060]「んっふ……はふっ！　くひんんっ！」
+[Hakura/hkr0060]"nnhfuh.. hafuuh! kuhiennh!"
 
-;;[ヴェルナ/vrn0173]「いいっ！　いいっ！　ああ……いいっ！　はふっ！　んふうう！」
+;;[Verna/vrn0173]"Good! Good! Aah... Good! Hafuh! nhfuuuh!" 「いいっ！　いいっ！　ああ……いいっ！　はふっ！　んふうう！」
 
-[ヴァネッサ/vns0151]「あっは……んはっ！　はふぁああ！」
+[Vanessa/vns0151]"Ahha... nhha! hafuaAah!"
 
-[リリィ/rry0234]「あんっあんっあんっあんっ――あんんん！」
-
-@se f=愛液1 pitch=65
-
-　喘ぐ。淫魔達が……。
-
-　甘い嬌声が脳髄に染み込んで来る。脳髄までドロドロになってしまいそうな程の快感に意識が溶けていく。
+[Lily/rry0234]"Ahn-ahn-ahn-ahn―― Ahnnnh!"
 
 @se f=愛液1 pitch=65
 
-　逆らえない。抗えない。膨れ上がる強烈な射精衝動に流されるがままに――
+　Panting. The sex demons are...
+
+　Their sweet sensual voices soak into my brain.\nThe pleasure is enough to get even my brain mucky,\nmy sense dissolving into it.
+
+@se f=愛液1 pitch=65
+
+　I can't defy it. I can't resist it.\nAs the intese urge to ejaculate welling up streams\nthrough me――
 
 ;;SE射精音
 ;;射精エフェクト
 @fin bg=ev21d se=射精音
 
-[リリィ/rry0235]「はひいい！　来たっ！　あっは！　また……来たぁああああ♪」
+[Lily/rry0235]"Hahiee! It came! Ahha! Came... agaaaaain. ♪"
 
 @se f=愛液1 pitch=65
 
-　再び白濁液を解き放った。
+　I unleashed my cloudy white fluid once again.
 
-[リリィ/rry0236]「これ……さっきよりも多い！　子宮……パンパンになる！　ああ……イクっ！　イクッ！　また……私――」
+[Lily/rry0236]"This... is more than before! My womb... is inflating!\nAah... Cumming! Cumming! Again... I'm――"
 
-[リリィ/rry0237]「はっふ！　んふあっ！　くひんんんっ！」
+[Lily/rry0237]"Haahfuh! Nhfuaah! Kuhiennnnh!"
 
 @se f=愛液1 pitch=65
 
-　精液の熱がリリィを絶頂へと導く。
+　The semen's heat leads Lily to climax.
 
 @fin bg=ev21d se=潮吹き
 
-;;[ヴェルナ/vrn0174]「はふっ！　あふっ！　んひんんんっ！」
+;;[Verna/vrn0174]"Hafuh! Afuh! Nhhiennnnh!" 「はふっ！　あふっ！　んひんんんっ！」
 
-[白良/hkr0061]「イク……イク――イクぅううううう！」
+[Hakura/hkr0061]"Cum-...Cum―― Cummiiiiing!"
 
-[イリーナ/irn0085]「あっあっあっあっ――んはぁあああ！」
+[Irina/irn0085]"Ah-ah-ah-ah―― nhhaaAaah!"
 
-[ヴァネッサ/vns0152]「ザーメン……最高じゃ！　ちんぽ汁……いいっ！　んふううう！　気持ちいい！　ああ……まんこ……いひぃいいいっ！」
-
-@se f=愛液1 pitch=65
-
-　淫魔達も再びの絶頂に、肢体を震わせた。
-
-[アル]「……あふあぁあああ……っ」
-
-[リリィ/rry0238]「んっふ……はふぅうう……」
-
-;;[ヴェルナ/vrn0175]「はぁっはぁっ……はぁあああ……」
-
-[白良/hkr0062]「あはぁああ……いい……ですわぁああ……」
-
-[イリーナ/irn0086]「あふぅううう……」
-
-[ヴァネッサ/vns0153]「ふう……ふう……ふう……良かったぞ。ちんぽ汁……本当に……よかった……」
+[Vanessa/vns0152]"Semen... 'tis the best! Dick juice... good! Nhfuuuh!\nFeels food! Aah... My pussy... goohooood!"
 
 @se f=愛液1 pitch=65
 
-　領主の間に熱い吐息を響かせる。噎せ返りそうな程の発情臭を漂わせながら……。
+　The sex demons also climax again, limbs shaking.
 
-[アル]「ぅ、ぐ、も、もう…………っ！」
+[Al]"... AfuAaAaah..."
+
+[Lily/rry0238]"nnhfuh... hahfuuuh..."
+
+;;[Verna/vrn0175]"Haah-haah... haaAaah..." 「はぁっはぁっ……はぁあああ……」
+
+[Hakura/hkr0062]"AhaaAah... It's... goooood..."
+
+[Irina/irn0086]"Ahfuuuuh..."
+
+[Vanessa/vns0153]"Fuuh... fuuh... fuuh... 'Twas great.\nYour dick juice... 'tis really... great..."
 
 @se f=愛液1 pitch=65
 
-　限界だった。意識を保っているのも辛い。
+　In the lord's chambers impassioned sighs echo.\nWhile I almost choked at the lusty odor...
 
-[リリィ/rry0239]「無理？　なにをいっているの？」
+[Al]"uh, guh, I-, can't-.........!"
 
-[アル]「――っ！？」
+@se f=愛液1 pitch=65
 
-[白良/hkr0063]「そうですよ。そんな言葉……白良ママは許しません」
+　I was at my limit. Even staying conscious was harsh.
 
-[イリーナ/irn0087]「この程度で……はぁああ……私達は満足できませんからね」
+[Lily/rry0239]"You can't, anymore? What are you saying?"
 
-;;[ヴェルナ/vrn0176]「もっとだ。もっと……まんこを熱いザーメンで満たしてくれ……」
+[Al]"―― !?"
 
-[ヴァネッサ/vns0154]「んふふ……休んでいる暇などないぞ」
+[Hakura/hkr0063]"That's right.\nThose words... Mama Hakura won't abide them."
 
-　淫魔達の瞳が不気味に光る。
+[Irina/irn0087]"Since from this much... haaAah.. We won't be satisfied."
 
-[アル]「ぁ……やっ……やめて……許し……！」
+;;[Verna/vrn0176]"More. Fill... our pussies with more semen..."
 
-[リリィ/rry0240]「怯える必要なんかないよ。だって……とっても気持ちいいんだからね♪」
+[Vanessa/vns0154]"nfufu... Thou have not the time to rest."
+
+　The sex demons' eyes shine ominously.
+
+[Al]"Ah... S-... stop... mercy...!"
+
+[Lily/rry0240]"There's no need to be frightened, you know.\nAfter all... it feels really good, right. ♪"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=1
 
-　キュウウッと蜜壺が再び締まった。
+　Her honey hole tightly squeezed once more.
 
-[アル]「――あぁああああっ！！」
+[Al]"―― AaAaaah!!"
 ;;ホワイトアウト
 
 @fin bg=black se=射精音
 @fade type=out t=20 wt=1
 
-　終わらない淫魔達の肉の宴――ただただ悲鳴を響かせることしか、アルにできることはなかった……。
+　The sex demons' endless feast――\nAl could do nothing, except for screaming...
 
 @rps
 @fade type=in t=1000 wt=1

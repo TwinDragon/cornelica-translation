@@ -9,105 +9,82 @@
 @bgf f=ev02c t=500 wt=0
 @bgv f=fera_stb1
 
-;;Need Review
-[Student B/stb0029]"んっも……もふうう……"
-;;「んっも……もふうう……」
+[Student B/stb0029]"nnhmuh...muhfuuuh..."
 
-　Without resistance, my dick was in her mouth 
+　Unable to resist, my penis is swallowed up.
 
 @se f=愛液1
 
-[Al]"No...no, stop..."
+[Al]"Don't... Sto-, Stooop..."
 
-;;Need Review
-[Student B/stb0030]"ら～め♪　らって……あたひはらひて欲しいんらもん。らから……たくひゃん流し込んれね♪"
-;;「ら～め♪　らって……あたひはらひて欲しいんらもん。らから……たくひゃん流し込んれね♪」
+[Student B/stb0030]"Noohpe~. ♪\nBecaush... I want you to cum. So... pour lotsh in, K. ♪"
 
 ;;CG02d
 @bgv f=fera_stb2
-@bgf f=ev02d t=500らめ♪
+@bgf f=ev02d t=500
 
-;;Need Review
-[Student B/stb0031]"んっじゅぼっ！　じゅっぼ！　ちゅずっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――んじゅぼぉ！"
-;;「んっじゅぼっ！　じゅっぼ！　ちゅずっぼ！　じゅっぼじゅっぼじゅっぼじゅっぼ――んじゅぼぉ！」
+[Student B/stb0031]"nnhsuck! suck! chuzuck! suck suck suck suck―― nhsuuuck!"
 
-　Swinging his head up and down violently, \nshe treats up the whole dick.
+　Violently swaying her head up and down, she starts to stroke\nmy whole cock.
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0032]"ふっじゅる……ちゅずるっ！　んじゅるるるるるぅっ！"
-;;「ふっじゅる……ちゅずるっ！　んじゅるるるるるぅっ！」
+[Student B/stb0032]"fuhslurp... chuzlurp! nhsluuuuurp!"
 
-　However it doesn't only suck it, it's seems like to be different...
-;;ただ吸うだけではなく、当然のように吸引まで……。
- She is extracting. An impulse to ejaculate rises up. 
-;;吸い上げられる。どうしようもないほどの射精衝動がこみ上げてくる。
+　She isn't just sucking, she goes as far as creating\na vacuum as if it's natural...
+
+　It's being sucked up.\nAn insurmountable urge to ejaculate wells up.
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0033]"らひて……ほりゃっ！　ふっじゅ！　んじゅるるるぅ！　あたひのくひにっ！　ちゅっずる……ふじゅるるるぅ！！"
-;;「らひて……ほりゃっ！　ふっじゅ！　んじゅるるるぅ！　あたひのくひにっ！　ちゅっずる……ふじゅるるるぅ！！」
+[Student B/stb0033]"Cumh... come on! fuhsuh! nhsluuurp! In my moufh!\nchuzlurp... fuhsluuurp!!"
 
-;;Need Review
-[Al]"ひっ！　あひぃいいい！"
-;;「ひっ！　あひぃいいい！」
+[Al]"Ee! Aiieeee!"
 
-　An orgasm explode
+　My climax erupts.
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG02e
 @fin bg=ev02e se=射精音
 
-;;Need Review
-[Student B/stb0034]"んっぐ……むぎゅううっ！"
-;;「んっぐ……むぎゅううっ！」
+[Student B/stb0034]"nnhguh... muhgyuuuh!"
 
 @se f=愛液1
 
-　As it happen, I unleashed my white cum
+　As she sucks me, I unleash the cloudy white fluid.
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0035]"んふうう……おいひい……ちゅっず……むじゅっ！　んじゅるるるぅ！"
-;;「んふうう……おいひい……ちゅっず……むじゅっ！　んじゅるるるぅ！」
+[Student B/stb0035]"nfuuuh... Delishouth... chu-zu... muhsuh! nhsluuuuurp!"
 
 ;;SE射精音
 ;;射精エフェクト
 @fin bg=ev02e se=射精音
 
-;;Need Review
-[Student B/stb0036]"はっふ……んふううっ♪　んっんっ……むっじゅ……ふじゅうううっ"
-;;「はっふ……んふううっ♪　んっんっ……むっじゅ……ふじゅうううっ」
+[Student B/stb0036]"Haahfuh... nhfuuuh ♪\nnh-nh... muhsuch... fuhsuuuuuh-"
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0037]"おいひい……ああ……もっろ……しぇーえきもっろぉお……"
-;;「おいひい……ああ……もっろ……しぇーえきもっろぉお……」
+[Student B/stb0037]"Delithouth... Aah... more... more semeeen..."
 
 @se f=愛液1
 
-;;Need Review
-[Student B/stb0038]"ちゅずろろろぉ"
-;;「ちゅずろろろぉ」
+[Student B/stb0038]"chuzluruuuup"
 
 @qk
 
-[Al]"aAAAHH!"
+[Al]"aAaah!"
 
- Suction does not stop
+　The suction doesn't stop.
 
 @fin bg=ev02e se=射精音
 
-　It's all absorbed by herself
+　I'm single-mindedly sucked.
 
- As she suck
+　While I'm sucked――
 
-　I kept giving her my semen
+　I just keep offering up my life energy.
 
 @fade type=out t=1000
 @rps

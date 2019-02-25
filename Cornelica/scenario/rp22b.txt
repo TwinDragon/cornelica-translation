@@ -7,17 +7,17 @@
 @bgf bg=ev22 t=1000 wt=0
 @bgv f=パイズリ・手コキ３ pitch=50
 
-[アル]「あぁぁ……ぁぁ……」
+[Al]"Aaah... aah..."
 
-　前とおなじように……掌で優しく肉棒を擦られ、乳房の柔らかい感触に夢心地になってしまう。
+　The same as before... she gently rubbed my cock with her\npalm, and the soft sensation of her breasts lulled me\ninto a dreamy state.
 
-[貴族サキュバス/kzs0017]「心地よいですか？　ほら、もっと力を抜いて……よしよし、いい子、いい子……」
+[Succubus Noble/kzs0017]"Is it comfortable? Come now, relax more...\nThere there, good boy, good boy..."
 
 @se f=愛液1 pitch=70
 
-　サキュバスは乳房であやすように顔を撫でてくる。わずかに感じた不安も洗い流され、いつの間にか身体を預けきって乳首に吸い付いていた。
+　As if to distract me, the succubus strokes my face with her\nbreast. What little anxiety I felt abated, and I found I had\nentrusted myself to her and suckered onto her nipple.
 
-[貴族サキュバス/kzs0018]「そう、いっぱい飲んで、いっぱい射精してくださいね。あぁ……ほんとに可愛い……♪」
+[Succubus Noble/kzs0018]"That's it, please drink lots, and cum a lot, okay.\nAah... You're so cute... ♪"
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
@@ -26,50 +26,50 @@
 
 @bgv f=パイズリ・手コキ３ pitch=75
 
-[貴族サキュバス/kzs0019]「しこしこ、しこしこ。アルちゃんはいいこですから、上手にお射精できますわね？」
+[Succubus Noble/kzs0019]"Rub rub, rub rub.\nSince Al-chan is a good boy, he can ejaculate well, right?"
 
-　時間も忘れ、夢中で快楽に浸っていると、不意に股間が震えはじめてしまう。
+　Forgetting about time, crazily immersed in the pleasure,\nI didn't expect the rumblings that started in my groin.
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　そのまま快感に身を委ねていると……
+　Like that I left my body to the pleasure and...
 
 ;;SE射精音
 ;;射精エフェクト
 ;;CG22c
 @fin bg=ev22c se=射精音
 
-[貴族サキュバス/kzs0020]「あら、たくさん出しましたわね。とっても熱い……ふふ……」
+[Succubus Noble/kzs0020]"Oh my, you let out a lot, huh. It's very hot... Fufu..."
 
-[貴族サキュバス/kzs0021]「……ねぇ、アルちゃん。私の子供になってくれませんか？」
+[Succubus Noble/kzs0021]"... Hey, Al-chan. Won't you become my child?"
 
-[アル]「ぇ……こども……？」
+[Al]"huh... Child...?"
 
-　サキュバスは先程と変わらず母性を含んだような笑みを浮かべているが、見ているとなぜか再び不安を感じ始めてしまう。
+　The succubus just as before, showed a seemingly maternal\nsmile but, for some reason when I looked at it, I once again\nbegan to feel uneasy.
 
-[貴族サキュバス/kzs0022]「はい。私の子供になってくれれば、毎日こうやっておちんちんをよーしよしってしてあげますよ」
+[Succubus Noble/kzs0022]"Yes. If you become my child, I'll reassure your penis\nlike this every day."
 
-[貴族サキュバス/kzs0023]「ずっと夢心地のまま母乳を飲んで、おっぱいで遊んで、おちんちんを射精させるだけでいいんです」
+[Succubus Noble/kzs0023]"You can stay in this dreamy state, just drinking breast\nmilk, playing with my boobs, and having your penis\nejaculate, forever."
 
-[貴族サキュバス/kzs0024]「アルちゃんもそうしたいでしょう？……ほら、いい子、いい子」
+[Succubus Noble/kzs0024]"Al-chan, you want that too, right?\n... Here, good boy, good boy."
 
 @se f=愛液1 pitch=70
 @se f=パイズリ・手コキ２ pitch=150
 @se f=締め付ける pitch=150
 @flash t=1000 wt=0
 
-　優しくあやされていると、だんだんと頭の中にピンク色の靄が広がり、されるがままになってしまう。
+　As she kindly distracted me, a pink haze began to spread\nmore and more within my head.
 
-[貴族サキュバス/kzs0025]「うなずいてくれるだけでいいんです。そうしたら、ずっと、甘やかしてあげます。」
+[Succubus Noble/kzs0025]"Just giving me a nod is fine.\nIf you do, I'll pamper you, forever."
 
-[アル]「……………………う、うん……」
+[Al]"............... O-, okay..."
 
-　やっぱりさっきの不安は気のせいだったんだ。なぜかそう思ってしまい、ついにうなずいてしまう。
+　The unease had just been my imagination after all.\nI somehow ended up thinking that, and nodded without\nanother thought.
 
-[貴族サキュバス/kzs0026]「ふふ……ふふふふ。いいこです。えぇ……とっても……」
+[Succubus Noble/kzs0026]"Fufu... fufufufu. That's a good boy.\nYes... very good..."
 
 ;;CG22d
 @se f=愛液1 pitch=50
@@ -78,29 +78,29 @@
 
 ;;SE呑み込まれる音
 
-[アル]「………………ぇ？」
+[Al]"......... eh?"
 
-　また眠ってしまうまであやしてくれるものだと思っていた。だが、その考えは間違いだった。
+　I had thought that she'd pamper me until I fell asleep again.\nBut, that thought was mistaken.
 
-[アル]「……ぁ、……だめ…………だめだよ……」
+[Al]"... ah, ... No...... Don't do this..."
 
-　蕩け切ってしまった身体でまともに抵抗できるはずもなく、呑み込まれてしまう――サキュバスの尻尾に……。
+　With my fully relaxed body unable to put up any decent\nresistance, I'm going to get swallowed up―― by the\nsuccubus' tail...
 
-[貴族サキュバス/kzs0027]「どう致しましたの？　そんなに怯えて」
+[Succubus Noble/kzs0027]"What wrong? That you're panicked."
 
-[アル]「あ……ぁぁ……だって、こんな……どうして？」
+[Al]"Ah... aah... I mean, this... why?"
 
-[貴族サキュバス/kzs0028]「簡単なことですわ。アルちゃんをわたくしの胎のなかに迎え入れ、わたくしの子として生まれ変わるのですわ」
+[Succubus Noble/kzs0028]"It's simple. By accepting Al-chan into my womb,\nyou'll be reborn as my child."
 
-[貴族サキュバス/kzs0029]「貴方とずっと暮らしていられるように」
+[Succubus Noble/kzs0029]"So I can live with you forever."
 
-[アル]「や……やだ。イヤ、やめて…………怖いよぉ……」
+[Al]"D-... don't. No, stop...... I'm scared..."
 
-[貴族サキュバス/kzs0030]「怖がる必要なんかありませんわ。だって、これはとっても気持ちいいことなのですから。だから、怯えずに身を任せなさい」
+[Succubus Noble/kzs0030]"There's no need to be afraid.\nAfter all, this will feel very good.\nSo, without panicking, entrust yourself to me."
 
-[貴族サキュバス/kzs0031]「んふふ……ずっとずっと……一緒ですよ」
+[Succubus Noble/kzs0031]"nfufu... We'll be together... forever and ever."
 
-　嬉しそうにサキュバスが微笑み――
+　The succubus smiling happily――
 
 ;;SE呑み込み音
 ;;暗転
@@ -112,52 +112,52 @@
 @fade type=out t=1000 wt=1
 @ev f=ev22e
 
-[アル]「ぁぁぁ……」
+[Al]"aaah..."
 
-　アルはサキュバスの尻尾に完全に捕食されてしまった。
+　Al was completely preyed upon by the succubus' tail.
 
 @fade type=in t=1000 wt=1
 
-[貴族サキュバス/kzs0032]「はぁああ……美味しい。すっごく美味しいですわぁ。それに……気持ちいい」
+[Succubus Noble/kzs0032]"HaaAah... Delicious. Incredibly delicious.\nAnd... it feeld good."
 
-[貴族サキュバス/kzs0033]「あっは……んはぁああ……アルちゃん……貴方も気持ちいいでしょう？」
+[Succubus Noble/kzs0033]"Ahha... nhhaaAah...\nAl-chan... you feel good too, right?"
 
 @se f=衣擦れの音1
 
-　サキュバスは己の下腹部を優しく撫でる。
+　The succubus gently rubbed her own abdomen.
 
-[アル]「ぁ………………ぅ」
+[Al]"ah............ uh"
 
-[アル]（あ……ああ……僕……食べられちゃった……。でも……）
+[Al](Ah... Aah... I... got eaten... But...)
 
-[アル]（気持ち……いい……）
+[Al](It feels... good...)
 
-[貴族サキュバス/kzs0034]「そうでしょう？　最高の悦楽でしょう？　その快感の中で眠るのです。そうすれば次に起きたときはもっと……幸せの中にいられますわ」
+[Succubus Noble/kzs0034]"I know, right? It's the greatest pleasure, right?\nSleep in that pleasure. If you do the next time you wake,\nyou'll be... able to stay happier."
 
-[アル]（しあ……わせ……）
+[Al](Happi-... ness...)
 
-[貴族サキュバス/kzs0035]「ずぅうううっと……一緒にいましょうね」
+[Succubus Noble/kzs0035]"Let's stay together... foreeeeeever, okay."
 
-[アル]（……………………）
+[Al](...............)
 
-[アル]（………………）
+[Al](............)
 
-　ずっと一緒。ずっと……。
+　Together forever. Forever...
 
-　この快感の中で……。
+　Within this pleasant feeling...
 
 ;;CG22f
 @bgf bg=ev22f t=1000 wt=1
 
-　愉悦の中に沈んでいく。
+　I'm submerged in pleasure.
 
-　瞳を閉じて眠りにつく。
+　Closing my eyes I go to sleep.
 
-　二度と目覚めぬ眠りの中に……。
+　Into a sleep I would never again awaken from...
 
-[貴族サキュバス/kzs0036]「ああ……幸せぇ……」
+[Succubus Noble/kzs0036]"Aah... Such bliss..."
 
-　心の底から幸福そうにサキュバスは笑うのだった。
+　The succubus smiled euphorically from the bottom\nof her heart.
 
 @fade type=out t=1000 wt=1
 @rps
