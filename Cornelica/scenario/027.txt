@@ -214,7 +214,7 @@
 
 @bs f=リリィ@哀しみ op=困惑  x=350 y=50 t=200 wt=1
 
-[Lily]"Argh...it's look hard, but it can't be helped...uhm"
+[Lily]"Argh...it looks hard, but it can't be helped...uhm"
 
 @huki b=8
 @bs f=アル@笑顔 op=焦り x=-350 y=50 t=400 wt=1

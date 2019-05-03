@@ -60,7 +60,7 @@
 
 @bs f=ヴェルナ@微笑 x=350 y=50 t=200 wt=1
 
-[Verna]"You can do it. Here, Al: try this"
+[Verna]"You can do it. Here, Al, try this"
 
 @bs f=アル@笑顔 x=-350 y=50 t=200 wt=1
 @move f=アル@笑顔 x=-350 y=100 w=100 h=100 t=160 wt=1

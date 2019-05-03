@@ -7,14 +7,14 @@
 
 [Succubus student]"All right, Just saying you are bad because it's a random ......"
 ;;Need Review - 「せんせぇがね、あなたはらんぼうだからダメだって言うんだけどぉ……」
-[Succubus student]"... but, there are also people who will love to do this like this"
+[Succubus student]"... but, there are also people who will love to do this like\nthis"
 
 [Succubus student]"Hey Onii-chan. Do you not dislike it? You came again ♪"
 ;;Need Review - 「ねぇおにいちゃん。おにいちゃんは、らんぼうにHなことされるのきらい？　きらいなわけないよね？　またきてくれたもんねぇ♪」
 
 @se f=愛液1 pitch=80
 
-[Succubus student]"Therefore, if Onii-chan ejaculates like this, I'd rather like Onii-chan"
+[Succubus student]"Therefore, if Onii-chan ejaculates like this, I'd rather like\nOnii-chan"
 ;;Need Review - 「だからね。おにいちゃんがこのまま射精してくれたら、わたしおにいちゃんのことがもっと好きになっちゃうかも」
 
 [Succubus student]"And if you become my pet, \nI will bully more than I do now ♪"

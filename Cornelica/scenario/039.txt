@@ -344,7 +344,7 @@
 
 @bs f=ヴァネッサ@微笑 x=300 y=50 t=200 wt=1
 
-[？？？]"...oh well. If you do not feel like talking, I'll return to my room"
+[？？？]"...oh well. If you do not feel like talking, I'll return to my\nroom"
 
 @bgm
 @move f=ヴァネッサ@普通 x=350 y=50 w=100 h=100 opa=0 t=400 wt=0
