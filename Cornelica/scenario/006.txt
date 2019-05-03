@@ -212,7 +212,7 @@
 [Lily]"Er... SQs have a different magical power than the world\n you were in, Al, they're packed with this world's\nmagical power, though..."
 
 @bs f=リリィ@蔑み x=350 y=50 t=200
-[Lily]"... I'm sorry. I don't know you got here either, Al."
+[Lily]"... I'm sorry. I don't know how you got here either, Al."
 
 ;;主人公うなずく
 @bs f=アル@焦り op=焦り x=-350 y=50 t=200

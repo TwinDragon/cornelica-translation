@@ -126,7 +126,7 @@
 @bs f=アル@困り x=-350 y=50 t=300 wt=1
 @bs f=白良@微笑 x=350 y=50 t=300 wt=1
 
-[Shirao]"The Lord said 'If you capture a human with the same age as Lily, hand him over'"
+[Shirao]"The Lord said 'If you capture a human with the same age as\nLily, hand him over'"
 
 @bs f=白良@通常 x=350 y=50 t=300 wt=1
 

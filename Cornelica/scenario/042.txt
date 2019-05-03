@@ -125,7 +125,7 @@
 
 @bs f=白良@微笑 x=350 y=50 t=400
 
-[？？？]"I see... stealing the Lord \C[2]Philosopher's Stone\[0]..."
+[？？？]"I see... stealing the Lord \C[2]Philosopher's Stone\C[0]..."
 
 ;;主人公：驚き
 @bs f=アル@驚き op=ビックリ x=-350 y=50 t=200 wt=1
@@ -169,7 +169,7 @@
 @bs f=アル@焦り x=-350 y=50 t=200 wt=1
 @bs f=白良@微笑 x=350 y=50 t=200 wt=1
 
-[Shirao]"I did not introduce myself yet. My name is Shirao... I'm the one who is serving as the guru of this love group"
+[Shirao]"I did not introduce myself yet. My name is Shirao...\nI'm the one who is serving as the guru of this love group"
 
 @bs f=アル@屈辱 x=-350 y=50 t=200 wt=1
 @move f=アル@屈辱 x=-350 y=100 w=100 h=100 t=160 wt=1
@@ -270,7 +270,7 @@
 
 @bs f=白良@笑み x=350 y=50 t=400 wt=1
 
-[Shirao]"Please don't have such a face. \nBecause I'm not bad... fufu, Al-kun, you are a very kind person"
+[Shirao]"Please don't have such a face. \nBecause I'm not bad... fufu, Al-kun, you are a very kind\nperson"
 
 @bs f=白良@通常 x=350 y=50 t=400 wt=1
 

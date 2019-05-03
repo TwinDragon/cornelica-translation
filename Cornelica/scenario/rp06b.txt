@@ -142,7 +142,7 @@
 @flash t=500 wt=0
 @bgv f=パイズリ・手コキ２ pitch=80
 
-[Arne/arn0050]"Ahaha! ... Your body's shuddering all over! How's it?\sIf 's this, you can't even afford to faint, right?"
+[Arne/arn0050]"Ahaha! ... Your body's shuddering all over! How's it?\nIf 's this, you can't even afford to faint, right?"
 
 @se f=愛液1 pitch=50
 
