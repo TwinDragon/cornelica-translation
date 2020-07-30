@@ -1,3 +1,7 @@
+# This Repository Is Archived
+
+This repository is no longer maintained and will remain in an archived state. Please check #75 as to why this is the case and all issue tickets being closed. Forks are fine, but please leave *all* attributed credits for the initial beginnings and project collaborators for the project.
+
 # Cornelica, Town of Succubi - English
 
 Repository for the translation project for the hentai game **Cornelica**. The game can be purchased on [DLSite](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE211399.html).
